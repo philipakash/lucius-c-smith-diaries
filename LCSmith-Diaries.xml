@@ -1,0 +1,564 @@
+<?xml-model href="out/LCSmith-Current.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:hlu="http://www.osu.edu/ulman/reliablewitnesses/ns/1.0">
+   <!-- TO-DO LIST 
+   - Update glosses to P5
+   -->
+   
+   <teiHeader type="AACR2">
+      <!--
+      The type attribute in teiHeader element above asserts that the header provides 
+      enough information to create a bibliographic record that complies with the 
+      Anglo-American Cataloguing Rules, 2nd ed. (1978; rev. 1988).
+      -->
+      
+      <fileDesc>
+      <!--
+      The  file description, tagged <fileDesc>, contains "a full bibliographical description 
+      of the computer file itself, from which a user of the text could derive a proper bibliographic 
+      citation, or which a librarian or archivist could use in creating a catalogue entry recording 
+      its presence within a library or archive" (TEI P4X, ch. 5).
+      -->
+         
+         <titleStmt>
+            <title>Selected Entries from the Lucius Clark Smith Diaries, 1 August 1862 to 31 December 1862</title>
+
+            <!-- 
+            Here we list the editors of the edition, using the form of your name
+            that you use for professional publications.
+             -->
+            <editor role="principal-editor"><persName ref="#HLU">H. Lewis Ulman</persName></editor>
+            
+            <!-- 
+            Statement of Responsibility supplies a statement of responsibility for the 
+            intellectual content of a text, edition, recording, or series, where the 
+            specialized elements for authors, editors, etc. do not suffice or do not apply.
+            For our purposes, use your full name (first middle last) for now.
+             -->
+            <respStmt>
+               <resp>Creation of digital scans of manuscript pages: </resp>
+               <persName>Lisa Iacobellis, Ohio State University Libraries</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Creation of initial machine-readable transcript: </resp>
+               <persName ref="#HLU">H. Lewis Ulman</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Conversion to TEI.2-conformant markup: </resp>
+               <persName ref="#HLU">H. Lewis Ulman</persName>
+            </respStmt>
+
+         </titleStmt>
+         
+         <extent>approx. 000 kilobytes</extent>
+
+         <publicationStmt>
+
+            <publisher>The Ohio State University Library.
+               <address>
+                  <addrLine n="1">Rare Books and Manuscripts Library</addrLine>
+                  <addrLine n="2">327 Main Library</addrLine>
+                  <addrLine n="3">1858 Neil Avenue Mall</addrLine>
+                  <addrLine n="4">Columbus, OH 43210</addrLine>
+               </address>
+            </publisher>
+
+            <pubPlace>Columbus, OH</pubPlace>
+
+            <!-- 
+            The <idno> element is only required for documents with a standard id number
+            such as a library call number.. 
+            -->
+            <idno type="CallNumber">SPEC.RARE.MS.AMER.69  v.2</idno>
+
+            <availability>
+               <p>The Lucius Clark Smith diary is the property of the Rare Books and Manuscripts
+                  Library of The Ohio State University Libraries. Any use of the material should
+                  acknowledge such ownership.</p>
+               <p xml:id="CreativeCommons">
+                  <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0  License</a>.<br/>
+                  This license does not transfer any rights regarding material used in the edition by permission of a third party.]]>
+               </p>
+            </availability>
+
+            <date>2012-08-27</date>
+
+         </publicationStmt>
+
+         <sourceDesc> 
+            <biblFull>
+
+               <titleStmt>
+
+                  <!--
+                  The "level" attribute "indicates whether this is the title of an article, book, journal, 
+                  series, or unpublished material, indicated as a, b, j, s, or u" (TEI P4X, ch. 5.2.1).
+                  -->
+                  <title level="u">Book</title>
+
+                  <author>Lucius Clark Smith (1835 – ?)</author>
+
+               </titleStmt>
+
+               <!-- 
+                    The <extent> element indicates the size of your source document, in whatever 
+                    units are appropriate (usually pages; for example, 2 pp.) 
+                -->
+               <extent>000 pp.</extent>
+
+               <publicationStmt>
+                  <p>Pulbication statement from the library.</p>
+               </publicationStmt>
+
+               <!-- 
+                      TAKE NOTE: Your entire header should answer the following questions about your 
+                      source document. At this point in your header, you should discuss anything in 
+                      this list not mentioned elsewhere in the header.
+                     
+                        1. What is the document (letter, will, etc.)?
+                        2. What does it say about itself (titles, descriptive notes, etc.)?
+                        3. What does it contain (no. of pages/sheets, enclosures, etc.)?
+                        4. How is it put together (folded sheets, binding, etc.)?
+                        5. What is it made of (paper, vellum, etc.)?
+                        6. What is its size (i.e., physical dimensions)?
+                        7. How is it packaged/contained (binding, envelope, folder, box, etc.)?
+                        8. How is it related to other versions (original, copy, print history)?
+                     
+                        You can use more than one paragraph (tagged <p> </p>).
+                   -->
+               <notesStmt>
+                  <!-- 
+                      TAKE NOTE: Your entire header should answer the following questions about your 
+                      source document. At this point in your header, you should discuss anything in 
+                      this list not mentioned elsewhere in the header.
+                     
+                        1. What is the document (letter, will, etc.)?
+                        2. What does it say about itself (titles, descriptive notes, etc.)?
+                        3. What does it contain (no. of pages/sheets, enclosures, etc.)?
+                        4. How is it put together (folded sheets, binding, etc.)?
+                        5. What is it made of (paper, vellum, etc.)?
+                        6. What is its size (i.e., physical dimensions)?
+                        7. How is it packaged/contained (binding, envelope, folder, box, etc.)?
+                        8. How is it related to other versions (original, copy, print history)?
+                     
+                        You can use more than one paragraph (tagged <p> </p>).
+                   -->
+                  
+                  <note type="descriptive" resp="ed">
+                     <!-- 
+                     We will use this note to describe the physical diary.
+                     -->
+                     <p>SPEC.RARE.MS.AMER.69  v.2. Diaries, 1859–1862</p>
+                     <p>Collation: </p>
+                     <p>Paper: </p>
+                     <p>Binding: </p>
+                     <p>Unpublished manuscript.</p>
+                     <p>Other information about the physical document</p>
+                  </note>
+
+                  <note type="introductory" resp="ed">
+                     <!-- 
+                     We will use this note to contain an historical/critical introduction to the
+                     text of the Smith diary.
+                     -->
+                     <p><hi rend="bold">Run-in Head</hi></p>
+                     <p>Text of Intro</p>
+                  </note>
+
+               </notesStmt>
+
+            </biblFull>
+            
+            <listPerson type="mentioned">
+               <head>People Mentioned in the Smith Journal</head>
+               <person xml:id="SmithLC">
+                  <persName>Smith, Lucius Clark</persName>
+                  <note type="biographical">Archibald Smith's oldest son</note>
+                  <birth when="1834-11-24"><placeName ref="#NewAlbany">New Albany, OH</placeName></birth>
+                  <death></death>
+               </person>
+               <person xml:id="John">
+                  <persName>John</persName>
+               </person>
+               <person xml:id="GCollins">
+                  <persName>Gil Collins</persName>
+               </person>
+               <person xml:id="Bennet">
+                  <persName>Mr. Bennet</persName>
+               </person>
+               <person xml:id="SmithArch" source="SmithA">
+                  <persName>Smith, Archibald</persName>
+                  <note type="biographical">Lucius Clark Smith's father.</note>
+                  <birth when="1803-09-15"><placeName>Bergen, NJ</placeName></birth>
+                  <death when="1883-08"><placeName>New Albany, OH</placeName></death>
+               </person>
+            </listPerson>
+            
+            <listPerson type="editors">
+               <head>Editors</head>
+               <person xml:id="HLU">
+                  <persName>Ulman, H. Lewis</persName>
+                  <birth when="1952">
+                     <placeName>Williamsport, PA</placeName>
+                  </birth>
+                  <education>BA, Lycoming College (1974)</education>
+                  <education>MA, The Pennsylvania State University (1980)</education>
+                  <education>PhD, The Pennsylvania State University (1985)</education>
+                  <occupation>College Professor</occupation>
+                  <nationality>U.S.A.</nationality>
+                  <note type="biographical">Biographical note about H. Lewis Ulman</note>
+               </person>
+            </listPerson>
+            
+            <listPlace>
+               <head>Places Mentioned in the Smith Journal</head>
+               <place type="city" xml:id="NewAlbany" source="#TGN">
+                  <placeName>New Albany</placeName>
+                  <country>United States</country>
+                  <region type="state">Ohio</region>
+                  <desc>On 2 August 1862, Smith mentions going to "Albany" to do business.</desc>
+                  <location><geo>40.0667 -82.8000</geo></location>
+               </place>
+            </listPlace>
+            
+            <listOrg>
+               <head>List of Organizations Mentioned in the Smith Journal</head>
+               <!-- 
+                  The listing for Fosters and Nickerson serves only as an example of what you can
+                  encode in an <org> element. I have not yet run across a organization in the Smith
+                  journal
+               -->
+               <org xml:id="FN">
+                  <orgName>Fosters and Nickerson</orgName>
+                  <state type="partners">
+                     <desc><persName ref="FrederickNickerson">Frederick Nickerson</persName>
+                        <persName ref="WHF">W.H. Foster</persName></desc>
+                  </state>
+                  <region>Boston, MA</region>
+                  <desc>Most likely, Louisa is referring to the parternship between the 
+                     shipbuilding company Foster and Co. and merchant company Nickerson and Co.</desc>
+               </org>
+               <org xml:id="HowAsp" source="#ANB-WHA">
+                  <orgName> Howland and Aspinwall</orgName>
+                  <state type="Owners">
+                     <desc>
+                        <persName ref="WHA" notBefore="1834" notAfter="1856">William Henry Aspinwall</persName>
+                        <persName ref="JLA" notBefore="1850">John Lloyd Aspinwall</persName>
+                        <persName ref="WEH" notBefore="1834">William Edgar Howland</persName>
+                     </desc>
+                  </state>
+               </org>
+            </listOrg>
+            
+            <listEvent>
+               <event when="1862-08-02">
+                  <desc>War meeting referred to in letter of 2 August 1862.</desc>
+                  <!-- 
+                  Even if we can't identify this particular meeting, we might want to find out what
+                  happened at such "war meetings."
+                  -->
+               </event>
+            </listEvent>
+            
+            <listBibl>
+               
+               <!-- Though TEI provides for more fine-grained encoding, we will enter bibliography items
+            as we would expect them to be displayed, except for noting text that requires special
+            formatting (e.g., titles). -->
+               
+               <head>Works Cited</head>
+               <bibl xml:id="SmithA" n="SmithA">Smith, Archibald. <title level="m">The
+                     Autobiography of Archibald Smith, Plain Township Pioneer</title>. Ed. John E.
+                  Saveson. New Albany, Ohio: New Albany Plain Township Historical Society, 1999.
+                  Print.
+                  <!-- State Library of Ohio Ohioana Library F499.N255 S54 1999x -->
+               </bibl>
+               <bibl xml:id="TGN" n="Getty">TGN entry. Web.</bibl>
+               <bibl xml:id="LOC" n="Library">LOC entry. Print.</bibl>
+            </listBibl>           
+            
+         </sourceDesc>
+
+      </fileDesc>
+
+      <!--
+         The encoding description, tagged <encodingDesc>, describes "the relationship 
+         between an electronic text and its source or sources" (TEI P4X, ch. 5).
+         -->
+      <encodingDesc>
+
+         <projectDesc>
+            <p>This edition is the latest in a series of collaboratively produced electronic
+               editions of previously unpublished nineteenth-century American manuscripts held in
+               the Rare Books and Manuscripts Library at The Ohio State University. Previous
+               editions include "My Dear Elizabeth," five letters written by Sophia Peabody
+               Hawthorne to her sister Elizabeth Palmer Peabody between ca. 1837 and 1868 (currently
+               being revised); "Dear Wife," twenty-one letters written by riverboat captain William
+               B. Anderson to his wife Louisa while he plied the Ohio river during the height of the
+               American Civil War, 1862–1864; "Journal of a Tour to Europe," by Samuel Sullivan Cox;
+               and "Louisa A. Doane's Journal of Two Ocean Voyages (1852-1853). These documentary
+               editions are intended to provide wide exposure and access to manuscripts that might
+               otherwise be difficult for scholars to discover and consult, and to provide users
+               with a variety of tools for studying those texts. </p>
+            <p>Each text was edited in connection with an undergraduate or graduate course offered
+               by H. Lewis Ulman, Associate Professor of English at The Ohio State University. The
+               courses provide students with an opportunity to explore issues of textuality
+               and mediation that arise when our cultural archives spread from page to screen and
+               from library shelves to networked databases. Electronic textual editing serves as our
+               vehicle for examining what happens—and envisioning what might happen—when artifacts
+               in one medium are represented in another medium, especially with regard to the
+               interpretive work of reading. Electronic textual editions also provide a contact zone
+               that can help us reflect on what manuscript, print, and "born digital" artifacts can
+               tell us about their unique properties and their relationships to one another.</p>
+            <p>While providing a reliable textual edition is a <foreign xml:lang="lat">sine qua
+                  non</foreign>, the Smith edition also explores ways of telling four stories
+               inextricably woven into our work: the lives and historical milieu evoked by the
+               texts, the history of the physical journal (including its recent restoration), the
+               editorial process that gave rise to this particular interpretation of the text, and
+               the mediation of our electronic delivery system. </p>
+         </projectDesc>
+
+         <!--
+            In addition to prose description, the Editorial Practices Declaration may contain 
+            specialized elements concerned with correction, normalization, quotation, hyphenation, 
+            segmentation, date and number format, and interpretive apparatus (TEI P4X, ch. 5.3.3).
+         -->
+         <editorialDecl>
+            
+            <!-- 
+               TAKE NOTE: Explain your editorial method:
+               
+               •	If you employ image files, describe how they were produced and note where they are stored.
+               •	Describe any editorial guidelines you followed (e.g., how you treated hyphenation, whether 
+                  you corrected apparent errors, and any other decisions about how to treat recurrent features).
+               •	Describe any special symbols that you use in your text to indicate additions, corrections, 
+                  cancellations, and so on. This important explanation provides a reader's guide to the text.
+               
+                  You can use more than one paragraph (tagged <p> </p>).
+                  
+                  We might include a system diagram, showing where all of the assets are stored
+                  and how the systems interact. We might include a database of assets. And we
+                  might include screen shots of the edition running on various systems as a step
+                  toward a descriptive bibliography of an online edition.
+            -->
+
+            <p>
+               <emph rend="bold">Scanning</emph>. The manuscript pages were scanned as 24-bit TIFF
+               images at 400 dots per inch (dpi), then coverted to 8-bit JPEG images at 400 dpi and
+               full quality before being loaded into the Media Manager application. All edges were
+               overscanned by at least 1/4 inch. No color correction was used at any stage of image
+               preparation, but a scan of a photographer's 18% grey card on the same scanner
+               produced RGB values at the center of 91/95/107 after applying a 150% Gaussian Blur in
+               Adobe Photoshop to average color values. Thus, a properly configured monitor should
+               provide a reasonable approximation of colors on the manuscript pages.
+            </p>
+            <p>
+               <emph rend="bold">Production Location of Digital Assets</emph>. The TEI P5-encoded
+               transcription of the Smith journal, along with XSL style sheets used to provide
+               variant "views" of the edition, TEI ODD documents used to produce custom schemas
+               based on the TEI markup language, and the resulting schemas are stored on a server
+               hosted by College of Arts and Sciences at The Ohio State University and on a Google
+               SVN repository (CURRENT URL). High resolution scans of the manuscript pages, scans of
+               plates from contemporary sources, and photographs of the journal are stored in the
+               Media Manager application hosted by the College of Arts and Science at The Ohio State
+               University. The files constituting the project's Web site are stored on a Web server
+               hosted by the College (CURRENT URL).</p>
+            <p>
+               <emph rend="bold">Archiving of Digital Assets</emph>. Once the edition is complete,
+               its digital assets will be archived in The Ohio State University
+               Knowledge Bank (https://kb.osu.edu/dspace/index.jsp). 
+            </p>
+
+         </editorialDecl>
+
+         <refsDecl>
+            <p>
+               <emph rend="bold">Markup of Physical Structure and Page Layout</emph>. The manuscript
+                  <emph rend="bold">pages</emph>, encoded by the empty page break or &lt;pb/&gt;
+               element, are the primary physical structures represented in the markup. Each
+               &lt;pb&gt; element includes a &quot;facs&quot; attribute identifying the unique ID of
+               a high-resolution scan of that image in the Media Manager application. <emph
+                  rend="bold">Line breaks</emph> (i.e., lineation determined or influenced by the
+               physical constraints of the page rather than compositional choices by the author) are
+               encoded with the empty &lt;lb/&gt; element. No attributes are included in the
+               &lt;lb&gt; element. 
+            </p>
+            <p>
+               <emph rend="bold">Markup of Textual Structure</emph>. The <emph rend="bold">diary
+                  entry</emph>, encoded by a &lt;div&gt; element with the attribute-value pair
+               &quot;type='Entry'&quot;, constitutes the primary textual structure represented in
+               the markup. Each entry contains a
+               &lt;dateline&gt; element and one or more paragraphs. Each dateline may include a
+               &lt;name&gt; element with (optionally) a @type attribute containing one of
+               the following values: city, region; and a &lt;date&gt; element with a
+               @when attribute whose value is in the form YYYY-MM-DD. The value of the
+               @when attribute represents the editors' judgment about the actual date when the entry
+               was composed; the contents of the &lt;date&gt; element represent what Smith actually
+               wrote, even if he entered the date incorrectly.
+            </p>
+            <p>
+               Entries consist of a series of <emph rend="bold">paragraphs</emph>. Where indicated
+               by context, indentation of a line from the left margin of a page, line breaks part-way across
+               a page, or additional white space between lines, paragraphs are encoded with the
+               &lt;p&gt; element and no attributes.
+            </p>
+            <p>
+               If present, any prefatory text preceding the dateline may be encoded as a
+               &lt;head&gt; element at the beginning of an entry (i.e., within the
+               &lt;div&gt;element and before the &lt;dateline&gt;).
+            </p>
+            <p>
+               <emph rend="bold">Level of Transcription/Encoding</emph>. This markup scheme supports
+               a modest range of presentations, from semi-modernized/corrected to semi-diplomatic.
+               The basic transcription follows the manuscript verbatim. Various manuscript features
+               (e.g., cancellations, interlinear or marginal additions, tears in pages) are encoded,
+               as are regularized versions of proper names and dates and standard versions of
+               nonstandard spellings and expansions of abbreviations. </p>
+            <p>
+               <!-- NOTE: Update to include informationa about TEI ODD files. -->
+               <emph rend="bold">Extensions to the TEI P5 Schema</emph>. Briefly describe and locate
+               the TEI ODD files, schemas, and so on.
+            </p>
+            
+         </refsDecl>
+
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+
+      </encodingDesc>
+
+      <profileDesc>
+         
+         <!--
+         The text profile, tagged <profileDesc>, contains "classificatory and contextual information 
+         about the text, such as its subject matter, the situation in which it was produced, the 
+         individuals described by or participating in producing it, and so forth" (TEI P4X, ch. 5).
+         -->
+
+         <creation>
+            <date>2012-08-27</date>
+         </creation>
+
+
+         <!-- Note any languages that appear in your document (use multiple tags, if necessary). -->
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+
+         <!-- Identify and describe any hands (i.e., individuals' handwriting) that appear in your document. -->
+         <handNotes>
+            <handNote xml:id="LCSHand" medium="brown-ink">Lucius Clark Smith's hand.</handNote>
+         </handNotes>
+
+         <textClass>
+            <!-- 
+            Supply a list of keywords for your document from the Library of Congress Subject Headings
+            -->
+            <keywords scheme="#LCSH">
+               <term>Diaries</term>
+            </keywords>
+
+         </textClass>
+      </profileDesc>
+
+      <revisionDesc>
+
+         <!--
+            The revision history, tagged <revisionDesc>, allows "the encoder to provide a history of 
+            changes made during the development of the electronic text" (TEI P4X, ch. 5).
+            Add additional changes at the top of the list.
+         -->
+         <change when="2012-08-27" who="#HLU">Created the TEI file (Mention ODD file, schemas, XSL
+            files). </change>
+
+      </revisionDesc>
+
+   </teiHeader>
+
+   <text>
+      <body>
+         <!-- 
+            We begin in medias res at August 1, 1862. The ID of the Entry follows 
+            the pattern LCSYYYYMMDDa, where LCS stands for Lucius Clark Smith,
+            YYYYMMDD identifies the date format, and "a" represents the first entry 
+            for a given day, and so on.
+         -->
+         <pb facs="/d/d64bea81-daaf-41cc-975b-88bdfe839567"/>
+         <div type="Entry" xml:id="LCS18620801a">
+            <lb/>
+            <dateline><date when="1862-08-01">Friday August 1st 1862</date></dateline>
+            <p>
+               <lb/>Helped in the 
+               <lb/>Hay and oats all day the oats are 
+               <lb/>of But <choice><sic>litle</sic><corr>little</corr></choice> account they are rusted 
+               <lb/>Bad and <choice><sic>withe</sic><corr>with</corr></choice> the Help of the bugs 
+               <lb/>Have nearly Destroyed It we left part
+               <lb/>of It in the field
+               <lb/>as not being worth cutting.
+            </p>
+         </div>
+         <!-- 
+         Note that the page break element <pb> doesn't necessarily occurr between division <div> elements
+         or even between paragraph <p> elements. As they can in print, page breaks can occurr in the 
+         middle of paragraphs or even (typically hyphenated) words.
+         -->
+         <pb facs="/2/2de3fd78-ec73-4f0a-bde0-471ace9fab47"/>
+         <div type="Entry" xml:id="LCS18620802a">
+             <lb/><dateline><date when="1862-08-02">Saturday August 2nd 
+                <hi rend="underline">1862</hi></date></dateline>
+            <!--
+               Note about checking perpetual calendar. The @when attribute should reflect your
+               judgment about the correct date. The <date> element should indicate what the author wrote.
+            -->
+            <p>
+               <lb/>Helped at
+               <lb/>Hay &amp; oats untill noon Hawled in the
+               <!--
+                  Note that I haven't encoded "Hawled" as a misspelling. The OED attests that that
+                  form is "found" in 19th-century texts. For that reason, we do not mark it as a
+                  misspelling, which in our use refers to a slip of the pen or idiosyncratic
+                  orthography.
+               -->
+               <lb/>oats in the Barn. afternoon Went up to
+               <lb/>Robertses <choice><sic>withe</sic><corr>with</corr></choice> John as He is going to
+               <lb/><unclear cert="medium">stay<gap rend="overwrite" unit="chars"
+                  extent="2"></gap></unclear> and Help Him we had all calcu<seg type="softhyphen">
+               <lb/></seg>lated on going up and Helping Him a
+               <!-- 
+                  Note that Smith breaks a word across the two lines above but does not indicate
+                  that he does so (i.e., there's no hyphen or other mark). That practice not only
+                  makes the text harder to read (I puzzled over this spot for a couple of days) but
+                  also presents some processing difficulty: in some views, we might want to
+                  reproduce lineation; in others, we might want to put the word back together. The
+                  <seg> element with a @type attribute allows us to identify this feature and
+                  process it as we need to in different circumstances.
+               -->
+               <lb/>Day also but could not get our own
+               <lb/>Done in time ours will take Monday next
+               <lb/>Yet. and my Cane works are beginning
+               <lb/>to press me I must get at them or I
+               <lb/>will not be ready in time I fear.
+               <lb/>got Home in the eavining. <unclear cert="high">there</unclear> was
+               <lb/>a war meeting at Albany this afternoon
+               <!-- See entries in the list of events and places for the "war meeting" and "Albany." -->
+               <lb/>two Recruits were obtained Gill Collins
+               <!-- See entry in list of people mentioned for "Gill Collins." -->
+               <lb/>was out to Speak I was told. I went to
+               <lb/>see Mr. Bennit who has a horse power
+               <lb/><choice><sic>witch</sic><corr>winch</corr></choice> He sayes I can <unclear>Halve</unclear>.
+               <lb/>very Hot and
+               <lb/>Dry we need rain so bad Corn is
+               <lb/>Drying up Bad It seems to Dry up so
+               <lb/>quick I Hope we will Have rain <hi rend="underlined">Soon</hi>.
+               <!-- Note how we indicate underlining of the word "Soon" in the line above. -->
+            </p>
+         </div>
+         <pb facs="/9/911d89a2-4e9e-4b58-b0bf-5601c2d7144c"/>
+   </body>
+  </text>
+
+</TEI>
