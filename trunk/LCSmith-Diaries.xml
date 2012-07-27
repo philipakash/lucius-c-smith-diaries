@@ -482,12 +482,34 @@
    <text>
       <body>
          <!-- 
-            We begin in medias res at August 1, 1862. The ID of the Entry follows 
+            We begin in medias res at July 30, 1862. The ID of the Entry follows 
             the pattern LCSYYYYMMDDa, where LCS stands for Lucius Clark Smith,
             YYYYMMDD identifies the date format, and "a" represents the first entry 
             for a given day, and so on.
          -->
          <pb facs="/d/d64bea81-daaf-41cc-975b-88bdfe839567"/>
+         <div xml:id="LCS18620730" type="Entry">
+            <lb/>
+            <dateline><date when="1862-07-30">Wednsday July 30th <hi rend="underline">1862</hi></date></dateline>
+            <p>
+               <lb/>to day John
+               <lb/>and me Hawled Hay all day &#xbd; day in
+               <lb/>the Barn &#xbd; on a stack <unclear cert="low">Add</unclear> and Newton
+               <lb/>are mowing. <choice><sic>verry</sic><corr>very</corr></choice> warm and we need
+               <lb/>rain the Ground is rapidly Drying up
+               <lb/>after so <choice><sic>mutch</sic><corr>much</corr></choice> Hard <unclear cert="low">long</unclear> rains.
+            </p>
+         </div>
+         <div xml:id="LCS18620731" type="Entry">
+            <lb/>
+            <dateline><date when="1862-07-31">Thursday 31st July 1862<lb/>
+            <time>forenoon</time></date></dateline>
+            <p>
+               <lb/>Hawled up my lumber from
+               <lb/>the mill afternoon Helped in the
+               <lb/>Hay. still very Hot.
+            </p>
+         </div>
          <div type="Entry" xml:id="LCS18620801a">
             <lb/>
             <dateline><date when="1862-08-01">Friday August 1st 1862</date></dateline>
