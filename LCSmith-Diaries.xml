@@ -266,14 +266,18 @@
             formatting (e.g., titles). -->
                
                <head>Works Cited</head>
-               <bibl xml:id="SmithA" n="SmithA">Smith, Archibald. <title level="m">The
-                     Autobiography of Archibald Smith, Plain Township Pioneer</title>. Ed. John E.
-                  Saveson. New Albany, Ohio: New Albany Plain Township Historical Society, 1999.
-                  Print.
+               <bibl xml:id="SmithA" n="SmithA">Smith, Archibald. <title level="m">The Autobiography
+                     of Archibald Smith, Plain Township Pioneer</title>. Ed. John E. Saveson. New
+                  Albany, Ohio: New Albany Plain Township Historical Society, 1999. Print.
                   <!-- State Library of Ohio Ohioana Library F499.N255 S54 1999x -->
                </bibl>
-               <bibl xml:id="TGN" n="Getty">TGN entry. Web.</bibl>
-               <bibl xml:id="LOC" n="Library">LOC entry. Print.</bibl>
+               <bibl xml:id="HLP" n="SavesonHistoric"> Saveson, John E. <title level="m">Historic
+                     Plain Township</title>. New Albany, Ohio: New Albany Plain Township Historical
+                  Society, 1994. Print.</bibl>
+               <bibl xml:id="TGN" n="Getty">Getty Research Institute.<title level="m">Getty
+                     Thesaurus of Geographic Names® Online</title> N.d. Web. 3 August 2012.</bibl>
+               <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
+                  6 Jan. 2012. Web. 3 August 2012.</bibl>
             </listBibl>           
             
          </sourceDesc>
