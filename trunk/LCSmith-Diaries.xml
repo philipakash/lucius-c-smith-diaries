@@ -509,6 +509,8 @@
             <dateline><date when="1862-07-31">Thursday 31st July 1862<lb/>
             <time>forenoon</time></date></dateline>
             <p>
+               <!-- Just a demo of an new line belo -->
+               <lb/>Here's a demo line
                <lb/>Hawled up my lumber from
                <lb/>the mill afternoon Helped in the
                <lb/>Hay. still very Hot.
