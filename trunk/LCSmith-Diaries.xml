@@ -509,8 +509,6 @@
             <dateline><date when="1862-07-31">Thursday 31st July 1862<lb/>
             <time>forenoon</time></date></dateline>
             <p>
-               <!-- Just a demo of an new line belo -->
-               <lb/>Here's a demo line
                <lb/>Hawled up my lumber from
                <lb/>the mill afternoon Helped in the
                <lb/>Hay. still very Hot.
@@ -592,6 +590,45 @@
             <p><lb/> Morning as doans light all Hands to work
             <lb/> putting up the mills George Dick Newton.
             <lb/> Father &amp; myself we put up boats mills in the</p> 
+         </div>
+         
+         
+         <!-- 
+            NOTE: To provide a reference point, I begin my transcription and encoding of the
+            final few daily entries for 1862 below. All of your work should appear BEFORE the
+            following entries. I begin in the middle of a page, so I have not encoded a <pb>
+            element.
+         -->
+         <div xml:id="LCS18621220a" type="Entry">
+            <lb/><dateline><date when="1862-12-20">For the Week Ending Sat 20th 1862</date></dateline>
+            <p>
+               <lb/>Mon &amp; Tues rain &amp; Snow uncle Lewis <unclear>Bunch</unclear>
+               <lb/>Staid all night us Boyes caught a coon with our
+               <lb/>Dog. Mad our Hunting arrangements Reese
+               <lb/>Eavens &amp; I we are the captains we Have 39
+               <lb/>on each Side Wednesday went up to aunt <unclear>Eley I</unclear>
+               <lb/>went to Columbus seen Gill He found out by
+               <lb/>wrtiing to the Clerk of the U.S. court at Cleav
+               <lb/>land that I am Sued by those Patent
+               <lb/>rights men. Sat went to <unclear/> He
+               <lb/>was not at Home Left word for Him to
+               <lb/>come &amp; see me. most all the Week real
+               <lb/>Cold Weather. George Goodrich moved to
+               <lb/>Delaware.
+            </p>
+         </div>
+         <div xml:id="LCS18621221a" type="Entry">
+            <!-- 
+               Note that the following dateline occurrs on the same line as the last line of the
+               previous entry. Check formatting in all relevant views.
+            -->
+            <dateline><date when="1862-12-21">Sunday Decem 21st 1862</date></dateline>
+            <p>
+               <lb/>Went to Mr. Wilsons part of the Day and
+               <lb/>to Meeting to Albany at night
+               <lb/>pleasent Day warmer
+               <pb facs="/9/9b702e6f-e027-4287-8d9c-2f8fbb67766d"/>
+            </p>
          </div>
    </body>
   </text>
