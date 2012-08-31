@@ -596,7 +596,11 @@
                <lb/>went to Albany to meeting at night
             </p>
          </div>
-         <pb facs=""/>
+         <!--
+            Note that I've entered a phony value for the @facs attribute. 
+            We will sort them out in our next class meeting.
+         -->
+         <pb facs="9999"/>
          <pb facs="/9/911d89a2-4e9e-4b58-b0bf-5601c2d7144c"/>
          <div xml:id="LCS18621004a" type="Entry">
             <dateline> <date when="1862-10-04"> Saturday <lb/> 
