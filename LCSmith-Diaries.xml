@@ -631,6 +631,14 @@
                <lb/>went to Albany to meeting at night
             </p>
          </div>
+         <div xml:id="LCS18620901" type="Entry">
+            <lb/>
+            <dateline> <date when="1862-09-07">Sunday Sept 7th<hi rend="underline">1862</hi></date></dateline>
+            <p><lb/> Staid <unclear> allermund</unclear>
+            <lb/> Home all day rather Lonesome Wrote a
+            <lb/> Letter to <unclear> Leimual</unclear> Smith. Columbus Ohio.
+            </p>
+         </div>
          <!--
             Note that I've entered a phony value for the @facs attribute. 
             We will sort them out in our next class meeting.
