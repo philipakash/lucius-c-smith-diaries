@@ -622,13 +622,33 @@
             <lb/>
                <dateline><date when="1862-08-24">Sunday Aug 24th<hi rend="underline">1862</hi></date></dateline>
             <p>
-               <lb/>staid Home <unclear cert="low">2 words</unclear>
+               <lb/>staid Home <gap reason="illegible"/>
                <lb/>Went to see George Wilson <unclear cert="low">Heine</unclear> and
                <lb/>4 others Have Just got Home from
                <lb/>the army Having been Discharged
-               <lb/><unclear cert="low">?</unclear> Rice came <unclear cert="low">Heear</unclear> He is one of
+               <lb/><gap reason="illegible"/> Rice came <unclear cert="low">Heear</unclear> He is one of
                <lb/>the Discharged ones Heine and I
                <lb/>went to Albany to meeting at night
+            </p>
+         </div>
+         <pb facs="9999"/>
+         <div xml:id="LCS18620825" type="Entry">
+            <lb/>
+            <dateline><date when="1862-08-25">Monday 25 August 1862</date>
+            <lb/><time>forenoon</time></dateline>
+            <p>
+               <lb/>Went to see <unclear cert="low">Mr Saudell</unclear> to get <unclear cert="low">Herin</unclear>
+               <lb/>to come and <choice><sic>heelp</sic><corr>help</corr></choice> me make my
+               <lb/><choice><sic>doores</sic><corr>doors</corr></choice> and to <unclear cert="low">Jersey</unclear> <unclear cert="low">tomorrow</unclear> to
+               <lb/>get a <gap reason="illegible"/> of Boats made.  afternoon
+               <lb/>worked at my Building Newton hawled
+               <lb/>Wood half day finished Hawling I now
+               <lb/>Have <unclear cert="low">over</unclear> 40 fourty cords of good
+               <lb/>Wood Enough I think to do me.
+               <lb/>Father is putting up the Cellar Door
+               <lb/><choice><sic>hee</sic><corr>he</corr></choice> has had one made a <choice><sic>loung</sic><corr>long</corr></choice> time.
+               <lb/>as <choice><sic>loung</sic><corr>long</corr></choice> as the House has been built we
+               <lb/> Have had no <del rend="overstrike">dor</del> <choice><sic>doore</sic><corr>door</corr></choice> to the Cellar.
             </p>
          </div>
          <div xml:id="LCS18620907" type="Entry">
