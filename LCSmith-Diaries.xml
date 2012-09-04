@@ -734,18 +734,67 @@
          </div>
          <!-- Begin the Section that Misha is working on here.
           -->
-         <div xml:id="LCS18621102" type="Entry">
-            <dateline><date when="1862-11-02">Sunday 2<hi rend="superscript">nd</hi> November 1862</date></dateline>
+         <div xml:id="LCS18621101" type="Entry">
             <p>
-               <lb/>Staid around <unclear cert="low">lune</unclear> House <unclear cert="low">and</unclear> cleaned
-               <lb/>up and put things to Rights John <unclear cert="low">&amp;</unclear> me.
+         <!-- Okay, I have NO idea what is going on here. It doesn't like the dateline tag because... it's looking
+            to close something? But what?
+
+            <dateline><date from="1862-11-01" to="1862-11-08"></date></dateline> 
+         -->
+               <lb/>For the week
+               <lb/>Ending November 8<hi rend="superscript">th</hi> 1862 made this week
+               <lb/>785 gallans molofses. we Bail untill Bed
+               <lb/>time each night and some of the time untill
+               <lb/>10 oclock. <unclear cert="medium">Hire</unclear> extry Hands to grind
+               <lb/>Holf of the <unclear cert="medium">night</unclear> <unclear cert="low">cumevee</unclear> Bailing by day
+               <lb/>light. Thornton Wills Helped me this
+               <lb/>week. some <unclear cert="low">slats</unclear> of cane that was froze
+               <lb/><del rend="overstrike">a</del> before cutting soured this week
+               <lb/>Had some very cold Blustty wether.
             </p>
             <p>
-               <lb/>afternoon Had quitee a Rain a nice shawer but still dry
-               <lb/>midnight <unclear cert="low">cumenced</unclear> grinding.
+               <lb/>. Made one day from morning untill
+               <lb/>15 minutes to ten oclock <unclear cert="medium">152</unclear> gallons
+               <lb/>and we was on no Race worked as usual.
+            </p>
+            <pb facs="9999"/>
+            <p>
+               <lb/>Went to pass from one stall to the other
+               <lb/>the dividing stick &amp; something Being about 
+               <lb/>four feet Heigh or Heighes perhaps a <unclear cert="medium">litle</unclear>
+               <lb/>she got part way and tried to Raise up
+               <lb/>and I suppose Has <unclear cert="low">speamed</unclear> Her Back
+               <lb/>as she cannot get up by all the Heelp
+               <lb/>we can raise Hind parts Healpless,
+               <lb/>John saw her go under and took Her and
+               <lb/>By loosning the stick. sad night <unclear cert="low">sane</unclear>
+               <lb/>15 or 20 of us met at the Cane House and
+               <lb/>chase up for a Squirel Hunt myself and
+               <lb/>Reese Eavens Chase up the side failing
+               <lb/>to produce as many <unclear cert="low">sealps</unclear> as the <unclear cert="low">anthe</unclear> are to
+               <lb/><unclear cert="low">stead</unclear> to <unclear cert="medium">cigar</unclear> <unclear cert="medium">ashes</unclear> <del rend="overstrike">is</del> <unclear cert="low">loider</unclear> Next
+               <lb/>Wednsday is <unclear cert="low">Moday</unclear> <unclear cert="low">sid</unclear>.
             </p>
          </div>
+         <div xml:id="LCS18621123" type="Entry">
+            <lb/><dateline><date when="1862-11-23">Sunday 23 Nov 1862</date></dateline>
+            <p>
+               <lb/>Morning wet up and seen Savage a
+               <lb/>Horse Doctor about the old mare He
+               <lb/>said I might Just well <unclear cert="low">Rice</unclear> Her first
+               <lb/>as last so I came Home and
+               <lb/>shot Her. <unclear cert="low">Ghilun</unclear> Smith came
+               <lb/>Home last night pleasant Day
+            </p>
+            <pb facs="9999"/>
+         </div>
          
+         <!-- Questions for class:
+            - What do we do with People's names? Do we have to encode them in the header before we PersName them?
+            - What about archaic/alternate spellings?
+            - Page Breaks at the beginning or the end of a page?
+            - Day and Date reference inside the text?
+         -->
          <!-- End the Section Misha is working on here.
          -->
          <!-- 
