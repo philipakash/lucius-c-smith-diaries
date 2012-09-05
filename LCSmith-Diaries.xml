@@ -804,7 +804,7 @@
             element.
          -->
          <div xml:id="LCS18621220a" type="Entry">
-            <lb/><dateline><date when="1862-12-20">For the Week Ending Sat 20th 1862</date></dateline>
+            <lb/><dateline><date from="1862-12-14" to="1862-12-20">For the Week Ending Sat 20th 1862</date></dateline>
             <p>
                <lb/>Mon &amp; Tues rain &amp; Snow uncle Lewis <unclear>Bunch</unclear>
                <lb/>Staid all night us Boyes caught a coon with our
@@ -831,10 +831,31 @@
                <lb/>Went to Mr. Wilsons part of the Day and
                <lb/>to Meeting to Albany at night
                <lb/>pleasent Day warmer
-               <pb facs="/9/9b702e6f-e027-4287-8d9c-2f8fbb67766d"/>
             </p>
          </div>
-   </body>
+         <pb facs="/9/9b702e6f-e027-4287-8d9c-2f8fbb67766d"/>
+         <!-- Lots of questionable readings here ;-) -->
+         <div xml:id="LCS18621227a" type="Entry">
+            <lb/><dateline><date from="1862-12-21" to="1862-12-27">For the Week Ending Sat Decem 27th
+               <add place="above"><hi rend="underline">1862</hi></add></date></dateline>
+            <p>
+               <lb/>Monday Gallet Grovenbery came up and
+               <lb/>I traded my two year old colt off to Him
+               <lb/>for His old Dead Horse for three Dollars
+               <lb/>toboot. I got the three Dollars whereas I
+               <lb/>ought to Have Had 25$ at least But I
+               <lb/>Dont want a Difaculty with Him if I Beat
+               <lb/>Him at Law I would cost me nearly as mutch
+               <lb/>us to setle It. to Day snow is going off warmer
+            </p>
+            <p>
+               <lb/>Tues Hamer &amp; I Hunted all Day got ten
+               <lb/>Squirrels they are more plenty than I Have
+               <lb/>Known them for years there is plenty of Beach
+               <lb/>Mass
+            </p>
+         </div>
+      </body>
   </text>
 
 </TEI>
