@@ -1202,7 +1202,7 @@
             <pb facs="9999"/>
          </div>
          <div xml:id="LCS18621124" type="Entry">
-            <lb/><dateline><date>Monday 24 November 1862</date></dateline>
+            <lb/><dateline><date when="1862-11-24">Monday 24 November 1862</date></dateline>
             <p>
                <lb/>Morning Hawled
                <lb/><unclear cert="low">the5</unclear> old mare away and cut Her open <unclear cert="medium">on</unclear>
@@ -1231,7 +1231,7 @@
             </p>
          </div>
          <div xml:id="LCS18621125" type="Entry">
-            <dateline><date>Tues 25 Nov 1862</date></dateline>
+            <dateline><date when="1862-11-25">Tues 25 Nov 1862</date></dateline>
             <p>
                <lb/>To day got my gun a double Barreled
                <lb/>shot gun and fixed for the Hunt
@@ -1239,13 +1239,133 @@
             </p>
             <pb facs="9999"/>
          </div>
-         
+         <div xml:id="LCS18621126" type="Entry">
+            <dateline><date when="1862-11-26">Wednesday 26<hi rend="super">th</hi> November 1862</date></dateline>
+            <p>
+               <lb/>Snowed most all day and cold the
+               <lb/>Meanest Kind of a day. Our Hunt went
+               <lb/>off But It was an afull time for It
+            </p>
+            <p>
+               <lb/>My <unclear cert="high">side</unclear> However came and Best Having
+               <lb/>23 wild scalps and the other side 18. as
+               <lb/>game was s carse several <del rend="strike">Wild</del> Tame Turkeys
+               <lb/>was Killed. one Wild one was Killed by
+               <lb/><unclear cert="low">W<hi rend="underline">rn</hi></unclear> Staib. night we Had <unclear cert="high">one</unclear> Great
+               <lb/>aples Cider and cigars the Beaten side
+               <lb/>paing for It we was some 14 on a side
+               <lb/>shot at candles and cet <unclear cert="low">mitico</unclear> Late.
+               <lb/>for the Rest of the Week to Sat 29<hi rend="super">th</hi>
+               <lb/><unclear cert="low">Lane</unclear> but Litle setled some accounts went
+               <lb/>to Jersey after a pair of Boots and <unclear cert="low">E<hi rend="underline">es</hi></unclear>
+               <lb/>cold &amp; Blustry all week most.
+               <lb/>Made my Returns the U.S. <unclear cert="medium">asessor</unclear> on my
+               <lb/>molosses <sic>Buisness</sic> sum total of all
+            </p>
+            <p>
+               <lb/>Manufactured was Wagon
+               <lb/>Loads 3583 No of Gallans 4402 3/4
+               <!-- Do we want some way of expressing fractions shown on a single line? Does TEI support it? -->
+               <lb/>four thousand four Hundred and two
+               <lb/>and 3/4 gallans molosses
+            </p>
+            <pb facs="9999"/>
+            <p>
+               <lb/>Total valuation $987.00
+               <lb/>counting that made at 20 cts value 20 cts
+               <lb/>and that made on the Half. my Half at 50 cts
+               <lb/>pur gallan <hi rend="underline">about</hi> Half I made was was on
+               <lb/>the Halves I have sold to the Best of
+               <lb/>my accounts 281 <sic>galluns</sic>.
+            </p>
+            <p>
+               <lb/>I Have now on
+               <lb/>Hand some over <del rend="overwrite">5.</del>700 <del rend="strike">seven</del> Hundred gallon
+               <lb/>to sell. I <unclear cert="low">fimde</unclear> <del rend="strike">some</del> a very Large Loss by
+               <lb/>shrinkage and other wages. we Have at
+               <lb/>several times lost cunsideerable by forgetting
+               <lb/>Barrells, Lening out and making customers
+               <lb/>good, It is a new <sic>Buissness</sic> to most people
+               <lb/>and we Have to cheat ourselves to Keep on
+               <lb/>athe right side of customs. I Have sold
+               <lb/>perhaps over the abovve amount
+               <lb/>considerable But that is all I could
+               <lb/>finde <del rend="strike">on</del> when making up any <unclear cert="low">ritaris</unclear>
+               <lb/>an this year we will be more <unclear cert="medium">caucious</unclear>
+               <lb/>and perhaps withe the tax Law.
+               <lb/>and Be better prepaired to meet It.
+            </p>
+            <pb facs="9999"/>
+         </div>
+         <div xml:id="LCS18621130" type="Entry">
+            <dateline><date when="1862-11-30">Sunday 30 November 1862</date></dateline>
+            <p>
+               <lb/>Yesterday Misses
+               <lb/>Montgomery came to stay over Sunday
+               <lb/>withe us on Her Road <unclear cert="medium">House</unclear>
+               <lb/>John <unclear cert="low">Cauns</unclear> and Wife are Hear.
+               <lb/>nice <unclear cert="medium">dog</unclear> staid Home all day.
+            </p>
+         </div>
+         <!-- HA! It looks like he forgot the month had changed! Either that or he back dated this one. I'm assuming the former and tagging this as December 6th -->
+         <div xml:id="LCS18621206" type="Entry">
+            <dateline><date from="1862-11-30" to="1862-12-06"><lb/>For the Week Ending<lb/>Sat Novem 6<hi rend="super">th</hi> 1862</date></dateline>
+            <p>
+               <lb/>Monday morning went to Columbus with Dennis <unclear cert="medium">Strait</unclear> and
+               <lb/>Back the same Day. Done nothing
+               <lb/><unclear cert="low">mutch</unclear> all the week setled up with
+               <lb/>all that I could Farther &amp; Mother and Newton went to Columbus I sent <unclear cert="low">no this</unclear>
+               <lb/>pay for my new mill $88<hi rend="underline">00</hi> I Have
+               <lb/>Squared up with most all my Debts
+               <lb/>and Have some $80.00 left yet.
+            </p>
+            <p>
+               <lb/>got me some new things monday also.
+               <lb/>got my Horse shod got me a pair
+               <lb/>of coarse Boots of <unclear cert="low">monide</unclear> cleaned up
+            <pb facs="9999"/>
+               <lb/>A Lot of Cane seed I Have a nice
+               <lb/>Lot of It and <hi rend="underline">good</hi>. <unclear cert="medium">Bages</unclear>
+               <lb/>some corn most to cold and dry.
+               <lb/>nice <sic>Weathre</sic> all week first part
+               <lb/>clear and quite warm Last part cold 
+               <lb/>and Blustry snow. Saturday real cold
+               <lb/>murcury nearly to zero.
+               <lb/>
+               <!-- Interesting... what do we do with skipped lines? -->
+            </p>
+         </div>
+         <div xml:id="LCS18621207" type="Entry">
+            <dateline><date when="1862-12-07"><lb/>Sunday Decem 7<hi rend="super">th</hi> 1862</date></dateline>
+            <p>
+               <lb/>staid Home all day <hi rend="underline"><unclear cert="high">real</unclear> Winter</hi>
+               <lb/>
+            </p>
+         </div>
+         <div xml:id="LCS18621213" type="Entry">
+            <dateline><date from="1862-12-07" to="1862-12-13"><lb/>For the Week Ending Saturday<lb/>Decem 13<hi rend="super">th</hi> 1862.</date></dateline>
+            <p>
+               Monday George 
+               <lb/>Goodrich and me <unclear cert="medium">went</unclear> and to uncle
+               <!--- Interesting... this time "Lewis" has an i inserted above the line... not sure how to mark that... --->
+               <lb/>Lewises and staid all night walked over
+               <lb/>nice walking. Tuesday morning went over to Worthington and then by the <unclear cert="low">sarts</unclear> to
+               <lb/>Delaware George <unclear cert="low">to</unclear> <hi rend="super">a</hi> Mr <unclear cert="high">Matherman</unclear> abo
+               <lb/>us working for Him at the fur mill Buis
+               <lb/>ness I went to get a Job of collecting of Him
+               <lb/>to do But He Had got a Hand. Evening
+               <lb/>went to see some old Friends of when I use
+               <lb/>to go to school <hi rend="underline">there</hi>
+            </p>
+         </div>
          
          <!-- Questions for class:
+            - What about a flourish under the date? Does it even matter?
             - What do we do with People's names? Do we have to encode them in the header before we PersName them?
             - What about archaic/alternate spellings?
             - Page Breaks at the beginning or the end of a page?
             - Day and Date reference inside the text?
+            - What do we do with skipped lines?
          -->
          <!-- End the Section Misha is working on here.
          -->
