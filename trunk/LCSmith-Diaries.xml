@@ -1152,14 +1152,10 @@
          <!-- Begin the Section that Misha is working on here.
           -->
          <div xml:id="LCS18621108" type="Entry">
-            <p>
-         <!-- Okay, I have NO idea what is going on here. It doesn't like the dateline tag because... it's looking
-            to close something? But what?
-
-            <dateline><date from="1862-11-01" to="1862-11-08"></date></dateline> 
-         -->
-               <lb/>For the week
-               <lb/>Ending November 8<hi rend="superscript">th</hi> 1862 made this week
+            
+            <dateline><date from="1862-11-01" to="1862-11-08"><lb/>For the week
+               <lb/>Ending November 8<hi rend="superscript">th</hi> 1862</date></dateline> 
+               <p>made this week
                <lb/>785 gallans molofses. we Bail untill Bed
                <lb/>time each night and some of the time untill
                <lb/>10 oclock. <unclear cert="medium">Hire</unclear> extry Hands to grind
@@ -1196,7 +1192,7 @@
          <div xml:id="LCS18621123" type="Entry">
             <lb/><dateline><date when="1862-11-23">Sunday 23 Nov 1862</date></dateline>
             <p>
-               <lb/>Morning wet up and seen Savage a
+               <lb/>Morning went up and seen Savage a
                <lb/>Horse Doctor about the old mare He
                <lb/>said I might Just well <unclear cert="low">Rice</unclear> Her first
                <lb/>as last so I came Home and
@@ -1205,6 +1201,45 @@
             </p>
             <pb facs="9999"/>
          </div>
+         <div xml:id="LCS18621124" type="Entry">
+            <lb/><dateline><date>Monday 24 November 1862</date></dateline>
+            <p>
+               <lb/>Morning Hawled
+               <lb/><unclear cert="low">the5</unclear> old mare away and cut Her open <unclear cert="medium">on</unclear>
+               <lb/>the Back and found Her Back Broken the
+               <lb/>small Ridge Bone Just inside the skin,
+               <lb/>It was Brok about two inches from
+               <lb/>the End at the Hips toward the Head,
+               <lb/>I am very sorry for the old mare as I have 
+               <lb/>taken <unclear cert="low">setty</unclear> care of Her Because <unclear cert="low">Gusset</unclear>
+               <lb/>thought a great deal of Her <unclear cert="medium">- </unclear> she was in
+               <lb/>first rate <unclear cert="low">alder</unclear> no fact fat. But
+               <lb/>so it is. fixed <unclear cert="low">around</unclear> as my cane
+               <lb/>House went and spoke for me a Gun
+            </p>
+            <p>
+               <lb/>very nice Weather.
+            </p>
+            <p>
+               <lb/>Aunt Eliza and <unclear cert="low">Horton</unclear> came down with
+               <lb/>a Misses Montgomery a sister of uncle <unclear cert="high">Dave</unclear>
+               <lb/>Beaches Wife. and a young man on their
+               <lb/>way to Robertses. Hawled down our Bead
+               <!-- Not sure how to handle him adding his own line here... for now, I'm going to pretend it's seperate -->
+               <lb/>from the cane
+               <lb/>House
+            </p>
+         </div>
+         <div xml:id="LCS18621125" type="Entry">
+            <dateline><date>Tues 25 Nov 1862</date></dateline>
+            <p>
+               <lb/>To day got my gun a double Barreled
+               <lb/>shot gun and fixed for the Hunt
+               <lb/>nice prety day only cool
+            </p>
+            <pb facs="9999"/>
+         </div>
+         
          
          <!-- Questions for class:
             - What do we do with People's names? Do we have to encode them in the header before we PersName them?
