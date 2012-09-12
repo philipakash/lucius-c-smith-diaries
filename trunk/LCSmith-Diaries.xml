@@ -872,12 +872,12 @@
             <dateline><date when="1862-08-28">Thursday 28</date></dateline>
             <p>
                <lb/>To day spent the day
-               <lb/>withe the folks went awhile to <unclear cert="low">Roll Eavenes</unclear>
+               <lb/>with the folks went awhile to <unclear cert="low">Roll Eavenes</unclear>
                <lb/>Ben Sauders came on and worked at the
-               <lb/><unclear cert="low">Dades</unclear> of my Buildings.  quite cool.
-         <pb facs="9999"/>
+               <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> of my Buildings.  quite cool.
+         <pb facs="/f/f4cc9305-1e08-4664-b4dc-dcdcbacc96ad"/>
                <lb/>In the country since the proclimation of the
-               <lb/>Draft, all manner of aliments are brought
+               <lb/>Draft, all manner of ailments are brought
                <lb/>up.  I Hope the Draft will not be put
                <lb/>off But will come off on the <unclear cert="low">3rd</unclear> of sept.
                <lb/>If I have to go I want to know it and
@@ -889,40 +889,41 @@
             <lb/>
             <dateline><date when="1862-08-31">Sunday august 31st 1862</date></dateline>
             <p>
-               <lb/>staid Home
-               <lb/>all day Had a <gap reason="illegible"/> of
-               <lb/>girls Heear all they like the side saddle 
+               <lb/>staid Home <!-- should this be its own paragraph? -->
+               <lb/>all day Had a <unclear cert="medium">swad</unclear> of
+               <lb/>girls <choice><sic>Hear</sic><corr>here</corr></choice> all they like the side saddle 
                <lb/>a little well.  night went to meeting to 
-               <lb/>Albany Heard <unclear cert="medium">Hurlocker</unclear> preach.  seen
-               <lb/>sam and Frank <unclear cert="high">Lane</unclear> they did not go
-               <lb/>Home yesterday as aunt Hariet was sick
+               <lb/>Albany Heard <unclear cert="high">Hurlocker</unclear> preach.  seen
+               <lb/>sam and Frank <del rend="overstrike">L</del> Lane they did not go
+               <lb/>Home yesterday as aunt Hariet was <del rend="overstrike">u</del> sick
                <lb/>will tomorrow.  To day it seems as if 
-               <lb/>evry thing would die for want of
-               <lb/>Rain corn and cane and grass is as
+               <lb/><choice><sic>evry</sic><corr>every</corr></choice> thing would die for want of
+               <lb/>Rain corn and cane and grass <!-- think we talked about this but can't remember if we have a different way of reprseting a long s? -->is as
                <lb/>near dead as need be and the Dust on the
-               <lb/>Road is almost <unclear cert="medium">unsupportable</unclear>. Augustine
+               <lb/>Road is almost <unclear cert="high">unsupportable</unclear>. Augustine
                <lb/>last week Had a <unclear cert="medium">tower</unclear> of fits getting Better
-               <lb/><unclear cert="medium">now</unclear>         
+               <lb/><hi rend="underline">now</hi> <!-- the single word on this line is right justified. Do we need to code that? -->        
             </p>
          </div>
-         <pb facs="9999"/>
+         <pb facs="/a/ada95589-4644-46e3-a34f-fcefcc1cdddc"/>
          <div xml:id="LCS18620901" type="Entry">
             <lb/>
             <dateline><date from="1862-09-01" to="1862-09-06">Monday September 1st 1862</date>
             <lb/>for the week ending sat Sept 6th</dateline>
             <p>
-               <lb/>Worked at my <unclear cert="medium">sons</unclear> House all
+               <lb/>Worked at my cane House all
                <lb/>the week except Thursday to Saturday
                <lb/><unclear cert="high">Sanders</unclear> Helped me one day we put
-               <lb/>up the <unclear cert="low">Doorers</unclear>Built a <unclear cert="medium">stream</unclear> spout
+               <lb/>up the <unclear cert="low">Doorers</unclear> <!-- I think this is doors, but its misspelled and has an interlinear addition, not sure how to do this --> Built a <unclear cert="medium">stream</unclear> spout
                <lb/>as far as the Lumber went put stalls in
-               <lb/>my stowing House <gap reason="illegible"/> Father Helped
-               <lb/>me one day made a pattern for a <unclear cert="low">cash</unclear> box
-               <lb/>to sit under the end of each pan across
-               <lb/>the furnace. Thursday Father <unclear cert="high">and</unclear> me went
+               <lb/>my stowing House &amp; <gap reason="illegible"/> Father Helped
+               <lb/>me one day made a pattern for a cast box
+               <lb/>to <!-- looks like an s precedes to, but not sure if its erased or what --> sit under the end of each pan across
+               <lb/>the furnace. Thursday Father &amp; me went
                <lb/>to Columbus after alot of things got my
-               <lb/><unclear cert="high">cast</unclear>cog wheeal a cistern pump and various
-               <lb/>other things caluclated to get my <unclear cert="low">sheet</unclear> <unclear cert="low">Drain</unclear>
+               <lb/>cast cog <choice><sic>wheal</sic><choice>wheel</choice></choice> a cistern pump and various
+               <lb/>other things caluclated to get my sheet iron
+               <!-- ended work here 9.12 -->
                <lb/>But could not finde any to suit me
                <lb/>concluded to wait untill next
                <lb/>week. Sat or latter Friday night Homer
