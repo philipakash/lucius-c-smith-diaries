@@ -803,31 +803,31 @@
             <lb/> 
                <dateline><date when="1862-08-24">Sunday Aug 24th<hi rend="underline">1862</hi></date></dateline>
             <p>
-               <lb/>staid Home <gap reason="illegible"/>
-               <lb/>Went to see George Wilson <unclear cert="low">Heine</unclear> and
+               <lb/>staid Home forenoon afternoon
+               <lb/>Went to see George Wilson <unclear cert="high">Hine</unclear> and
                <lb/>4 others Have Just got Home from
                <lb/>the army Having been Discharged
-               <lb/><gap reason="illegible"/> Rice came <unclear cert="low">Heear</unclear> He is one of
-               <lb/>the Discharged ones Heine and I
+               <lb/><gap reason="illegible"/> Rice came Hear <choice><sic>Hear</sic><corr>here</corr></choice> He is one of
+               <lb/>the Discharged ones Hine and I
                <lb/>went to Albany to meeting at night
             </p>
          </div>
-         <pb facs="9999"/> 
+         <pb facs="/5/506418b7-e328-4cdb-a881-dc2c60f9f790"/> 
          <div xml:id="LCS18620825" type="Entry">
             <lb/>
             <dateline><date when="1862-08-25">Monday 25 August 1862</date>
-            <lb/><time>forenoon</time></dateline>
+            <lb/><time>forenoon</time></dateline> <!-- are we using time elements for things like 'forenoon'? -->
             <p>
-               <lb/>Went to see <unclear cert="low">Mr Saudell</unclear> to get <unclear cert="low">Herin</unclear>
-               <lb/>to come and <choice><sic>heelp</sic><corr>help</corr></choice> me make my
-               <lb/><choice><sic>doores</sic><corr>doors</corr></choice> and to <unclear cert="low">Jersey</unclear> <unclear cert="low">tomorrow</unclear> to
-               <lb/>get a <gap reason="illegible"/> of Boats made.  afternoon
+               <lb/>Went to see <unclear cert="medium">Mr Sanders</unclear> to get <unclear cert="high">Hine</unclear>
+               <lb/>to come and Help me make my
+               <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> and to <unclear cert="high">Jersey</unclear> <unclear cert="high">tomorrow</unclear> <!-- is his way of writing tomorrow, with a little gap between the o and the m a single word, or two? --> to
+               <lb/>get a pair of Boots made.  afternoon
                <lb/>worked at my Building Newton hawled
                <lb/>Wood half day finished Hawling I now
-               <lb/>Have <unclear cert="low">over</unclear> 40 fourty cords of good
+               <lb/>Have over 40 fourty <!-- weird overstriking, need help! --> cords of good
                <lb/>Wood Enough I think to do me.
                <lb/>Father is putting up the Cellar Door
-               <lb/><choice><sic>hee</sic><corr>he</corr></choice> has had one made a <choice><sic>loung</sic><corr>long</corr></choice> time.
+               <lb/>He has had one made a <choice><sic>loung</sic><corr>long</corr></choice> time.
                <lb/>as <choice><sic>loung</sic><corr>long</corr></choice> as the House has been built we
                <lb/> Have had no <del rend="overstrike">dor</del> <choice><sic>doore</sic><corr>door</corr></choice> to the Cellar.
             </p>
@@ -836,33 +836,33 @@
             <lb/>
             <dateline><date when="1862-08-26">Tues 26</date></dateline>
             <p>
-               <lb/>to day went to West
+               <lb/>to day <!-- same question as tomorrow; is today one word, or incorrectly, 2? --> went to West
                <lb/>erville to see about getting some casting
-               <lb/>done got me a good set of truck wheals
+               <lb/>done got me a good set of truck <choice><sic>wheals</sic><corr>wheels</corr></choice>
                <lb/>for a carraige to Hawl cane on they
-               <lb/>are cast <unclear cert="low">from</unclear> as good as new I got
-               <lb/>them the same as old <unclear cert="low">from</unclear>. Painted
-               <lb/>my pump and the Box to <unclear cert="low">day</unclear> and
-         <pb facs="9999"/>
+               <lb/>are cast Iron as good as new I got
+               <lb/>them the same as old Iron. Painted
+               <lb/>my pump and the Box to <unclear cert="high">It</unclear> and
+         <pb facs="/f/f89248e3-89f4-4d56-b433-00ef0e0135a5"/>
                <lb/>Hawled some gravel around the
                <lb/>Well It is now rigged nice.  the young
-               <lb/>folks Had another
-               <lb/>party at night the <unclear cert="medium">cane</unclear> House
+               <lb/>folks <del rend="overstrike">are agoing to</del> Had another
+               <lb/>party at night the <unclear cert="high">cane</unclear> House
                <lb/>large attendance as before  But there
                <lb/>Have been so many parties that they
-               <lb/>are getting an old thing the Boyes go
+               <lb/>are getting an old thing the <choice><sic>Boyes</sic><corr>boys</corr></choice> go
                <lb/>for good, for camp tomorrow
             </p>
          </div>
          <div xml:id="LCS18620827" type="Entry">
             <lb/>
-            <dateline><date when="1862-08-27">Wednsday 27th Aug 1862</date></dateline>
+            <dateline><date when="1862-08-27"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> 27th Aug 1862</date></dateline>
             <p>
                <lb/>worked at my House at my <unclear cert="low">stream</unclear>
-               <lb/><unclear cert="low">spout</unclear> put up the timbers and arranged
-               <lb/>them.  <unclear cert="low">Eavning</unclear> Samual Smith and
+               <lb/>spout put up the timbers and arranged
+               <lb/>them.  <choice><sic>Eavning</sic><corr>Evening</corr></choice> Samual Smith and
                <lb/>His mother and Frank Lane and Wife
-               <lb/>came.  Boyes doing nothing mutch only
+               <lb/>came.  <choice><sic>Boyes</sic><corr>Boys</corr></choice> doing nothing <choice><sic>mutch</sic><corr>much</corr></choice> only
                <lb/>cutting some wood.  Had a Little sprinkle
                <lb/>of rain.
             </p>
