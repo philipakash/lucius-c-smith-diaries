@@ -6,7 +6,7 @@ namespace rng = "http://relaxng.org/ns/structure/1.0"
 namespace sch = "http://purl.oclc.org/dsdl/schematron"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2012-07-21T14:29:16Z. 
+# Schema generated from ODD source 2012-09-13T14:25:41Z. 
 # Edition: 2.1.0. Last updated on 17th June 2012.
 # Edition Location: http://www.tei-c.org/Vault/P5/2.1.0/
 #
@@ -1027,13 +1027,14 @@ model.pPart.msdesc_sequenceOptionalRepeatable =
   dimensions*, material*, objectType*, origDate*, origPlace*, watermark*
 model.pPart.msdesc_sequenceRepeatable =
   dimensions+, material+, objectType+, origDate+, origPlace+, watermark+
-model.pPart.editorial = choice | abbr | expan
-model.pPart.editorial_alternation = choice | abbr | expan
-model.pPart.editorial_sequence = choice, abbr, expan
-model.pPart.editorial_sequenceOptional = choice?, abbr?, expan?
+model.pPart.editorial = choice | abbr | expan | subst
+model.pPart.editorial_alternation = choice | abbr | expan | subst
+model.pPart.editorial_sequence = choice, abbr, expan, subst
+model.pPart.editorial_sequenceOptional = choice?, abbr?, expan?, subst?
 model.pPart.editorial_sequenceOptionalRepeatable =
-  choice*, abbr*, expan*
-model.pPart.editorial_sequenceRepeatable = choice+, abbr+, expan+
+  choice*, abbr*, expan*, subst*
+model.pPart.editorial_sequenceRepeatable =
+  choice+, abbr+, expan+, subst+
 model.pPart.transcriptional =
   sic
   | corr
@@ -5357,6 +5358,35 @@ handShift =
     
     ## identifies the new hand.
     attribute new { data.pointer }?,
+    empty
+  }
+subst =
+  
+  ## (substitution) groups one or more deletions with one or more additions when
+  ##   the combination is to be regarded as a single intervention in the text.
+  element subst {
+    ((add | del | model.milestoneLike)+)
+    >> sch:pattern [
+         id = "subst-constraint-substContents1"
+         "\x{a}" ~
+         "            "
+         sch:rule [
+           context = "tei:subst"
+           "\x{a}" ~
+           "               "
+           sch:assert [
+             test = "child::add and child::del"
+             "\x{a}" ~
+             "        Subst must have at least one child add and at least one child del"
+           ]
+           "\x{a}" ~
+           "            "
+         ]
+         "\x{a}" ~
+         "         "
+       ],
+    att.global.attributes,
+    att.transcriptional.attributes,
     empty
   }
 supplied =
