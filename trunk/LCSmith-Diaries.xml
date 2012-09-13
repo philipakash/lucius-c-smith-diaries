@@ -1641,11 +1641,44 @@
             </p>
          </div>
          <div xml:id="LCS18621228a" type="Entry">
+            <!-- HLU: Check whether the addition in the dateline is in Smith's hand. -->
             <lb/><dateline><date when="1862-12-28">Sunday 28
                <subst><del rend="strikethrough" hand="#LCSHand">Sept</del><add place="above" hand="#LCSHand">December</add></subst>
+               1862</date></dateline><p>Staid Home all day
+               <lb/>wrote a Letter <persName>George Goodrich</persName> <placeName>Delaware Ohio
+               </placeName>Went to meeting to <placeName>Albany</placeName> at night.
+            </p>
+         </div>
+         <div xml:id="LCS18621229a" type="Entry">
+            <lb/><dateline><date when="1862-12-29">Monday 29</date></dateline>
+            <p>prepared some things towards digging
+               <lb/>my well Deeper went to mill Boyes &amp; Dad
+               are sowing Wood withe the sawing <hi
+                  rend="underlined"><choice><sic>machean</sic><corr>machine</corr></choice></hi>
+            </p>
+         </div>
+         <div xml:id="LCS18621230a" type="Entry">
+            <lb/><dateline><date
+               when="1862-12-30"><choice><sic>Tueasday</sic><corr>Tuesday</corr></choice> 30
+               <choice><abbr>Decem</abbr><expan>December</expan></choice>
                1862</date></dateline>
-            <p>
-               
+            <p>Rained and smowed all
+               <lb/>Day and snowed all night a perfect storm from
+               <lb/>the North Eavning went up to <persName>Mr. Wilsons</persName> and Hites
+               <lb/><hi rend="underlined"><unclear>smith</unclear></hi>
+            </p>
+         </div>
+         <div xml:id="LCS18621231a" type="Entry">
+            <lb/><dateline><date
+               when="1862-12-31"><choice><sic>Wensday</sic><corr>Wednesday</corr></choice> 31st
+               1862</date> morning</dateline>
+            <p>snow some
+               <lb/>8 to 10 inches Deep But not cold Helped Boyes
+               <lb/>saw wood part of the Day Eavning Turned quite
+               <lb/>cold Went to <placeName>albany</placeName> and Bought a Sack of flour
+               <lb/>as we are out and did not Raise Wheat enough
+               <lb/>for our own use <hi rend="underline"><unclear>bad</unclear> arraingment</hi>. Dance
+               <lb/>to <persName>Wilkinses</persName> to night.
             </p>
          </div>
       </body>
