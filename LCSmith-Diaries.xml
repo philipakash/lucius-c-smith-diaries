@@ -1642,9 +1642,10 @@
          </div>
          <div xml:id="LCS18621228a" type="Entry">
             <lb/><dateline><date when="1862-12-28">Sunday 28
-               </date></dateline>
+               <subst><del rend="strikethrough" hand="#LCSHand">Sept</del><add place="above" hand="#LCSHand">December</add></subst>
+               1862</date></dateline>
             <p>
-               <lb/>
+               
             </p>
          </div>
       </body>
