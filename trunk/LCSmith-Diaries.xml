@@ -921,7 +921,7 @@
                <lb/>to <!-- looks like an s precedes to, but not sure if its erased or what --> sit under the end of each pan across
                <lb/>the furnace. Thursday Father &amp; me went
                <lb/>to Columbus after alot of things got my
-               <lb/>cast cog <choice><sic>wheal</sic><choice>wheel</choice></choice> a cistern pump and various
+               <lb/>cast cog <choice><sic>wheal</sic><corr>wheel</corr></choice> a cistern pump and various
                <lb/>other things caluclated to get my sheet iron
                <!-- ended work here 9.12 -->
                <lb/>But could not finde any to suit me
@@ -1505,7 +1505,7 @@
             <p>
                Monday George 
                <lb/>Goodrich and me <unclear cert="medium">went</unclear> and to uncle
-               <!--- Interesting... this time "Lewis" has an i inserted above the line... not sure how to mark that... --->
+               <!-- Interesting... this time "Lewis" has an i inserted above the line... not sure how to mark that... -->
                <lb/>Lewises and staid all night walked over
                <lb/>nice walking. Tuesday morning went over to Worthington and then by the <unclear cert="low">sarts</unclear> to
                <lb/>Delaware George <unclear cert="low">to</unclear> <hi rend="super">a</hi> Mr <unclear cert="high">Matherman</unclear> abo
@@ -1536,19 +1536,19 @@
          <div xml:id="LCS18621220a" type="Entry">
             <lb/><dateline><date from="1862-12-14" to="1862-12-20">For the Week Ending Sat 20th 1862</date></dateline>
             <p>
-               <lb/>Mon &amp; Tues rain &amp; Snow uncle Lewis <unclear>Bunch</unclear>
+               <lb/>Mon &amp; Tues rain &amp; Snow <persName>uncle Lewis <unclear>Bunch</unclear></persName>
                <lb/>Staid all night us Boyes caught a coon with our
-               <lb/>Dog. Mad our Hunting arrangements Reese
-               <lb/>Eavens &amp; I we are the captains we Have 39
-               <lb/>on each Side Wednesday went up to aunt <unclear>Eley I</unclear>
-               <lb/>went to Columbus seen Gill He found out by
-               <lb/>wrtiing to the Clerk of the U.S. court at Cleav
-               <lb/>land that I am Sued by those Patent
+               <lb/>Dog. Mad our Hunting arrangements <persName>Reese
+               <lb/>Eavens</persName> &amp; I we are the captains we Have 39
+               <lb/>on each Side Wednesday went up to <persName>aunt <unclear>Eley I</unclear></persName>
+               <lb/>went to Columbus seen <persName>Gill</persName> He found out by
+               <lb/>wrtiing to the Clerk of the U.S. court at <placeName>Cleav<seg type="softhyphen">
+               <lb/></seg>land</placeName> that I am Sued by those Patent
                <lb/>rights men. Sat went to <unclear/> He
                <lb/>was not at Home Left word for Him to
                <lb/>come &amp; see me. most all the Week real
-               <lb/>Cold Weather. George Goodrich moved to
-               <lb/>Delaware.
+               <lb/>Cold Weather. <persName>George Goodrich</persName> moved to
+               <lb/><placeName>Delaware</placeName>.
             </p>
          </div>
          <div xml:id="LCS18621221a" type="Entry">
@@ -1558,8 +1558,8 @@
             -->
             <dateline><date when="1862-12-21">Sunday Decem 21st 1862</date></dateline>
             <p>
-               <lb/>Went to Mr. Wilsons part of the Day and
-               <lb/>to Meeting to Albany at night
+               <lb/>Went to <persName>Mr. Wilsons</persName> part of the Day and
+               <lb/>to Meeting to <placeName>Albany</placeName> at night
                <lb/>pleasent Day warmer
             </p>
          </div>
@@ -1569,7 +1569,7 @@
             <lb/><dateline><date from="1862-12-21" to="1862-12-27">For the Week Ending Sat Decem 27th
                <add place="above"><hi rend="underline">1862</hi></add></date></dateline>
             <p>
-               <lb/>Monday Gallet Grovenbery came up and
+               <lb/>Monday <persName>Gallet Grovenbery</persName> came up and
                <lb/>I traded my two year old colt off to Him
                <lb/>for His old Dead Horse for three Dollars
                <lb/>toboot. I got the three Dollars whereas I
@@ -1579,10 +1579,50 @@
                <lb/>us to setle It. to Day snow is going off warmer
             </p>
             <p>
-               <lb/>Tues r &amp; I Hunted all Day got ten
+               <lb/>Tues <unclear>Hamer</unclear> &amp; I Hunted all Day got ten
                <lb/>Squirrels they are more plenty than I Have
                <lb/>Known them for years there is plenty of Beach
                <lb/>Mass
+            </p>
+            <p>
+               <lb/>Wednesday all us Boys Went out
+               <lb/>I Have <persName>Mr Longmans</persName> shot gun I like it very
+               <lb/>mutch I can take them running so nice seen
+               <lb/>several of my men about going Hunting <unclear>tomorrow</unclear>
+               <lb/>We want to Beat if Posible. went to
+               <lb/><placeName>albany</placeName> after the paper We are now taking the
+               <lb/><title level="j">Daily</title> again and Fredericksburg Defeat Does
+               <lb/>not turn out so Disasterous for us as was
+               <lb/>at first thought. There Has been trouble
+               <lb/>in The cabinet Tendering of Resignations
+               <lb/>and <hi rend="underline"><gap reason="illegible"></gap></hi>
+            </p>
+            <pb facs="/e/e5861b26-82ee-4ea9-ace9-f296c19a48d8"/>
+            <!-- Rough transcription of this page follows. 12 Sept. 2012 -->
+            <p>
+               <lb/>Thursday Christmas morning as
+               <lb/>soon as ligth all Hands out Hun<seg type="softhyphen">
+               <lb/></seg>ting the woods is full of Hunters
+               <lb/>we got 8 or 10 Squirrel apiece and one
+               <lb/>Turkey <persName>John</persName> Shot that. Eavning I went
+               <lb/>to <placeName>Albany</placeName> and tended to the Game as
+               <lb/>It came Im Kept an account of each
+               <lb/>mans Game Brought in my Side footed up
+               <lb/>to 312 Scalps we had this wild turkeys
+               <lb/>Bodies and two scalps Brought in an our
+               <lb/>Side while the Resses party only got one
+               <lb/>turkey counted 10 scalps squirrel one Quail
+               <lb/>and <hi rend="underline">set</hi> according to value
+               <lb/>of the thing, we Beat them over one Hundred
+               <lb/>Scalps. They treated all Hands to the
+               <lb/>oysters witch was the agreement Eavning
+               <lb/>Set in and rained Been warm for several
+               <lb/>Dayes. <gap/> Boyes staid all night with us
+               <lb/>they were on my Side I am glad the Hunt is over
+               <lb/>as I Have spent considerable time so as not to
+               <lb/>get Beat seeing my men and making arrangements
+               <pb facs="/d/d60466c4-9841-4f74-b4a4-500398b7c4da"/>
+               <lb/>for It
             </p>
          </div>
       </body>
