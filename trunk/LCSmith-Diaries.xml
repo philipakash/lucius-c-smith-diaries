@@ -991,7 +991,7 @@
             <dateline> <date when="1862-09-07">Sunday Sept 7th<hi rend="underline">1862</hi></date></dateline>
             <p><lb/><choice><sic>Staid</sic><corr>Stayed</corr></choice> all <unclear>ermund</unclear>
             <lb/>Home all day rather Lonesome Wrote a
-               <lb/>Letter to <persName><unclear cert="low">Lermual</unclear> Smith</persName>. Columbus Ohio.
+               <lb/>Letter to <persName><unclear cert="low">Lermual</unclear> Smith</persName>. <placeName>Columbus Ohio.</placeName>
             </p>
          </div>
          <div xml:id="LCS18620908" type="Entry">
@@ -1008,7 +1008,7 @@
             <p><lb/>Morning <persName>Hamer</persName> &amp; me went to <placeName>Delaware</placeName>
             <lb/>after sheet Iron they manufacture pans
             <lb/>up <choice><sic>thare</sic><corr>there</corr></choice> and as I could not get
-            <lb/><choice><sic>suitabble</sic><corr>suitable</corr></choice> Iron in Columbus I con<seg type="softhyphen">
+            <lb/><choice><sic>suitabble</sic><corr>suitable</corr></choice> Iron in <placeName>Columbus</placeName> I con<seg type="softhyphen">
             <lb/></seg>cluded to try up <choice><sic>thare</sic><corr>there</corr></choice> I got quite good
             <lb/>Iron 30 inches wide by 8 &amp; 9 <choice><abbr>ft</abbr><expan>feet</expan></choice> <unclear cert="low">Coming</unclear> 
             <lb/>for 8 <choice><abbr>cts</abbr><expan>cents</expan></choice> <choice><sic>perr</sic><corr>per</corr></choice> <choice><abbr>lbs</abbr><expan>pound</expan></choice> <choice><sic>witch</sic><corr>which</corr></choice> <choice><sic>useto</sic><corr>used to</corr></choice> <del rend="overstrike">oly</del> <choice><sic>onley</sic><corr>only</corr></choice>
@@ -1036,164 +1036,169 @@
          <div xml:id="LCS18620911" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-11">Thursday 11</date></dateline>
-            <p><lb/>Morning Early went to albany and got <unclear cert="medium">Earl</unclear>
-            <lb/><unclear cert="high">Goodwich</unclear> to do me some <unclear cert="medium">turning</unclear> Father and
-            <lb/>me worked at the works all day George
-            <lb/>Helped afternoon Uncle Lewis was
-            <lb/>Hear to dinner. Eavning had a nice
+            <p><lb/>Morning Early went to <placeName>albany</placeName> and got <persName>George
+            <lb/>Goodrich</persName> to do me some <unclear cert="low">turning</unclear> Father &amp;
+            <lb/>me worked at the works all day <persName>George</persName>
+            <lb/>Helped afternoon <persName>Uncle Lewis</persName> was
+            <lb/><choice><sic>Hear</sic><corr>Here</corr></choice> to dinner. <choice><sic>Eavning</sic><corr>Evening</corr></choice> had a nice
             <lb/>shower of rain.
             </p>
          </div>
          <div xml:id="LCS18620912" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-12">Frid 12.</date></dateline>
-            <p><lb/>Morning Dad and me and <unclear cert="low">Eleja</unclear> went to Columbus
-            <lb/>I went after various things for my <unclear cert="medium">Cane works</unclear>
-            <lb/>see cash List went past <unclear cert="high">Grovenberies</unclear>
+            <p><lb/>Morning Dad &amp; me and <persName>Eliza</persName> went to <placeName>Columbus</placeName>
+            <lb/>I went after various things for my Cane works
+            <lb/>see cash List went past <persName>Grovenberies</persName>
             <lb/>and got a Horse of Him to work my mill
             <lb/>got Home Late at night. I Borrowed $10.00
-            <pb facs="9999"/>
-            <lb/>of Gilbert Collins. There is a great
-            <lb/>stir of people going to Cincinnati to
+            <pb facs="/b/b13427cf-1e77-4217-9c0c-8095533b8b63"/>
+            <lb/>of <persName>Gilbert Collins</persName>. <choice><sic>thare</sic><corr>there</corr></choice> is a great
+            <lb/>stir of people going to <placeName>Cincinnati</placeName> to
             <lb/>Defend the place people take their own
-            <lb/>Guns to Rig and as <unclear cert="medium">may</unclear>please thousands
-            <lb/>are going. My govener is already refusing
+            <lb/>Guns &amp; Rig and as they please thousands
+            <lb/>are going. the <choice><sic>govener</sic><corr>governor</corr></choice> is already refusing
             <lb/><unclear cert="high">men</unclear>
             </p>
          </div>
          <div xml:id="LCS18620913" type="Entry">
-            <lb/>
             <dateline> <date when="1862-09-13"></date>Sept 18th 1862</dateline>
-            <p><lb/>finished my steem <unclear>shaal</unclear>and Father
+            <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> <unclear cert="low">shovel</unclear>and Father
             <lb/>and me got the Horse power and mill in
-            <lb/>as <unclear>nee Hope running alder</unclear> it seams at
+            <lb/>as we Hope running order it <choice><sic>seams</sic><corr>seems</corr></choice> at
             <lb/>least to move quite well But not quite
             <lb/>as well as I would like But still I
-            <lb/>Hope It will do well as It will be two
-            <lb/>Late to <unclear>Refix</unclear> anything well.
+            <lb/>Hope It will do well as It will be <choice><sic>two</sic><corr>too</corr></choice>
+            <lb/>Late to <unclear cert="medium">Refix</unclear> anything well.
             </p>
-            <p><lb/>Eavning went <gap reason="illegible"></gap>
-            <lb/>In <unclear>Jeferson</unclear> to Carptenters to get his work
+            <lb/><p>Eavning went down
+            <lb/>In <placeName><choice><sic>Jeferson</sic><corr>Jefferson</corr></choice></placeName> to Carptenters to get his work
             <lb/>done and a sheet Iron spout or top made
-            <lb/>for my Chimney. the little rain is prety
-            <lb/>well Dried up up already. the <unclear>Boyes</unclear> have
+            <lb/>for my Chimney. the <choice><sic>litle</sic><corr>little</corr></choice> rain is <choice><sic>prety</sic><corr>pretty</corr></choice>
+            <lb/>well Dried up up already. the Boyes have
             <lb/>Been cutting corn this week as It is all Dried
-            <lb/>up especialy <unclear>on/an</unclear>High ground. pastures are
+            <lb/>up <choice><sic>especialy</sic><corr>especially</corr></choice> on High ground. pastures are
             <lb/>Dead. Dried up. no seeding done yet.
             </p>
          </div>
-         <pb facs="9999"/>
+         <pb facs="/8/8ef9f9af-578b-4f21-9298-24b756c8a093"/>
          <div xml:id="LCS18620914" type="Entry">
-            <dateline> <date when="1862-09-14"></date>Sunday Sept 14th 1862</dateline>
-            <p><lb/>Staid <gap reason="illegible"></gap> Home
+            <lb/>
+            <dateline> <date when="1862-09-14">Sunday Sept 14th 1862</date></dateline>
+            <p><lb/><choice><sic>staid</sic><corr>stayed</corr></choice> <unclear cert="medium"><choice><sic>arround</sic><corr>around</corr></choice></unclear> Home
             <lb/>all day.
             </p>
          </div>
          <div xml:id="LCS18620920" type="Entry">
-            <dateline> <date from="1862-09-14" to="1862-09-20"></date>for the week Ending Sept 20th 1862</dateline> 
-            <p><lb/>this week <gap reason="illegible"></gap>
-            <lb/>My Cane House <unclear>matter</unclear>
-            <lb/>through as far as I could from daylight
-            <lb/>to dark Hawled 1850 brick <unclear>montgamels</unclear>
+            <lb/>
+            <dateline> <date from="1862-09-14" to="1862-09-20">for the week Ending Sept 20th 1862</date></dateline> 
+            <p><lb/>this week put
+            <lb/>My Cane House <unclear cert="high">matter</unclear>
+            <lb/>through as far as I could from day light
+            <lb/>to dark Hawled 1850 brick <unclear cert="high">montgomery</unclear>
             <lb/>laid my furnaces Carpenter made me a
-            <lb/>sheet Iron top of 8 ft to put on my
-            <lb/>Chimney a tin pump and some other things
+            <lb/>sheet Iron top of 8 <choice><abbr>ft</abbr><expan>feet</expan></choice> to put on my
+            <lb/>Chimney a tin pump &amp; some other things
             <lb/>and riveted my sheet Iron together
-            <lb/>Father Helped me all the week George good
-            <lb/>rich <gap reason="illegible"></gap> days <gap reason="obscured"></gap> when Hee got sick
-            <lb/>Him and Father made <gap reason="illegible"></gap> pans nearly
-            <lb/><unclear>cut</unclear>to Hawl cane an and laid the
-            <lb/>track made feed table <unclear>liged</unclear> a pumice
+            <lb/>Father Helped me all the week <persName>George good<seg type="softhyphen">
+            <lb/>rich</seg></persName> three days <del><gap reason="overwritten" unit="words" extent="1"></gap></del> when <choice><sic>Hee</sic><corr>He</corr></choice> got sick
+            <lb/>Him &amp; Father made <unclear cert="medium">boots</unclear> pans nearly
+            <lb/><unclear cert="medium">cut</unclear> to Hawl cane on and laid the
+            <lb/>track made feed table <unclear cert="low">liged</unclear> a pumice
             <lb/>carrier to the mill and various things
             <lb/>It Has been a week Hard work for us all
-            <lb/>Boyes got the corn all <unclear>cut</unclear> up and went
-            <lb/>up to aunt Elizas Friday. verry warm
+            <lb/><choice><sic>Boyes</sic><corr>Boys</corr></choice> got the corn all cut up and went
+            <lb/>up to <persName>aunt Eliza</persName>s Friday. <choice><sic>verry</sic><corr>very</corr></choice> warm
             <lb/>and no rain. we now have plenty of Peaches
-            <lb/>and <unclear>diging</unclear> them </p> 
-            <pb facs="9999"/>
-            <p><lb/><unclear>Mellan</unclear> Has succeed in driving
-            <lb/>out the Rebels out <unclear> meliland</unclear>
-            <lb/>after some of the severest fiting of 
-            <lb/>the war Cincinnati Has
+            <lb/>and <unclear cert="low">diging</unclear> them </p> 
+            <pb facs="/1/14bed02a-d84b-46f6-83d9-92cfe1a90d2c"/>
+            <lb/><p><unclear cert="low">Mclean</unclear> Has succeed<supplied reason="omitted" resp="ed">ed</supplied> in driving
+            <lb/>out the Rebels out of <placeName><unclear cert="medium"><choice><sic>meriland</sic><corr>Maryland</corr></choice></unclear></placeName>
+            <lb/>after some of the severest <choice><sic>fiting</sic><corr>fighting</corr></choice> of 
+            <lb/>the war <placeName>Cincinnati</placeName> Has
             <lb/>been saved from the Rebels and
             <lb/>things look better.</p>
             <lb/><p>still no rain
-            <lb/>warm and pleasant <unclear>early</unclear></p>
+            <lb/>warm and pleasant <unclear cert="low">beilg</unclear></p>
          </div>
          <div xml:id="LCS18620921" type="Entry">
+            <lb/>
             <dateline> <date when="1862-09-21">Sunday sept 21st 1862</date></dateline>
-            <p><lb/>Staid <unclear>arround</unclear>
-            <lb/>Home all day untill eavning when a
+            <p><lb/><choice><sic>Staid</sic><corr>Stayed</corr></choice> <choice><sic>arround</sic><corr>around</corr></choice>
+            <lb/>Home all day <choice><sic>untill</sic><corr>until</corr></choice> <choice><sic>eavning</sic><corr>evening</corr></choice> when a
             <lb/>parcel of us took a Ride Horse
-            <lb/>Back</p>
+            <lb/>Back</p><!--Question about formatting Horse/Back-->
          </div>
          <div xml:id="LCS18620927" type="Entry">
+            <lb/>
             <dateline> <date from="1862-09-22" to="1862-09-27">for the week ending
             <lb/>saturday
             <lb/>sept 27th 1862</date></dateline><p>this week Father
             <lb/>George and me worked all the week
-            <lb/>from day light untill dark at the
+            <lb/>from day light <choice><sic>untill</sic><corr>until</corr></choice> dark at the
             <lb/>Cane House and got It nearly ready to
-            <lb/>Run finished the <unclear>pans</unclear> painted them
+            <lb/>Run finished the pans painted them
             <lb/>put them on finished the furnaces
-            <pb facs="9999"/>
-            <lb/>made <unclear>cooler</unclear> and tank and painted
-            <lb/>them also the <unclear>whealbarows</unclear>I got two
+            <pb facs="/4/46ea8601-c31a-4cfb-8905-ab5a12807f50"/>
+            <lb/>made cooler and tank and painted
+            <lb/>them also the <choice><sic>whealbarows</sic><corr>wheelbarrows</corr></choice> I got two
             <lb/>new ones made made lids to the coolers
-            <lb/>made a <unclear>crane</unclear> to lift off my finishing
-            <lb/>pan withe put down <unclear>gripping</unclear> put up
-            <lb/>pumps put down <unclear>wash</unclear> water boyes
-            <lb/>put up a ten foot <unclear>stream of</unclear> spout
-            <lb/>on the House and <unclear>validus</unclear> things
-            <lb/>Newton Helped me one day and one
+            <lb/>made a <unclear cert="high">crane</unclear> to lift off my finishing
+            <lb/>pan <choice><sic>withe</sic><corr>with</corr></choice> put down <unclear cert="high">gripping</unclear> put up
+            <lb/>pumps put down <unclear cert="high">wash</unclear> water <choice><sic>boyes</sic><corr>boys</corr></choice>
+            <lb/>put up a ten foot <unclear cert="medium"><choice><sic>steem</sic><corr>steam</corr></choice></unclear> <del rend="overstrike">p</del> spout
+            <lb/>on the House and various things
+            <lb/><persName>Newton</persName> Helped me one day and one
             <lb/>day went to Grovenberies after a load
             <lb/>of corn for me we now Have
-            <lb/>things <unclear>liged</unclear> in good still <unclear>I amley</unclear>
+            <lb/>things <unclear cert="low">liged</unclear> in good still <unclear cert="medium">lonely</unclear>
             <lb/>they will work well and not break
-            <lb/>especialy the mill I tried that It seams
+            <lb/><choice><sic>especialy</sic><corr>especially</corr></choice> the mill I tried that It <choice><sic>seams</sic><corr>seems</corr></choice>
             <lb/>to work well. I ought to Have
-            <lb/>been ready this week so as to experimen
-            <lb/>ted some But if evrything goes right I
-            <lb/>am in time yet there Has some <unclear>ovec</unclear>
+            <lb/>been ready this week so as to experimen<seg type="softhypen">
+            <lb/>ted</seg> some But if <choice><sic>evrything</sic><corr>everything</corr></choice> goes right I
+            <lb/>am in time yet <unclear cert="low"><choice><sic>thare</sic><corr>there</corr></choice></unclear> Has some over
             <lb/>thirty loads of cane came in this week
-            <lb/>we Had quite a feast Wedns and Thursday
-            <lb/>witch made Them bring in cane <unclear>Mr Laing</unclear> will
-            <lb/>not be ready untill near a week yet
+            <lb/>we Had quite a feast <choice><abbr>Wedns</abbr><expan>Wednesday</expan></choice> and Thursday
+            <lb/><choice><sic>witch</sic><corr>which</corr></choice> made Them bring in cane <persName><unclear cert="medium">Mr Lainy</unclear></persName> will
+            <lb/>not be ready <choice><sic>untill</sic><corr>until</corr></choice> near a week yet
             <pb facs="/3/3c59563d-24c2-4168-b76c-ce45d6ad4e69"/>
             <lb/>I expected from the fact that we have
             <lb/>to Hitch the Horse so close to the power
             <lb/>in order to go inside of the Building</p>
-            <lb/><p><unclear>fixed</unclear> in an
-            <lb/>other arm so as to put on this Horses
-            <lb/>Eavning ground out some and <unclear>Heated</unclear> up
+            <lb/><p><unclear cert="low">fixed</unclear> in an<seg type="softhyphen">
+            <lb/>other</seg> arm so as to put on this Horses
+            <lb/><choice><sic>Eavning</sic><corr>Evening</corr></choice> ground out some and <unclear cert="low">Heated</unclear> up
             <lb/>another Horse.</p>
          </div>
          <div xml:id="LCS18621001" type="Entry">
+            <lb/>
             <dateline><date when="1862-10-01">Wednsday October 1 1862</date></dateline>
             <lb/><p>Early at It again put on <unclear cert="medium">three</unclear> Horses
             <lb/>and pushed the grinding But all we could
-            <lb/>do we cannot make <gap reason="illegible"/> enough the
+            <lb/>do we cannot make <unclear cert="low">Juice</unclear> enough the
             <lb/>mill grinds very fast But the cane is
-            <lb/>verry Hard and <unclear cert="low">sane</unclear> Dry not verry <gap reason="illegible"/>
-            <lb/>and verry sweet and takes verry litle
+            <lb/><choice><sic>verry</sic><corr>very</corr></choice> Hard and <unclear cert="low">sane</unclear> Dry not <choice><sic>verry</sic><corr>very</corr></choice> <unclear cert="low">Juicy</unclear>
+            <lb/>and <choice><sic>verry</sic><corr>very</corr></choice> sweet and takes <choice><sic>verry</sic><corr>very</corr></choice> <choice><sic>litle</sic><corr>little</corr></choice>
             <lb/>Bailing consequently the main thing is to
             <lb/>grind It I now wish I Had a larger
-            <lb/>mill <unclear cert="low">Herieel</unclear> and Longmas Boyes of 14 years</p>
+            <lb/>mill <unclear cert="high">Hired</unclear> one Longmas Boyes of 14 years <add place="above">age</add></p>
          </div>
          <div xml:id="LCS18621002" type="Entry">
+            <lb/>
             <dateline><date when="1862-10-02">Thursday
             <lb/>Oct 2</date></dateline>
-            <lb/><p>Today about three oclock Broake
+            <lb/><p>Today about three oclock <choice><sic>Broake</sic><corr>Broke</corr></choice>
             <lb/>my counter shaft that runs on top of the
-            <lb/>timbling shaf<supplied reason="omitted" resp="ed">t</supplied> witch is geared to the mill
-               <pb facs="/1/1aa72cec-aecb-448b-96a2-3d4bb88d1fa8"/>
+            <lb/><unclear cert="low">timbling</unclear> shaf<supplied reason="omitted" resp="ed">t</supplied> <choice><sic>witch</sic><corr>which</corr></choice> is geared to the mill
+            <pb facs="/1/1aa72cec-aecb-448b-96a2-3d4bb88d1fa8"/>
             <lb/>It did not Break But twisted all
-            <lb/>up like <unclear>Jan</unclear> would twist a switch
+            <lb/>up like <unclear cert="low">Jan</unclear> would twist a switch
             <lb/>It was but 1 1/2 inches thick as large as
-            <lb/>we could Have It an all <unclear>armt</unclear> of the
-            <lb/>Eyes in the <unclear cert="medium">Wheels.</unclear> Made 63 gallons
-            <lb/>worked about 3/4 day fixed to go to <gap reason="illegible"/>
-            <lb/>Columbus. I am nearly tired to death
+            <lb/>we could Have It on account of the
+            <lb/>Eyes in the <unclear cert="low">Wheels.</unclear> Made 63 gallons
+            <lb/>worked about 3/4 day fixed to go to <del rend="overstrike">tw</del>
+            <lb/><placeName>Columbus</placeName>. I am nearly tired to death
             <lb/>Having been going most nights and day.
             </p>
          </div>
