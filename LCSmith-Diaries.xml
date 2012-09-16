@@ -1062,7 +1062,7 @@
             </p>
          </div>
          <div xml:id="LCS18620913" type="Entry">
-            <dateline> <date when="1862-09-13"></date>Sept 18th 1862</dateline>
+            <dateline> <date when="1862-09-13"></date>Sept <choice><sic>18th</sic><corr>13th</corr></choice> 1862</dateline>
             <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> <unclear cert="low">shovel</unclear>and Father
             <lb/>and me got the Horse power and mill in
             <lb/>as we Hope running order it <choice><sic>seams</sic><corr>seems</corr></choice> at
@@ -1194,7 +1194,7 @@
             <pb facs="/1/1aa72cec-aecb-448b-96a2-3d4bb88d1fa8"/>
             <lb/>It did not Break But twisted all
             <lb/>up like <unclear cert="low">Jan</unclear> would twist a switch
-            <lb/>It was but 1 1/2 inches thick as large as
+            <lb/>It was but 1 1/2 inches<!--Whoops, I forgot how we said we should format fractions--> thick as large as
             <lb/>we could Have It on account of the
             <lb/>Eyes in the <unclear cert="low">Wheels.</unclear> Made 63 gallons
             <lb/>worked about 3/4 day fixed to go to <del rend="overstrike">tw</del>
