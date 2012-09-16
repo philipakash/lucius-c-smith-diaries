@@ -1222,14 +1222,14 @@
          <div xml:id="LCS18621004a" type="Entry">
             <dateline> <date when="1862-10-04"> Saturday <lb/> 
                October 4th 1862</date> </dateline>
-            <p><lb/> Morning as doans light all Hands to work
-            <lb/> putting up the mills George Dick Newton.
-            <lb/> Father &amp; myself we put up boats mills in the
-            <lb/> <unclear>Dame</unclear> House put sweeps an them. Put down
-            <lb/> more piping so as to Run Boat mills <gap reason="illegible/"></gap>
+            <p><lb/> Morning as <choice><sic> doans </sic><corr> dawns </corr></choice> light all Hands to work
+            <lb/> putting up the mills george Dick Newton
+            <lb/> Father &amp; myself we put up both mills in the
+            <lb/> <unclear>Dame</unclear> House put sweeps on them. Put down
+            <lb/> more piping so as to Run Both mills <gap reason="illegible/"></gap>
             <lb/> into the cistern the old mills we <unclear> D aved</unclear> all
             <lb/> the tackling of last year so that it took but
-               <lb/> as short time to put it up got nearly 
+               <lb/> a short time to put It up got nearly 
             <lb/> Ready to Run <unclear> farrnaan</unclear> Had quite
             <lb/> a nice shower of Rain Cane Has come in 
                <lb/><unclear> very</unclear> just this week. I now Have an <gap reason="illegible/"> </gap>
@@ -1240,16 +1240,16 @@
             <lb/> I feel nearly used up Tired out,</p></div>
          <pb facs="/8/8ac206a0-4b57-4c8d-ba24-62e14d0572ef"/> 
             <div xml:id="LCS18621005a" type="Entry">
-               <dateline> <date when="1862-10-04"> Sunday Oct 5th 1862</date></dateline>
-               <p> <lb/> <unclear> Staid</unclear> around Home all
+               <dateline> <date when="1862-10-05"> Sunday Oct 5th 1862</date></dateline>
+               <p> <lb/> <choice> <sic> Staid</sic><corr> Stayed </corr></choice> around Home all
                <lb/>day <unclear>anleg</unclear> to go down to <unclear> Sie Sagers</unclear> about
               <lb/> making me Some Barrels. Warm and pleasant </p>
                <p> <lb/> still no Rain. Last week  we
                <lb/> Had a small little rain enough to log the
-               <lb/> Dust. I dont mutch look for rain this fall.
+               <lb/> Dust. I dont <choice><sic> mutch </sic><corr> much </corr></choice> look for rain this fall.
                <lb/> Scarsely any Wheat is Sowed yet.</p> </div>
                <div xml:id="LCS18621012a" type="Entry">
-                  <dateline><date when="1862-10-12">For the Week Ending Oct 11 <unclear> "/</unclear> 62
+                  <dateline><date from="1862-10-06" to="1862-10-11">For the Week Ending Oct 11 <unclear> "/</unclear> 62
                      <lb/> <unclear> Sunday</unclear> morning</date></dateline>
                   <p><lb/> Early finished <unclear> firing</unclear> the mills 
                   <lb/> and went to work. they work well. we drove
@@ -1270,11 +1270,12 @@
                 </div>
          <div xml:id="LCS18621012b" type="Entry">
             <dateline><date when="1862-10-12">Sunday 12 Oct 1862 </date></dateline>
-            <p><lb/> Staid around
+            <p><lb/> <choice> <sic> Staid</sic><corr> Stayed </corr></choice> around
             <lb/>Home all day plenty of <gap reason="illegible/"></gap> all day at the
             <lb/> Cane House.</p>
             <div xml:id="LCS18621019a" type="Entry">
-               <dateline> <date when="1862-10-19"> For the Week ending Oct 18th-- 1862</date></dateline>
+               <dateline> <date from="1862-10-13" to="1862-10-18"> For the Week ending Oct 18th 
+                  <!-- The year has been written at the end of the next line. Unique case to consider in class. --> 1862</date></dateline>
                <p>  <lb/> This week we first Drove Buisness right
                <lb/> through all the week we made <unclear> 550 1/4</unclear> gallons
                   <lb/> of molopes and of the Best Rind. 91 17/24
@@ -1309,14 +1310,14 @@
             </div>
             <div xml:id="LCS18621019b" type="Entry">
             <dateline><date when="1862-10-19"> Sunday 19.</date></dateline>
-            <p> <lb/> Staid all around
-               <lb/> Cane House all Eavning quite cold
+            <p> <lb/> <choice> <sic> Staid</sic><corr> Stayed </corr></choice> all around
+               <lb/> Cane House all <choice><sic> Eavning </sic><corr> Evening </corr></choice> quite cold
                <lb/> Expect a freeze. 
             </p>
             </div>
             <pb facs="/6/65c3a7d6-5fa0-4ec5-9511-66d5efe59d02"/>
             <div xml:id="LCS18621025a" type="Entry">
-               <dateline><date when="1862-10-25"> For the week Ending Oct 25 1862</date></dateline>
+               <dateline><date from="1862-10-20" to="1862-10-25"> For the week Ending Oct 25 1862</date></dateline>
                <p> <lb/>This week Drove
                   <lb/> the Business as fast as we could move
                   <lb/>579 gallons. we Had some considerable bad
@@ -1378,7 +1379,7 @@
                </p>
             </div>
             <div xml:id="LCS18621101" type="Entry">
-               <dateline> <date when="1862-11-01"> For the Week ending 
+               <dateline> <date from="1862-10-27" to="1862-11-01"> For the Week ending 
                <lb/> November 1st 1862 Saturday </date></dateline>
                              <p>
                   <lb/> This Week Had good luck made 636 1/2
@@ -1398,7 +1399,7 @@
             <pb facs="/b/b7cb4e7e-03e1-4fcd-8ae8-4e6aa0a2c8b9"/>
             <div xml:id="LCS18621102" type="Entry">
             <dateline> <date when="1862-11-02"> Sunday 2nd November 1862 </date></dateline>
-               <p> <lb/>Staid around cane House all cleaned 
+               <p> <lb/><choice> <sic> Staid</sic><corr> Stayed </corr></choice> around cane House all cleaned 
                   <lb/> up and put things to Rights John &amp; me
                                    
                </p>
