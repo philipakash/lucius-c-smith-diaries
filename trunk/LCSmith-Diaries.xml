@@ -985,52 +985,52 @@
                <lb/>on their way from Columbus.
             </p>
          </div>
-         <pb facs="9999"/>
+         <pb facs="/9/987dbf76-ef52-4db3-8882-8612c596d823"/>
          <div xml:id="LCS18620907" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-07">Sunday Sept 7th<hi rend="underline">1862</hi></date></dateline>
-            <p><lb/>Staid <unclear> allermund</unclear>
+            <p><lb/><choice><sic>Staid</sic><corr>Stayed</corr></choice> all <unclear>ermund</unclear>
             <lb/>Home all day rather Lonesome Wrote a
-            <lb/>Letter to <unclear> Leimual</unclear> Smith. Columbus Ohio.
+               <lb/>Letter to <persName><unclear cert="low">Lermual</unclear> Smith</persName>. Columbus Ohio.
             </p>
          </div>
          <div xml:id="LCS18620908" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-08">Monday 8</date></dateline>
-            <p><lb/>Today Father Newton
-            <lb/>and me <unclear> two words</unclear>the Horse trainer and
+            <p><lb/>To<add place="above">day</add> Father Newton
+            <lb/>and me put <unclear cert="medium">down</unclear> the Horse power and
             <lb/>partly rigged it to the mill.
             </p>
             </div>
          <div xml:id="LCS18620909" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-09">Tues 9</date></dateline>
-            <p><lb/>Morning <unclear cert="medium">Hamid</unclear> and me went to Delaware
-            <lb/>after <unclear cert="low">that</unclear> <unclear cert="low">I saw</unclear> they manufacture <unclear cert="medium">irons</unclear>
-            <lb/>up there and as I could not get
-            <lb/>suitabble Iron in Columbus I can
-            <lb/><unclear cert="low">eluded</unclear> to try up there I got quite good
-            <lb/>Iron 30 inches wide by 8 to 9 <abbr>ft</abbr> <unclear cert="low">Coming</unclear> 
-            <lb/>for 8 <unclear cert="low">ets</unclear> <unclear>two words</unclear> witch useto <unclear cert="low">all onley</unclear>
-            <lb/>cast 6 But the stopping of mills and
-            <lb/>the <unclear cert="high">tax Law</unclear>makes all Iron Higher
-            <lb/><unclear cert="medium">stoped</unclear> at Rodney Smiths and seen a
-            <lb/>coupel of old school mates of Delaware
-            <lb/>Had a good time with them we staid
-            <lb/>all night at Mr <unclear cert="medium">Reelers</unclear>near <unclear cert="medium">Center</unclear>
-            <pb facs="9999"/>
-            <lb/>Who is also a <unclear cert="low">sarghem</unclear> manufacture
+            <p><lb/>Morning <persName>Hamer</persName> &amp; me went to <placeName>Delaware</placeName>
+            <lb/>after sheet Iron they manufacture pans
+            <lb/>up <choice><sic>thare</sic><corr>there</corr></choice> and as I could not get
+            <lb/><choice><sic>suitabble</sic><corr>suitable</corr></choice> Iron in Columbus I con<seg type="softhyphen">
+            <lb/></seg>cluded to try up <choice><sic>thare</sic><corr>there</corr></choice> I got quite good
+            <lb/>Iron 30 inches wide by 8 &amp; 9 <choice><abbr>ft</abbr><expan>feet</expan></choice> <unclear cert="low">Coming</unclear> 
+            <lb/>for 8 <choice><abbr>cts</abbr><expan>cents</expan></choice> <choice><sic>perr</sic><corr>per</corr></choice> <choice><abbr>lbs</abbr><expan>pound</expan></choice> <choice><sic>witch</sic><corr>which</corr></choice> <choice><sic>useto</sic><corr>used to</corr></choice> <del rend="overstrike">oly</del> <choice><sic>onley</sic><corr>only</corr></choice>
+            <lb/>cost 6 But the stopping of mills &amp;
+            <lb/>the tax Law makes all Iron Higher
+            <lb/><choice><sic>stoped</sic><corr>stopped</corr></choice> at <persName>Rodney Smith</persName>s and seen a
+            <lb/><choice><sic>coupel</sic><corr>couple</corr></choice> of old school mates of <placeName>Delaware</placeName>
+            <lb/>Had a good time <choice><sic>withe</sic><corr>with</corr></choice> them we <choice><sic>staid</sic><corr>stayed</corr></choice>
+            <lb/>all night at <persName>Mr Reeler</persName>s near <unclear cert="medium">Center</unclear>
+            <pb facs="/8/8ed83dd3-f790-4c51-bc0c-7574f6ed9084"/>
+            <lb/>Who is also a <unclear cert="low">sarghem</unclear> manufacture<supplied reason="omitted" resp="ed">r</supplied>
             </p>
          </div>
          <div xml:id="LCS18620910" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-10">Wedns 10 Sept 1862</date></dateline>
-            <p><lb/>Morning came and Hame got the Log Wagon
+            <p><lb/>morning came an<supplied reason="omitted" resp="ed">d</supplied> Hame got the Log Wagon
             <lb/>and in the afternoon Hawled two logs and
             <lb/>got them sawed and Hawled the lumber
             <lb/>Home. Father is at work for me and was
             <lb/>yesterday. very Hot and so Dry It
-            <lb/>seams as if every thing would dry up.
+            <lb/><choice><sic>seams</sic><corr>seems</corr></choice> as if every thing would Dry up.
             </p>
          </div>
          <div xml:id="LCS18620911" type="Entry">
@@ -1185,7 +1185,7 @@
             <lb/>Oct 2</date></dateline>
             <lb/><p>Today about three oclock Broake
             <lb/>my counter shaft that runs on top of the
-            <lb/>timbling shaf witch is geared to the mill
+            <lb/>timbling shaf<supplied reason="omitted" resp="ed">t</supplied> witch is geared to the mill
                <pb facs="/1/1aa72cec-aecb-448b-96a2-3d4bb88d1fa8"/>
             <lb/>It did not Break But twisted all
             <lb/>up like <unclear>Jan</unclear> would twist a switch
@@ -1202,11 +1202,11 @@
             <lb/><p>4 oclock Father &amp; I started for town
             <lb/>for the purpose of getting a new shaft at a
             <lb/>new mill we concluded a new shaft would
-            <lb/>stand a good chance of braking again and
+            <lb/>stand a good chance of <choice><sic>braking</sic><corr>breaking</corr></choice> again and
             <lb/>conclude to get a new mill Bought one of
             <lb/>John L. Gill and son for 88 dollars a <unclear cert="low">verricle</unclear>
-            <lb/>mill of 14 <unclear cert="low">meh laing</unclear> Rolls Large Roll 12 in
-            <lb/>ches in Diameter It seams like a verry
+            <lb/>mill of 14 <unclear cert="low">meh laing</unclear> Rolls Large Roll 12 in<seg type="softhyphen">
+            <lb/></seg>ches in Diameter It <choice><sic>seams</sic><corr>seems</corr></choice> like a <choice><sic>verry</sic><corr>very</corr></choice>
             <lb/>stout stanch mill I Had to pay 8 Dollars more
             <lb/>than I would Had to pay before the tax law went
             <lb/>into Effect It is not fare to make the
