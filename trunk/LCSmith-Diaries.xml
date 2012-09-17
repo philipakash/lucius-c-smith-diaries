@@ -585,37 +585,39 @@
          </div>
          <div xml:id="LCS18620803" type="Entry">
             <lb/>
-            <dateline><date when="1862-08-03">Sunday August 3rd <hi rend="underline">1862</hi></date></dateline>
+            <dateline><date when="1862-08-03">Sunday August 3<choice><abbr>d</abbr><expan>rd</expan></choice><hi rend="underline">1862</hi></date></dateline>
             <p>
                <lb/>Wrote a
                <lb/>letter to Sam Smith and done my diary
-               <lb/>writing went over to <unclear cert="low">Nulless</unclear> Eavning 
+               <lb/>writing went over to <unclear cert="low">Nulless</unclear> <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> 
+               <!--Unsure about transcribing a phrase defining a time day with an apparent error-->
             </p>
             <p>
-               <lb/>Went to se <unclear cert="low">Heilane</unclear> Smith as Hee
+               <lb/>Went to <choice><sic>se</sic><corr>see</corr></choice><unclear cert="low">Heilane</unclear> Smith as <choice><sic>Hee</sic><corr>He</corr></choice>
+               <!--Hee transcribed as an apparent error though it might be a flourish-->
                <lb/>is to start south tomorow Having got 
-               <lb/> <gap reason="illegible" unit="words" extent="2"></gap> Still verry warm.
+               <lb/> <gap reason="illegible" unit="words" extent="2"></gap> Still <choice><sic>verry</sic><corr>very</corr></choice>warm.
             </p>
          </div> 
          <div xml:id="LCS18620804" type="Entry">      
-            <lb/>
+               <lb/>
          <dateline><date from="1862-08-04" to="1862-08-05">Monday 4th
-         <lb/>and Tues 5th Aug 1862</date></dateline>
+               <lb/>and <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice> 5th Aug 1862</date></dateline>
          <p>
-            <lb/>Worked at my
-            <lb/>Buildings Newton &amp; Father finished
-            <lb/>the Hay and theashed out some wheat
-            <lb/>night Tues John come sick Having <del rend="overstrike">a</del>
-            <lb/>had a slight bowel complaint.
-            <lb/>Todayes <unclear cert="medium">paper</unclear> Tuesday Brings an <del rend="overstrike">d</del>
-            <lb/>order from the Secretary of War 
-            <lb/>calling for an unconditional Draft of
-            <lb/> three heundred thousand more men
-            <lb/>in addition to the same amount of 
-            <lb/>volunteers <gap reason="illegible" unit="words" extent="1"/>collect for
-            <lb/>some time ago. This order was issued yester
-            <lb/>day morning. That amount of men will <unclear cert="medium">fill</unclear>
-            <lb/>Hold on the people
+               <lb/>Worked at my
+               <lb/>Buildings Newton &amp; Father finished
+               <lb/>the Hay and <choice><sic>theashed</sic><corr>thrashed</corr></choice>out some wheat
+               <lb/><time>night <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice></time> John come sick Having <del rend="overstrike">a</del>
+               <lb/>had a slight bowel complaint.
+               <lb/><choice><sic>Todayes</sic><corr>Today's</corr></choice><unclear cert="medium">paper</unclear> Tuesday Brings an<del rend="overstrike">d</del>
+               <lb/>order from the Secretary of War 
+               <lb/>calling for an unconditional Draft of
+               <lb/>three <choice><sic>heundred</sic><corr>hundred</corr></choice>thousand more men
+               <lb/>in addition to the same amount of 
+               <lb/>volunteers previously called for
+               <lb/>some time ago. This order was issued yester<seg type="softhyphen">
+               <lb/></seg>day morning. That amount of men will <unclear cert="low">fill</unclear>
+               <lb/>Hold on the people
          </p>
          </div>
          <pb facs="9999"/>
@@ -658,7 +660,7 @@
    <dateline><date when="1862-08-09">Saturday 9th Aug <hi rend="underline">1862</hi><lb/>
    <time>morning</time></date></dateline>
    <p>
-      <lb/>went to Columbus got Glibert Collins
+      <lb/>went to Columbus got Gilbert Collins
       <lb/>to put my property over in the old mans
       <lb/>Hands so that if I am drafted <del rend="overstrike">I</del> He
       <lb/>can take care of it for me and them
