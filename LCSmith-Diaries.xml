@@ -998,7 +998,7 @@
          <div xml:id="LCS18620908" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-08">Monday 8</date></dateline>
-            <p><lb/>To<add place="above">day</add> Father Newton
+            <p><lb/>To<add place="above">day</add> Father <persName>Newton</persName>
             <lb/>and me put <unclear cert="medium">down</unclear> the Horse power and
             <lb/>partly rigged it to the mill.
             </p>
@@ -1015,7 +1015,7 @@
             <lb/>for 8 <choice><abbr>cts</abbr><expan>cents</expan></choice> <choice><sic>perr</sic><corr>per</corr></choice> <choice><abbr>lbs</abbr><expan>pound</expan></choice> <choice><sic>witch</sic><corr>which</corr></choice> <choice><sic>useto</sic><corr>used to</corr></choice> <del rend="overstrike">oly</del> <choice><sic>onley</sic><corr>only</corr></choice>
             <lb/>cost 6 But the stopping of mills &amp;
             <lb/>the tax Law makes all Iron Higher
-            <lb/><choice><sic>stoped</sic><corr>stopped</corr></choice> at <persName>Rodney Smith</persName>s and seen a
+            <lb/><choice><sic>stoped</sic><corr>stopped</corr></choice> at <persName>Rodney Smith</persName>s <!--In possessives, should we include the "s" in the "name" element?--> and seen a
             <lb/><choice><sic>coupel</sic><corr>couple</corr></choice> of old school mates of <placeName>Delaware</placeName>
             <lb/>Had a good time <choice><sic>withe</sic><corr>with</corr></choice> them we <choice><sic>staid</sic><corr>stayed</corr></choice>
             <lb/>all night at <persName>Mr Reeler</persName>s near <unclear cert="medium">Center</unclear>
@@ -1026,7 +1026,7 @@
          <div xml:id="LCS18620910" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-10">Wedns 10 Sept 1862</date></dateline>
-            <p><lb/>morning came an<supplied reason="omitted" resp="ed">d</supplied> Hame got the Log Wagon
+            <p><lb/>morning came an<supplied reason="omitted" resp="ed">d</supplied> <persName>Hame</persName> got the Log Wagon
             <lb/>and in the afternoon Hawled two logs and
             <lb/>got them sawed and Hawled the lumber
             <lb/>Home. Father is at work for me and was
@@ -1072,11 +1072,11 @@
             <lb/>Hope It will do well as It will be <choice><sic>two</sic><corr>too</corr></choice>
             <lb/>Late to <unclear cert="medium">Refix</unclear> anything well.
             </p>
-            <lb/><p>Eavning went down
+            <lb/><p><time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> went down
             <lb/>In <placeName><choice><sic>Jeferson</sic><corr>Jefferson</corr></choice></placeName> to Carptenters to get his work
             <lb/>done and a sheet Iron spout or top made
             <lb/>for my Chimney. the <choice><sic>litle</sic><corr>little</corr></choice> rain is <choice><sic>prety</sic><corr>pretty</corr></choice>
-            <lb/>well Dried up up already. the Boyes have
+            <lb/>well Dried up up already. the <choice><sic>Boyes</sic><corr>Boys</corr></choice> have
             <lb/>Been cutting corn this week as It is all Dried
             <lb/>up <choice><sic>especialy</sic><corr>especially</corr></choice> on High ground. pastures are
             <lb/>Dead. Dried up. no seeding done yet.
@@ -1128,7 +1128,7 @@
             <p><lb/><choice><sic>Staid</sic><corr>Stayed</corr></choice> <choice><sic>arround</sic><corr>around</corr></choice>
             <lb/>Home all day <choice><sic>untill</sic><corr>until</corr></choice> <choice><sic>eavning</sic><corr>evening</corr></choice> when a
             <lb/>parcel of us took a Ride Horse
-            <lb/>Back</p><!--Question about formatting Horse/Back-->
+            <lb/>Back</p><!--Question about formatting Horse/Back: "Back" immediately below "Horse": interlinear coding instead of lb?-->
          </div>
          <div xml:id="LCS18620927" type="Entry">
             <lb/>
