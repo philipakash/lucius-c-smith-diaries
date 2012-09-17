@@ -590,7 +590,7 @@
                <lb/>Wrote a
                <lb/>letter to Sam Smith and done my diary
                <lb/>writing went over to <unclear cert="low">Nulless</unclear> <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> 
-               <!--Unsure about transcribing a phrase defining a time day with an apparent error-->
+               <!--Unsure about transcribing a phrase defining a time of day with an apparent error-->
             </p>
             <p>
                <lb/>Went to <choice><sic>se</sic><corr>see</corr></choice><unclear cert="low">Heilane</unclear> Smith as <choice><sic>Hee</sic><corr>He</corr></choice>
@@ -605,7 +605,7 @@
                <lb/>and <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice> 5th Aug 1862</date></dateline>
          <p>
                <lb/>Worked at my
-               <lb/>Buildings Newton &amp; Father finished
+            <lb/>Buildings <persName>Newton</persName> &amp; Father finished
                <lb/>the Hay and <choice><sic>theashed</sic><corr>thrashed</corr></choice>out some wheat
                <lb/><time>night <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice></time> John come sick Having <del rend="overstrike">a</del>
                <lb/>had a slight bowel complaint.
@@ -626,33 +626,33 @@
    <dateline><date when="1862-08-05">Wednsday 6th Aug <hi rend="underline">1862</hi><lb/>
    <time>last night</time></date></dateline>
    <p>
-      <lb/>Had a good rain to day Newton
-      <lb/>John &amp; me quarried and Hawled stone from
+      <lb/>Had a good rain to day <persName>Newton</persName>
+      <lb/><persName>John</persName> &amp; me quarried and Hawled stone from
       <lb/><unclear cert="low">Combells</unclear><!-- misspelled reference to Columbus? --> Hawled five loads. They are for
       <lb/>my well <time>night</time>went over all of us to a
-      <lb/>party at Roll Eavens theres was a great
+      <lb/>party at <persName>Roll Eavens</persName> there was a great
       <lb/><del rend="erased">cr l</del>crowd there. But a poor party as
-      <lb/>old Anna would not let them play They
+      <lb/>old Anna would not let them play. They
       <lb/>paraded around in the lane <unclear cert="high">until</unclear>
       <lb/>late and dispersed the <unclear cert="medium">Girls</unclear> Having a
-      <lb/>lot of spoiled <unclear cert="low">drepes</unclear>
+      <lb/>lot of spoiled <unclear cert="medium">dresses</unclear>
    </p>
 </div>  
 <div xml:id="LC18620807" type="Entry">
    <dateline><date when="1892-08-07">Thursday 7th</date></dateline>
    <p>
-      <lb/>Newton &amp; me worked at my building 
-      <lb/><unclear cert="low">cleeting</unclear> all of it and arranged
-      <lb/>things about the building <unclear cert="high">and</unclear> went
-      <lb/>to mill <unclear cert="medium">Nathan</unclear>and <unclear cert="medium">Girls</unclear> went along
+      <lb/><persName>Newton</persName> &amp; me worked at my Building 
+      <lb/>finished <choice><sic>cleeting</sic><corr>cleating</corr></choice> all of it and arranged
+      <lb/>things about the building <unclear cert="low">dad</unclear> went
+      <lb/>to mill <unclear cert="medium"><persName>Nathan</persName></unclear>and <unclear cert="medium">girls</unclear> went along
       <lb/>Black <unclear cert="low">levling</unclear>
    </p>
 </div>
 <div xml:id="LCS18620808" type="Entry">
-   <dateline><date when="1862-08-08">Frid 8th</date></dateline><p>to day I went
-      <lb/>to see a coupel of Horse power  and engaged
-      <lb/>one of Daniel <unclear cert="low">Bennet's</unclear> got my horse <unclear cert="medium">shod</unclear>
-      <lb/>Newton Hawled stone for me
+   <dateline><date when="1862-08-08"><choice><abbr>Frid</abbr><expan>Friday</expan></choice> 8th</date></dateline><p><choice><sic>to day</sic><corr>today</corr></choice> I went
+      <lb/>to see a coupel of Horse power and engaged
+      <lb/>one of <persName>Daniel <unclear cert="medium">Bennits</unclear></persName> got my Horse <unclear cert="medium">shod</unclear>
+      <lb/><persName>Newton</persName> Hawled stone for me
    </p>
 </div>
    <pb facs="9999"/> 
@@ -660,14 +660,15 @@
    <dateline><date when="1862-08-09">Saturday 9th Aug <hi rend="underline">1862</hi><lb/>
    <time>morning</time></date></dateline>
    <p>
-      <lb/>went to Columbus got Gilbert Collins
-      <lb/>to put my property over in the old mans
+      <lb/>went to Columbus got <persName>Gilbert Collins</persName>
+      <lb/>to put my property over in the old <choice></choice><sic>mans</sic><corr>man's</corr>
       <lb/>Hands so that if I am drafted <del rend="overstrike">I</del> He
       <lb/>can take care of it for me and them
       <lb/>Patent Right men can also stand
-      <lb/>off. Went out to Gallet <gap reason="illegible" unit="words" extent="1"/>
-      <lb/>and staid all night. <del rend="erased">G</del>Joeseph and
-      <lb/>W<gap reason="illegible" unit="letters" extent="2"/> Have both Enlisted for fear of
+      <lb/>off. Went out to <persName>Gallet Grovenberies</persName>
+      <lb/>and staid all night. <del rend="erased">G</del><persName>Joeseph</persName> and
+      <!-- unsure if Joeseph is misspelt or not here-->
+      <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice></persName> Have both Enlisted for fear of
       <lb/> the Draft this afernoon Had a good
       <lb/>rain.
    </p>
@@ -676,31 +677,31 @@
    <dateline><date when="1862-08-10">Sunday 10th Aug <hi rend="underline">1862</hi><lb/>
    <time>morning</time></date></dateline><p>come Home got Home at noon
       <lb/><gap reason="illegible" unit="words" extent="1"/> Have Had a good nice rain went over
-      <lb/>to see John Dague about Digging my
+      <lb/>to see <persName>John Dague</persName> about Digging my
       <lb/>well as He promised to do it But
-      <lb/>the <unclear cert="medium">cite</unclear> to get Him to do it is verry
-      <lb/>slim <!--There is a gap here --> verry pleasant day
-      <lb/> But awfull <gap reason="illegible" unit="words" extent="1"/>
+      <lb/>the <unclear cert="medium">cite</unclear> to get Him to do it is <choice><sic>verry</sic><corr>very</corr></choice>
+      <lb/>slim <!--There is a gap here --> <choice><sic>verry</sic><corr>very</corr></choice> pleasant day
+      <lb/> But <choice><sic>awfull</sic><corr>awful</corr></choice><gap reason="illegible" unit="words" extent="1"/>
    </p>
 </div>         
    <pb facs="9999"/>
          <div xml:id="LCS18620811" type="Entry">
             <dateline><date when="1862-08-11">Monday Aug 11th <hi rend="underline">1862</hi><lb/>
-               <time>morning</time></date></dateline><p>John
+               <time>morning</time></date></dateline><p><persName>John</persName>
                   <lb/>and I went up near Center and got my 
-                  <lb/>Horse power for my mill It has to bee
-                  <lb/>Rewooded anew. Afternoon Newton commen
-                  <lb/><gap reason="illegible" unit="words" extent="1"/> to dig the well and I finished diging
-                  <lb/>ditches arround the House Had a tremen <!--another moment where Smith break two lines without indicating he is doing so although I will admit to looking
-                  up both tremen and dudus in the OED before figuring this out-->
-                  <lb/>dudus Headache to day.
+                  <lb/>Horse power for my mill It has to <choice><sic>bee</sic><corr>be</corr></choice>
+                  <lb/>Rewooded anew. <time>Afternoon</time> <persName>Newton</persName>commen<seg type="softhyphen">
+                  <lb/></seg>ced to dig the well and I finished diging
+                  <lb/>ditches arround the House Had a tremen<seg type="softhyphen">
+                  <lb/></seg>duous Headache to day.
+                  <!--variant spellling of tremendous is in the OED though Ngram puts its use mainly from 1750-1800 - do we want to encode it as archaic orthography?-->
             </p>
          </div>
          <div xml:id="LCS18620812" type="Entry">
             <dateline><date when="1862-08-12">Tues 12</date></dateline>
             <p>
-               <lb/>John Dug at the Well. <gap reason="illegible" unit="words" extent="2"/>
-               <lb/>and me Hawled stone out of the <unclear cert="low">crieh</unclear>
+               <lb/><persName>John</persName> Dug at the Well. <time>forenoon</time><unclear cert="low"><persName>Hamer</persName></unclear>
+               <lb/>and me Hawled stone out of the criek
                <lb/>Afternoon Hawled a load of wood to 
                <lb/><unclear cert="medium">Albany</unclear> for Dad and Hawled up a 
                <lb/>caneload of some Duse and put it in my
