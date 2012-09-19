@@ -806,11 +806,11 @@
                <dateline><date when="1862-08-24">Sunday Aug 24th<hi rend="underline">1862</hi></date></dateline>
             <p>
                <lb/>staid Home forenoon afternoon
-               <lb/>Went to see George Wilson <unclear cert="high">Hine</unclear> and
+               <lb/>Went to see <persName>George Wilson</persName> <persName><unclear cert="high">Hine</unclear></persName> and
                <lb/>4 others Have Just got Home from
                <lb/>the army Having been Discharged
-               <lb/><gap reason="illegible"/> Rice came Hear <choice><sic>Hear</sic><corr>here</corr></choice> He is one of
-               <lb/>the Discharged ones Hine and I
+               <lb/><persName><gap reason="illegible"/> Rice</persName> came Hear <choice><sic>Hear</sic><corr>here</corr></choice> He is one of
+               <lb/>the Discharged ones <persName>Hine</persName> and I
                <lb/>went to Albany to meeting at night
             </p>
          </div>
@@ -820,15 +820,15 @@
             <dateline><date when="1862-08-25">Monday 25 August 1862</date>
             <lb/><time>forenoon</time></dateline> <!-- are we using time elements for things like 'forenoon'? -->
             <p>
-               <lb/>Went to see <unclear cert="medium">Mr Sanders</unclear> to get <unclear cert="high">Hine</unclear>
+               <lb/>Went to see <persName><unclear cert="medium">Mr Sanders</unclear></persName> to get <persName><unclear cert="high">Hine</unclear></persName>
                <lb/>to come and Help me make my
                <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> and to <unclear cert="high">Jersey</unclear> <unclear cert="high">tomorrow</unclear> <!-- is his way of writing tomorrow, with a little gap between the o and the m a single word, or two? --> to
                <lb/>get a pair of Boots made.  afternoon
-               <lb/>worked at my Building Newton hawled
+               <lb/>worked at my Building <persName>Newton</persName> hawled
                <lb/>Wood half day finished Hawling I now
                <lb/>Have over 40 fourty <!-- weird overstriking, need help! --> cords of good
                <lb/>Wood Enough I think to do me.
-               <lb/>Father is putting up the Cellar Door
+               <lb/>Father <!-- are we coding father as a person name? --> is putting up the Cellar Door
                <lb/>He has had one made a <choice><sic>loung</sic><corr>long</corr></choice> time.
                <lb/>as <choice><sic>loung</sic><corr>long</corr></choice> as the House has been built we
                <lb/> Have had no <del rend="overstrike">dor</del> <choice><sic>doore</sic><corr>door</corr></choice> to the Cellar.
@@ -862,8 +862,8 @@
             <p>
                <lb/>worked at my House at my <unclear cert="low">stream</unclear>
                <lb/>spout put up the timbers and arranged
-               <lb/>them.  <choice><sic>Eavning</sic><corr>Evening</corr></choice> Samual Smith and
-               <lb/>His mother and Frank Lane and Wife
+               <lb/>them.  <choice><sic>Eavning</sic><corr>Evening</corr></choice> <persName>Samual Smith</persName> and
+               <lb/>His mother and <persName>Frank Lane</persName> and Wife
                <lb/>came.  <choice><sic>Boyes</sic><corr>Boys</corr></choice> doing nothing <choice><sic>mutch</sic><corr>much</corr></choice> only
                <lb/>cutting some wood.  Had a Little sprinkle
                <lb/>of rain.
@@ -874,8 +874,8 @@
             <dateline><date when="1862-08-28">Thursday 28</date></dateline>
             <p>
                <lb/>To day spent the day
-               <lb/>with the folks went awhile to <unclear cert="low">Roll Eavenes</unclear>
-               <lb/>Ben Sauders came on and worked at the
+               <lb/>with the folks went awhile to <persName><unclear cert="low">Roll Eavenes</unclear></persName>
+               <lb/><persName>Ben Sauders</persName> came on and worked at the
                <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> of my Buildings.  quite cool.
          <pb facs="/f/f4cc9305-1e08-4664-b4dc-dcdcbacc96ad"/>
                <lb/>In the country since the proclimation of the
@@ -895,14 +895,14 @@
                <lb/>all day Had a <unclear cert="medium">swad</unclear> of
                <lb/>girls <choice><sic>Hear</sic><corr>here</corr></choice> all they like the side saddle 
                <lb/>a little well.  night went to meeting to 
-               <lb/>Albany Heard <unclear cert="high">Hurlocker</unclear> preach.  seen
-               <lb/>sam and Frank <del rend="overstrike">L</del> Lane they did not go
-               <lb/>Home yesterday as aunt Hariet was <del rend="overstrike">u</del> sick
+               <lb/>Albany Heard <persName><unclear cert="high">Hurlocker</unclear></persName> preach.  seen
+               <lb/><persName>sam and Frank <del rend="overstrike">L</del> Lane</persName> <!-- how to do this with two names? --> they did not go
+               <lb/>Home yesterday as <persName>aunt Hariet</persName> was <del rend="overstrike">u</del> sick
                <lb/>will tomorrow.  To day it seems as if 
                <lb/><choice><sic>evry</sic><corr>every</corr></choice> thing would die for want of
                <lb/>Rain corn and cane and grass <!-- think we talked about this but can't remember if we have a different way of reprseting a long s? -->is as
                <lb/>near dead as need be and the Dust on the
-               <lb/>Road is almost <unclear cert="high">unsupportable</unclear>. Augustine
+               <lb/>Road is almost <unclear cert="high">unsupportable</unclear>. <persName>Augustine</persName>
                <lb/>last week Had a <unclear cert="medium">tower</unclear> of fits getting Better
                <lb/><hi rend="underline">now</hi> <!-- the single word on this line is right justified. Do we need to code that? -->        
             </p>
@@ -927,12 +927,12 @@
                <lb/>other things caluclated to get my sheet iron
                <lb/>But could not <choice><sic>finde</sic><corr>find</corr></choice> any to suit me
                <lb/>&amp; <del rend="overstrike">colu</del> concluded to wait untill <!-- I think two ls was an acceptable spelling; double check -->next
-               <lb/>week. Sat or latter Friday night Homer
-               <lb/>and me went over to uncle Lewises and staid
+               <lb/>week. Sat or latter Friday night <persName>Homer</persName>
+               <lb/>and me went over to <persName>uncle Lewises</persName> and staid
                <lb/>all night and sat morning went to westerville
                <lb/>to get my castings went North of town <del rend="overstrike">a</del>
                <lb/>some distance and got my counter shaft
-               <lb/>turned and Charley was <choice><sic>prety</sic><corr>pretty</corr></choice> new today to
+               <lb/>turned and <persName>Charley</persName> was <choice><sic>prety</sic><corr>pretty</corr></choice> new today to
          <pb facs="/4/473fd313-d08a-4b7a-b4c9-e8cc387f76db"/>
                <lb/><unclear cert="low">smelt</unclear> I got my paterne in just in time to
                <lb/>get it done that day. got Home simetime
@@ -967,7 +967,7 @@
                <lb/>being seven thousand <unclear cert="low">strong</unclear> all being
                <lb/>raw undrilled troops the 95 Ohio was
                <lb/>Badly cut up taken <choice><sic>prisners</sic><corr>prisoners</corr></choice> and then Paroled
-               <lb/>and sent Home The Rebels under Gen Smith
+               <lb/>and sent Home The Rebels under <persName>Gen Smith</persName>
                <lb/>are <!-- weird smudged ad visible before advancing -->advancing <del rend="overstrike">under</del> on to Cincinnatii
                <lb/>the city is put under martial Law also the
                <lb/>Neighboring <choice><sic>twowns</sic><corr>towns</corr></choice> all the state is making
@@ -982,8 +982,8 @@
             </p>   
             <p>
                <lb/> the girls went up this week
-               <lb/>and got gran pop. anut Eliza and
-               <lb/>Thornton stopped all night on Friday
+               <lb/>and got gran pop. <persName>aunt Eliza</persName> and
+               <lb/><persName>Thornton</persName> stopped all night on Friday
                <lb/>on their way from Columbus.
             </p>
          </div>
