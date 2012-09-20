@@ -1528,7 +1528,7 @@
             <p>
                <lb/>My side However came out Best Having
                <lb/>23 wild scalps and the other side 18. as
-               <lb/>game was <choice><sic>scarse</sic><corr>scarce</corr></choice> several <subst><del rend="strike">Wild</del> <add place="above">Tame</add></subst> Turkeys
+               <lb/>game was <choice><sic>scarse</sic><corr>scarce</corr></choice> several <subst><del rend="strike">Wild</del> <add place="above" hand="LSCHand">Tame</add></subst> Turkeys
                <lb/>was Killed. one Wild one was Killed by
                <lb/><persName><unclear cert="low">W<hi rend="underline">m</hi></unclear> Strait</persName>. night we Had <unclear cert="high">our</unclear> Great
                <lb/><choice><sic>aples</sic><corr>apples</corr></choice> Cider and cigars the Beaten side
@@ -1550,25 +1550,25 @@
                <lb/>Total valuation $987.00
                <lb/>counting that made at 20 cts value 20 cts
                <lb/>and that made on the Half. my Half at 50 cts
-               <lb/>pur gallan <hi rend="underline">about</hi> Half I made was was on
+               <lb/><choice><sic>pur</sic><corr>per</corr></choice> gallon <hi rend="underline">about</hi> Half I made was on
                <lb/>the Halves I have sold to the Best of
                <lb/>my accounts 281 <sic>galluns</sic>.
             </p>
             <p>
                <lb/>I Have now on
-               <lb/>Hand some over <del rend="overwrite">5.</del>700 <del rend="strike">seven</del> Hundred gallon
-               <lb/>to sell. I <unclear cert="low">fimde</unclear> <del rend="strike">some</del> a very Large Loss by
+               <lb/>Hand some over <subst><del rend="overwrite">5</del></subst>7.00 <subst><del rend="strike">seven</del><add place="above" hand="LCSHand">seven</add></subst> Hundred gallons
+               <lb/>to sell. I <choice><sic>finde</sic><corr>find</corr></choice> <del rend="strike">some</del> a very Large Loss by
                <lb/>shrinkage and other wages. we Have at
-               <lb/>several times lost cunsideerable by forgetting
-               <lb/>Barrells, Lening out and making customers
-               <lb/>good, It is a new <sic>Buissness</sic> to most people
+               <lb/>several times lost <choice><sic>cunsidurable</sic><corr>considerable</corr></choice> by forgetting
+               <lb/>Barrells, Lending out and making customers
+               <lb/>good, It is a new <choice><sic>Buissness</sic><corr>business</corr></choice> to most people
                <lb/>and we Have to cheat ourselves to Keep on
                <lb/>athe right side of customs. I Have sold
                <lb/>perhaps over the abovve amount
                <lb/>considerable But that is all I could
-               <lb/>finde <del rend="strike">on</del> when making up any <unclear cert="low">ritaris</unclear>
+               <lb/><choice><sic>finde</sic><corr>find</corr></choice> <del rend="strike">on</del> when making up my <choice><sic>riturns</sic><corr>returns</corr></choice>
                <lb/>an this year we will be more <unclear cert="medium">caucious</unclear>
-               <lb/>and perhaps withe the tax Law.
+               <lb/>and perhaps with the tax Law.
                <lb/>and Be better prepaired to meet It.
             </p>
             <pb facs="9999"/>
@@ -1576,11 +1576,12 @@
          <div xml:id="LCS18621130" type="Entry">
             <dateline><date when="1862-11-30">Sunday 30 November 1862</date></dateline>
             <p>
-               <lb/>Yesterday Misses
-               <lb/>Montgomery came to stay over Sunday
-               <lb/>withe us on Her Road <unclear cert="medium">House</unclear>
-               <lb/>John <unclear cert="low">Cauns</unclear> and Wife are Hear.
-               <lb/>nice <unclear cert="medium">dog</unclear> staid Home all day.
+               <lb/>Yesterday <persName>Misses
+               <lb/>Montgomery</persName> came to stay over Sunday
+               <lb/>withe us on Her Road Home
+               <lb/><persName>John Evans</persName> and <persName><addName type="endearment">Wife</addName></persName> are Hear.
+               <!-- Hmmm... interesting. Do we need a persName when someone is referred to by their relationship to someone else? If so, how do we mark it? "Wife" is not exactly an endearment... -->
+               <lb/>nice <choice><sic>prety</sic><corr>pretty</corr></choice> day staid Home all day.
             </p>
          </div>
          <!-- HA! It looks like he forgot the month had changed! Either that or he back dated this one. I'm assuming the former and tagging this as December 6th -->
