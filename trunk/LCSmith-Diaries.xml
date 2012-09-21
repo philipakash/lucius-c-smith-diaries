@@ -1486,7 +1486,7 @@
                <lb/>Morning <choice><sic>Hawled</sic><corr>hauled</corr></choice>
                <lb/><unclear cert="low">the</unclear> old mare away and cut Her open on
                <lb/>the Back and found Her Back Broken the
-               <lb/>small Ridge Bone Just inside the skin,
+               <lb/>small Ridge Bone Just inside the skin,fir
                <lb/>It was Brok<supplied reason="omitted" resp="ed">e</supplied> about two inches from
                <lb/>the End at the Hips toward the Head.
                <lb/>I am very sorry for the old mare as I have 
@@ -1584,14 +1584,15 @@
                <lb/>nice <choice><sic>prety</sic><corr>pretty</corr></choice> day staid Home all day.
             </p>
          </div>
-         <!-- HA! It looks like he forgot the month had changed! Either that or he back dated this one. I'm assuming the former and tagging this as December 6th -->
          <div xml:id="LCS18621206" type="Entry">
             <dateline><date from="1862-11-30" to="1862-12-06"><lb/>For the Week Ending<lb/>Sat Novem 6<hi rend="super">th</hi> 1862</date></dateline>
             <p>
-               <lb/>Monday morning went to Columbus with Dennis <unclear cert="medium">Strait</unclear> and
+               <lb/>Monday morning went to 
+               <lb/>Columbus with <persName>Dennis Strait</persName> and
                <lb/>Back the same Day. Done nothing
-               <lb/><unclear cert="low">mutch</unclear> all the week setled up with
-               <lb/>all that I could Farther &amp; Mother and Newton went to Columbus I sent <unclear cert="low">no this</unclear>
+               <lb/><choice><sic>mutch</sic><corr>much</corr></choice> all the week <choice><sic>setled</sic><corr>settled</corr></choice> up with
+               <lb/>all that I could <choice><sic>Farther</sic><corr>Father</corr></choice> &amp; Mother and 
+               <lb/>Newton went to Columbus I sent in the
                <lb/>pay for my new mill $88<hi rend="underline">00</hi> I Have
                <lb/>Squared up with most all my Debts
                <lb/>and Have some $80.00 left yet.
@@ -1602,36 +1603,37 @@
                <lb/>of coarse Boots of <unclear cert="low">monide</unclear> cleaned up
             <pb facs="9999"/>
                <lb/>A Lot of Cane seed I Have a nice
-               <lb/>Lot of It and <hi rend="underline">good</hi>. <unclear cert="medium">Bages</unclear>
+               <lb/>Lot of It and <hi rend="underline">good</hi>. <unclear cert="high">Boys</unclear>
                <lb/>some corn most to cold and dry.
-               <lb/>nice <sic>Weathre</sic> all week first part
+               <lb/>nice Weathe<supplied reason="omitted" resp="ed">r</supplied> all week first part
                <lb/>clear and quite warm Last part cold 
                <lb/>and Blustry snow. Saturday real cold
-               <lb/>murcury nearly to zero.
+               <lb/><choice><sic>murcury</sic><corr>mercury</corr></choice> nearly to zero.
                <lb/>
-               <!-- Interesting... what do we do with skipped lines? -->
+               <!-- Interesting... what do we do with skipped lines? Especially if we already have a P marker?-->
             </p>
          </div>
          <div xml:id="LCS18621207" type="Entry">
             <dateline><date when="1862-12-07"><lb/>Sunday Decem 7<hi rend="super">th</hi> 1862</date></dateline>
             <p>
-               <lb/>staid Home all day <hi rend="underline"><unclear cert="high">real</unclear> Winter</hi>
+               <lb/><choice><sic>staid</sic><corr>Stayed</corr></choice> Home all day <hi rend="underline">real Winter</hi>
                <lb/>
             </p>
          </div>
          <div xml:id="LCS18621213" type="Entry">
             <dateline><date from="1862-12-07" to="1862-12-13"><lb/>For the Week Ending Saturday<lb/>Decem 13<hi rend="super">th</hi> 1862.</date></dateline>
             <p>
-               Monday George 
-               <lb/>Goodrich and me <unclear cert="medium">went</unclear> and to uncle
+               Monday <persName>George 
+               <lb/>Goodrich</persName> and me went and to <persName><addName type="nickname">uncle
                <!-- Interesting... this time "Lewis" has an i inserted above the line... not sure how to mark that... -->
-               <lb/>Lewises and staid all night walked over
-               <lb/>nice walking. Tuesday morning went over to Worthington and then by the <unclear cert="low">sarts</unclear> to
-               <lb/>Delaware George <unclear cert="low">to</unclear> <hi rend="super">a</hi> Mr <unclear cert="high">Matherman</unclear> abo
-               <lb/>us working for Him at the fur mill Buis
-               <lb/>ness I went to get a Job of collecting of Him
-               <lb/>to do But He Had got a Hand. Evening
-               <lb/>went to see some old Friends of when I use
+                  <lb/>Lew<add place="above">i</add>ses</addName></persName> and <choice><sic>staid</sic><corr>stayed</corr></choice> all night walked over
+               <lb/>nice walking. Tuesday morning went over
+               <lb/>to Worthington and then by the <unclear cert="low">cars</unclear> to
+               <lb/>Delaware George to <add place="above">a</add> <persName>Mr <unclear cert="high">Watterman</unclear></persName> abo<supplied reason="omitted" resp="ed">out</supplied>
+               <lb/>us working for Him at the fur mill Buis<seg type="softhyphen">
+               <lb/></seg>ness I went to get a Job of collecting of Him
+               <lb/>to Do But He Had got a Hand. Evening
+               <lb/>went to see some old Friends of when I use<supplied reason="omitted" resp="ed">d</supplied>
                <lb/>to go to school <hi rend="underline">there</hi>
             </p>
          </div>
