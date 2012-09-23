@@ -1065,7 +1065,7 @@
          </div>
          <div xml:id="LCS18620913" type="Entry">
             <dateline> <date when="1862-09-13"></date>Sept <choice><sic>18th</sic><corr>13th</corr></choice> 1862</dateline>
-            <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> <unclear cert="low">shovel</unclear>and Father
+            <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> <unclear cert="low">shoots</unclear>and Father
             <lb/>and me got the Horse power and mill in
             <lb/>as we Hope running order it <choice><sic>seams</sic><corr>seems</corr></choice> at
             <lb/>least to move quite well But not quite
@@ -1095,7 +1095,7 @@
             <lb/>
             <dateline> <date from="1862-09-14" to="1862-09-20">for the week Ending Sept 20th 1862</date></dateline> 
             <p><lb/>this week put
-            <lb/>My Cane House <unclear cert="high">matter</unclear>
+            <lb/>My Cane House <unclear cert="high">matters</unclear>
             <lb/>through as far as I could from day light
             <lb/>to dark Hawled 1850 brick <unclear cert="high">montgomery</unclear>
             <lb/>laid my furnaces Carpenter made me a
@@ -1103,9 +1103,9 @@
             <lb/>Chimney a tin pump &amp; some other things
             <lb/>and riveted my sheet Iron together
             <lb/>Father Helped me all the week <persName>George good<seg type="softhyphen">
-            <lb/>rich</seg></persName> three days <del><gap reason="overwritten" unit="words" extent="1"></gap></del> when <choice><sic>Hee</sic><corr>He</corr></choice> got sick
+            <lb/>rich</seg></persName> three days <del><gap reason="overwritten" unit="words" extent="1"></gap></del> when He got sick
             <lb/>Him &amp; Father made <unclear cert="medium">boots</unclear> pans nearly
-            <lb/><unclear cert="medium">cut</unclear> to Hawl cane on and laid the
+            <lb/><unclear cert="low">cor</unclear> to Hawl cane on and laid the
             <lb/>track made feed table <unclear cert="low">liged</unclear> a pumice
             <lb/>carrier to the mill and various things
             <lb/>It Has been a week Hard work for us all
@@ -1114,7 +1114,7 @@
             <lb/>and no rain. we now have plenty of Peaches
             <lb/>and <unclear cert="low">diging</unclear> them </p> 
             <pb facs="/1/14bed02a-d84b-46f6-83d9-92cfe1a90d2c"/>
-            <lb/><p><unclear cert="low">Mclean</unclear> Has succeed<supplied reason="omitted" resp="ed">ed</supplied> in driving
+            <lb/><p><persName><unclear cert="low">Mclean</unclear></persName> <!--Question about letter overwritten--> Has succeed<supplied reason="omitted" resp="ed">ed</supplied> in driving
             <lb/>out the Rebels out of <placeName><unclear cert="medium"><choice><sic>meriland</sic><corr>Maryland</corr></choice></unclear></placeName>
             <lb/>after some of the severest <choice><sic>fiting</sic><corr>fighting</corr></choice> of 
             <lb/>the war <placeName>Cincinnati</placeName> Has
@@ -1148,12 +1148,12 @@
             <lb/>made a <unclear cert="high">crane</unclear> to lift off my finishing
             <lb/>pan <choice><sic>withe</sic><corr>with</corr></choice> put down <unclear cert="high">gripping</unclear> put up
             <lb/>pumps put down <unclear cert="high">wash</unclear> water <choice><sic>boyes</sic><corr>boys</corr></choice>
-            <lb/>put up a ten foot <unclear cert="medium"><choice><sic>steem</sic><corr>steam</corr></choice></unclear> <del rend="overstrike">p</del> spout
+            <lb/>put up a ten foot <unclear cert="high"><choice><sic>steem</sic><corr>steam</corr></choice></unclear> <del rend="overstrike">p</del> spout
             <lb/>on the House and various things
             <lb/><persName>Newton</persName> Helped me one day and one
             <lb/>day went to Grovenberies after a load
             <lb/>of corn for me we now Have
-            <lb/>things <unclear cert="low">liged</unclear> in good still <unclear cert="medium">lonely</unclear>
+            <lb/>things <unclear cert="low">liged</unclear> <!--same as unclear word in entry for Week ending sept. 20--> in good still lonely
             <lb/>they will work well and not break
             <lb/><choice><sic>especialy</sic><corr>especially</corr></choice> the mill I tried that It <choice><sic>seams</sic><corr>seems</corr></choice>
             <lb/>to work well. I ought to Have
@@ -1170,7 +1170,7 @@
             <lb/>in order to go inside of the Building</p>
             <lb/><p><unclear cert="low">fixed</unclear> in an<seg type="softhyphen">
             <lb/>other</seg> arm so as to put on this Horses
-            <lb/><choice><sic>Eavning</sic><corr>Evening</corr></choice> ground out some and <unclear cert="low">Heated</unclear> up
+            <lb/><choice><sic>Evning</sic><corr>Evening</corr></choice> ground out some and <unclear cert="low">Hunted</unclear> up
             <lb/>another Horse.</p>
          </div>
          <div xml:id="LCS18621001" type="Entry">
@@ -1180,7 +1180,7 @@
             <lb/>and pushed the grinding But all we could
             <lb/>do we cannot make <unclear cert="low">Juice</unclear> enough the
             <lb/>mill grinds very fast But the cane is
-            <lb/><choice><sic>verry</sic><corr>very</corr></choice> Hard and <unclear cert="low">sane</unclear> Dry not <choice><sic>verry</sic><corr>very</corr></choice> <unclear cert="low">Juicy</unclear>
+            <lb/><choice><sic>verry</sic><corr>very</corr></choice> Hard and <unclear cert="low">sone</unclear> Dry not <choice><sic>verry</sic><corr>very</corr></choice> <unclear cert="low">Juicy</unclear>
             <lb/>and <choice><sic>verry</sic><corr>very</corr></choice> sweet and takes <choice><sic>verry</sic><corr>very</corr></choice> <choice><sic>litle</sic><corr>little</corr></choice>
             <lb/>Bailing consequently the main thing is to
             <lb/>grind It I now wish I Had a larger
@@ -1211,7 +1211,7 @@
             <lb/>new mill we concluded a new shaft would
             <lb/>stand a good chance of <choice><sic>braking</sic><corr>breaking</corr></choice> again and
             <lb/>conclude to get a new mill Bought one of
-            <lb/>John L. Gill and son for 88 dollars a <unclear cert="low">verricle</unclear>
+            <lb/><persName>John L. Gill</persName> and son for 88 dollars a <unclear cert="low">verricle</unclear>
             <lb/>mill of 14 <unclear cert="low">meh laing</unclear> Rolls Large Roll 12 in<seg type="softhyphen">
             <lb/></seg>ches in Diameter It <choice><sic>seams</sic><corr>seems</corr></choice> like a <choice><sic>verry</sic><corr>very</corr></choice>
             <lb/>stout stanch mill I Had to pay 8 Dollars more
