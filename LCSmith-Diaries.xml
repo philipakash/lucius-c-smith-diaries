@@ -993,7 +993,7 @@
             <dateline> <date when="1862-09-07">Sunday Sept 7th<hi rend="underline">1862</hi></date></dateline>
             <p><lb/><choice><sic>Staid</sic><corr>Stayed</corr></choice> all <unclear>ermund</unclear>
             <lb/>Home all day rather Lonesome Wrote a
-               <lb/>Letter to <persName><unclear cert="low">Lermual</unclear> Smith</persName>. <placeName>Columbus Ohio.</placeName>
+               <lb/>Letter to <persName><unclear cert="high">Samuel</unclear> Smith</persName>. <placeName>Columbus Ohio.</placeName>
             </p>
          </div>
          <div xml:id="LCS18620908" type="Entry">
@@ -1021,7 +1021,7 @@
             <lb/>Had a good time <choice><sic>withe</sic><corr>with</corr></choice> them we <choice><sic>staid</sic><corr>stayed</corr></choice>
             <lb/>all night at <persName>Mr Reeler</persName>s near <unclear cert="medium">Center</unclear>
             <pb facs="/8/8ed83dd3-f790-4c51-bc0c-7574f6ed9084"/>
-            <lb/>Who is also a <unclear cert="low">sarghem</unclear> manufacture<supplied reason="omitted" resp="ed">r</supplied>
+            <lb/>Who is also a <choice><sic>sorghem</sic><corr>sorghum</corr></choice> manufacture<supplied reason="omitted" resp="ed">r</supplied>
             </p>
          </div>
          <div xml:id="LCS18620910" type="Entry">
@@ -1121,7 +1121,7 @@
             <lb/>been saved from the Rebels and
             <lb/>things look better.</p>
             <lb/><p>still no rain
-            <lb/>warm and pleasant <unclear cert="low">beilg</unclear></p>
+            <lb/>warm and pleasant very</p>
          </div>
          <div xml:id="LCS18620921" type="Entry">
             <lb/>
@@ -1129,7 +1129,7 @@
             <p><lb/><choice><sic>Staid</sic><corr>Stayed</corr></choice> <choice><sic>arround</sic><corr>around</corr></choice>
             <lb/>Home all day <choice><sic>untill</sic><corr>until</corr></choice> <choice><sic>eavning</sic><corr>evening</corr></choice> when a
             <lb/>parcel of us took a Ride Horse
-            <lb/>Back</p><!--Question about formatting Horse/Back: "Back" immediately below "Horse": interlinear coding instead of lb?-->
+            <lb/><hi rend="underline">Back</hi></p><!--Question about formatting Horse/Back: "Back" immediately below "Horse": interlinear coding instead of lb?-->
          </div>
          <div xml:id="LCS18620927" type="Entry">
             <lb/>
