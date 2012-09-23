@@ -991,9 +991,9 @@
          <div xml:id="LCS18620907" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-07">Sunday Sept 7th<hi rend="underline">1862</hi></date></dateline>
-            <p><lb/><choice><sic>Staid</sic><corr>Stayed</corr></choice> all <unclear>ermund</unclear>
+            <p><lb/><choice><sic>Staid</sic><corr>Stayed</corr></choice> <choice><sic>arround</sic><corr>around</corr></choice>
             <lb/>Home all day rather Lonesome Wrote a
-               <lb/>Letter to <persName><unclear cert="high">Samuel</unclear> Smith</persName>. <placeName>Columbus Ohio.</placeName>
+               <lb/>Letter to <persName>Samual Smith</persName>. <placeName>Columbus Ohio.</placeName>
             </p>
          </div>
          <div xml:id="LCS18620908" type="Entry">
@@ -1016,12 +1016,12 @@
             <lb/>for 8 <choice><abbr>cts</abbr><expan>cents</expan></choice> <choice><sic>perr</sic><corr>per</corr></choice> <choice><abbr>lbs</abbr><expan>pound</expan></choice> <choice><sic>witch</sic><corr>which</corr></choice> <choice><sic>useto</sic><corr>used to</corr></choice> <del rend="overstrike">oly</del> <choice><sic>onley</sic><corr>only</corr></choice>
             <lb/>cost 6 But the stopping of mills &amp;
             <lb/>the tax Law makes all Iron Higher
-            <lb/><choice><sic>stoped</sic><corr>stopped</corr></choice> at <persName>Rodney Smith</persName>s <!--In possessives, should we include the "s" in the "name" element?--> and seen a
+            <lb/><choice><sic>stoped</sic><corr>stopped</corr></choice> at <persName>Rodney<!--either an "s" here or an ampersand? --> Smith</persName>s <!--In possessives, should we include the "s" in the "name" element?--> and seen a
             <lb/><choice><sic>coupel</sic><corr>couple</corr></choice> of old school mates of <placeName>Delaware</placeName>
             <lb/>Had a good time <choice><sic>withe</sic><corr>with</corr></choice> them we <choice><sic>staid</sic><corr>stayed</corr></choice>
-            <lb/>all night at <persName>Mr Reeler</persName>s near <unclear cert="medium">Center</unclear>
+            <lb/>all night at <persName>Mr Reeler</persName>s near <unclear cert="high">Center</unclear>
             <pb facs="/8/8ed83dd3-f790-4c51-bc0c-7574f6ed9084"/>
-            <lb/>Who is also a <choice><sic>sorghem</sic><corr>sorghum</corr></choice> manufacture<supplied reason="omitted" resp="ed">r</supplied>
+            <lb/>Who is also a <choice><sic>sorghem</sic><corr>sorghum</corr></choice> manufacture<supplied reason="omitted" resp="ed">r</supplied> <!--Is this a correct use of the "supplied" element?-->
             </p>
          </div>
          <div xml:id="LCS18620910" type="Entry">
@@ -1041,7 +1041,7 @@
             <p><lb/>Morning Early went to <placeName>albany</placeName> and got <persName>George
             <lb/>Goodrich</persName> to do me some <unclear cert="low">turning</unclear> Father &amp;
             <lb/>me worked at the works all day <persName>George</persName>
-            <lb/>Helped afternoon <persName>Uncle Lewis</persName> was
+            <lb/>Helped afternoon <!--Double check formation of "afternoon"--> <persName>Uncle Lewis</persName> was
             <lb/><choice><sic>Hear</sic><corr>Here</corr></choice> to dinner. <choice><sic>Eavning</sic><corr>Evening</corr></choice> had a nice
             <lb/>shower of rain.
             </p>
@@ -1057,10 +1057,10 @@
             <pb facs="/b/b13427cf-1e77-4217-9c0c-8095533b8b63"/>
             <lb/>of <persName>Gilbert Collins</persName>. <choice><sic>thare</sic><corr>there</corr></choice> is a great
             <lb/>stir of people going to <placeName>Cincinnati</placeName> to
-            <lb/>Defend the place people take their own
+            <lb/>Defend the place people take <choice><sic>thir</sic><corr>their</corr></choice> own
             <lb/>Guns &amp; Rig and as they please thousands
             <lb/>are going. the <choice><sic>govener</sic><corr>governor</corr></choice> is already refusing
-            <lb/><unclear cert="high">men</unclear>
+            <lb/>them
             </p>
          </div>
          <div xml:id="LCS18620913" type="Entry">
