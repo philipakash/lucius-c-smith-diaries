@@ -593,10 +593,10 @@
                <!--Unsure about transcribing a phrase defining a time of day with an apparent error-->
             </p>
             <p>
-               <lb/>Went to <choice><sic>se</sic><corr>see</corr></choice><unclear cert="low">Heilane</unclear> Smith as <choice><sic>Hee</sic><corr>He</corr></choice>
+               <lb/>Went to <choice><sic>se</sic><corr>see</corr></choice><unclear cert="low">Heilan</unclear> Smith as <choice><sic>Hee</sic><corr>He</corr></choice>
                <!--Hee transcribed as an apparent error though it might be a flourish-->
                <lb/>is to start south tomorow Having got 
-               <lb/> <gap reason="illegible" unit="words" extent="2"></gap> Still <choice><sic>verry</sic><corr>very</corr></choice>warm.
+               <lb/>His <unclear cert="low">pop</unclear>Still very warm.
             </p>
          </div> 
          <div xml:id="LCS18620804" type="Entry">      
@@ -605,7 +605,7 @@
                <lb/>and <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice> 5th Aug 1862</date></dateline>
          <p>
                <lb/>Worked at my
-            <lb/>Buildings <persName>Newton</persName> &amp; Father finished
+               <lb/>Buildings <persName>Newton</persName> &amp; Father finished
                <lb/>the Hay and <choice><sic>theashed</sic><corr>thrashed</corr></choice>out some wheat
                <lb/><time>night <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice></time> John come sick Having <del rend="overstrike">a</del>
                <lb/>had a slight bowel complaint.
@@ -675,12 +675,12 @@
 </div>       
 <div xml:id="LC18620810" type="Entry">
    <dateline><date when="1862-08-10">Sunday 10th Aug <hi rend="underline">1862</hi><lb/>
-   <time>morning</time></date></dateline><p>come Home got Home at noon
+   <time>morning</time></date></dateline><p>came Home got Home at noon
       <lb/><gap reason="illegible" unit="words" extent="1"/> Have Had a good nice rain went over
       <lb/>to see <persName>John Dague</persName> about Digging my
       <lb/>well as He promised to do it But
       <lb/>the <unclear cert="medium">cite</unclear> to get Him to do it is <choice><sic>verry</sic><corr>very</corr></choice>
-      <lb/>slim <!--There is a gap here --> <choice><sic>verry</sic><corr>very</corr></choice> pleasant day
+      <lb/>slim <!--There is a gap here -->very pleasant day
       <lb/> But <choice><sic>awfull</sic><corr>awful</corr></choice><gap reason="illegible" unit="words" extent="1"/>
    </p>
 </div>         
@@ -694,7 +694,6 @@
                   <lb/></seg>ced to dig the well and I finished diging
                   <lb/>ditches arround the House Had a tremen<seg type="softhyphen">
                   <lb/></seg>duous Headache to day.
-                  <!--variant spellling of tremendous is in the OED though Ngram puts its use mainly from 1750-1800 - do we want to encode it as archaic orthography?-->
             </p>
          </div>
          <div xml:id="LCS18620812" type="Entry">
@@ -703,9 +702,9 @@
                <lb/><persName>John</persName> Dug at the Well. <time>forenoon</time><unclear cert="low"><persName>Hamer</persName></unclear>
                <lb/>and me Hawled stone out of the <choice><sic>criek</sic><corr>creek</corr></choice>
                <lb/><time>Afternoon</time> Hawled a load of wood to 
-               <lb/><unclear cert="high">Albany</unclear> for Dad and Hawled up a 
+               <lb/>Albany for Dad and Hawled up a 
                <lb/>load of some Dust and put it in my
-               <lb/><unclear cert="medium">mine</unclear> cane <unclear cert="medium">Haus</unclear> for the party tomorow
+               <lb/><unclear cert="medium">mine</unclear>cane<choice><sic>Hous</sic><corr>House</corr></choice>for the party tomorow
                <lb/>night fixed up seats and arranged things
                <lb/><persName>Newton</persName> &amp; Dad made a sinck and <unclear cert="low">opaut</unclear>
                <lb/>for the well to carry the water under the
@@ -716,46 +715,46 @@
             <dateline><date when="1862-08-13"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> 13th Aug <unclear cert="medium">/</unclear>62</date></dateline>
             <p>
                <lb/>Today all went to the Celebration
-               <lb/>Sunday school expect Dad and Augustine
+               <lb/>Sunday school expect Dad and <persName>Augustine</persName>
          <pb facs="9999"/>
-               <lb/>forenoon Mr Toft gave the Sunday school a
-               <lb/>Lecture after Dinner <del rend="overstrike">we</del>Mr <unclear cert="low">Cancey</unclear> Olds
-               <lb/>Sam Cox Sam Galaway made War
-               <lb/>speaches there was a larg turnout of
-               <lb/>people several thousand <time>Eavning</time> riged
-               <lb/>up the cane Haus withe lights I put up 
+               <lb/><time>forenoon</time> <persName>Mr Toft</persName> gave the Sunday school a
+               <lb/>Lecture after Dinner <del rend="overstrike">we</del><persName>Mr <unclear cert="low">Cancey</unclear> Olds</persName>
+               <lb/><persName>Sam Cox</persName><persName>Sam Galaway</persName> made War
+               <lb/><choice><sic>speaches</sic><corr>speeches</corr></choice> there was a large turnout of
+               <lb/>people several thousand <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> <choice><sic>riged</sic><corr>rigged</corr></choice>
+               <lb/>up the cane House with lights I put up 
                <lb/>three Coal oil Lamp an the Beams and 
-               <lb/><gap reason="illegible" unit="letters" extent="2"/> made <unclear cert="medium">it</unclear> verry light and nice there was a 
+               <lb/><gap reason="illegible" unit="letters" extent="2"/> made <unclear cert="medium">it</unclear> very light and nice there was a 
                <lb/>large turnout over a Hundred and we
                <lb/>Had a right good party as to the place
                <lb/><unclear cert="high">It</unclear>was a perfect <unclear cert="medium">love</unclear> of a place for a 
-               <lb/>party. It lasted untill midnight. I was
-               <lb/>tired near out by standing arround
+               <lb/>party. It lasted <choice><sic>untill</sic><corr>until</corr></choice> midnight. I was
+               <lb/>tired near out by standing <choice><sic>arround</sic><corr>around</corr></choice>
                <lb/>all day at the Celebration and then at
                <lb/> the party.
             </p>
          </div>
-          <div xml:id="LCS18620814" type="Entry">
-            <dateline><date from="1862-08-14" to="1862-08-16">Thursday Frid and Saturday<lb/>
+<div xml:id="LCS18620814" type="Entry">
+            <dateline><date from="1862-08-14" to="1862-08-16">Thursday<choice><abbr>Frid</abbr><expan>Friday</expan></choice>and Saturday<lb/>
             August 14, 15 and 16th <hi rend="underline">1862</hi></date></dateline>
             <p>
-               <lb/>W<gap reason="illegible" unit="letters" extent="2"/><!--This appears to be the same name(?) that was mentioned in Smith's entry on August 9th --><unclear cert="low">Gantus</unclear> John and I worked
+               <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice></persName><persName><unclear cert="medium">Yantus</unclear></persName><persName>John</persName> and I worked
                <lb/>at the Well we got it some over <unclear cert="medium">23</unclear> ft
-               <lb/> deep when It began to cave quite bad
+               <lb/>deep when It began to cave quite bad
                <lb/>and we Had to either <unclear cert="low">curb</unclear> it up or
                <lb/>wall up and as there was quite a good 
             <pb facs="9999"/>
                <lb/>stream of water came in about ten 
-               <lb/>feet from the top we <gap reason="illegible" unit="words" extent="1"/> we
+               <lb/>feet from the top we concluded we
                <lb/>Had as well wall up we dug nearly
                <lb/>14 ft in Blue Clay and <unclear cert="low">then</unclear> did not 
-               <lb/>yet through I think we would have
+               <lb/>get through I think we would have
                <lb/>got water in four or five feet more
                <lb/>By saturday night we got it walled
-               <lb/>up to within 8 ft of the top Father as
-               <lb/>Been at work <gap reason="illegible" unit="words" extent="1"/> my Horse power
-               <lb/>Newton Hawled some manure and hyped 
-               <lb/>Father some quite cool nearly frost
+               <lb/>up to within 8 ft of the top Father Has
+               <lb/>Been at work Rewoo<add place="above">d</add>ing my Horse power
+               <lb/><persName>Newton</persName> Hawled some manure and helped 
+               <lb/>Father some. quite cool nearly frost
                <lb/>for several mornings
             </p>
          </div>
