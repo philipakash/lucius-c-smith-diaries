@@ -1223,8 +1223,9 @@
             Note that I've entered a phony value for the @facs attribute. 
             We will sort them out in our next class meeting.
          -->
-         <pb facs="9999"/>
+        
          <pb facs="/1/16e04526-102e-4121-9e04-9eb918809202"/>
+         
          <div xml:id="LCS18621004a" type="Entry">
             <dateline> <date when="1862-10-04"> Saturday <lb/> 
                October 4th 1862</date> </dateline>
