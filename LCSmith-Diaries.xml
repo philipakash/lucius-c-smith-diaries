@@ -805,12 +805,12 @@
                <dateline><date when="1862-08-24">Sunday Aug 24th<hi rend="underline">1862</hi></date></dateline>
             <p>
                <lb/>staid Home forenoon afternoon
-               <lb/>Went to see <persName>George Wilson</persName> <persName>Hine</persName>and
+               <lb/>Went to see <persName>George Wilson</persName> Him and
                <lb/>4 others Have Just got Home from
                <lb/>the army Having been Discharged
                <lb/><persName>Esau Rice</persName> came <choice><sic>Hear</sic><corr>here</corr></choice> He is one of
-               <lb/>the Discharged ones <persName>Hine</persName> and I
-               <lb/>went to Albany to meeting at night
+               <lb/>the Discharged ones Him and I
+               <lb/>went to <placeName>Albany</placeName> to meeting at night
             </p>
          </div>
          <pb facs="/5/506418b7-e328-4cdb-a881-dc2c60f9f790"/> 
@@ -819,7 +819,7 @@
             <dateline><date when="1862-08-25">Monday 25 August 1862</date>
             <lb/><time>forenoon</time></dateline> <!-- are we using time elements for things like 'forenoon'? -->
             <p>
-               <lb/>Went to see <persName>Mr Sanders</persName> to get <persName>Hine</persName>
+               <lb/>Went to see <persName>Mr Sanders</persName> to get Him
                <lb/>to come and Help me make my
                <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> and to <unclear cert="high">Jersey</unclear> tomorrow <!-- is his way of writing tomorrow, with a little gap between the o and the m a single word, or two? --> to
                <lb/>get a pair of Boots made.  afternoon
@@ -837,8 +837,8 @@
             <lb/>
             <dateline><date when="1862-08-26">Tues 26</date></dateline>
             <p>
-               <lb/>to day <!-- same question as tomorrow; is today one word, or incorrectly, 2? --> went to West
-               <lb/>erville to see about getting some casting
+               <lb/>to day <!-- same question as tomorrow; is today one word, or incorrectly, 2? --> went to <placeName>West<seg type="softhyphen">
+               <lb/></seg>erville</placeName> to see about getting some casting
                <lb/>done got me a good set of truck <choice><sic>wheals</sic><corr>wheels</corr></choice>
                <lb/>for a carraige to Hawl cane on they
                <lb/>are cast Iron as good as new I got
@@ -877,7 +877,7 @@
                <lb/><persName>Ben Sanders</persName> came on and worked at the
                <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> of my Buildings.  quite cool.
          <pb facs="/f/f4cc9305-1e08-4664-b4dc-dcdcbacc96ad"/>
-               <lb/>In the country since the proclimation of the
+               <lb/>In the country since the <choice><sic>proclimation</sic><corr>proclamation</corr></choice> of the
                <lb/>Draft, all manner of ailments are brought
                <lb/>up.  I Hope the Draft will not be put
                <lb/>off But will come off on the <unclear cert="low">3rd</unclear> of sept.
@@ -894,8 +894,8 @@
                <lb/>all day Had a <unclear cert="medium">swad</unclear> of
                <lb/>girls <choice><sic>Hear</sic><corr>here</corr></choice> all they like the side saddle 
                <lb/>a little well.  night went to meeting to 
-               <lb/>Albany Heard <persName><unclear cert="high">Hurlocker</unclear></persName> preach.  seen
-               <lb/><persName>sam and Frank <del rend="overstrike">L</del> Lane</persName> <!-- how to do this with two names? --> they did not go
+               <lb/><placeName>Albany</placeName> Heard <persName><unclear cert="high">Hurlocker</unclear></persName> preach.  seen
+               <lb/><persName>sam</persName> and <persName>Frank <del rend="overstrike">L</del> Lane</persName> they did not go
                <lb/>Home yesterday as <persName>aunt Hariet</persName> was <del rend="overstrike">u</del> sick
                <lb/>will tomorrow.  To day it seems as if 
                <lb/><choice><sic>evry</sic><corr>every</corr></choice> thing would die for want of
@@ -921,20 +921,20 @@
                <lb/>me one day made a pattern for a cast box
                <lb/>to <!-- looks like an s precedes to, but not sure if its erased or what --> sit under the end of each pan across
                <lb/>the furnace. Thursday Father &amp; me went
-               <lb/>to Columbus after alot of things got my
+               <lb/>to <placeName>Columbus</placeName> after alot of things got my
                <lb/>cast cog <choice><sic>wheal</sic><corr>wheel</corr></choice> a cistern pump and various
                <lb/>other things caluclated to get my sheet iron
                <lb/>But could not <choice><sic>finde</sic><corr>find</corr></choice> any to suit me
                <lb/>&amp; <del rend="overstrike">colu</del> concluded to wait untill <!-- I think two ls was an acceptable spelling; double check -->next
                <lb/>week. Sat or latter Friday night <persName>Homer</persName>
                <lb/>and me went over to <persName>uncle Lewises</persName> and staid
-               <lb/>all night and sat morning went to westerville
+               <lb/>all night and sat morning went to <placeName>westerville</placeName>
                <lb/>to get my castings went North of town <del rend="overstrike">a</del>
                <lb/>some distance and got my counter shaft
                <lb/>turned and <persName>Charley</persName> was <choice><sic>prety</sic><corr>pretty</corr></choice> new today to
          <pb facs="/4/473fd313-d08a-4b7a-b4c9-e8cc387f76db"/>
                <lb/><unclear cert="low">smelt</unclear> I got my paterne in just in time to
-               <lb/>get it done that day. got Home simetime
+               <lb/>get it done that day. got Home sometime
                <lb/>after night. I got a new lock cast to my 
                <lb/>mill to suit my Horse power rig five boxes
                <lb/>to put under the pans one furnace front
@@ -954,36 +954,35 @@
                <lb/>some are cutting it up pastures are Dead
                <lb/>all say that It Has not been Dry for a 
                <lb/>long time if ever the streams are that is
-               <lb/>Blacklick is all <unclear cert="high">Dried</unclear> up only a very few
+               <lb/><geogName>Blacklick</geogName> is all <unclear cert="high">Dried</unclear> up only a very few
                <lb/>spots or Holes
          <pb facs="/f/ffe6d601-9514-4616-b7df-a86cb08f2d74"/>
                <lb/>as for the War Mon &amp; Tues brought
                <lb/>Hard news our forces after <choice><sic>sieries</sic><corr>series</corr></choice> of hard
-               <lb/>fights at <choice><sic>Manasses</sic><corr>Manassas</corr></choice> and there abouts Have 
+               <lb/>fights at <placeName><choice><sic>Manasses</sic><corr>Manassas</corr></choice></placeName> and there abouts Have 
                <lb/>fallen back on the fortification at or
-               <lb/>near Washington. at Richmond K.Y. <del><gap reason="overwritten" unit="words" extent="1"></gap></del>
+               <lb/>near <placeName>Washington</placeName>. at <placeName>Richmond K.Y.</placeName> <del><gap reason="overwritten" unit="words" extent="1"></gap></del>
                <lb/>we met with a perfect <!-- the c in perfect was added above, should this be coded as an inerlinear additon? --> rout our forces
                <lb/>being seven thousand <unclear cert="low">strong</unclear> all being
-               <lb/>raw undrilled troops the 95 Ohio was
+               <lb/>raw undrilled troops the <orgName>95 Ohio</orgName> was
                <lb/>Badly cut up taken <choice><sic>prisners</sic><corr>prisoners</corr></choice> and then Paroled
                <lb/>and sent Home The Rebels under <persName>Gen Smith</persName>
-               <lb/>are <!-- weird smudged ad visible before advancing -->advancing <del rend="overstrike">under</del> on to Cincinnatii
+               <lb/>are <!-- weird smudged ad visible before advancing -->advancing <del rend="overstrike">under</del> on to <placeName>Cincinnatii</placeName>
                <lb/>the city is put under martial Law also the
                <lb/>Neighboring <choice><sic>twowns</sic><corr>towns</corr></choice> all the state is making
                <lb/>a big effort to save the city. the Rebels have
                <lb/>for the first time got into Ohio <gap reason="illegible"/>
-               <lb/>
             </p>
             <p>
                <lb/>Every thing seams against us
                <lb/>But I still Hope for Better times yet
-               <lb/>Drafting is put off untill the 16 <gap reason="illegible"/>
+               <lb/>Drafting is put off untill the 16 <choice><abbr>inst</abbr><expan>instant</expan></choice>
             </p>   
             <p>
                <lb/> the girls went up this week
-               <lb/>and got gran pop. <persName>aunt Eliza</persName> and
+               <lb/>and got <persName>gran pop</persName>. <persName>aunt Eliza</persName> and
                <lb/><persName>Thornton</persName> stopped all night on Friday
-               <lb/>on their way from Columbus.
+               <lb/>on their way from <placeName>Columbus</placeName>.
             </p>
          </div>
          <pb facs="/9/987dbf76-ef52-4db3-8882-8612c596d823"/>
