@@ -494,11 +494,11 @@
          <pb facs="/d/d64bea81-daaf-41cc-975b-88bdfe839567"/>
          <div xml:id="LCS18620730" type="Entry">
             <lb/>
-            <dateline><date when="1862-07-30">Wednsday July 30th <hi rend="underline">1862</hi></date></dateline>
+            <dateline><date when="1862-07-30"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> July 30th <hi rend="underline">1862</hi></date></dateline>
             <p>
-               <lb/>to day John
+               <lb/>to day <persName>John</persName>
                <lb/>and me Hawled Hay all day &#xbd; day in
-               <lb/>the Barn &#xbd; on a stack <unclear cert="low">Add</unclear> and Newton
+               <lb/>the Barn &#xbd; on a stack <persName><unclear cert="low">dad</unclear></persName> and <persName>Newton</persName>
                <lb/>are mowing. <choice><sic>verry</sic><corr>very</corr></choice> warm and we need
                <lb/>rain the Ground is rapidly Drying up
                <lb/>after so <choice><sic>mutch</sic><corr>much</corr></choice> Hard <unclear cert="low">long</unclear> rains.
@@ -506,10 +506,10 @@
          </div>
          <div xml:id="LCS18620731" type="Entry">
             <lb/>
-            <dateline><date when="1862-07-31">Thursday 31st July 1862<lb/>
-            <time>forenoon</time></date></dateline>
+            <dateline><date when="1862-07-31">Thursday 31st July 1862
+               <lb/><time>forenoon</time></date></dateline>
             <p>
-               <lb/>Hawled up my lumber from
+               <lb/>Hawled up my Lumber from
                <lb/>the mill afternoon Helped in the
                <lb/>Hay. still very Hot.
             </p>
@@ -550,9 +550,10 @@
                   orthography.
                -->
                <lb/>oats in the Barn. afternoon Went up to
-               <lb/>Robertses <choice><sic>withe</sic><corr>with</corr></choice> John as He is going to
+               <lb/><persName>Robertses</persName> <choice><sic>withe</sic><corr>with</corr></choice> 
+                    <persName>John</persName> as He is going to
                <lb/><unclear cert="medium">stay<gap rend="overwrite" unit="chars"
-                  extent="2"></gap></unclear> and Help Him we had all calcu<seg type="softhyphen">
+                  extent="2"/></unclear> and Help Him we had all calcu<seg type="softhyphen">
                <lb/></seg>lated on going up and Helping Him a
                <!-- 
                   Note that Smith breaks a word across the two lines above but does not indicate
@@ -568,14 +569,17 @@
                <lb/>Yet. and my Cane works are beginning
                <lb/>to press me I must get at them or I
                <lb/>will not be ready in time I fear.
-               <lb/>got Home in the eavining. <unclear cert="high">there</unclear> was
+               <lb/>Got Home in the <choice><sic>eavining</sic><corr>evening</corr></choice>. <unclear cert="high">there</unclear> was
                <lb/>a war meeting at Albany this afternoon
                <!-- See entries in the list of events and places for the "war meeting" and "Albany." -->
-               <lb/>two Recruits were obtained Gill Collins
+               <lb/>two Recruits were obtained <persName>Gill Collins</persName>
                <!-- See entry in list of people mentioned for "Gill Collins." -->
                <lb/>was out to Speak I was told. I went to
-               <lb/>see Mr. Bennit who has a horse power
-               <lb/><choice><sic>witch</sic><corr>winch</corr></choice> He sayes I can <unclear>Halve</unclear>.
+               <lb/>see <persName>Mr. Bennit</persName> who has a horse power
+               <lb/><choice><sic>witch</sic><corr>winch</corr></choice> He
+               <choice><sic>sayes</sic><corr>says</corr></choice> I can <unclear>Halve</unclear>.
+            </p>
+            <p>
                <lb/>very Hot and
                <lb/>Dry we need rain so bad Corn is
                <lb/>Drying up Bad It seems to Dry up so
