@@ -493,7 +493,7 @@
          -->
          <!-- HLU section begins here -->
          <pb facs="/d/d64bea81-daaf-41cc-975b-88bdfe839567"/>
-         <div xml:id="LCS18620730" type="Entry">
+         <div xml:id="LCS18620730a" type="Entry">
             <lb/>
             <dateline><date when="1862-07-30"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> July 30th <hi rend="underline">1862</hi></date></dateline>
             <p>
@@ -505,7 +505,7 @@
                <lb/>after so <choice><sic>mutch</sic><corr>much</corr></choice> Hard <unclear cert="low">long</unclear> rains.
             </p>
          </div>
-         <div xml:id="LCS18620731" type="Entry">
+         <div xml:id="LCS18620731a" type="Entry">
             <lb/>
             <dateline><date when="1862-07-31">Thursday 31st July 1862
                <lb/><time>forenoon</time></date></dateline>
@@ -1698,7 +1698,8 @@
             element.
          -->
          <div xml:id="LCS18621220a" type="Entry">
-            <lb/><dateline><date from="1862-12-14" to="1862-12-20">For the Week Ending Sat 20th 1862</date></dateline>
+            <lb/><dateline><date from="1862-12-14" to="1862-12-20">For the Week Ending
+               <choice><abbr>Sat</abbr><expan>Saturday</expan></choice> 20th 1862</date></dateline>
             <p>
                <lb/><choice><abbr>Mon</abbr><expan>Monday</expan></choice> &amp;
                <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice> rain &amp; Snow
@@ -1706,11 +1707,14 @@
                <lb/>Staid all night us Boyes caught a coon with our
                <lb/>Dog. Mad our Hunting arrangements <persName>Reese
                <lb/>Eavens</persName> &amp; I we are the captains we Have 39
-               <lb/>on each Side Wednesday went up to <persName>aunt <unclear>Eley I</unclear></persName>
+               <lb/>on each Side Wednesday went up to <persName>aunt <unclear>Elizas</unclear></persName>
+               <!-- Probably Eliza Beach -->
+               <lb/>staid two nights came Home Friday and
                <lb/>went to Columbus seen <persName>Gill</persName> He found out by
                <lb/>wrtiing to the Clerk of the U.S. court at <placeName>Cleav<seg type="softhyphen">
                <lb/></seg>land</placeName> that I am Sued by those Patent
-               <lb/>rights men. Sat went to <gap reason="illegible"/> He
+               <lb/>right men. <choice><abbr>Sat</abbr><expan>Saturday</expan></choice> went to
+               <unclear cert="medium">Grovenbaries</unclear> He
                <lb/>was not at Home Left word for Him to
                <lb/>come &amp; see me. most all the Week real
                <lb/>Cold Weather. <persName>George Goodrich</persName> moved to
@@ -1722,7 +1726,7 @@
                Note that the following dateline occurrs on the same line as the last line of the
                previous entry. Check formatting in all relevant views.
             -->
-            <dateline><date when="1862-12-21">Sunday Decem 21st 1862</date></dateline>
+            <dateline><date when="1862-12-21">Sunday <choice><abbr>Decem</abbr><expan>December</expan></choice> 21st 1862</date></dateline>
             <p>
                <lb/>Went to <persName>Mr. Wilsons</persName> part of the Day and
                <lb/>to Meeting to <placeName>Albany</placeName> at night
@@ -1732,7 +1736,9 @@
          <pb facs="/9/9b702e6f-e027-4287-8d9c-2f8fbb67766d"/>
          <!-- Lots of questionable readings here ;-) -->
          <div xml:id="LCS18621227a" type="Entry">
-            <lb/><dateline><date from="1862-12-21" to="1862-12-27">For the Week Ending Sat Decem 27th
+            <lb/><dateline><date from="1862-12-21" to="1862-12-27">For the Week Ending
+               <choice><abbr>Sat</abbr><expan>Saturday</expan></choice>
+               <choice><abbr>Decem</abbr><expan>December</expan></choice> 27th
                <add place="above"><hi rend="underline">1862</hi></add></date></dateline>
             <p>
                <lb/>Monday <persName>Gallet Grovenbery</persName> came up and
@@ -1740,13 +1746,13 @@
                <lb/>for His old Dead Horse for three Dollars
                <lb/>toboot. I got the three Dollars whereas I
                <lb/>ought to Have Had 25$ at least But I
-               <lb/>Dont want a Difaculty with Him if I Beat
+               <lb/>Dont want a <choice><sic>Difaculty</sic><corr>difficulty</corr></choice> with Him if I Beat
                <lb/>Him at Law I would cost me nearly as mutch
-               <lb/>us to setle It. to Day snow is going off warmer
+               <lb/>us to <choice><sic>setle</sic><corr>settle</corr></choice> It. to Day snow is going off warmer
             </p>
             <p>
-               <lb/>Tues <unclear>Hamer</unclear> &amp; I Hunted all Day got ten
-               <lb/>Squirrels they are more plenty than I Have
+               <lb/><choice><abbr>Tues</abbr><expan>Tuesday</expan></choice> Homer &amp; I Hunted all Day got ten
+               <lb/>Squirrels they are <unclear/> more plenty than I Have
                <lb/>Known them for years there is plenty of Beach
                <lb/>Mass
             </p>
@@ -1754,13 +1760,14 @@
                <lb/>Wednesday all us Boys Went out
                <lb/>I Have <persName>Mr Longmans</persName> shot gun I like it very
                <lb/>mutch I can take them running so nice seen
-               <lb/>several of my men about going Hunting <unclear>tomorrow</unclear>
-               <lb/>We want to Beat if Posible. went to
+               <lb/>several of my men about going Hunting <choice><sic>tomorow</sic><expan>tomorrow</expan></choice>
+               <lb/>We want to Beat if <choice><sic>Posible</sic><corr>possible</corr></choice>. went to
                <lb/><placeName>albany</placeName> after the paper We are now taking the
-               <lb/><title level="j">Daily</title> again and <name type="event">Fredericksburg Defeat</name> Does
+               <lb/><title level="j">Daily</title> again and <name
+                  type="event"><choice><sic>Fredricksburg</sic><corr>Fredericksburg</corr></choice> Defeat</name> Does
                <lb/>not turn out so Disasterous for us as was
                <lb/>at first thought. There Has been trouble
-               <lb/>in <name type="organization">The cabinet</name> Tendering of Resignations
+               <lb/>in <name type="organization">the cabinet</name> Tendering of Resignations
                <lb/>and <hi rend="underline"><gap reason="illegible"></gap></hi>
             </p>
             <pb facs="/e/e5861b26-82ee-4ea9-ace9-f296c19a48d8"/>
@@ -1771,54 +1778,55 @@
                <lb/></seg>ting the woods is full of Hunters
                <lb/>we got 8 or 10 Squirrel apiece and one
                <lb/>Turkey <persName>John</persName> Shot that. Eavning I went
-               <lb/>to <placeName>Albany</placeName> and tended to the Game as
-               <lb/>It came Im Kept an account of each
+               <lb/>to <placeName>Albany</placeName> and tended to the game as
+               <lb/>It came In Kept an account of each
                <lb/>mans Game Brought in my Side footed up
-               <lb/>to 312 Scalps we had this wild turkeys
-               <lb/>Bodies and two scalps Brought in an our
-               <lb/>Side while the <persName>Resses</persName> party only got one
-               <lb/>turkey counted 10 scalps squirrel one Quail
-               <lb/>and <hi rend="underline">set</hi> according to value
+               <lb/>to 312 Scalps we had three wild turkeys
+               <lb/>Bodies and two scalps Brought in on our
+               <lb/>Side while the <persName>Reeses</persName> party only got one
+               <lb/>turkey <unclear>counted</unclear> 10 scalps squirrel one Quail
+               <lb/>one <gap/> 2 and <hi rend="underline">set</hi> according to value
                <lb/>of the thing, we Beat them over one Hundred
                <lb/>Scalps. They treated all Hands to the
                <lb/>oysters witch was the agreement Eavning
                <lb/>Set in and rained Been warm for several
-               <lb/>Dayes. <gap/> Boyes staid all night with us
+               <lb/>Dayes. <unclear>Monroes</unclear> Boyes staid all night with us
                <lb/>they were on my Side I am glad the Hunt is over
                <lb/>as I Have spent considerable time so as not to
                <lb/>get Beat seeing my men and making arrangements
                <pb facs="/d/d60466c4-9841-4f74-b4a4-500398b7c4da"/>
-               <lb/>for It what we Hunters Before Hand we did not
-               <lb/>save only a <unclear/> the Day before. a worse <unclear/>
+               <lb/>for It what we Hunted <del rend="erased">f</del>before Hand we did not
+               <lb/>save only a <gap/> the Day before. a worse <unclear>bared</unclear>
                <lb/>fellow than <persName>Reese Eavens</persName> I never <hi rend="underlined">seen.</hi>
             </p>
             <p>
-               <lb/>Frid <unclear/> mast all Day took my gun Home               
+               <lb/><choice><abbr>Frid</abbr><expan>Friday</expan></choice> rained mast all Day took my gun Home               
             </p>
             <p>
-               <lb/>Sat went Hunting withe <persName>Charley</persName> &amp; <persName>Hiram Smith</persName>
-               <lb/>night all hands went Coon Hunting got one
-               <lb/>and now I think I have Hunted enough
-               <lb/>for me and i must quit. Boyes sawed wood
+               <lb/><choice><abbr>Sat</abbr><expan>Saturday</expan></choice> went Hunting with <persName>Charley</persName> &amp; <persName>Hiram Smith</persName>
+               <lb/>night all Hands went Coon Hunting got one
+               <lb/>and now I think I Have Hunted enough
+               <lb/>for me and I must quit. Boyes sawed wood
                <lb/>some withe a sawing <choice><sic>machean</sic><corr>machine</corr></choice> they
                   Have <choice><sic>riged</sic><corr>rigged</corr></choice>
-               <lb/>to the Hourse power I had to my cane <hi rend="underlined">mill</hi>               
+               <lb/>to the Hourse power I Had to my cane <hi rend="underlined">mill</hi>               
             </p>
          </div>
          <div xml:id="LCS18621228a" type="Entry">
             <!-- HLU: Check whether the addition in the dateline is in Smith's hand. -->
             <lb/><dateline><date when="1862-12-28">Sunday 28
-               <subst><del rend="strikethrough" hand="#LCSHand">Sept</del><add place="above" hand="#LCSHand">December</add></subst>
+               <subst><del rend="strikethrough"
+                  hand="#LCSHand"><choice><abbr>Sept</abbr><expan>September</expan></choice></del><add place="above" hand="#LCSHand">December</add></subst>
                1862</date></dateline><p>Staid Home all day
-               <lb/>wrote a Letter <persName>George Goodrich</persName> <placeName>Delaware Ohio
-               </placeName>Went to meeting to <placeName>Albany</placeName> at night.
+               <lb/>wrote a Letter <persName>George Goodrich</persName> <placeName>Delaware Ohio</placeName>
+               <lb/>Went to meeting to <placeName>Albany</placeName> at night.
             </p>
          </div>
          <div xml:id="LCS18621229a" type="Entry">
             <lb/><dateline><date when="1862-12-29">Monday 29</date></dateline>
             <p>prepared some things towards digging
                <lb/>my well Deeper went to mill Boyes &amp; <rs type="familial">Dad</rs>
-               are sowing Wood withe the sawing <hi
+               are sawing Wood with the sawing <hi
                   rend="underlined"><choice><sic>machean</sic><corr>machine</corr></choice></hi>
             </p>
          </div>
@@ -1827,10 +1835,10 @@
                when="1862-12-30"><choice><sic>Tueasday</sic><corr>Tuesday</corr></choice> 30
                <choice><abbr>Decem</abbr><expan>December</expan></choice>
                1862</date></dateline>
-            <p>Rained and smowed all
+            <p>Rained and snowed all
                <lb/>Day and snowed all night a perfect storm from
-               <lb/>the North Eavning went up to <persName>Mr. Wilsons</persName> and <persName>Hites
-               <lb/><hi rend="underlined"><unclear>smith</unclear></hi></persName>
+               <lb/>the North Eavning went up to <persName>Mr. Wilsons</persName> and <persName>Hite
+               <lb/><hi rend="underlined">smiths</hi></persName>
             </p>
          </div>
          <div xml:id="LCS18621231a" type="Entry">
@@ -1839,10 +1847,11 @@
                1862</date> morning</dateline>
             <p>snow some
                <lb/>8 to 10 inches Deep But not cold Helped Boyes
-               <lb/>saw wood part of the Day Eavning Turned quite
+               <lb/>saw wood part of the Day Eavning turned quite
                <lb/>cold Went to <placeName>albany</placeName> and Bought a Sack of flour
                <lb/>as we are out and did not Raise Wheat enough
-               <lb/>for our own use <hi rend="underline"><unclear>bad</unclear> arraingment</hi>. Dance
+               <lb/>for our own use <hi rend="underline">poor
+                  <choice><sic>arraingment</sic><corr>arrangement</corr></choice></hi>. Dance
                <lb/>to <persName>Wilkinses</persName> to night.
             </p>
          </div>
