@@ -1272,7 +1272,7 @@
            <lb/><dateline> <date when="1862-10-04"> Saturday <lb/> 
                October 4th 1862</date> </dateline>
             <p><lb/> Morning as <choice><sic> soons </sic><corr> soon as </corr></choice> light all Hands to work
-            <lb/> putting up the mills george Dick Newton
+               <lb/> putting up the mills <persName> george Dick Newton </persName> 
             <lb/> Father &amp; myself we put up <unclear cert="medium">booth </unclear> mills in the
             <lb/> Same House put sweeps on them. Put down
             <lb/> more piping so as to Run Both mills <del rend="overstrike"> R</del> <gap reason="illegible/"></gap>
@@ -1292,7 +1292,7 @@
             <div xml:id="LCS18621005a" type="Entry">
                <lb/><dateline> <date when="1862-10-05"> Sunday Oct 5th 1862</date></dateline>
                <p> <lb/> Staid around Home all
-               <lb/>day <unclear cert="medium">onleg</unclear> to go down to See <unclear> Sagers</unclear> about
+               <lb/>day only to go down to See <unclear> Sagers</unclear> about
               <lb/> making me Some Barrels. Warm and pleasant </p>
                <p> <lb/> still no Rain. Last week  we
                <lb/> Had a small little rain enough to log the
@@ -1306,10 +1306,10 @@
                   <lb/> It through as Hard as we could all the 
                   <lb/> week and made 458 gallons average per
                   <lb/> day <unclear cert="high"> 46 1/3</unclear> last weeke we made 203 1/2
-                  <lb/> average <unclear cert="high"> 58 1/7</unclear> this week George <unclear> Goodwick &amp;</unclear>
+                     <lb/> average <unclear cert="high"> 58 1/7</unclear> this week<persName> George <unclear> Goodwick &amp;</unclear></persName> 
                      <lb/> me done the Bailing. George tending the clensing 
                   <lb/> pans and I the <unclear> finishing </unclear> pan. <unclear> Hamer</unclear>
-                  <lb/> and Thomas <unclear> Sangman</unclear> feed the mills and
+                     <lb/> and <persName>Thomas <unclear> Sangman</unclear> </persName> feed the mills and
                   <lb/> Newton tends them. Corris Cane and Wheals
                   <lb/> off <unclear> </unclear>. Next week I shall put
                      
@@ -1353,7 +1353,7 @@
                   <lb/> to Docter me. Father mashed <unclear> Hers </unclear> Had a very bad
                   <lb/> last week in putting down a cider Barrell in the
                   <lb/> Cellar. got some of my cane cut up in shack
-                  <lb/> this week. george Wilson and george Daily Helped 
+                  <lb/> this week. <persName> george Wilson </persName> and george Daily Helped 
                   <lb/> george Wilson tending the mill Boyes Daily and 
                   <lb/> the cane <damage agent="Stain"></damage> patch . first frost of any account
                   <lb/> was friday morning. 
@@ -1375,7 +1375,7 @@
                   <lb/>579 gallons. we Had some considerable bad
                   <lb/> Luck most every day. <choice><sic> Burt</sic><corr> Burst</corr></choice> one of the pipes
                   <lb/> out that went under one of the furnaces my
-                  <lb/> Tin pump gave out and I sent to Columbus 
+                  <lb/> Tin pump gave out and I sent to <placeName> Columbus  </placeName>
                   <lb/> and got me a new one and Thurs day we 
                   <lb/> <choice><sic><unclear cert="high"> Broake </unclear></sic><corr> Broke </corr></choice> the old mill one of the sides
                   <lb/> and as it cannot well  be fixed it is in a bad 
@@ -1393,13 +1393,13 @@
                   <lb/> average dayes work but Had to work Hard for it
                   
                   <pb facs="/0/014858cd-db83-4f2c-a4df-c0052ed92161"/>
-                  <lb/> got my cane cut up Monday sunday 
+                  <lb/> got my cane cut up on Monday sunday 
                   <lb/> night It froze quite Hard and I <del rend="overstrike"> am </del>
                   <lb/> fear my cane may spoil before I get to work it
                   <lb/> Yet I will risk It cane still comes I am 
                   <lb/> not through taking any new <unclear> fores </unclear>. george
                   <lb/> Wilson Has been Helping me this week to grind
-                  <lb/> <unclear cert="low"> Heim and Tang Hanner </unclear> do the grinding george
+                  <lb/> <unclear cert="low"><persName> Heim </persName>  and <persName> Tang Hamer </persName> </unclear> do the grinding george
                   <lb/> <unclear cert="low"> Poaarielo </unclear> &amp; Newton &amp; me the Bailing  my time
                   <lb/> However is <choice><sic> Dividid</sic><corr>Divided</corr></choice> <choice><sic><unclear  cert="medium"> arround</unclear></sic><corr> around</corr></choice> at all <hi rend="underline">works</hi>
                               
@@ -1444,7 +1444,7 @@
                                 <lb/> like mine and Borrowed the piece to match
                                 <lb/> my Broken one and wednesday we put it up
                                 <lb/> and went it along the old way Better
-                                <lb/> Believe I was glad. Thornton Wells helped
+                                <lb/> Believe I was glad. <persName> Thornton Wells </persName>  helped
                                 <lb/> me this week. He cut and Hawled wood as
                                 <lb/> I will not Have enough. george Wilson to the
                                 <lb/> little boyes done the grinding. 
