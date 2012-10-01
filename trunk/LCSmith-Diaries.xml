@@ -1032,7 +1032,7 @@
          <div xml:id="LCS18620907" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-07">Sunday Sept 7th<hi rend="underline">1862</hi></date></dateline>
-            <p><lb/><choice><sic>Staid</sic><corr>Stayed</corr></choice> <choice><sic>arround</sic><corr>around</corr></choice>
+            <p><lb/>Staid <choice><sic>arround</sic><corr>around</corr></choice>
             <lb/>Home all day rather Lonesome Wrote a
                <lb/>Letter to <persName>Samual Smith</persName>. <placeName>Columbus Ohio.</placeName>
             </p>
@@ -1059,7 +1059,7 @@
             <lb/>the tax Law makes all Iron Higher
             <lb/><choice><sic>stoped</sic><corr>stopped</corr></choice> at <persName>Rodney<!--either an "s" here or an ampersand? --> Smith</persName>s <!--In possessives, should we include the "s" in the "name" element?--> and seen a
             <lb/><choice><sic>coupel</sic><corr>couple</corr></choice> of old school mates of <placeName>Delaware</placeName>
-            <lb/>Had a good time <choice><sic>withe</sic><corr>with</corr></choice> them we <choice><sic>staid</sic><corr>stayed</corr></choice>
+            <lb/>Had a good time <choice><sic>withe</sic><corr>with</corr></choice> them we staid
             <lb/>all night at <persName>Mr Reeler</persName>s near <unclear cert="high">Center</unclear>
             <pb facs="/8/8ed83dd3-f790-4c51-bc0c-7574f6ed9084"/>
             <lb/>Who is also a <choice><sic>sorghem</sic><corr>sorghum</corr></choice> manufacture<supplied reason="omitted" resp="ed">r</supplied> <!--Is this a correct use of the "supplied" element?-->
@@ -1128,7 +1128,7 @@
          <div xml:id="LCS18620914" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-14">Sunday Sept 14th 1862</date></dateline>
-            <p><lb/><choice><sic>staid</sic><corr>stayed</corr></choice> <unclear cert="medium"><choice><sic>arround</sic><corr>around</corr></choice></unclear> Home
+            <p><lb/>staid <unclear cert="medium"><choice><sic>arround</sic><corr>around</corr></choice></unclear> Home
             <lb/>all day.
             </p>
          </div>
@@ -1167,7 +1167,7 @@
          <div xml:id="LCS18620921" type="Entry">
             <lb/>
             <dateline> <date when="1862-09-21">Sunday sept 21st 1862</date></dateline>
-            <p><lb/><choice><sic>Staid</sic><corr>Stayed</corr></choice> <choice><sic>arround</sic><corr>around</corr></choice>
+            <p><lb/>Staid <choice><sic>arround</sic><corr>around</corr></choice>
             <lb/>Home all day <choice><sic>untill</sic><corr>until</corr></choice> <choice><sic>eavning</sic><corr>evening</corr></choice> when a
             <lb/>parcel of us took a Ride Horse
             <lb/><hi rend="underline">Back</hi></p><!--Question about formatting Horse/Back: "Back" immediately below "Horse": interlinear coding instead of lb?-->
@@ -1237,10 +1237,10 @@
             <pb facs="/1/1aa72cec-aecb-448b-96a2-3d4bb88d1fa8"/>
             <lb/>It did not Break But twisted all
             <lb/>up like <unclear cert="low">Jan</unclear> would twist a switch
-            <lb/>It was but 1 1/2 inches<!--Whoops, I forgot how we said we should format fractions--> thick as large as
+            <lb/>It was but 1&#xbd; inches<!--Whoops, I forgot how we said we should format fractions--> thick as large as
             <lb/>we could Have It on account of the
             <lb/>Eyes in the <unclear cert="low">Wheels.</unclear> Made 63 gallons
-            <lb/>worked about 3/4 day fixed to go to <del rend="overstrike">tw</del>
+            <lb/>worked about &#190; day fixed to go to <del rend="overstrike">tw</del>
             <lb/><placeName>Columbus</placeName>. I am nearly tired to death
             <lb/>Having been going most nights and day.
             </p>
