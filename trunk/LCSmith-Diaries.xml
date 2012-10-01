@@ -848,6 +848,7 @@
             <lb/> 
                <dateline><date when="1862-08-24">Sunday Aug 24th<hi rend="underline">1862</hi></date></dateline>
             <p>
+               <lb/>
                <lb/>staid Home forenoon afternoon
                <lb/>Went to see <persName>George Wilson</persName> Him and
                <lb/>4 others Have Just got Home from
@@ -865,16 +866,16 @@
             <p>
                <lb/>Went to see <persName>Mr Sanders</persName> to get Him
                <lb/>to come and Help me make my
-               <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> and to <unclear cert="high">Jersey</unclear> tomorrow <!-- is his way of writing tomorrow, with a little gap between the o and the m a single word, or two? --> to
+               <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> and to <placeName>Jersey</placeName> tomorrow <!-- is his way of writing tomorrow, with a little gap between the o and the m a single word, or two? --> to
                <lb/>get a pair of Boots made.  afternoon
                <lb/>worked at my Building <persName>Newton</persName> hawled
                <lb/>Wood half day finished Hawling I now
                <lb/>Have over 40 fourty <!-- weird overstriking, need help! --> cords of good
                <lb/>Wood Enough I think to do me.
-               <lb/>Father <!-- are we coding father as a person name? --> is putting up the Cellar Door
+               <lb/><rs type="familial">Father</rs> is putting up the Cellar Door
                <lb/>He has had one made a <choice><sic>loung</sic><corr>long</corr></choice> time.
                <lb/>as <choice><sic>loung</sic><corr>long</corr></choice> as the House has been built we
-               <lb/> Have had no <del rend="overstrike">dor</del> <choice><sic>doore</sic><corr>door</corr></choice> to the Cellar.
+               <lb/>Have had no <del rend="overstrike">dor</del> <choice><sic>doore</sic><corr>door</corr></choice> to the Cellar.
             </p>
          </div>
          <div xml:id="LCS18620826" type="Entry">
@@ -897,6 +898,7 @@
                <lb/>Have been so many parties that they
                <lb/>are getting an old thing the <choice><sic>Boyes</sic><corr>boys</corr></choice> go
                <lb/>for good, for camp tomorrow
+               <lb/>
             </p>
          </div>
          <div xml:id="LCS18620827" type="Entry">
@@ -917,7 +919,7 @@
             <dateline><date when="1862-08-28">Thursday 28</date></dateline>
             <p>
                <lb/>To day spent the day
-               <lb/>with the folks went awhile to <persName><unclear cert="low">Roll Eavenes</unclear></persName>
+               <lb/>with the folks went awhile to <persName>Roll Eavenes</persName>
                <lb/><persName>Ben Sanders</persName> came on and worked at the
                <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> of my Buildings.  quite cool.
          <pb facs="/f/f4cc9305-1e08-4664-b4dc-dcdcbacc96ad"/>
@@ -928,6 +930,7 @@
                <lb/>If I have to go I want to know it and
                <lb/>be off if not I want to know it so as
                <lb/>to know what to calculate on.
+               <lb/>
             </p>
          </div>
          <div xml:id="LCS18620831" type="Entry">
@@ -961,10 +964,10 @@
                <lb/><unclear cert="high">Sanders</unclear> Helped me one day we put
                <lb/>up the <unclear cert="low">Doorers</unclear> <!-- I think this is doors, but its misspelled and has an interlinear addition, not sure how to do this --> Built a <unclear cert="medium">stream</unclear> spout
                <lb/>as far as the Lumber went put stalls in
-               <lb/>my stowing House &amp; <gap reason="illegible"/> Father Helped
+               <lb/>my stowing House &amp; <gap reason="illegible"/> <rs type="familial">Father</rs> Helped
                <lb/>me one day made a pattern for a cast box
                <lb/>to <!-- looks like an s precedes to, but not sure if its erased or what --> sit under the end of each pan across
-               <lb/>the furnace. Thursday Father &amp; me went
+               <lb/>the furnace. Thursday <rs type="familial">Father</rs> &amp; me went
                <lb/>to <placeName>Columbus</placeName> after alot of things got my
                <lb/>cast cog <choice><sic>wheal</sic><corr>wheel</corr></choice> a cistern pump and various
                <lb/>other things caluclated to get my sheet iron
@@ -1003,9 +1006,9 @@
          <pb facs="/f/ffe6d601-9514-4616-b7df-a86cb08f2d74"/>
                <lb/>as for the War Mon &amp; Tues brought
                <lb/>Hard news our forces after <choice><sic>sieries</sic><corr>series</corr></choice> of hard
-               <lb/>fights at <placeName><choice><sic>Manasses</sic><corr>Manassas</corr></choice></placeName> and there abouts Have 
+               <lb/>fights at <name type="event"><choice><sic>Manasses</sic><corr>Manassas</corr></choice></name> and there abouts Have 
                <lb/>fallen back on the fortification at or
-               <lb/>near <placeName>Washington</placeName>. at <placeName>Richmond K.Y.</placeName> <del><gap reason="overwritten" unit="words" extent="1"></gap></del>
+               <lb/>near <placeName>Washington</placeName>. at <name type="event">Richmond K.Y.</name> <del><gap reason="overwritten" unit="words" extent="1"></gap></del>
                <lb/>we met with a perfect <!-- the c in perfect was added above, should this be coded as an inerlinear additon? --> rout our forces
                <lb/>being seven thousand <unclear cert="low">strong</unclear> all being
                <lb/>raw undrilled troops the <orgName>95 Ohio</orgName> was
@@ -1015,7 +1018,7 @@
                <lb/>the city is put under martial Law also the
                <lb/>Neighboring <choice><sic>twowns</sic><corr>towns</corr></choice> all the state is making
                <lb/>a big effort to save the city. the Rebels have
-               <lb/>for the first time got into Ohio <gap reason="illegible"/>
+               <lb/>for the first time got into Ohio <choice><sic>a</sic><corr>at</corr></choice> <choice><sic>Galipoliease</sic><corr>Gallipolis</corr></choice>
             </p>
             <p>
                <lb/>Every thing seams against us
@@ -1024,7 +1027,7 @@
             </p>   
             <p>
                <lb/> the girls went up this week
-               <lb/>and got <persName>gran pop</persName>. <persName>aunt Eliza</persName> and
+               <lb/>and got <rs type="familial">gran pop</rs>. <persName>aunt Eliza</persName> and
                <lb/><persName>Thornton</persName> stopped all night on Friday
                <lb/>on their way from <placeName>Columbus</placeName>.
             </p>
