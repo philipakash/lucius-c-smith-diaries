@@ -671,9 +671,9 @@
       <lb/>Hands so that if I am drafted <del rend="overstrike">I</del> He
       <lb/>can take care of it for me and them
       <lb/>Patent Right men can also stand
-      <lb/>off. Went out to <persName>Gallet Grovenberies</persName>
+      <lb/>off. Went out to <persName>Garret Grovenberies</persName>
       <lb/>and staid all night. <del rend="erased">G</del><persName>Joeseph</persName> and
-      <!-- unsure if Joeseph is misspelt or not here-->
+      <!-- unsure if Joseph is misspelt or not here. John's transcribes this name as Joseph-->
       <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice></persName> Have both Enlisted for fear of
       <lb/> the Draft this afernoon Had a good
       <lb/>rain.
@@ -682,12 +682,12 @@
 <div xml:id="LC18620810" type="Entry">
    <dateline><date when="1862-08-10">Sunday 10th Aug <hi rend="underline">1862</hi><lb/>
       <time>morning</time></date></dateline><p>came Home got Home at noon
-      <lb/>We Have Had a good nice rain went over
+      <lb/>We Have Had a nice rain went over
       <lb/>to see <persName>John Dague</persName> about Digging my
       <lb/>well as He promised to do it But
-      <lb/>the <unclear cert="medium">cite</unclear> to get Him to do it is <choice><sic>verry</sic><corr>very</corr></choice>
-      <lb/>slim <!--There is a gap here -->very pleasant day
-      <lb/> But <choice><sic>awfull</sic><corr>awful</corr></choice><unclear cert="medium">Lonesome</unclear>
+      <lb/>the cite to get Him to do it is very
+      <lb/>slim very pleasant day
+      <lb/> But <choice><sic>awfull</sic><corr>awful</corr></choice>Lonesome
    </p>
 </div>         
          <pb facs="/5/5119fa8f-c14f-4251-af5b-c5e9b7b2ccee"/>
@@ -698,21 +698,22 @@
                   <lb/>Horse power for my mill It has to <choice><sic>bee</sic><corr>be</corr></choice>
                   <lb/>Rewooded anew. <time>Afternoon</time> <persName>Newton</persName> commen<seg type="softhyphen">
                   <lb/></seg>ced to dig the well and I finished diging
-                  <lb/>ditches arround the House Had a tremen<seg type="softhyphen">
+                  <lb/>ditches <choice><orig><distinct type="archaic_orthography" time="16-16">arround</distinct></orig><reg source="OED">around</reg></choice> the House Had a tremen<seg type="softhyphen">
                   <lb/></seg>duous Headache to day.
             </p>
          </div>
          <div xml:id="LCS18620812" type="Entry">
             <dateline><date when="1862-08-12">Tues 12</date></dateline>
             <p>
-               <lb/><persName>John</persName> Dug at the Well. <time>forenoon</time><unclear cert="low"><persName>Hamer</persName></unclear>
-               <lb/>and me Hawled stone out of the <choice><sic>criek</sic><corr>creek</corr></choice>
+               <lb/><persName>John</persName> Dug at the Well. <time>forenoon</time><persName>Homer</persName>
+               <lb/>and me Hawled stone out of the crick
                <lb/><time>Afternoon</time> Hawled a load of wood to 
-               <lb/>Albany for Dad and Hawled up a 
-               <lb/>load of some Dust and put it in my
-               <lb/><unclear cert="medium">mine</unclear>cane <choice><sic>Hous</sic><corr>House</corr></choice>for the party tomorow
+               <lb/>Albany for <rs type="familial">Dad</rs> and Hawled up a 
+               <lb/>load of saw Dust and put it in my
+               <lb/>new cane <choice><sic>Hous</sic><corr>House</corr></choice>for the party <choice><sic>tomorow</sic><expan>tomorrow</expan></choice>
+               <!--John transcribed this as cane hans. Given the context and other references in the diary I stuck with my original reading of cane house-->
                <lb/>night fixed up seats and arranged things
-               <lb/><persName>Newton</persName> &amp; Dad made a sinck and <unclear cert="low">opaut</unclear>
+               <lb/><persName>Newton</persName> &amp; Dad made a sinck and spout
                <lb/>for the well to carry the water under the
                <lb/>ground down the Hill
             </p>
@@ -720,22 +721,23 @@
          <div xml:id="LCS18620813" type="Entry">
             <dateline><date when="1862-08-13"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> 13th Aug <unclear cert="medium">/</unclear>62</date></dateline>
             <p>
-               <lb/>Today all went to the Celebration
-               <lb/>Sunday school expect Dad and <persName>Augustine</persName>
+               <lb/>To day all went to the Celebration
+               <lb/>Sunday school expect <rs type="familial">Dad</rs> and <persName>Augustine</persName>
                <pb facs="/4/4facb41b-92da-4a51-8ecb-edb2012f4d43"/>
-               <lb/><time>forenoon</time> <persName>Mr Toft</persName> gave the Sunday school a
-               <lb/>Lecture after Dinner <del rend="overstrike">we</del><persName>Mr <unclear cert="low">Cancey</unclear> Olds</persName>
+               <lb/><time>forenoon</time> <persName>Mr Taft</persName> gave the Sunday school a
+               <!-- changed from Mr. Toft to Mr. Taft after reviewing John's transcription-->
+               <lb/>Lecture after Dinner <del rend="overstrike">we</del><persName>Mr Cancey Olds</persName>
                <lb/><persName>Sam Cox</persName> <persName>Sam Galaway</persName> made War
                <lb/><choice><sic>speaches</sic><corr>speeches</corr></choice> there was a large turnout of
                <lb/>people several thousand <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> <choice><sic>riged</sic><corr>rigged</corr></choice>
                <lb/>up the cane House with lights I put up 
                <lb/>three Coal oil Lamp an the Beams and 
-               <lb/>It made <unclear cert="medium">it</unclear> very light and nice there was a 
+               <lb/>It made it very light and nice there was a 
                <lb/>large turnout over a Hundred and we
                <lb/>Had a right good party as to the place
-               <lb/><unclear cert="high">It</unclear>was a perfect <unclear cert="medium">love</unclear> of a place for a 
+               <lb/>It was a perfect love of a place for a 
                <lb/>party. It lasted <choice><sic>untill</sic><corr>until</corr></choice> midnight. I was
-               <lb/>tired near out by standing <choice><sic>arround</sic><corr>around</corr></choice>
+               <lb/>tired near out by standing <choice><orig><distinct type="archaic_orthography" time="16-16">arround</distinct></orig><reg source="OED">around</reg></choice>
                <lb/>all day at the Celebration and then at
                <lb/> the party.
             </p>
@@ -744,23 +746,24 @@
             <dateline><date from="1862-08-14" to="1862-08-16">Thursday <choice><abbr>Frid</abbr><expan>Friday</expan></choice> and Saturday<lb/>
             August 14, 15 and 16th <hi rend="underline">1862</hi></date></dateline>
             <p>
-               <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice></persName><persName><unclear cert="medium">Yantus</unclear></persName><persName>John</persName> and I worked
+               <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice></persName><persName>Yantus</persName><persName>John</persName> and I worked
                <lb/>at the Well we got it some over <unclear cert="medium">23</unclear> ft
+               <!--John transcribed this as 28 feet. Want to check and see what everyone else thought --> 
                <lb/>deep when It began to cave quite bad
-               <lb/>and we Had to either <unclear cert="low">curb</unclear> it up or
+               <lb/>and we Had to either curb it up or
                <lb/>wall up and as there was quite a good 
                <pb facs="/8/8fe01ac5-8da4-4eb9-b072-575680ee6681"/>
                <lb/>stream of water came in about ten 
                <lb/>feet from the top we concluded we
                <lb/>Had as well wall up we dug nearly
-               <lb/>14 ft in Blue Clay and <unclear cert="low">then</unclear> did not 
+               <lb/>14 ft in Blue Clay and then did not 
                <lb/>get through I think we would have
                <lb/>got water in four or five feet more
                <lb/>By saturday night we got it walled
-               <lb/>up to within 8 ft of the top Father Has
+               <lb/>up to within 8 ft of the top <rs type="familial">Father</rs> Has
                <lb/>Been at work Rewoo<add place="above">d</add>ing my Horse power
                <lb/><persName>Newton</persName> Hawled some manure and helped 
-               <lb/>Father some. quite cool nearly frost
+               <lb/><rs type="familial">Father</rs> some. quite cool nearly frost
                <lb/>for several mornings
             </p>
          </div>
@@ -769,20 +772,20 @@
             <p>
                <lb/>to day all
                <lb/>Went to Basket meeting
-               <lb/>Expect <persName>John</persName> and <persName>Augustine</persName>. <persName><unclear cert="low">Homer</unclear></persName>
+               <lb/>Expect <persName>John</persName> and <persName>Augustine</persName>. <persName>Homer</persName>
                <lb/><persName>Rhoda</persName> and <persName>Thornton Wells</persName> were down
                <lb/><persName>Henry</persName> has enlisted Considerable feeling
                <lb/>seems to manifest itself among the
-               <lb/>Democrats of the Country because Dr
-               <lb/><persName>E.B. Old</persName> Has been arrested and
+               <lb/>Democrats of the Country because <persName>Dr
+               <lb/>E.B. Olds</persName> Has been arrested and
                <pb facs="/b/b60bc7ff-2258-4e9b-b511-7a3fb6d604a3"/>
                <lb/>sent to <placeName>Ft Layfaett</placeName> for <seg type="softhypen">Treason
                <!--I believe this is misspelling of Fort Lafayette?-->
                <lb/></seg>able language. But people Dare
-               <lb/>not say <unclear cert="low">mutch</unclear> as people are ready to
+               <lb/>not say <choice><sic>mutch</sic><corr>much</corr></choice> as people are ready to
                <lb/>Report them and Have them arrested
                <lb/>any time a person cannot get out of 
-               <lb/>His County without a pays and a 
+               <lb/>His County without a pass and a 
                <lb/>Band of a thousand Dollars persons
                <lb/>trying to get away can be arrested and
                <lb/>put right into the ranks. Enlisting 
@@ -800,13 +803,14 @@
                <lb/>More</persName> make the pump and put it in
                <lb/>It works very well and looks very well
                <lb/>It cost me $6.7<unclear cert="low">8</unclear> as follows 28 ft at 20 cts
-               <lb/>per foot = 5.60 <unclear cert="low">Lreens</unclear>60 <persName>John</persName> to Help
-               <lb/><unclear cert="low">bare</unclear> 3<del rend="overstrike">6</del>1 &#xbc; work <del rend="overstrike">I done and it back</del>Leather
-               <lb/>for it 25 <!-- gap --> Besides my work and
+               <lb/>per foot = 5.60 <unclear cert="low">Irons</unclear>60 <persName>John</persName> to Help
+               <lb/>bore 3<del rend="overstrike">6</del>1 &#xbc; work <del rend="overstrike">I done and it back</del>Leather
+               <lb/>for it 25 Besides my work and
                <pb facs="/9/932f9621-7802-4266-ad23-8c83ea8cb581"/>
-               <lb/><persName>Johns Moles Bill</persName> amouted to five
+               <lb/><persName>Johns Moles</persName> Bill amouted to five
                <lb/>Dollars. Paid Him in cash two
                <lb/>Dollars <unclear cert="medium">rest</unclear> three dollars He is to
+               <!-- John transcribed rest as last -->
                <lb/>take in molosses or molossess making
             </p>
             <p>
@@ -814,18 +818,18 @@
                <lb/>Well dirt on the road done a good 
                <lb/>job of work completed my work of this
                <lb/>year and last two. put a box and 
-               <lb/>underground <gap reason="illegible"/> to my well.
+               <lb/>underground spouting to my well.
                <lb/>the pump <unclear cert="medium">lather</unclear>. monday night went
-               <lb/>to a party to <persName><unclear cert="medium">Isaacs</unclear> Smith</persName> Tues to
-               <lb/><gap reason="illegible"/>and <choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> night to a war
+               <lb/>to a party to <persName>Isaacs Smith</persName> Tues to
+               <lb/><persname>Gremias</persname> and <choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> night to a war
                <lb/>meeting at Albany. I subscribed $3.00 to
-               <lb/>a Bounty fund for our Township <persName>Lewis</persName>
-               <lb/><persName>Bill</persName> and <persName>Harrison Smith</persName> and some 
+               <lb/>a Bounty fund for our Township <persName>Lewis
+               <lb/>Bell</persName> and <persName>Harrison Smith</persName> and some
                <lb/>four or five others Have enlisted
                <lb/><persName>John</persName> Has some notion of Enlisting in the
                <lb/>company now raising But I guess He
-               <lb/>will Hardly go. Father finished the
-               <lb/>Wooding the hourse power Mother and
+               <lb/>will Hardly go. <rs type="familial">Father</rs> finished the
+               <lb/>Wooding the hourse power <rs type="familial">>Mother</rs> and
                <lb/>Him went up to <persName>aunt Elizas</persName> <persName>Caroline</persName>
                <lb/>is yet sick. Newton &amp; <persName>John</persName> finished
                <lb/>Hawling manure
@@ -833,7 +837,7 @@
                <pb facs="/e/e9fb150e-ef2a-4613-94ff-8b07027e9d66"/>
             <p>
                <lb/><del rend="erased">G</del><persName>McClellan</persName>has retreated to <placeName>Yorktown</placeName>
-               <lb/>and <gap rend="illegible"/> since <name type="event">the battle of Culpeper</name>
+               <lb/>and Pope since <name type="event">the battle of Culpeper</name>
                <lb/>Court House has also fell back in the
                <lb/>west the Rebels seem to be pressing North.
             </p>
