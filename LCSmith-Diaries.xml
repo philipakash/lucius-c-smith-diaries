@@ -95,7 +95,7 @@
                   -->
                   <title level="u">Book</title>
 
-                  <author>Lucius Clark Smith (1835 – ?)</author>
+                  <author>Lucius Clark Smith (1835 â€“ ?)</author>
 
                </titleStmt>
 
@@ -147,7 +147,7 @@
                      <!-- 
                      We will use this note to describe the physical diary.
                      -->
-                     <p>SPEC.RARE.MS.AMER.69  v.2. Diaries, 1859–1862</p>
+                     <p>SPEC.RARE.MS.AMER.69  v.2. Diaries, 1859â€“1862</p>
                      <p>Collation: </p>
                      <p>Paper: </p>
                      <p>Binding: </p>
@@ -275,7 +275,7 @@
                      Plain Township</title>. New Albany, Ohio: New Albany Plain Township Historical
                   Society, 1994. Print.</bibl>
                <bibl xml:id="TGN" n="Getty">Getty Research Institute.<title level="m">Getty
-                     Thesaurus of Geographic Names® Online</title> N.d. Web. 3 August 2012.</bibl>
+                     Thesaurus of Geographic NamesÂ® Online</title> N.d. Web. 3 August 2012.</bibl>
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
                   6 Jan. 2012. Web. 3 August 2012.</bibl>
             </listBibl>           
@@ -298,7 +298,7 @@
                Hawthorne to her sister Elizabeth Palmer Peabody between ca. 1837 and 1868 (currently
                being revised); "Dear Wife," twenty-one letters written by riverboat captain William
                B. Anderson to his wife Louisa while he plied the Ohio river during the height of the
-               American Civil War, 1862–1864; "Journal of a Tour to Europe," by Samuel Sullivan Cox;
+               American Civil War, 1862â€“1864; "Journal of a Tour to Europe," by Samuel Sullivan Cox;
                and "Louisa A. Doane's Journal of Two Ocean Voyages (1852-1853). These documentary
                editions are intended to provide wide exposure and access to manuscripts that might
                otherwise be difficult for scholars to discover and consult, and to provide users
@@ -308,7 +308,7 @@
                courses provide students with an opportunity to explore issues of textuality
                and mediation that arise when our cultural archives spread from page to screen and
                from library shelves to networked databases. Electronic textual editing serves as our
-               vehicle for examining what happens—and envisioning what might happen—when artifacts
+               vehicle for examining what happensâ€”and envisioning what might happenâ€”when artifacts
                in one medium are represented in another medium, especially with regard to the
                interpretive work of reading. Electronic textual editions also provide a contact zone
                that can help us reflect on what manuscript, print, and "born digital" artifacts can
@@ -331,10 +331,10 @@
             <!-- 
                TAKE NOTE: Explain your editorial method:
                
-               •	If you employ image files, describe how they were produced and note where they are stored.
-               •	Describe any editorial guidelines you followed (e.g., how you treated hyphenation, whether 
+               â€¢	If you employ image files, describe how they were produced and note where they are stored.
+               â€¢	Describe any editorial guidelines you followed (e.g., how you treated hyphenation, whether 
                   you corrected apparent errors, and any other decisions about how to treat recurrent features).
-               •	Describe any special symbols that you use in your text to indicate additions, corrections, 
+               â€¢	Describe any special symbols that you use in your text to indicate additions, corrections, 
                   cancellations, and so on. This important explanation provides a reader's guide to the text.
                
                   You can use more than one paragraph (tagged <p> </p>).
@@ -596,12 +596,13 @@
             <p>
                <lb/>Wrote a
                <lb/>letter to Sam Smith and done my diary
-               <lb/>writing went over to <unclear cert="low">Nulless</unclear> <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> 
+               <lb/>writing went over to <unclear cert="low">Millers</unclear> <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> 
             </p>
             <p>
-               <lb/>Went to <choice><sic>se</sic><corr>see</corr></choice><unclear cert="low">Heilan</unclear> Smith as He
-               <lb/>is to start south tomorow Having got 
-               <lb/>His <unclear cert="low">pop</unclear>Still very warm.
+               <lb/>Went to <choice><sic>se</sic><corr>see</corr></choice><unclear cert="low">Hiram</unclear> Smith as He
+               <!-- I originally transcribed these name as Heilan but I changed it to Hiram after reading John transcription-->
+               <lb/>is to start south <choice><sic>tomorow </sic><corr>tomorrow</corr></choice>Having got 
+               <lb/>His pass. Still very warm.
             </p>
          </div> 
          <div xml:id="LCS18620804" type="Entry">      
@@ -610,53 +611,53 @@
                <lb/>and <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice> 5th Aug 1862</date></dateline>
          <p>
                <lb/>Worked at my
-               <lb/>Buildings <persName>Newton</persName> &amp; Father finished
+               <lb/>Buildings <persName>Newton</persName> &amp; <rs type="familial">Father finished</rs>
                <lb/>the Hay and <choice><sic>theashed</sic><corr>thrashed</corr></choice>out some wheat
                <lb/><time>night <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice></time> John come sick Having <del rend="overstrike">a</del>
-               <lb/>had a slight bowel complaint.
+               <lb/>Had a slight bowel complaint.
                <lb/><choice><sic>Todayes</sic><corr>Today's</corr></choice><unclear cert="medium">paper</unclear> Tuesday Brings an<del rend="overstrike">d</del>
                <lb/>order from the Secretary of War 
                <lb/>calling for an unconditional Draft of
-               <lb/>three <choice><sic>heundred</sic><corr>hundred</corr></choice>thousand more men
+               <lb/>three hundred thousand more men
                <lb/>in addition to the same amount of 
                <lb/>volunteers previously called for
                <lb/>some time ago. This order was issued yester<seg type="softhyphen">
-               <lb/></seg>day morning. That amount of men will <unclear cert="low">fill</unclear>
-               <lb/>Hold on the people
+               <lb/></seg>day morning. That amount of men will tell
+               <lb/>Hard on the people
          </p>
          </div>
          <pb facs="/6/60952512-463b-4c2d-abdb-c19569830ec6"/>
-<div xml:id="LCS18620805" type="Entry">
+         <div xml:id="LCS18620805" type="Entry">
    <lb/>
    <dateline><date when="1862-08-05">Wednsday 6th Aug <hi rend="underline">1862</hi><lb/>
    <time>last night</time></date></dateline>
-   <p>
-      <lb/>Had a good rain to day <persName>Newton</persName>
-      <lb/><persName>John</persName> &amp; me quarried and Hawled stone from
-      <lb/><persName>Cambells</persName> Hawled five loads. They are for
-      <lb/>my well <!--gap--><time>night</time> went over all of us to a
-      <lb/>party at <persName>Roll Eavens</persName> there was a great
-      <lb/><del rend="erased">cr l</del>crowd there. But a poor party as
-      <lb/>old Anna would not let them play. They
-      <lb/>paraded around in the lane <unclear cert="high">until</unclear>
-      <lb/>late and dispersed the <unclear cert="medium">Girls</unclear> Having a
-      <lb/>lot of spoiled dresses
-   </p>
+         <p>
+            <lb/>Had a good rain to day <persName>Newton</persName>
+            <lb/><persName>John</persName> &amp; me quarried and Hawled stone from
+            <lb/><persName>Cambells</persName> Hawled five loads. They are for
+            <lb/>my well <time>night</time> went over all of us to a
+            <lb/>party at <persName>Roll Eavens</persName> there was a great
+            <lb/><del rend="erased">cr l</del>crowd there. But a poor party as
+            <lb/>old <persName>Anna</persName> would not let them play. They
+             <lb/>paraded around in the lane until
+             <lb/>late and dispersed the Girls Having a
+            <lb/>lot of spoiled dresses
+         </p>
 </div>  
 <div xml:id="LC18620807" type="Entry">
    <dateline><date when="1892-08-07">Thursday 7th</date></dateline>
    <p>
       <lb/><persName>Newton</persName> &amp; me worked at my Building 
       <lb/>finished <choice><sic>cleeting</sic><corr>cleating</corr></choice> all of it and arranged
-      <lb/>things about the building <unclear cert="low">dad</unclear> went
-      <lb/>to mill <unclear cert="medium"><persName>Nathan</persName></unclear>and <unclear cert="medium">girls</unclear> went along
+      <lb/>things about the building <rs type ="familial">dad</rs> went
+      <lb/>to mill <rs type ="familial">Mother</rs>and girls went along
       <lb/>Black <unclear cert="low">levling</unclear>
    </p>
 </div>
 <div xml:id="LCS18620808" type="Entry">
-   <dateline><date when="1862-08-08"><choice><abbr>Frid</abbr><expan>Friday</expan></choice> 8th</date></dateline><p><choice><sic>to day</sic><corr>today</corr></choice> I went
-      <lb/>to see a coupel of Horse power and engaged
-      <lb/>one of <persName>Daniel <unclear cert="medium">Bennits</unclear></persName> got my Horse <unclear cert="medium">shod</unclear>
+   <dateline><date when="1862-08-08"><choice><abbr>Frid</abbr><expan>Friday</expan></choice> 8th</date></dateline><p>to day I went
+      <lb/>to see a <choice><sic>coupel</sic><corr>couple</corr></choice> of Horse power and engaged
+      <lb/>one of <persName>Daniel Bennits</persName> got my Horse shod
       <lb/><persName>Newton</persName> Hawled stone for me
    </p>
 </div>
