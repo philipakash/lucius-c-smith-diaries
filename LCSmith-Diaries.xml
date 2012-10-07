@@ -1043,7 +1043,7 @@
          </div>
          <div xml:id="LCS18620908" type="Entry">
             <dateline> <date when="1862-09-08">Monday 8</date></dateline>
-            <p><lb/>To<add place="above">day</add> Father <persName>Newton</persName>
+            <p><lb/>To<add place="above">day</add> <rs type="familial">Father</rs> <persName>Newton</persName>
             <lb/>and me put down the Horse power and
             <lb/>partly rigged it to the mill.
             </p>
@@ -1073,7 +1073,7 @@
             <p><lb/>morning came on Home got the Log Wagon
             <lb/>and in the afternoon Hawled two logs and
             <lb/>got them sawed and Hawled the lumber
-            <lb/>Home. Father is at work for me and was
+            <lb/>Home. <rs type="familial">Father</rs> is at work for me and was
             <lb/>yesterday. very Hot and so Dry It
             <lb/><choice><sic>seams</sic><corr>seems</corr></choice> as if <choice><sic>evry</sic><corr>every</corr></choice> thing would Dry up.
             </p>
@@ -1107,7 +1107,7 @@
          </div>
          <div xml:id="LCS18620913" type="Entry">
             <dateline> <date when="1862-09-13"></date>Sept <choice><sic>18th</sic><corr>13th</corr></choice> 1862</dateline>
-            <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> <unclear cert="medium">shoot</unclear>and Father
+            <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> <unclear cert="medium">shoot</unclear>and <rs type="familial">Father</rs>
             <lb/>and me got the Horse power and mill in
             <lb/>as we Hope running order it <choice><sic>seams</sic><corr>seems</corr></choice> at
             <lb/>least to move quite well But not quite
@@ -1145,7 +1145,7 @@
             <lb/>and riveted my sheet Iron together
             <lb/>Father Helped me all the week <persName>George good<seg type="softhyphen">
             <lb/>rich</seg></persName> three days <del><gap reason="overwritten" unit="words" extent="1"></gap></del> when He got sick
-            <lb/>Him &amp; Father made <unclear cert="medium">boots</unclear> pans nearly
+            <lb/>Him &amp; <rs type="familial">Father</rs> made <unclear cert="medium">boots</unclear> pans nearly
             <lb/><unclear cert="low">cor</unclear> to Hawl cane on and laid the
             <lb/>track made feed table <unclear cert="medium"><choice><sic>riged</sic><corr>rigged</corr></choice></unclear> a pumice
             <lb/>carrier to the mill and various things
@@ -1175,7 +1175,7 @@
          <div xml:id="LCS18620927" type="Entry">
             <dateline> <date from="1862-09-22" to="1862-09-27">for the week ending
             <lb/>saturday
-            <lb/>sept 27th 1862</date></dateline><p> this week Father
+            <lb/>sept 27th 1862</date></dateline><p> this week <rs type="familial">Father</rs>
             <lb/><persName>George</persName> and me worked all the week
             <lb/>from day light <choice><sic>untill</sic><corr>until</corr></choice> dark at the
             <lb/>Cane House and got It nearly ready to
@@ -1201,7 +1201,7 @@
             <lb/>ted</seg> some But if <choice><sic>evrything</sic><corr>everything</corr></choice> goes right I
             <lb/>am in time yet <unclear cert="high"><choice><sic>thare</sic><corr>there</corr></choice></unclear> Has some over
             <lb/>thirty loads of cane came in this week
-            <lb/>we Had quite a feast <choice><abbr>Wedns</abbr><expan>Wednesday</expan></choice> and Thursday
+            <lb/>we Had quite a feast Wedns and Thursday
             <lb/><choice><sic>witch</sic><corr>which</corr></choice> made Them bring in cane <persName><unclear cert="medium">Mr Lainy</unclear></persName> will
             <lb/>not be ready <choice><sic>untill</sic><corr>until</corr></choice> near a week yet
             <pb facs="/3/3c59563d-24c2-4168-b76c-ce45d6ad4e69"/>
@@ -1214,7 +1214,7 @@
             <lb/>another Horse.</p>
          </div>
          <div xml:id="LCS18621001" type="Entry">
-            <dateline><date when="1862-10-01">Wednsday October 1 1862</date></dateline>
+            <dateline><date when="1862-10-01"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> October 1 1862</date></dateline>
             <lb/><p>Early at It again put on three Horses
             <lb/>and pushed the grinding But all we could
             <lb/>do we cannot make <unclear cert="low">Juice</unclear> enough the
