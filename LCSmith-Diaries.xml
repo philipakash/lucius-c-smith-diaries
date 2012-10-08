@@ -1367,7 +1367,7 @@
             
             <pb facs="/6/65c3a7d6-5fa0-4ec5-9511-66d5efe59d02"/>
             <div xml:id="LCS18621025a" type="Entry">
-               <lb/><dateline><date from="1862-10-20" to="1862-10-25"> For the week Ending Oct 25 1862</date></dateline>
+               <lb/><dateline><date from="1862-10-20" to="1862-10-25"> For the week Ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 25 1862</date></dateline>
                <p> <lb/>This week Drove
                   <lb/>the Business as fast as we could move
                   <lb/>579 gallons. we Had some considerable bad
