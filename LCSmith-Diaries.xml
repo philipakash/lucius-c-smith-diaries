@@ -1540,9 +1540,9 @@
                <lb/>very nice Weather.
             </p>
             <p>
-               <lb/><persName><addName type="nickname">Aunt Eliza</addName></persName> and <persName>Thorton</persName> came down with
-               <lb/>a <persName>Misses Montgomery</persName> a sister of <persName><addName type="nickname">uncle <unclear cert="high">Dave
-               <lb/>Beaches</unclear></addName></persName> Wife. and a young man on their
+               <lb/><persName>Aunt Eliza</persName> and <persName>Thorton</persName> came down with
+               <lb/>a <persName>Misses Montgomery</persName> a sister of <persName>uncle <unclear cert="high">Dave
+               <lb/>Beaches</unclear></persName> Wife. and a young man on their
                <lb/>way to Robertses. Hawled down our <choice><sic>Bead</sic><corr>bed</corr></choice>
                <!-- Not sure how to handle him adding his own line here... for now, I'm going to pretend it's seperate -->
                <lb/>from the cane
@@ -1619,7 +1619,7 @@
                <lb/>Yesterday <persName>Misses
                <lb/>Montgomery</persName> came to stay over Sunday
                <lb/>withe us on Her Road Home
-               <lb/><persName>John Evans</persName> and <persName><addName type="endearment">Wife</addName></persName> are Hear.
+               <lb/><persName>John Evans</persName> and <persName>Wife</persName> are Hear.
                <!-- Hmmm... interesting. Do we need a persName when someone is referred to by their relationship to someone else? If so, how do we mark it? "Wife" is not exactly an endearment... -->
                <lb/>nice <choice><sic>prety</sic><corr>pretty</corr></choice> day staid Home all day.
             </p>
@@ -1664,9 +1664,9 @@
             <dateline><date from="1862-12-07" to="1862-12-13"><lb/>For the Week Ending Saturday<lb/>Decem 13<hi rend="super">th</hi> 1862.</date></dateline>
             <p>
                Monday <persName>George 
-               <lb/>Goodrich</persName> and me went and to <persName><addName type="nickname">uncle
-               <!-- Interesting... this time "Lewis" has an i inserted above the line... not sure how to mark that... -->
-                  <lb/>Lew<add place="above">i</add>ses</addName></persName> and <choice><sic>staid</sic><corr>stayed</corr></choice> all night walked over
+               <lb/>Goodrich</persName> and me went and to <persName>uncle
+               
+               <lb/>Lew<add place="above">i</add>ses</persName> and <choice><sic>staid</sic><corr>stayed</corr></choice> all night walked over
                <lb/>nice walking. Tuesday morning went over
                <lb/>to Worthington and then by the <unclear cert="low">cars</unclear> to
                <lb/>Delaware George to <add place="above">a</add> <persName>Mr <unclear cert="high">Watterman</unclear></persName> abo<supplied reason="omitted" resp="ed">out</supplied>
