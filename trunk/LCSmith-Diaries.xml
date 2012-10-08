@@ -651,7 +651,7 @@
       <lb/><persName>Newton</persName> &amp; me worked at my Building 
       <lb/>finished <choice><sic>cleeting</sic><corr>cleating</corr></choice> all of it and arranged
       <lb/>things about the building <rs type ="familial">dad</rs> went
-      <lb/>to mill <rs type ="familial">Mother</rs>and girls went along
+      <lb/>to mill <rs type ="familial">Mother</rs> and girls went along
       <lb/>Black <unclear cert="low">levling</unclear>
    </p>
 </div>
@@ -668,7 +668,7 @@
    <time>morning</time></date></dateline>
    <p>
       <lb/>went to Columbus got <persName>Gilbert Collins</persName>
-      <lb/>to put my property over in the old <choice></choice><sic>mans</sic><corr>man's</corr>
+      <lb/>to put my property over in the old <choice><sic>mans</sic><corr>man's</corr></choice>
       <lb/>Hands so that if I am drafted <del rend="overstrike">I</del> He
       <lb/>can take care of it for me and them
       <lb/>Patent Right men can also stand
@@ -682,7 +682,7 @@
 </div>       
 <div xml:id="LC18620810" type="Entry">
    <dateline><date when="1862-08-10">Sunday 10th Aug <hi rend="underline">1862</hi><lb/>
-      <time>morning</time></date></dateline><p>came Home got Home at noon
+      <time>morning</time></date></dateline><p> came Home got Home at noon
       <lb/>We Have Had a nice rain went over
       <lb/>to see <persName>John Dague</persName> about Digging my
       <lb/>well as He promised to do it But
@@ -694,11 +694,11 @@
          <pb facs="/5/5119fa8f-c14f-4251-af5b-c5e9b7b2ccee"/>
          <div xml:id="LCS18620811" type="Entry">
             <dateline><date when="1862-08-11">Monday Aug 11th <hi rend="underline">1862</hi><lb/>
-               <time>morning</time></date></dateline><p><persName>John</persName>
+               <time>morning</time></date></dateline> <p><persName>John</persName>
                   <lb/>and I went up near Center and got my 
                   <lb/>Horse power for my mill It has to <choice><sic>bee</sic><corr>be</corr></choice>
                   <lb/>Rewooded anew. <time>Afternoon</time> <persName>Newton</persName> commen<seg type="softhyphen">
-                  <lb/></seg>ced to dig the well and I finished diging
+                  <lb/></seg>ced to dig the well and I finished <choice><sic>diging</sic><corr>digging</corr></choice>
                   <lb/>ditches <choice><orig><distinct type="archaic_orthography" time="16-16">arround</distinct></orig><reg source="OED">around</reg></choice> the House Had a tremen<seg type="softhyphen">
                   <lb/></seg>duous Headache to day.
             </p>
@@ -706,7 +706,7 @@
          <div xml:id="LCS18620812" type="Entry">
             <dateline><date when="1862-08-12">Tues 12</date></dateline>
             <p>
-               <lb/><persName>John</persName> Dug at the Well. <time>forenoon</time><persName>Homer</persName>
+               <lb/><persName>John</persName> Dug at the Well. <time>forenoon</time> <persName>Homer</persName>
                <lb/>and me Hawled stone out of the crick
                <lb/><time>Afternoon</time> Hawled a load of wood to 
                <lb/>Albany for <rs type="familial">Dad</rs> and Hawled up a 
@@ -732,7 +732,7 @@
                <lb/><choice><sic>speaches</sic><corr>speeches</corr></choice> there was a large turnout of
                <lb/>people several thousand <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> <choice><sic>riged</sic><corr>rigged</corr></choice>
                <lb/>up the cane House with lights I put up 
-               <lb/>three Coal oil Lamp an the Beams and 
+               <lb/>three Coal oil Lamp on the Beams and 
                <lb/>It made it very light and nice there was a 
                <lb/>large turnout over a Hundred and we
                <lb/>Had a right good party as to the place
@@ -747,7 +747,7 @@
             <dateline><date from="1862-08-14" to="1862-08-16">Thursday <choice><abbr>Frid</abbr><expan>Friday</expan></choice> and Saturday<lb/>
             August 14, 15 and 16th <hi rend="underline">1862</hi></date></dateline>
             <p>
-               <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice></persName><persName>Yantus</persName><persName>John</persName> and I worked
+               <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice> </persName><persName>Yantus</persName> <persName>John</persName> and I worked
                <lb/>at the Well we got it some over <unclear cert="medium">23</unclear> ft
                <!--John transcribed this as 28 feet. Want to check and see what everyone else thought --> 
                <lb/>deep when It began to cave quite bad
@@ -762,7 +762,7 @@
                <lb/>got water in four or five feet more
                <lb/>By saturday night we got it walled
                <lb/>up to within 8 ft of the top <rs type="familial">Father</rs> Has
-               <lb/>Been at work Rewoo<add place="above">d</add>ing my Horse power
+               <lb/>Been at work rewoo<add place="above">d</add>ing my Horse power
                <lb/><persName>Newton</persName> Hawled some manure and helped 
                <lb/><rs type="familial">Father</rs> some. quite cool nearly frost
                <lb/>for several mornings
@@ -810,8 +810,7 @@
                <pb facs="/9/932f9621-7802-4266-ad23-8c83ea8cb581"/>
                <lb/><persName>Johns Moles</persName> Bill amouted to five
                <lb/>Dollars. Paid Him in cash two
-               <lb/>Dollars <unclear cert="medium">rest</unclear> three dollars He is to
-               <!-- John transcribed rest as last -->
+               <lb/>Dollars last three dollars He is to
                <lb/>take in molosses or molossess making
             </p>
             <p>
@@ -830,9 +829,9 @@
                <lb/><persName>John</persName> Has some notion of Enlisting in the
                <lb/>company now raising But I guess He
                <lb/>will Hardly go. <rs type="familial">Father</rs> finished the
-               <lb/>Wooding the hourse power <rs type="familial">>Mother</rs> and
+               <lb/>Wooding the horse power <rs type="familial">Mother</rs> and
                <lb/>Him went up to <persName>aunt Elizas</persName> <persName>Caroline</persName>
-               <lb/>is yet sick. Newton &amp; <persName>John</persName> finished
+               <lb/>is yet sick. <persName>Newton</persName> &amp; <persName>John</persName> finished
                <lb/>Hawling manure
             </p>
                <pb facs="/e/e9fb150e-ef2a-4613-94ff-8b07027e9d66"/>
@@ -844,7 +843,7 @@
             </p>
             <p>
                <lb/>Weather cool and very Dry had
-               <lb/>an <del rend="erase">d</del>little shower but it is very dry the 
+               <lb/>one <del rend="erase">l</del>little shower but it is very dry the 
                <lb/>corn is not earing so as to make a
                <lb/>half crop the ground seems to not
                <lb/>stand a drouth as at other times
