@@ -1057,17 +1057,17 @@
             <dateline> <date when="1862-09-09">Tues 9</date></dateline>
             <p><lb/>Morning <persName>Homer</persName> &amp; me went to <placeName>Delaware</placeName>
             <lb/>after sheet Iron they manufacture pans
-            <lb/>up <choice><sic>thare</sic><corr>there</corr></choice> and as I could not get
+            <lb/>up <choice><sic>thare</sic><corr>there</corr></choice> <!--John usually transcribes what I see as "thare" as "there"; double check here and elsewhere--> and as I could not get
             <lb/><choice><sic>suitabble</sic><corr>suitable</corr></choice> Iron in <placeName>Columbus</placeName> I con<seg type="softhyphen">
             <lb/></seg>cluded to try up <choice><sic>thare</sic><corr>there</corr></choice> I got quite good
-            <lb/>Iron 30 inches wide by 8 &amp; 9 <choice><abbr>ft</abbr><expan>feet</expan></choice> <unclear cert="low">Coming</unclear> 
-            <lb/>for 8 <choice><abbr>cts</abbr><expan>cents</expan></choice> <choice><sic>perr</sic><corr>per</corr></choice> <choice><abbr>lbs</abbr><expan>pound</expan></choice> <choice><sic>witch</sic><corr>which</corr></choice> <choice><sic>useto</sic><corr>used to</corr></choice> <del rend="overstrike">oly</del> <choice><sic>onley</sic><corr>only</corr></choice>
+            <lb/>Iron 30 inches wide by 8 &amp; 9 <choice><abbr>ft</abbr><expan>feet</expan></choice> <unclear cert="high"><choice><sic>loung</sic><corr>long</corr></choice></unclear> 
+            <lb/>for 8 <choice><abbr>cts</abbr><expan>cents</expan></choice> <choice><sic>perr</sic><corr>per</corr></choice> lbs <choice><sic>witch</sic><corr>which</corr></choice> <choice><sic>useto</sic><corr>used to</corr></choice> <del rend="overstrike">oly</del> <choice><sic>onley</sic><corr>only</corr></choice>
             <lb/>cost 6 But the stopping of mills &amp;
             <lb/>the tax Law makes all Iron Higher
             <lb/><choice><sic>stoped</sic><corr>stopped</corr></choice> at <persName>Rodney Smith</persName>s <!--In possessives, should we include the "s" in the "name" element?--> and seen a
             <lb/><choice><sic>coupel</sic><corr>couple</corr></choice> of old school mates of <placeName>Delaware</placeName>
             <lb/>Had a good time <choice><sic>withe</sic><corr>with</corr></choice> them we staid
-            <lb/>all night at <persName>Mr Reeler</persName>s near <unclear cert="high">Center</unclear>
+            <lb/>all night at <persName>Mr Keeler</persName>s near <unclear cert="high">Center</unclear>
             <pb facs="/8/8ed83dd3-f790-4c51-bc0c-7574f6ed9084"/>
             <lb/>Who is also a <choice><sic>sorghem</sic><corr>sorghum</corr></choice> manufacture<supplied reason="omitted" resp="ed">r</supplied> <!--Is this a correct use of the "supplied" element?-->
             </p>
@@ -1087,7 +1087,7 @@
             <lb/>
             <dateline> <date when="1862-09-11">Thursday 11</date></dateline>
             <p><lb/>Morning Early went to <placeName>albany</placeName> and got <persName>George
-            <lb/>Goodrich</persName> to do me some <unclear cert="low">turning</unclear> Father &amp;
+            <lb/>Goodrich</persName> to do me some <unclear cert="high">turning</unclear> Father &amp;
             <lb/>me worked at the works all day <persName>George</persName>
             <lb/>Helped afternoon <!--Double check formation of "afternoon"--> <persName>Uncle Lewis</persName> was
             <lb/><choice><sic>Hear</sic><corr>Here</corr></choice> to dinner. <choice><sic>Eavning</sic><corr>Evening</corr></choice> had a nice
@@ -1096,7 +1096,7 @@
          </div>
          <div xml:id="LCS18620912" type="Entry">
             <dateline> <date when="1862-09-12">Frid 12.</date></dateline>
-            <p><lb/>Morning Dad &amp; me and <persName>Eliza</persName> went to <placeName>Columbus</placeName>
+            <p><lb/>Morning <rs type="familial">Dad</rs> &amp; me and <persName>Eliza</persName> went to <placeName>Columbus</placeName>
             <lb/>I went after various things for my Cane works
             <lb/>see cash List went past <persName>Grovenberies</persName>
             <lb/>and got a Horse of Him to work my mill
@@ -1112,7 +1112,7 @@
          </div>
          <div xml:id="LCS18620913" type="Entry">
             <dateline> <date when="1862-09-13"></date>Sept <choice><sic>18th</sic><corr>13th</corr></choice> 1862</dateline>
-            <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> <unclear cert="medium">shoot</unclear>and <rs type="familial">Father</rs>
+            <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> <unclear cert="medium">sheet</unclear>and <rs type="familial">Father</rs>
             <lb/>and me got the Horse power and mill in
             <lb/>as we Hope running order it <choice><sic>seams</sic><corr>seems</corr></choice> at
             <lb/>least to move quite well But not quite
