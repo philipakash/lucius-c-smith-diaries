@@ -1288,7 +1288,7 @@
          
          <pb facs="/8/8ac206a0-4b57-4c8d-ba24-62e14d0572ef"/> 
             <div xml:id="LCS18621005a" type="Entry">
-               <lb/><dateline> <date when="1862-10-05">Sunday Oct 5th 1862</date></dateline>
+               <lb/><dateline> <date when="1862-10-05">Sunday <choice><abbr>Oct</abbr><expan>October</expan></choice> 5th 1862</date></dateline>
                <p> <lb/>Staid around Home all
                <lb/>day only to go down to See Sagers about
               <lb/>making me Some Barrels. Warm and pleasant</p>
@@ -1297,7 +1297,7 @@
                <lb/>Dust. I dont <choice><sic>mutch</sic><corr>much</corr></choice> look for rain this fall.
                   <lb/> <choice><sic> Scarsley</sic> <corr> Scarcely</corr></choice> any Wheat is Sowed yet.</p> </div>
                <div xml:id="LCS18621012a" type="Entry">
-                  <lb/><dateline><date from="1862-10-06" to="1862-10-11">For the Week Ending Oct 11 <unclear cert="low">of</unclear> 62
+                  <lb/><dateline><date from="1862-10-06" to="1862-10-11">For the Week Ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 11 <unclear cert="low">of</unclear> 62
                      <lb/> <unclear cert="low"> Sunday</unclear> morning</date></dateline>
                   <p><lb/> Early finished fixing the mills 
                   <lb/> and went to walk. they work well. we drove
@@ -1411,9 +1411,9 @@
                   <lb/> went off. saying Hee would <unclear> sue me shure.</unclear>
                                     
                </p>
-               <p><lb/> Warm and Dry up to Sat morning 
+               <p><lb/> Warm and Dry up to <choice><abbr>Sat</abbr><expan>Saturday</expan></choice> morning 
                   <lb/> When it Drizzled rain most all day and
-                  <lb/> turned to snow at night and <unclear></unclear> like 
+                  <lb/> turned to snow at night and snowed like 
                   <lb/> fury all night.                  
                </p>
             </div>
@@ -1425,24 +1425,23 @@
                   <lb/> from five to eight inches Deep and cold
                   <lb/> cleaned up the House carried in cane worked
                   <lb/> most all Day night got a <choice><sic>coupel</sic><corr> couple </corr></choice> of Hands
-                  <lb/> and <unclear> ground </unclear> all night I Have to Have right
+                  <lb/> and ground  all night I Have to Have right
                   <lb/> Hands to grind as the day Hands could not
-                  <lb/> <unclear> Stand </unclear> it.            
+                  <lb/> Stand  it.            
                </p>
             </div>
             <div xml:id="LCS18621101" type="Entry">
                <lb/><dateline> <date from="1862-10-27" to="1862-11-01"> For the Week ending 
                <lb/> November 1st 1862 Saturday </date></dateline>
-                             <p>
-                  <lb/> This Week Had good luck made 636 1/2
-                  <lb/> gallons of <gap reason="illegible/"> </gap> good molopes. Man I went to
-                                <lb/> Rent a mill but could not find any
-                                <lb/>Tuesday I got Father to go down
-                                <lb/> to shopers as He has <unclear> throwen </unclear> out His mill
+                             <p><lb/> This Week Had good luck made 636 1/2
+                  <lb/> gallons of <unclear cert="low">Exty</unclear> good molasses. Man I went to
+                                <lb/> Rent a mill but could not find any <del rend="overstrike">wednesday</del>
+                                <lb/> <del rend="overstrike">I got F</del> Tuesday I got Father to go down
+                                <lb/> to shopers as He has <choice><sic>throwen</sic><corr>thrown</corr></choice> out His mill
                                 <lb/> like mine and Borrowed the piece to match
                                 <lb/> my Broken one and wednesday we put it up
                                 <lb/> and went it along the old way Better
-                                <lb/> Believe I was glad. <persName> Thornton Wells </persName>  helped
+                                <lb/> Believe I was glad. <persName>Thornton Wells </persName>  helped
                                 <lb/> me this week. He cut and Hawled wood as
                                 <lb/> I will not Have enough. george Wilson to the
                                 <lb/> little boyes done the grinding. 
