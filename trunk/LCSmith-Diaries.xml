@@ -1288,7 +1288,7 @@
          
          <pb facs="/8/8ac206a0-4b57-4c8d-ba24-62e14d0572ef"/> 
             <div xml:id="LCS18621005a" type="Entry">
-               <lb/><dateline> <date when="1862-10-05">Sunday Oct 5th 1862</date></dateline>
+               <lb/><dateline> <date when="1862-10-05">Sunday <choice><abbr>Oct</abbr><expan>October</expan></choice> 5th 1862</date></dateline>
                <p> <lb/>Staid around Home all
                <lb/>day only to go down to See Sagers about
               <lb/>making me Some Barrels. Warm and pleasant</p>
@@ -1297,7 +1297,7 @@
                <lb/>Dust. I dont <choice><sic>mutch</sic><corr>much</corr></choice> look for rain this fall.
                   <lb/> <choice><sic> Scarsley</sic> <corr> Scarcely</corr></choice> any Wheat is Sowed yet.</p> </div>
                <div xml:id="LCS18621012a" type="Entry">
-                  <lb/><dateline><date from="1862-10-06" to="1862-10-11">For the Week Ending Oct 11 <unclear cert="low">of</unclear> 62
+                  <lb/><dateline><date from="1862-10-06" to="1862-10-11">For the Week Ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 11 <unclear cert="low">of</unclear> 62
                      <lb/> <unclear cert="low"> Sunday</unclear> morning</date></dateline>
                   <p><lb/> Early finished fixing the mills 
                   <lb/> and went to walk. they work well. we drove
@@ -1318,41 +1318,41 @@
                  <lb/>my places to put it are filled up.</p>
                 </div>
          <div xml:id="LCS18621012b" type="Entry">
-            <lb/><dateline><date when="1862-10-12">Sunday 12 Oct 1862 </date></dateline>
-            <p><lb/> Staid around
-            <lb/>Home all day plenty of <gap reason="illegible/"></gap> all day at the
+            <lb/><dateline><date when="1862-10-12">Sunday 12 <choice><abbr>Oct</abbr><expan>October</expan></choice> 1862 </date></dateline>
+            <p><lb/> Staid <choice><sic>arround</sic><corr>around</corr></choice>
+            <lb/>Home all day plenty of visitors all day at the
             <lb/> Cane House.</p>
             <div xml:id="LCS18621019a" type="Entry">
-               <lb/><dateline> <date from="1862-10-13" to="1862-10-18"> For the Week ending Oct 18th 
+               <lb/><dateline> <date from="1862-10-13" to="1862-10-18"> For the Week ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 18th 
                   <!-- The year has been written at the end of the next line. Unique case to consider in class. --> 1862</date></dateline>
-               <p>  <lb/> This week we first Drove Buisness right
-               <lb/> through all the week we made <unclear> 550 1/4</unclear> gallons
-                  <lb/> of molopes and of the Best Kind. <del rend="erased"><choice><sic> averag</sic> <corr> average</corr></choice></del>91 17/24
-                  <lb/> we made one day. 119 1/4 galls we done same
-                  <lb/> finishing in the eavning and But little this 
-                  <lb/> week. Has been somewhat cooler so that we
+               <p>  <lb/>This week we first Drove <choice><sic>Buisness</sic><corr>Business</corr></choice> right
+               <lb/> through all the week we made 550 1/4 gallons
+                  <lb/> of molasses and of the Best Kind. <del rend="erased"><choice><sic> averag</sic> <corr> average</corr></choice></del>91 17/24
+                  <lb/> we made one day 119 1/4 galls we done some
+                  <lb/> finishing in the <choice><sic>eavning</sic><corr>evening</corr></choice> and But little this 
+                  <lb/> week Has been somewhat cooler so that we
                   <lb/> can grind juice and leave it in the cistern
                   <lb/> overnight last week <damage agent="Stain"></damage> we could not as it
-                  <lb/> would in a short time seem <gap reason="illegible/"> </gap> Hands in
-                  <lb/> Bailing and three grinding my well <unclear> Has </unclear> given
+                  <lb/> would in a short time sour three Hands in
+                  <lb/> Boiling and three grinding my well Has given
                   <lb/> out and we Have to get all our water out of
-                  <lb/> the Spring down the Hill. I never wish 
+                  <lb/> the Spring down the Hill. I now wish 
                   <pb facs="/3/3544093d-9c39-440c-9a74-bd1d45ea19f1"/> 
                   <lb/>that I Had went Deeper with my well.
                   </p>  
-               <p> <lb/> still Dry and same first 
+               <p> <lb/> still Dry and some frost 
                   <lb/> the Cane Has still continued to come right
-                  <lb/> along although I have tried to Discourage It. 
+                  <lb/> <unclear cert="high">along</unclear> although I have tried to Discourage It. 
                   <lb/> I now Have near a months work and Hand the 
                   <lb/> Yard is nearly filled. I Have been Having the
                   <lb/> Dip thrice all the week and quite Bad so
                   <lb/> as to be very unable at times to Keep up still I
-                  <lb/> made out to Keep Business <unclear> agoing. </unclear> Had <unclear> Dr </unclear> Ruing
-                  <lb/> to Docter me. Father mashed <unclear> Hers </unclear> Had a very bad
+                  <lb/> made out to Keep <choice><sic>Buisness</sic><corr>Business</corr></choice> agoing. Had Dr <persName>Rainy</persName>
+                  <lb/> to Docter me. Father mashed His <choice><sic>Had</sic><corr>Hand</corr></choice> <choice><sic>verry</sic><corr>very</corr></choice> bad
                   <lb/> last week in putting down a cider Barrell in the
-                  <lb/> Cellar. got some of my cane cut up in shack
-                  <lb/> this week. <persName> george Wilson </persName> and george Daily Helped 
-                  <lb/> <persName>george Wilson </persName> tending the mill Boyes Daily and 
+                  <lb/> Cellar. got some of my cane cut up in shock
+                  <lb/> this week. <persName> george Wilson </persName> and <persName>george</persName> Daily Helped 
+                  <lb/> <persName>george Wilson </persName> tending the mill Boyes Daily in 
                   <lb/> the cane <damage agent="Stain"></damage> patch . first frost of any account
                   <lb/> was friday morning. 
                </p>
@@ -1360,7 +1360,7 @@
             <div xml:id="LCS18621019b" type="Entry">
             <lb/><dateline><date when="1862-10-19"> Sunday 19.</date></dateline>
             <p> <lb/> Staid all around
-               <lb/> Cane House all <choice><sic> Eavning </sic><corr> Evening </corr></choice> quite cold
+               <lb/> Cane House all <choice><sic>Eavning</sic><corr>Evening</corr></choice> quite cold
                <lb/> Expect a freeze. 
             </p>
             </div>
@@ -1369,25 +1369,25 @@
             <div xml:id="LCS18621025a" type="Entry">
                <lb/><dateline><date from="1862-10-20" to="1862-10-25"> For the week Ending Oct 25 1862</date></dateline>
                <p> <lb/>This week Drove
-                  <lb/> the Business as fast as we could move
+                  <lb/>the Business as fast as we could move
                   <lb/>579 gallons. we Had some considerable bad
                   <lb/> Luck most every day. <choice><sic> Burt</sic><corr> Burst</corr></choice> one of the pipes
                   <lb/> out that went under one of the furnaces my
-                  <lb/> Tin pump gave out and I sent to <placeName> Columbus  </placeName>
+                  <lb/> Tin pump gave out and I sent to <placeName>Columbus</placeName>
                   <lb/> and got me a new one and Thurs day we 
-                  <lb/> <choice><sic><unclear cert="high"> Broake </unclear></sic><corr> Broke </corr></choice> the old mill one of the sides
+                  <lb/> <choice><sic>Broake</sic><corr>Broke</corr></choice> the old mill one <del rend="overstrike">th</del> of the sides
                   <lb/> and as it cannot well  be fixed it is in a bad 
-                  <lb/> fix when the mill was move at <placeName> Lancester </placeName>
+                  <lb/> fix when the mill was move at <placeName>Lancester</placeName>
                   <lb/> the company Have moved away and I will 
-                  <lb/>Have to get it fixed some time by the old piece 
+                  <lb/>Have to get it fixed some time by the old price 
                   <lb/> or get a pattern made. put a sweep to the new 
                   <lb/> mill as as to put on two Horses one at each end.
                   <lb/> But they would not work well so we run
-                  <lb/> one Horse awhile and thus changed and run the 
-                  <lb/>mill all night never stoped it for anythng 
+                  <lb/> one Horse awhile and then changed and run the 
+                  <lb/>mill all night never <choice><sic>stoped</sic><corr>stopped</corr></choice> it for anything 
                   <lb/> and by so doing made up for two mills but still
-                  <lb/> not quite so well as two mills more <unclear> unhandy </unclear>
-                  <lb/> after all mishaps we move out to get our 
+                  <lb/> not quite so well as two mills more <unclear>unhandy</unclear>
+                  <lb/> after all mishaps we made out to get out our 
                   <lb/> average dayes work but Had to work Hard for it
                   
                   <pb facs="/0/014858cd-db83-4f2c-a4df-c0052ed92161"/>
@@ -1399,7 +1399,7 @@
                   <lb/> <persName> Wilson </persName> Has been Helping me this week to grind
                   <lb/> <unclear cert="low"><persName> Heim </persName>  and <persName> Tang Hamer </persName> </unclear> do the grinding george
                   <lb/> <unclear cert="low"> Poaarielo </unclear> &amp; Newton &amp; me the Bailing  my time
-                  <lb/> However is <choice><sic> Dividid</sic><corr>Divided</corr></choice> <choice><sic><unclear  cert="medium"> arround</unclear></sic><corr> around</corr></choice> at all <hi rend="underline">works</hi>
+                  <lb/> However is <choice><sic>Dividid</sic><corr>Divided</corr></choice> <choice><sic><unclear  cert="medium"> arround</unclear></sic><corr> around</corr></choice> at all <hi rend="underline">works</hi>
                               
                </p>
                <p><lb/> this week <unclear> We Sung </unclear> balled around with
@@ -1411,7 +1411,7 @@
                   <lb/> went off. saying Hee would <unclear> sue me shure.</unclear>
                                     
                </p>
-               <p><lb/> Warm and Dry up to Sat morning 
+               <p><lb/> Warm and Dry up to <choice><abbr>Sat</abbr><expan>Saturday</expan></choice> morning 
                   <lb/> When it Drizzled rain most all day and
                   <lb/> turned to snow at night and <unclear></unclear> like 
                   <lb/> fury all night.                  
@@ -1420,7 +1420,7 @@
             
             <pb facs="/6/6eb377d6-8792-4ae9-9f67-b8250d6fe5ec"/>
             <div xml:id="LCS18621026" type="Entry">
-               <lb/><dateline> <date when="1862-10-26"> Sunday Oct 26th 1862</date></dateline>
+               <lb/><dateline> <date when="1862-10-26"> Sunday <choice><abbr>Oct</abbr><expan>October</expan></choice> 26th 1862</date></dateline>
                <p><lb/> morning real winter snow
                   <lb/> from five to eight inches Deep and cold
                   <lb/> cleaned up the House carried in cane worked
