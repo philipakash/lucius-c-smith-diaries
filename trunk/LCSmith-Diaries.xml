@@ -640,7 +640,7 @@
             <lb/>party at <persName>Roll Eavens</persName> there was a great
             <lb/><del rend="erased">cr l</del>crowd there. But a poor party as
             <lb/>old <persName>Anna</persName> would not let them play. They
-             <lb/>paraded around in the lane until
+            <lb/>paraded around in the lane <choice><orig><distinct type="archaic_orthography" time="17-17">untill</distinct></orig><reg source="OED">until</reg></choice>
              <lb/>late and dispersed the Girls Having a
             <lb/>lot of spoiled dresses
          </p>
@@ -652,11 +652,11 @@
       <lb/>finished <choice><sic>cleeting</sic><corr>cleating</corr></choice> all of it and arranged
       <lb/>things about the building <rs type ="familial">dad</rs> went
       <lb/>to mill <rs type ="familial">Mother</rs> and girls went along
-      <lb/>Black <unclear cert="low">levling</unclear>
+      <lb/>Black <unclear cert="low"><choice><sic>baring</sic><corr>berrying</corr></choice></unclear>
    </p>
 </div>
 <div xml:id="LCS18620808" type="Entry">
-   <dateline><date when="1862-08-08"><choice><abbr>Frid</abbr><expan>Friday</expan></choice> 8th</date></dateline><p>to day I went
+   <dateline><date when="1862-08-08"><choice><abbr>Frid</abbr><expan>Friday</expan></choice> 8th</date></dateline> <p>to day I went
       <lb/>to see a <choice><sic>coupel</sic><corr>couple</corr></choice> of Horse power and engaged
       <lb/>one of <persName>Daniel Bennits</persName> got my Horse shod
       <lb/><persName>Newton</persName> Hawled stone for me
@@ -735,9 +735,9 @@
                <lb/>three Coal oil Lamp on the Beams and 
                <lb/>It made it very light and nice there was a 
                <lb/>large turnout over a Hundred and we
-               <lb/>Had a right good party as to the place
+               <lb/>Had a right good party as to the place <choice><orig><distinct type="archaic_orthography" time="16-16">arround</distinct></orig><reg source="OED">around</reg></choice>
                <lb/>It was a perfect love of a place for a 
-               <lb/>party. It lasted <choice><sic>untill</sic><corr>until</corr></choice> midnight. I was
+               <lb/>party. It lasted <choice><orig><distinct type="archaic_orthography" time="17-17">untill</distinct></orig><reg source="OED">until</reg></choice> midnight. I was
                <lb/>tired near out by standing <choice><orig><distinct type="archaic_orthography" time="16-16">arround</distinct></orig><reg source="OED">around</reg></choice>
                <lb/>all day at the Celebration and then at
                <lb/> the party.
