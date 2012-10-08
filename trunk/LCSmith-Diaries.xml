@@ -499,10 +499,11 @@
             <p>
                <lb/>to day <persName>John</persName>
                <lb/>and me Hawled Hay all day &#xbd; day in
-               <lb/>the Barn &#xbd; on a stack <persName><unclear cert="low">dad</unclear></persName> and <persName>Newton</persName>
+               <lb/>the Barn &#xbd; on a stack <rs>dad</rs> and <persName>Newton</persName>
                <lb/>are mowing. <choice><sic>verry</sic><corr>very</corr></choice> warm and we need
                <lb/>rain the Ground is rapidly Drying up
-               <lb/>after so <choice><sic>mutch</sic><corr>much</corr></choice> Hard <unclear cert="low">long</unclear> rains.
+               <lb/>after so <choice><sic>mutch</sic><corr>much</corr></choice> Hard <choice><sic><unclear
+                  cert="low">loung</unclear></sic><corr>long</corr></choice> rains.
             </p>
          </div>
          <div xml:id="LCS18620731a" type="Entry">
@@ -522,7 +523,7 @@
                <lb/>Helped in the 
                <lb/>Hay and oats all day the oats are 
                <lb/>of But <choice><sic>litle</sic><corr>little</corr></choice> account they are rusted 
-               <lb/>Bad and <choice><sic>withe</sic><corr>with</corr></choice> the Help of the bugs 
+               <lb/>Bad and with the Help of the bugs 
                <lb/>Have nearly Destroyed It we left part
                <lb/>of It in the field
                <lb/>as not being worth cutting.
@@ -551,7 +552,7 @@
                   orthography.
                -->
                <lb/>oats in the Barn. afternoon Went up to
-               <lb/><persName>Robertses</persName> <choice><sic>withe</sic><corr>with</corr></choice> 
+               <lb/><persName>Robertses</persName> with 
                     <persName>John</persName> as He is going to
                <lb/><unclear cert="medium">stay<gap rend="overwrite" unit="chars"
                   extent="2"/></unclear> and Help Him we had all calcu<seg type="softhyphen">
@@ -570,7 +571,7 @@
                <lb/>Yet. and my Cane works are beginning
                <lb/>to press me I must get at them or I
                <lb/>will not be ready in time I fear.
-               <lb/>Got Home in the <choice><sic>eavining</sic><corr>evening</corr></choice>. <unclear cert="high">there</unclear> was
+               <lb/>Got Home in the <choice><sic>eavning</sic><corr>evening</corr></choice>. <unclear cert="high">there</unclear> was
                <lb/>a war meeting at <placeName>Albany</placeName> this afternoon
                <!-- See entries in the list of events and places for the "war meeting" and "Albany." -->
                <lb/>two Recruits were obtained <persName>Gill Collins</persName>
@@ -821,7 +822,7 @@
                <lb/>underground spouting to my well.
                <lb/>the pump <unclear cert="medium">lather</unclear>. monday night went
                <lb/>to a party to <persName>Isaacs Smith</persName> Tues to
-               <lb/><persname>Gremias</persname> and <choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> night to a war
+               <lb/><persName>Gremias</persName> and <choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> night to a war
                <lb/>meeting at Albany. I subscribed $3.00 to
                <lb/>a Bounty fund for our Township <persName>Lewis
                <lb/>Bell</persName> and <persName>Harrison Smith</persName> and some
@@ -1712,7 +1713,7 @@
                <lb/>wrtiing to the Clerk of the U.S. court at <placeName>Cleav<seg type="softhyphen">
                <lb/></seg>land</placeName> that I am Sued by those Patent
                <lb/>right men. <choice><abbr>Sat</abbr><expan>Saturday</expan></choice> went to
-               <unclear cert="medium">Grovenbaries</unclear> He
+               <unclear cert="medium">Grovenberris</unclear> He
                <lb/>was not at Home Left word for Him to
                <lb/>come &amp; see me. most all the Week real
                <lb/>Cold Weather. <persName>George Goodrich</persName> moved to
@@ -1739,20 +1740,20 @@
                <choice><abbr>Decem</abbr><expan>December</expan></choice> 27th
                <add place="above"><hi rend="underline">1862</hi></add></date></dateline>
             <p>
-               <lb/>Monday <persName>Gallet Grovenbery</persName> came up and
+               <lb/>Monday <persName>Garret Grovenbery</persName> came up and
                <lb/>I traded my two year old colt off to Him
                <lb/>for His old Dead Horse for three Dollars
                <lb/>toboot. I got the three Dollars whereas I
                <lb/>ought to Have Had 25$ at least But I
                <lb/>Dont want a <choice><sic>Difaculty</sic><corr>difficulty</corr></choice> with Him if I Beat
-               <lb/>Him at Law I would cost me nearly as mutch
-               <lb/>us to <choice><sic>setle</sic><corr>settle</corr></choice> It. to Day snow is going off warmer
+               <lb/>Him at Law I would cost me nearly as <choice><sic>mutch</sic><corr>much</corr></choice>
+               <lb/>as to <choice><sic>setle</sic><corr>settle</corr></choice> It. to Day snow is going off warmer
             </p>
             <p>
                <lb/><choice><abbr>Tues</abbr><expan>Tuesday</expan></choice> Homer &amp; I Hunted all Day got ten
-               <lb/>Squirrels they are <unclear/> more plenty than I Have
-               <lb/>Known them for years there is plenty of Beach
-               <lb/>Mass
+               <lb/>Squirrels they are more plenty than I Have
+               <lb/>Known them for years there is plenty of <choice><sic>Beach</sic><corr>Beech</corr></choice>
+               <lb/>mast
             </p>
             <p>
                <lb/>Wednesday all us Boys Went out
@@ -1766,7 +1767,8 @@
                <lb/>not turn out so Disasterous for us as was
                <lb/>at first thought. There Has been trouble
                <lb/>in <name type="organization">the cabinet</name> Tendering of Resignations
-               <lb/>and <hi rend="underline"><gap reason="illegible"></gap></hi>
+               <lb/>and <hi rend="underline"><unclear reason="illegible"
+                  cert="low"><choice><sic>Ect</sic><corr>Etc</corr></choice></unclear></hi>
             </p>
             <pb facs="/e/e5861b26-82ee-4ea9-ace9-f296c19a48d8"/>
             <!-- Rough transcription of this page follows. 12 Sept. 2012 -->
@@ -1782,19 +1784,21 @@
                <lb/>to 312 Scalps we had three wild turkeys
                <lb/>Bodies and two scalps Brought in on our
                <lb/>Side while the <persName>Reeses</persName> party only got one
-               <lb/>turkey <unclear>counted</unclear> 10 scalps squirrel one Quail
-               <lb/>one <gap/> 2 and <hi rend="underline">set</hi> according to value
+               <lb/>turkey counted 10 scalps squirrel one Quail
+               <lb/>one <choice><sic><unclear>Rabaet</unclear></sic><corr>Rabbit</corr></choice>
+               <unclear>I</unclear> and <hi rend="underline"><choice><sic>ect</sic><corr>etc</corr></choice></hi> according to value
                <lb/>of the thing, we Beat them over one Hundred
                <lb/>Scalps. They treated all Hands to the
-               <lb/>oysters witch was the agreement Eavning
+               <lb/>oysters <choice><sic>witch</sic><corr>which</corr></choice> was the agreement
+               <choice><sic>Eavning</sic><corr>Evening</corr></choice>
                <lb/>Set in and rained Been warm for several
-               <lb/>Dayes. <unclear>Monroes</unclear> Boyes staid all night with us
+               <lb/>Dayes. <persName>Monroes</persName> Boyes staid all night with us
                <lb/>they were on my Side I am glad the Hunt is over
                <lb/>as I Have spent considerable time so as not to
                <lb/>get Beat seeing my men and making arrangements
                <pb facs="/d/d60466c4-9841-4f74-b4a4-500398b7c4da"/>
                <lb/>for It what we Hunted <del rend="erased">f</del>before Hand we did not
-               <lb/>save only a <gap/> the Day before. a worse <unclear>bared</unclear>
+               <lb/>save only a <choice><sic><unclear>fiew</unclear></sic><corr>few</corr></choice> the Day before. a worse <unclear>bared</unclear>
                <lb/>fellow than <persName>Reese Eavens</persName> I never <hi rend="underlined">seen.</hi>
             </p>
             <p>
@@ -1841,7 +1845,7 @@
          </div>
          <div xml:id="LCS18621231a" type="Entry">
             <lb/><dateline><date
-               when="1862-12-31"><choice><sic>Wensday</sic><corr>Wednesday</corr></choice> 31st
+               when="1862-12-31"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> 31st
                1862</date> morning</dateline>
             <p>snow some
                <lb/>8 to 10 inches Deep But not cold Helped Boyes
