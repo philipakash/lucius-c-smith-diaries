@@ -15,7 +15,7 @@
     The header will not be included in the output.
     -->
     <xsl:template match="/">
-        <xsl:apply-templates select="//tei:body"/>
+        <xsl:apply-templates select="//tei:text"/>
     </xsl:template>
     
     <!--
