@@ -1544,7 +1544,6 @@
                <lb/>a <persName>Misses Montgomery</persName> a sister of <persName>uncle <unclear cert="high">Dave
                <lb/>Beaches</unclear></persName> Wife. and a young man on their
                <lb/>way to Robertses. Hawled down our <choice><sic>Bead</sic><corr>bed</corr></choice>
-               <!-- Not sure how to handle him adding his own line here... for now, I'm going to pretend it's seperate -->
                <lb/>from the cane
                <lb/>House
             </p>
@@ -1620,7 +1619,6 @@
                <lb/>Montgomery</persName> came to stay over Sunday
                <lb/>withe us on Her Road Home
                <lb/><persName>John Evans</persName> and <persName>Wife</persName> are Hear.
-               <!-- Hmmm... interesting. Do we need a persName when someone is referred to by their relationship to someone else? If so, how do we mark it? "Wife" is not exactly an endearment... -->
                <lb/>nice <choice><sic>prety</sic><corr>pretty</corr></choice> day staid Home all day.
             </p>
          </div>
@@ -1679,11 +1677,6 @@
          
          <!-- Questions for class:
             - What about a flourish under the date? Does it even matter?
-            - What do we do with People's names? Do we have to encode them in the header before we PersName them?
-            - What about archaic/alternate spellings?
-            - Page Breaks at the beginning or the end of a page?
-            - Day and Date reference inside the text?
-            - What do we do with skipped lines?
          -->
          <!-- End the Section Misha is working on here.
          -->
