@@ -191,6 +191,15 @@
                   <birth when="1803-09-15"><placeName>Bergen, NJ</placeName></birth>
                   <death when="1883-08"><placeName>New Albany, OH</placeName></death>
                </person>
+               <person xml:id="GoodrichG">
+                  <persName>George Goodrich</persName>
+               </person>
+               <person xml:id="WilsonG">
+                  <persName>George Wilson</persName>
+               </person>
+               <person xml:id="WellsT">
+                  <persName>Thornton Wells</persName>
+               </person>
             </listPerson>
             
             <listPerson type="editors">
