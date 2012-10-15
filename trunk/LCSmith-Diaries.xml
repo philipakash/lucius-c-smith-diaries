@@ -1344,7 +1344,7 @@
             <lb/><dateline><date when="1862-10-12">Sunday 12 <choice><abbr>Oct</abbr><expan>October</expan></choice> 1862 </date></dateline>
             <p><lb/> Staid <choice><sic>arround</sic><corr>around</corr></choice>
             <lb/>Home all day plenty of visitors all day at the
-            <lb/> Cane House.</p>
+            <lb/> Cane House.</p> </div>
             <div xml:id="LCS18621019a" type="Entry">
                <lb/><dateline> <date from="1862-10-13" to="1862-10-18"> For the Week ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 18th 
                   <!-- The year has been written at the end of the next line. Unique case to consider in class. --> 1862</date></dateline>
@@ -1484,8 +1484,7 @@
                </p>
                
             </div>   
-         </div>
-            
+                    
           
          <!-- Begin the Section that Misha is working on here.
           -->
