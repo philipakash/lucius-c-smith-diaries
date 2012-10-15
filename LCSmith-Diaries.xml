@@ -218,7 +218,20 @@
                   <desc>On 2 August 1862, Smith mentions going to "Albany" to do business.</desc>
                   <location><geo>40.0667 -82.8000</geo></location>
                </place>
+               
+               <place type="city" xml:id="Columbus" source="#TGN">
+                  <placeName>Columbus</placeName>
+                  <country>United States</country>
+                  <region type="state">Ohio</region>
+                  <desc>On 1st September 1862, Smith mentions going to Columbus with his father to get some equipments 
+                     like cast cog wheel and cistern pump. On 12th September he goes to Columbus again with his father
+                     and Eliza to get some things for his Cane works and during the week ending 25th October he sends 
+                     someone to Columbus to get a pipe. He also mentions corresponding with Samual Smith from Columbus
+                     on 7th September 1862. </desc>
+                  <location><geo>39.9500 -82.9833</geo></location>
+                               </place>
             </listPlace>
+            
             
             <listOrg>
                <head>List of Organizations Mentioned in the Smith Journal</head>
