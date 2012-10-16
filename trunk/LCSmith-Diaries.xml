@@ -182,8 +182,16 @@
                <person xml:id="GCollins">
                   <persName>Gil Collins</persName>
                </person>
-               <person xml:id="Bennet">
-                  <persName>Mr. Bennet</persName>
+               <person xml:id="DBennetJr">
+                  <persName>Daniel Bennet, Jr.</persName>
+                  <birth when="1828" precision="medium"><placeName evidence="conjecture">Delaware County, OH</placeName></birth>
+                  <note type="biographical">On 2 August 1862, Smith writes that he "went to see Mr.
+                     Bennit who has a horse power witch [sic] He sayes [sic] I can Halve[?]." Six days later, he reports that
+                     he looked at some other horse-powered winches, then engaged one of "Daniel Bennits." He may be referring to
+                     Daniel Bennet, Jr., whose father, Daniel Sr., settled "near the center of" neighboring Harlem Township, 
+                     Delaware County, Ohio, in 1809 and died there in 1861 <bibl><ref target="#RootsWeb1596">"Daniel Bennet" [Sr.]</ref>;
+                        <ref target="#RootsWeb1635">"Daniel Bennet" [Jr.]</ref></bibl>.
+                  </note>
                </person>
                <person xml:id="SmithArch" source="SmithA">
                   <persName>Smith, Archibald</persName>
@@ -297,9 +305,13 @@
                      Plain Township</title>. New Albany, Ohio: New Albany Plain Township Historical
                   Society, 1994. Print.</bibl>
                <bibl xml:id="TGN" n="Getty">Getty Research Institute.<title level="m">Getty
-                     Thesaurus of Geographic NamesÂ® Online</title> N.d. Web. 3 August 2012.</bibl>
+                     Thesaurus of Geographic Names Online</title> N.d. Web. 3 August 2012.</bibl>
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
                   6 Jan. 2012. Web. 3 August 2012.</bibl>
+               <bibl xml:id="RootsWeb1596" n="Roots1596">"Daniel Bennet" [Sr.]. <title level="m">RootsWeb.com</title>. 2012. Web. 16 October 2012.
+                  &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1596.htm&gt;.</bibl>
+               <bibl xml:id="RootsWeb1635" n="Roots1635">"Daniel Bennet" [Jr.]. <title level="m">RootsWeb.com</title>. 2012. Web. 16 October 2012.
+                  &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1635.htm&gt;.</bibl>
             </listBibl>           
             
          </sourceDesc>
