@@ -155,6 +155,10 @@
                table {
                    text-align : right;
                }</style>
+            <!--FONTS-->
+            <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>
+            <link href='http://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'/>
+                   
          </head>
          
          <!-- Build the body of the HTML document, beginning with the masthead used in the
@@ -177,7 +181,10 @@
                      <a href="#view">About this Page</a>
                   </p>
                </div>
-               <div class="mastheadc"><img src="https://images.asc.ohio-state.edu/is/image/englishdocs/1/1d1e448a-6a1f-4096-9acb-bf07c5b6cc50.jpg?scale=0.2&amp;rgn=60,60,100,100&amp;fmt=png" alt="Stationery Logo for Alaska Steamship Company" name="Logo" height="90" id="Logo" />&#xA0;&#xA0;<img src="https://images.asc.ohio-state.edu/is/image/englishdocs/5/55a80091-d3ab-4cd6-a24b-75684d1f6a71.jpg?scale=0.2&amp;rgn=340,40,220,90&amp;fmt=png" alt="Postage cancel from Seattle World's Fair" name="Cancel" id="Cancel" /><img src="https://images.asc.ohio-state.edu/is/image/englishdocs/9/93100908-de33-4b45-b71f-5899daaae7cc.jpg?scale=0.2&amp;rgn=220,44,190,100&amp;fmt=png" alt="Image of cancellation on envelope" name="Cancel2" height="90" id="Cancel2" /> </div>
+               <div class="mastheadc">&#xA0;&#xA0;<img
+                        src="https://images.asc.ohio-state.edu/is/image/englishdocs/d/d64bea81-daaf-41cc-975b-88bdfe839567.jpg?scale=0.2&amp;rgn=200,380,250,100&amp;fmt=png"
+                     alt="Manuscript detail" name="MSDetail" id="MSDetail"/>
+               </div>
                <div class="mastheadr"> 
                   <p>
                      <a href="LCSmithEdIntro.html" title="Editorial Introduction
