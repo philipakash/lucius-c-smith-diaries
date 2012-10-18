@@ -181,9 +181,10 @@
                      <a href="#view">About this Page</a>
                   </p>
                </div>
-               <div class="mastheadc">&#xA0;&#xA0;<img
+               <div class="mastheadc">
+                  <img src="https://images.asc.ohio-state.edu/is/image/englishdocs/1/1b4c862c-36e6-4189-8825-d5972bedfc1e.jpg?scale=0.2&amp;rgn=0,0,120,146&amp;fmt=png" height="100" alt="Portrait of Lucius C. Clark"/>&#xA0;&#xA0;<img
                         src="https://images.asc.ohio-state.edu/is/image/englishdocs/d/d64bea81-daaf-41cc-975b-88bdfe839567.jpg?scale=0.2&amp;rgn=200,380,250,100&amp;fmt=png"
-                     alt="Manuscript detail" name="MSDetail" id="MSDetail"/>
+                        alt="Manuscript detail" name="MSDetail" id="MSDetail"/>&#xA0;&#xA0;<img src="https://images.asc.ohio-state.edu/is/image/englishdocs/0/0ca173b2-3165-4fdf-babc-895c20be69f9.jpg?scale=0.1&amp;rgn=0,0,210,150&amp;fmt=png" width="150" alt="Open book"/>
                </div>
                <div class="mastheadr"> 
                   <p>
