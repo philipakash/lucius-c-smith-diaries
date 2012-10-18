@@ -36,8 +36,11 @@
         margin-left: 50px;
         width: 1000px;
         margin-right: 50px;
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        }                                     
+        font-family: 'Fanwood Text',georgia, serif;
+        }
+        .pageview {
+        margin-bottom:100px;
+        }
     </xsl:variable>
     
     <!-- Include common style sheet for Lucius Clark Smith Diaries. -->
