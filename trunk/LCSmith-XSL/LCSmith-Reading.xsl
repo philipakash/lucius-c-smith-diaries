@@ -33,7 +33,7 @@
         margin-left: 50px;
         width: 850px;
         margin-right: 50px;
-        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-family: 'Fanwood Text',georgia, serif;
         }                                     
     </xsl:variable>
 
