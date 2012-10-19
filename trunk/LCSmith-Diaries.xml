@@ -193,6 +193,12 @@
                         <ref target="#RootsWeb1635">"Daniel Bennet" [Jr.]</ref></bibl>.
                   </note>
                </person>
+               <person xml:id="PBrownlow">
+                  <persName source="#LOC">Brownlow, William Gannaway, 1805-1877</persName>
+                  <birth when="1805"/>
+                  <death when="1877"/>
+                  <note type="biographical">Smith mentions hearing "Parson" Brownlow speak in Columbus on 10 December 1862.</note>
+               </person>
                <person xml:id="SmithArch" source="SmithA">
                   <persName>Smith, Archibald</persName>
                   <note type="biographical">Lucius Clark Smith's father.</note>
@@ -1706,7 +1712,6 @@
                <lb/>went to see some old Friends of when I use<supplied reason="omitted" resp="ed">d</supplied>
                <lb/>to go to school <hi rend="underline">there</hi>
             </p>
-         </div>
          
          <!-- Questions for class:
             - What about a flourish under the date? Does it even matter?
@@ -1720,6 +1725,25 @@
             following entries. I begin in the middle of a page, so I have not encoded a <pb>
             element.
          -->
+         <pb facs="/c/c08bc8a3-3bf3-44e3-ad3c-9e57e3d36bff"/>
+            <p>
+               <lb/>Wedns forenoon went to see a large
+               <lb/>cane mill at the foundry Made some two
+               <lb/>years ago for the South But witch never
+               <lb/>got Down. It was a very large mill <choice><sic>wighing</sic><corr>weighing</corr></choice>
+               <lb/>some 88 Hundred lbs the Large roll being
+               <lb/>3 ft in Lenth and 2 ft in Diameter with
+               <lb/>five Small rolls under. But there was
+               <lb/>several Deficiencies about It witch would
+               <lb/>Have to altered before I would want It
+               <lb/>came down in the afternoon to <placeName>Columbus</placeName>.
+               <lb/>cars full of Soldiers Yesterday we Road up
+               <lb/>with <persName><addName type="nickname">Parson</addName> Brownlow</persName> of <choice><abbr><hi rend="underlined">Tenn</hi></abbr><expan>Tennessee</expan></choice>
+               <lb/>Heard Him talk &amp; ect.
+            </p>
+         </div>         
+         <pb facs="/1/19a209c9-6c9f-4365-9e05-69403a95e3a6"/>
+         <pb facs="/5/5ec83d5d-a20f-4d77-a4c9-60e2cf2fce93"/>
          <div xml:id="LCS18621220a" type="Entry">
             <lb/><dateline><date from="1862-12-14" to="1862-12-20">For the Week Ending
                <choice><abbr>Sat</abbr><expan>Saturday</expan></choice> 20th 1862</date></dateline>
