@@ -1111,6 +1111,7 @@
             </p>
          </div>
          <div xml:id="LCS18620908" type="Entry">
+            <lb/>
             <dateline> <date when="1862-09-08">Monday 8</date></dateline>
             <p><lb/>To<add place="above">day</add> <rs type="familial">Father</rs> <persName>Newton</persName>
             <lb/>and me put down the Horse power and
@@ -1118,6 +1119,7 @@
             </p>
             </div>
          <div xml:id="LCS18620909" type="Entry">
+            <lb/>
             <dateline> <date when="1862-09-09">Tues 9</date></dateline>
             <p><lb/>Morning <persName>Homer</persName> &amp; me went to <placeName>Delaware</placeName>
             <lb/>after sheet Iron they manufacture pans
@@ -1128,12 +1130,12 @@
             <lb/>for 8 <choice><abbr>cts</abbr><expan>cents</expan></choice> <choice><sic>perr</sic><corr>per</corr></choice> lbs <choice><sic>witch</sic><corr>which</corr></choice> <choice><sic>useto</sic><corr>used to</corr></choice> <del rend="overstrike">oly</del> <choice><sic>onley</sic><corr>only</corr></choice>
             <lb/>cost 6 But the stopping of mills &amp;
             <lb/>the tax Law makes all Iron Higher
-            <lb/><choice><sic>stoped</sic><corr>stopped</corr></choice> at <persName>Rodney Smith</persName>s <!--In possessives, should we include the "s" in the "name" element?--> and seen a
+            <lb/><choice><sic>stoped</sic><corr>stopped</corr></choice> at <persName>Rodney Smiths</persName> and seen a
             <lb/><choice><sic>coupel</sic><corr>couple</corr></choice> of old school mates of <placeName>Delaware</placeName>
             <lb/>Had a good time <choice><sic>withe</sic><corr>with</corr></choice> them we staid
             <lb/>all night at <persName>Mr Keeler</persName>s near <unclear cert="high">Center</unclear>
             <pb facs="/8/8ed83dd3-f790-4c51-bc0c-7574f6ed9084"/>
-            <lb/>Who is also a <choice><sic>sorghem</sic><corr>sorghum</corr></choice> manufacture<supplied reason="omitted" resp="ed">r</supplied> <!--Is this a correct use of the "supplied" element?-->
+            <lb/>Who is also a <choice><sic>sorghem</sic><corr>sorghum</corr></choice> manufacture
             </p>
          </div>
          <div xml:id="LCS18620910" type="Entry">
@@ -1146,6 +1148,7 @@
             <lb/>yesterday. very Hot and so Dry It
             <lb/><choice><sic>seams</sic><corr>seems</corr></choice> as if <choice><sic>evry</sic><corr>every</corr></choice> thing would Dry up.
             </p>
+            <lb/>
          </div>
          <div xml:id="LCS18620911" type="Entry">
             <lb/>
@@ -1159,6 +1162,7 @@
             </p>
          </div>
          <div xml:id="LCS18620912" type="Entry">
+            <lb/>
             <dateline> <date when="1862-09-12">Frid 12.</date></dateline>
             <p><lb/>Morning <rs type="familial">Dad</rs> &amp; me and <persName>Eliza</persName> went to <placeName>Columbus</placeName>
             <lb/>I went after various things for my Cane works
@@ -1170,11 +1174,12 @@
             <lb/>stir of people going to <placeName>Cincinnati</placeName> to
             <lb/>Defend the place people take <choice><sic>thir</sic><corr>their</corr></choice> own
             <lb/>Guns &amp; Rig and as they please thousands
-            <lb/>are going. the <choice><sic>govener</sic><corr>governor</corr></choice> is already refusing
+               <lb/>are going. the <roleName><choice><sic>govener</sic><corr>governor</corr></choice></roleName> is already refusing
             <lb/>them
             </p>
          </div>
          <div xml:id="LCS18620913" type="Entry">
+            <lb/>
             <dateline> <date when="1862-09-13"></date>Sept <choice><sic>18th</sic><corr>13th</corr></choice> 1862</dateline>
             <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> <unclear cert="medium">sheet</unclear>and <rs type="familial">Father</rs>
             <lb/>and me got the Horse power and mill in
@@ -1185,7 +1190,7 @@
             <lb/>Late to Refix anything well.
             </p>
             <lb/><p><time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> went down
-            <lb/>In <placeName><choice><sic>Jeferson</sic><corr>Jefferson</corr></choice></placeName> to <persName>Carpenter</persName>s to get his work
+            <lb/>In <placeName><choice><sic>Jeferson</sic><corr>Jefferson</corr></choice></placeName> to <persName>Carpenters</persName> to get his work
             <lb/>done and a sheet Iron spout or top made
             <lb/>for my Chimney. the <choice><sic>litle</sic><corr>little</corr></choice> rain is <choice><sic>prety</sic><corr>pretty</corr></choice>
             <lb/>well Dried up up already. the <choice><sic>Boyes</sic><corr>Boys</corr></choice> have
@@ -1203,6 +1208,7 @@
             </p>
          </div>
          <div xml:id="LCS18620920" type="Entry">
+            <lb/>
             <dateline> <date from="1862-09-14" to="1862-09-20">for the week Ending Sept 20th 1862</date></dateline> 
             <p><lb/>this week put
             <lb/>My Cane House matters
@@ -1212,7 +1218,7 @@
             <lb/>sheet Iron top of 8 <choice><abbr>ft</abbr><expan>feet</expan></choice> to put on my
             <lb/>Chimney a tin pump &amp; some other things
             <lb/>and riveted my sheet Iron together
-            <lb/>Father Helped me all the week <persName>George good<seg type="softhyphen">
+            <lb/><rs type="familial">Father</rs> Helped me all the week <persName>George good<seg type="softhyphen">
             <lb/>rich</seg></persName> three days <del><gap reason="overwritten" unit="words" extent="1"></gap></del> when He got sick
             <lb/>Him &amp; <rs type="familial">Father</rs> made <unclear cert="medium">boots</unclear> pans nearly
             <lb/><unclear cert="low">cor</unclear> to Hawl cane on and laid the
@@ -1232,6 +1238,7 @@
             <lb/>things look better.</p>
             <lb/><p>still no rain
             <lb/>warm and pleasant very</p>
+            <lb/>
          </div>
          <div xml:id="LCS18620921" type="Entry">
             <lb/>
@@ -1242,6 +1249,7 @@
             <lb/><hi rend="underline">Back</hi></p>
          </div>
          <div xml:id="LCS18620927" type="Entry">
+            <lb/>
             <dateline> <date from="1862-09-22" to="1862-09-27">for the week ending
             <lb/>saturday
             <lb/>sept 27th 1862</date></dateline><p> this week <rs type="familial">Father</rs>
@@ -1283,6 +1291,7 @@
             <lb/>another Horse.</p>
          </div>
          <div xml:id="LCS18621001" type="Entry">
+            <lb/>
             <dateline><date when="1862-10-01"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> October 1 1862</date></dateline>
             <lb/><p>Early at It again put on three Horses
             <lb/>and pushed the grinding But all we could
@@ -1295,6 +1304,7 @@
             <lb/>mill <unclear cert="high">Hired</unclear> one <unclear cert="medium"><persName>Longmas</persName></unclear> Boyes of 14 years <add place="above">age</add></p>
          </div>
          <div xml:id="LCS18621002" type="Entry">
+            <lb/>
             <dateline><date when="1862-10-02">Thursday
             <lb/>Oct 2</date></dateline>
             <lb/><p>Today about three oclock <choice><sic>Broake</sic><corr>Broke</corr></choice>
@@ -1310,10 +1320,12 @@
             <lb/><placeName>Columbus</placeName>. I am nearly tired to death
             <lb/>Having been going most nights and day.
             </p>
+            <lb/>
          </div>
          <div xml:id="LCS18621003" type="Entry">
+            <lb/>
             <dateline><date when="1862-10-03">Friday 3 Oct 1862</date></dateline>
-            <lb/><p>4 oclock Father &amp; I started for town
+            <lb/><p>4 oclock <rs type="familial">Father</rs> &amp; I started for town
             <lb/>for the purpose of getting a new shaft at a
             <lb/>new mill we concluded a new shaft would
             <lb/>stand a good chance of <choice><sic>braking</sic><corr>breaking</corr></choice> again and
