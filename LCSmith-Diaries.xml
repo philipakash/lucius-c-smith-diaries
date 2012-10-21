@@ -901,13 +901,19 @@
                <lb/><persName>Esau Rice</persName> came <choice><sic>Hear</sic><corr>here</corr></choice> He is one of
                <lb/>the Discharged ones Him and I
                <lb/>went to <placeName>Albany</placeName> to meeting at night
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
             </p>
          </div>
          <pb facs="/5/506418b7-e328-4cdb-a881-dc2c60f9f790"/> 
          <div xml:id="LCS18620825" type="Entry">
             <lb/>
-            <dateline><date when="1862-08-25">Monday 25 August 1862</date>
-            <lb/><time>forenoon</time></dateline> <!-- are we using time elements for things like 'forenoon'? -->
+            <dateline><date when="1862-08-25">Monday 25 August 1862</date></dateline>
+            <p>
+               <lb/>forenoon
+            </p>
             <p>
                <lb/>Went to see <persName>Mr Souders</persName> to get Him
                <lb/>to come and Help me make my
@@ -915,7 +921,7 @@
                <lb/>get a pair of Boots made.  afternoon
                <lb/>worked at my Building <persName>Newton</persName> hawled
                <lb/>Wood half day finished Hawling I now
-               <lb/>Have over 40 fourty <!-- weird overstriking, need help! --> cords of good
+               <lb/>Have over 40 fourty cords of good
                <lb/>Wood Enough I think to do me.
                <lb/><rs type="familial">Father</rs> is putting up the Cellar Door
                <lb/>He has had one made a <choice><sic>loung</sic><corr>long</corr></choice> time.
@@ -927,10 +933,10 @@
             <lb/>
             <dateline><date when="1862-08-26">Tues 26</date></dateline>
             <p>
-               <lb/>to day <!-- same question as tomorrow; is today one word, or incorrectly, 2? --> went to <placeName>West<seg type="softhyphen">
+               <lb/>to day went to <placeName>West<seg type="softhyphen">
                <lb/></seg>erville</placeName> to see about getting some casting
                <lb/>done got me a good set of truck <choice><sic>wheals</sic><corr>wheels</corr></choice>
-               <lb/>for a carraige to Hawl cane on they
+               <lb/>for a <choice><sic>carraige</sic><corr>carriage</corr></choice> to Hawl cane on they
                <lb/>are cast Iron as good as new I got
                <lb/>them the same as old Iron. Painted
                <lb/>my pump and the Box to It and
@@ -952,7 +958,7 @@
             <p>
                <lb/>worked at my House at my <unclear cert="low">stream</unclear>
                <lb/>spout put up the timbers and arranged
-               <lb/>them.  <choice><sic>Eavning</sic><corr>Evening</corr></choice> <persName>Samual Smith</persName> and
+               <lb/>them.  <choice><sic>Eavning</sic><corr>Evening</corr></choice> <persName><choice><sic>Samual</sic><corr>Samuel</corr></choice> Smith</persName> and
                <lb/>His mother and <persName>Frank Lane</persName> and Wife
                <lb/>came.  <choice><sic>Boyes</sic><corr>Boys</corr></choice> doing nothing <choice><sic>mutch</sic><corr>much</corr></choice> only
                <lb/>cutting some wood.  Had a Little sprinkle
@@ -983,7 +989,7 @@
             <dateline><date when="1862-08-31">Sunday august 31st 1862</date></dateline>
             <p>
                <lb/>staid Home 
-               <lb/>all day Had a <unclear cert="medium">swad</unclear> of
+               <lb/>all day Had a swad of
                <lb/>girls <choice><sic>Hear</sic><corr>here</corr></choice> all they like the side saddle 
                <lb/>a little well.  night went to meeting to 
                <lb/><placeName>Albany</placeName> Heard <persName><choice><sic>Hurlocker</sic><corr>Horlocker</corr></choice></persName> preach.  seen
@@ -991,7 +997,7 @@
                <lb/>Home yesterday as <persName>aunt Hariet</persName> was <del rend="overstrike">u</del> sick
                <lb/>will tomorrow.  To day it seems as if 
                <lb/><choice><sic>evry</sic><corr>every</corr></choice> thing would die for want of
-               <lb/>Rain corn and cane and grass <!-- think we talked about this but can't remember if we have a different way of reprseting a long s? -->is as
+               <lb/>Rain corn and cane and grass is as
                <lb/>near dead as need be and the Dust on the
                <lb/>Road is almost unsupportable. <persName>Augustine</persName>
                <lb/>last week Had a tower of fits getting Better
@@ -1006,10 +1012,10 @@
             <p>
                <lb/>Worked at my cane House all
                <lb/>the week except Thursday to Saturday
-               <lb/>Souders Helped me one day we put
+               <lb/><persName>Souders</persName> Helped me one day we put
                <lb/>up the <choice><sic>Doorers</sic><corr>Doors</corr></choice> Built a <unclear cert="medium">stream</unclear> spout
                <lb/>as far as the Lumber went put stalls in
-               <lb/>my stowing House &amp; <gap reason="illegible"/> <rs type="familial">Father</rs> Helped
+               <lb/>my stowing House &amp; <choice><sic>ect</sic><corr>etc</corr></choice> <rs type="familial">Father</rs> Helped
                <lb/>me one day made a pattern for a cast box
                <lb/><del rend="erased">s</del>to sit under the end of each pan across
                <lb/>the furnace. Thursday <rs type="familial">Father</rs> &amp; me went
@@ -1035,7 +1041,7 @@
                <lb/>owed me $9.46 leaving me His Debt
                <lb/>a Sum of $10.20. adding 30 cts to turning of
                <lb/>a <choice><sic>wheal</sic><corr>wheel</corr></choice> to His credit I begin to feel in
-               <lb/>a <gap reason="illegible"/> Hurry about getting ready
+               <lb/>a <choice><sic>tremdious</sic><corr>tremendous</corr></choice> Hurry about getting ready
                <lb/>operations. next week I must Drive
                <lb/>it Hard.  first of the week a little
                <lb/>rain not enough to Hardly be seen the next
