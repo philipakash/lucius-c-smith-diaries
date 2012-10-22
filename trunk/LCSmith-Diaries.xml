@@ -654,11 +654,11 @@
             <dateline><date when="1862-08-03">Sunday August 3<choice><abbr>d</abbr><expan>rd</expan></choice> <hi rend="underline">1862</hi></date></dateline>
             <p>
                <lb/>Wrote a
-               <lb/>letter to Sam Smith and done my diary
-               <lb/>writing went over to <unclear cert="low">Millers</unclear> <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> 
+               <lb/>letter to <abbr>Sam Smith</abbr> and done my diary
+               <lb/>writing went over to <persName><unclear cert="low">Millers</unclear></persName> <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> 
             </p>
             <p>
-               <lb/>Went to <choice><sic>se</sic><corr>see</corr></choice><unclear cert="low">Hiram</unclear> Smith as He
+               <lb/>Went to <choice><sic>se</sic><corr>see</corr></choice><persName><unclear cert="low">Hiram</unclear> Smith</persName> as He
                <!-- I originally transcribed these name as Heilan but I changed it to Hiram after reading John transcription-->
                <lb/>is to start south <choice><sic>tomorow </sic><corr>tomorrow</corr></choice> Having got 
                <lb/>His pass. Still very warm.
@@ -672,7 +672,7 @@
                <lb/>Worked at my
                <lb/>Buildings <persName>Newton</persName> &amp; <rs type="familial">Father finished</rs>
                <lb/>the Hay and <choice><sic>theashed</sic><corr>thrashed</corr></choice> out some wheat
-               <lb/><time>night <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice></time> John come sick Having <del rend="overstrike">a</del>
+               <lb/><time>night <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice></time> <persName>John</persName> come sick Having <del rend="overstrike">a</del>
                <lb/>Had a slight bowel complaint.
                <lb/><choice><sic>Todayes</sic><corr>Today's</corr></choice><unclear cert="medium">paper</unclear> Tuesday Brings an<del rend="overstrike">d</del>
                <lb/>order from the Secretary of War 
@@ -704,6 +704,7 @@
          </p>
 </div>  
 <div xml:id="LC18620807" type="Entry">
+   <lb/>
    <dateline><date when="1892-08-07">Thursday 7th</date></dateline>
    <p>
       <lb/><persName>Newton</persName> &amp; me worked at my Building 
@@ -714,6 +715,7 @@
    </p>
 </div>
 <div xml:id="LCS18620808" type="Entry">
+   <lb/>
    <dateline><date when="1862-08-08"><choice><abbr>Frid</abbr><expan>Friday</expan></choice> 8th</date></dateline> <p>to day I went
       <lb/>to see a <choice><sic>coupel</sic><corr>couple</corr></choice> of Horse power and engaged
       <lb/>one of <persName>Daniel Bennits</persName> got my Horse shod
@@ -722,16 +724,17 @@
 </div>
          <pb facs="/b/be203565-f232-4fc3-8086-a38e95fa3c6d"/> 
 <div xml:id="LCS18620809" type="Entry">
+   <lb/>
    <dateline><date when="1862-08-09">Saturday 9th Aug <hi rend="underline">1862</hi><lb/>
    <time>morning</time></date></dateline>
    <p>
-      <lb/>went to Columbus got <persName>Gilbert Collins</persName>
-      <lb/>to put my property over in the old <choice><sic>mans</sic><corr>man's</corr></choice>
+      <lb/>went to <placeName>Columbus</placeName> got <persName>Gilbert Collins</persName>
+      <lb/>to put my property over in the old <rs type="familial"><choice><sic>mans</sic><corr>man's</corr></choice></rs>
       <lb/>Hands so that if I am drafted <del rend="overstrike">I</del> He
       <lb/>can take care of it for me and them
       <lb/>Patent Right men can also stand
       <lb/>off. Went out to <persName>Garret Grovenberies</persName>
-      <lb/>and staid all night. <del rend="erased">G</del><persName>Joeseph</persName> and
+      <lb/>and staid all night. <del rend="erased">G</del><persName>Joseph</persName> and
       <!-- unsure if Joseph is misspelt or not here. John's transcribes this name as Joseph-->
       <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice></persName> Have both Enlisted for fear of
       <lb/> the Draft this afernoon Had a good
@@ -739,6 +742,7 @@
    </p>
 </div>       
 <div xml:id="LC18620810" type="Entry">
+   <lb/>
    <dateline><date when="1862-08-10">Sunday 10th Aug <hi rend="underline">1862</hi><lb/>
       <time>morning</time></date></dateline><p> came Home got Home at noon
       <lb/>We Have Had a nice rain went over
@@ -751,6 +755,7 @@
 </div>         
          <pb facs="/5/5119fa8f-c14f-4251-af5b-c5e9b7b2ccee"/>
          <div xml:id="LCS18620811" type="Entry">
+            <lb/>
             <dateline><date when="1862-08-11">Monday Aug 11th <hi rend="underline">1862</hi><lb/>
                <time>morning</time></date></dateline> <p><persName>John</persName>
                   <lb/>and I went up near Center and got my 
@@ -762,6 +767,7 @@
             </p>
          </div>
          <div xml:id="LCS18620812" type="Entry">
+            <lb/>
             <dateline><date when="1862-08-12">Tues 12</date></dateline>
             <p>
                <lb/><persName>John</persName> Dug at the Well. <time>forenoon</time> <persName>Homer</persName>
@@ -772,12 +778,13 @@
                <lb/>new cane <choice><sic>Hous</sic><corr>House</corr></choice>for the party <choice><sic>tomorow</sic><expan>tomorrow</expan></choice>
                <!--John transcribed this as cane hans. Given the context and other references in the diary I stuck with my original reading of cane house-->
                <lb/>night fixed up seats and arranged things
-               <lb/><persName>Newton</persName> &amp; Dad made a sinck and spout
+               <lb/><persName>Newton</persName> &amp; Dad made a <choice><orig><distinct type="archaic_orthography" time="15-16">sinck</distinct></orig><reg source="OED">sink</reg></choice> and spout
                <lb/>for the well to carry the water under the
                <lb/>ground down the Hill
             </p>
          </div>
          <div xml:id="LCS18620813" type="Entry">
+            <lb/>
             <dateline><date when="1862-08-13"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> 13th Aug <unclear cert="medium">/</unclear>62</date></dateline>
             <p>
                <lb/>To day all went to the Celebration
@@ -802,10 +809,11 @@
             </p>
          </div>
 <div xml:id="LCS18620814" type="Entry">
-            <dateline><date from="1862-08-14" to="1862-08-16">Thursday <choice><abbr>Frid</abbr><expan>Friday</expan></choice> and Saturday<lb/>
+   <lb/>         
+   <dateline><date from="1862-08-14" to="1862-08-16">Thursday <choice><abbr>Frid</abbr><expan>Friday</expan></choice> and Saturday<lb/>
             August 14, 15 and 16th <hi rend="underline">1862</hi></date></dateline>
             <p>
-               <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice> </persName><persName>Yantus</persName> <persName>John</persName> and I worked
+               <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice> Yantus</persName> <persName>John</persName> and I worked
                <lb/>at the Well we got it some over <unclear cert="medium">23</unclear> ft
                <!--John transcribed this as 28 feet. Want to check and see what everyone else thought --> 
                <lb/>deep when It began to cave quite bad
@@ -828,6 +836,7 @@
          </div>
          <div xml:id="LCS18620817" type="Entry">
             <dateline><date when="1862-08-16">Sunday 17th Aug 1862</date></dateline>
+            <lb/>
             <p>
                <lb/>to day all
                <lb/>Went to Basket meeting
@@ -835,11 +844,10 @@
                <lb/><persName>Rhoda</persName> and <persName>Thornton Wells</persName> were down
                <lb/><persName>Henry</persName> has enlisted Considerable feeling
                <lb/>seems to manifest itself among the
-               <lb/>Democrats of the Country because <persName>Dr
+               <lb/><name type="organization">Democrats</name> of the Country because <persName>Dr
                <lb/>E.B. Olds</persName> Has been arrested and
                <pb facs="/b/b60bc7ff-2258-4e9b-b511-7a3fb6d604a3"/>
-               <lb/>sent to <placeName>Ft Layfaett</placeName> for <seg type="softhypen">Treason
-               <!--I believe this is misspelling of Fort Lafayette?-->
+               <lb/>sent to <placeName><choice><sic>Ft Layfaett</sic><corr>Fort Lafayette</corr></choice></placeName> for <seg type="softhypen">Treason
                <lb/></seg>able language. But people Dare
                <lb/>not say <choice><sic>mutch</sic><corr>much</corr></choice> as people are ready to
                <lb/>Report them and Have them arrested
@@ -852,7 +860,8 @@
             </p>
          </div>
          <div xml:id="LCS18620818" type="Entry">
-            <dateline><date from="1862-08-18" to="1862-08-23">This week commencing <lb/>
+            <lb/>
+            <dateline><date from="1862-08-18" to="1862-08-23">This week commencing 
                <lb/>with Monday 18 and Ending with 
                <lb/>Saturday 23d August 1862</date></dateline>
             <p>
@@ -895,9 +904,9 @@
                <pb facs="/e/e9fb150e-ef2a-4613-94ff-8b07027e9d66"/>
             <p>
                <lb/><del rend="erased">G</del><persName>McClellan</persName> has retreated to <placeName>Yorktown</placeName>
-               <lb/>and Pope since <name type="event">the battle of Culpeper</name>
-               <lb/>Court House has also fell back in the
-               <lb/>west the Rebels seem to be pressing North.
+               <lb/>and Pope since <name type="event">the battle of Culpeper
+               <lb/>Court House</name> has also fell back in the
+               <lb/>west the <name type="organization">Rebels</name> seem to be pressing North.
             </p>
             <p>
                <lb/>Weather cool and very Dry had
