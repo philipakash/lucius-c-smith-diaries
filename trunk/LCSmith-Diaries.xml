@@ -213,6 +213,9 @@
                </person>
                <person xml:id="WellsT">
                   <persName>Thornton Wells</persName>
+                  <note type="biographical">Lucius Smith's uncle. Married to Eliza Wells, Lucius Smith's mother's sister. He stops by Smith's house in Albany while traveling to and from Columbus. He often helps Smith with cutting and hawling of wood.</note>
+               <birth notAfter="1804"></birth>
+                  <death notBefore="1880"></death>
                </person>
                <person xml:id="WellsE">
                   <persName>Eliza Wells (nee Beach)</persName>
