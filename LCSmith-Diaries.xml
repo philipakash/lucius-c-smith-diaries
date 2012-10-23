@@ -207,13 +207,25 @@
                </person>
                <person xml:id="GoodrichG">
                   <persName>George Goodrich</persName>
+                  <note type="biographical">George Goodrich is frequently mentioned in Smith's entries from August through December for helping
+                     Archibald Smith and Lucius Smith at the Cane House. Goodrich seems to be involved in chores like boiling, making and 
+                     cleaning pans at the Cane House. Lucius Smith and Goodrich, probably, also wanted to collaborate on a fur mill business 
+                     with Mr. Watterman from Delaware. Goodrich reportedly moves to Delware between 14th and 20th December of 1862. In the last
+                     week of December, Lucius Smith mentions writing to Goodrich in Delaware.  </note>
+                  <birth when="1833"></birth>
+                  <death when="1903"></death>
                </person>
                <person xml:id="WilsonG">
                   <persName>George Wilson</persName>
+                  <note type="biographical"> In the entry dated 24th August, Lucius Smith mentions that George Wilson is one of the few people 
+                     who have been discharged from the army. Smith also mentions visiting Wilson's house quite a few times in August and 
+                     December. Wilson helps Smith with grinding and looking after the "little boyes" who work at the mill. </note>
+                    <death notBefore="1890"></death>
                </person>
                <person xml:id="WellsT">
                   <persName>Thornton E B Wells</persName>
-                  <note type="biographical">Lucius Smith's cousin. Son of Eliza Wells (nee Beach), Lucius Smith's mother's sister. He stops by Smith's house in Albany while traveling to and from Columbus. He often helps Smith with cutting and hawling of wood.</note>
+                  <note type="biographical">Lucius Smith's cousin. Son of Eliza Wells (nee Beach), Lucius Smith's mother's sister. He stops by 
+                     Smith's house in Albany while traveling to and from Columbus. He often helps Smith with cutting and hawling of wood.</note>
                <birth notAfter="1843"></birth>
                   <death when="1869"></death>
                </person>
