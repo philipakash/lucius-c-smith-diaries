@@ -205,6 +205,27 @@
                   <birth when="1803-09-15"><placeName>Bergen, NJ</placeName></birth>
                   <death when="1883-08"><placeName>New Albany, OH</placeName></death>
                </person>
+               <person xml:id="CoxS">
+                  <persName>Cox, Samuel Sullivan</persName>
+                  <note type="biographical"><!--To be completed--></note>
+                  <birth when="1824-09-30"><placeName>Zanesville, OH</placeName></birth>
+                  <death when="1889-09-10"><placeName>New York City, NY</placeName></death>
+                  <occupation>Attorney and Congressman</occupation>
+               </person>
+               <person xml:id="GrovenberyG">
+                  <persName>Garret Grovenbery</persName>
+                  <note type="biographical"><!--To be completed--></note>
+                  <birth when="1808"><placeName>OH</placeName></birth>
+                  <death notBefore="1880"></death>
+                  <occupation>Farmer</occupation>
+               </person>
+               <person xml:id="SmithS">
+                  <persName>Smith, Samuel</persName>
+                  <note type="biographical"><!--To be completed--></note>
+                  <birth when="1838"><placeName>OH</placeName></birth>
+                  <death><!--To be completed--></death>
+                  <occupation>Plow maker</occupation><!--Is this the proper way to encode an occupation?-->
+               </person>
                <person xml:id="GoodrichG">
                   <persName>George Goodrich</persName>
                   <note type="biographical">George Goodrich is frequently mentioned in Smith's entries from August through December for helping
@@ -748,7 +769,7 @@
       <lb/>Hands so that if I am drafted <del rend="overstrike">I</del> He
       <lb/>can take care of it for me and them
       <lb/>Patent Right men can also stand
-      <lb/>off. Went out to <persName>Garret Grovenberies</persName>
+      <lb/>off. Went out to <persName ref="#GrovenberyG">Garret Grovenberies</persName>
       <lb/>and staid all night. <del rend="erased">G</del><persName>Joseph</persName> and
       <!-- unsure if Joseph is misspelt or not here. John's transcribes this name as Joseph-->
       <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice></persName> Have both Enlisted for fear of
@@ -808,7 +829,7 @@
                <lb/><time>forenoon</time> <persName>Mr Taft</persName> gave the Sunday school a
                <!-- changed from Mr. Toft to Mr. Taft after reviewing John's transcription-->
                <lb/>Lecture after Dinner <del rend="overstrike">we</del><persName>Mr Cancey Olds</persName>
-               <lb/><persName>Sam Cox</persName> <persName>Sam Galaway</persName> made War
+               <lb/><persName ref="CoxS">Sam Cox</persName> <persName>Sam Galaway</persName> made War
                <lb/><choice><sic>speaches</sic><corr>speeches</corr></choice> there was a large turnout of
                <lb/>people several thousand <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> <choice><sic>riged</sic><corr>rigged</corr></choice>
                <lb/>up the cane House with lights I put up 
@@ -1000,7 +1021,7 @@
             <p>
                <lb/>worked at my House at my <unclear cert="low">stream</unclear>
                <lb/>spout put up the timbers and arranged
-               <lb/>them.  <choice><sic>Eavning</sic><corr>Evening</corr></choice> <persName><choice><sic>Samual</sic><corr>Samuel</corr></choice> Smith</persName> and
+               <lb/>them.  <choice><sic>Eavning</sic><corr>Evening</corr></choice> <persName ref="#SmithS"><choice><sic>Samual</sic><corr>Samuel</corr></choice> Smith</persName> and
                <lb/>His mother and <persName>Frank Lane</persName> and Wife
                <lb/>came.  <choice><sic>Boyes</sic><corr>Boys</corr></choice> doing nothing <choice><sic>mutch</sic><corr>much</corr></choice> only
                <lb/>cutting some wood.  Had a Little sprinkle
@@ -1131,7 +1152,7 @@
             <dateline> <date when="1862-09-07">Sunday Sept 7th <hi rend="underline">1862</hi></date></dateline>
             <p><lb/>Staid <choice><orig><distinct type="archaic_orthography" time="16-16">arround</distinct></orig><reg source="OED">around</reg></choice>
             <lb/>Home all day rather Lonesome Wrote a
-            <lb/>Letter to <persName>Samual Smith</persName>. <placeName>Columbus Ohio.</placeName>
+               <lb/>Letter to <persName ref="#SmithS">Samual Smith</persName>. <placeName>Columbus Ohio.</placeName>
             </p>
          </div>
          <div xml:id="LCS18620908" type="Entry">
@@ -1629,7 +1650,7 @@
                <lb/>It was Brok<supplied reason="omitted" resp="ed">e</supplied> about two inches from
                <lb/>the End at the Hips toward the Head.
                <lb/>I am very sorry for the old mare as I have 
-               <lb/>taken <choice><sic>extry</sic><corr>extra</corr></choice> care of Her Because <persName><unclear cert="low">Garret</unclear></persName>
+               <lb/>taken <choice><sic>extry</sic><corr>extra</corr></choice> care of Her Because <persName ref="#GrovenberyG"><unclear cert="low">Garret</unclear></persName>
                <lb/>thought a great deal of Her. she was in
                <lb/>first rate order <choice><sic>ni</sic><corr>in</corr></choice> fact fat. But
                <lb/>so it is. fixed <choice><sic>arround</sic><corr>around</corr></choice> at my cane
@@ -1848,7 +1869,7 @@
                <choice><abbr>Decem</abbr><expan>December</expan></choice> 27th
                <add place="above"><hi rend="underline">1862</hi></add></date></dateline>
             <p>
-               <lb/>Monday <persName>Garret Grovenbery</persName> came up and
+               <lb/>Monday <persName ref="#GrovenberyG">Garret Grovenbery</persName> came up and
                <lb/>I traded my two year old colt off to Him
                <lb/>for His old Dead Horse for three Dollars
                <lb/>toboot. I got the three Dollars whereas I
