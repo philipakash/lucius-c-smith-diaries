@@ -1782,7 +1782,7 @@
          <div xml:id="LCS18621213" type="Entry">
             <dateline><date from="1862-12-07" to="1862-12-13"><lb/>For the Week Ending Saturday<lb/>Decem 13<hi rend="super">th</hi> 1862.</date></dateline>
             <p>
-               Monday <persName>George 
+               <date when="1862-12-08">Monday</date> <persName>George 
                <lb/>Goodrich</persName> and me went and to <persName>uncle
                
                <lb/>Lew<add place="above">i</add>ses</persName> and <choice><sic>staid</sic><corr>stayed</corr></choice> all night walked over
@@ -1810,7 +1810,7 @@
          -->
          <pb facs="/c/c08bc8a3-3bf3-44e3-ad3c-9e57e3d36bff"/>
             <p>
-               <lb/>Wedns forenoon went to see a large
+               <lb/><date when="1862-12-10">Wedns</date> forenoon went to see a large
                <lb/>cane mill at the foundry Made some two
                <lb/>years ago for the South But witch never
                <lb/>got Down. It was a very large mill <choice><sic>wighing</sic><corr>weighing</corr></choice>
@@ -1824,9 +1824,50 @@
                <lb/>with <persName><addName type="nickname">Parson</addName> Brownlow</persName> of <choice><abbr><hi rend="underlined">Tenn</hi></abbr><expan>Tennessee</expan></choice>
                <lb/>Heard Him talk &amp; ect.
             </p>
-         </div>         
+            <p>
+               <lb/><date when="1862-12-11">Thurs</date> went and seen Gills <gap/> I
+               <lb/>Bought my mill of they are getting anew
+               <lb/>large mill they wanted Bad to <unclear>sell</unclear> me
+               <lb/>one Had an offer of 48 cts <unclear>per</unclear> gallon
+               <lb/>for my molasses all of it. But I must
+               <lb/>Have <hi rend="underlined">50 cts</hi> seen a pair of Twin
+               <lb/>Children from a Black Woman and a 
+               <lb/>White man one white White and the other
+               <lb/>Black. Got Home just after night
+            </p>
          <pb facs="/1/19a209c9-6c9f-4365-9e05-69403a95e3a6"/>
+            <p>
+               <lb/><date when="1862-12-12">Friday</date> staid <unclear>arround</unclear> the House all Day
+               <lb/><unclear>measly</unclear> sick. Father &amp; Mother went up to Robertses
+               <lb/>Boyes Husked corn. Eaving went to see Mr
+               <lb/>Wilson about getting Him to go with me tomor
+               <lb/>ow to <gap/> that Dead Horse of Grovenberies
+               <lb/>as He was Hear on Monday Before I went away
+               <lb/>and we could not agree and we agreed to each
+               <lb/>pick a man and Let them settle It for 
+               <lb/>us. <unclear>..</unclear> <date when="1862-12-13">Saturday</date> Morning Mr. Wilso &amp; I
+               <lb/>went down to Squire Martins in Jeferson
+               <lb/><unclear>TP.</unclear> to meet Garret. He was there but
+               <lb/>failed to Bring His man as He said He
+               <lb/>was sick. But I guess He did not want to
+               <lb/><del cert="medium">a</del> settle it as some one Has put a new
+               <lb/>Idea into His Head that He could come
+               <lb/>under the Head of a Borrowed Horse and
+               <lb/>get all Damages. while under a Hired Horse
+               <lb/>He must loose all. He now sayes He
+               <lb/>Lent me the mare But <add place="above">He</add> Lies shure. He came
+               <lb/>Down from <unclear>75$</unclear> to 50$ I offered His $30<gap/>
+               <lb/>But He refused It so we came Home.
+            </p>
+            <p>
+               <lb/>It Has Been Excellent Mill <choice><sic>wether</sic><corr>weather</corr></choice> all
          <pb facs="/5/5ec83d5d-a20f-4d77-a4c9-60e2cf2fce93"/>
+               <lb/>The Week unill to Day It rained most
+               <lb/>all Day. loads big and Dusty <gap/> as
+               <lb/>Summer first of the week real cold
+               <lb/>and war Gradualy untill it rained. <date when="1862-12-13"><hi rend="underlined"><choice><abbr>Sat</abbr><expan>Saturday</expan></choice></hi></date>
+            </p>
+         </div>         
          <div xml:id="LCS18621220a" type="Entry">
             <lb/><dateline><date from="1862-12-14" to="1862-12-20">For the Week Ending
                <choice><abbr>Sat</abbr><expan>Saturday</expan></choice> 20th 1862</date></dateline>
@@ -1864,7 +1905,6 @@
             </p>
          </div>
          <pb facs="/9/9b702e6f-e027-4287-8d9c-2f8fbb67766d"/>
-         <!-- Lots of questionable readings here ;-) -->
          <div xml:id="LCS18621227a" type="Entry">
             <lb/><dateline><date from="1862-12-21" to="1862-12-27">For the Week Ending
                <choice><abbr>Sat</abbr><expan>Saturday</expan></choice>
@@ -1902,7 +1942,6 @@
                   cert="low"><choice><sic>Ect</sic><corr>Etc</corr></choice></unclear></hi>
             </p>
             <pb facs="/e/e5861b26-82ee-4ea9-ace9-f296c19a48d8"/>
-            <!-- Rough transcription of this page follows. 12 Sept. 2012 -->
             <p>
                <lb/>Thursday Christmas morning as
                <lb/>soon as ligth all Hands out Hun<seg type="softhyphen">
