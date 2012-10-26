@@ -255,20 +255,19 @@
                   <note type="biographical">Lucius Clark Smith's aunt, the sister of his mother, married to Thornton Wells, mother to son of the same name.  A frequent visitor the Smith household in Albany, particularly on her way to and from Columbus.  She also hosted Lucius at her home in Liberty (Licking County) on numerous occassions.</note>
                   <birth when="1804"></birth>
                   <death notBefore="1880"></death>
-                  <bibl><ref target="AncestryWellsE">"1880 United States Federal Census"</ref></bibl>
+                  <bibl><ref target="Ancestry1880">"1880 United States Federal Census"</ref></bibl>
                </person>
                <person xml:id="SmithHom">
                   <persName>Archibald Homer Smith</persName>
                   <note type="biographical">Lucius Clark Smith's brother.  Homer helped Archibald in setting up the mill and doing work around the property.  Archibald also mentions engaging in social activities, such as hunting, with Homer.</note>
                   <birth when="1851"></birth>
                   <death notBefore="1880"></death>
-                  <bibl><ref target="AncestrySmithHom">"1880 United States Federal Census</ref></bibl>
+                  <bibl><ref target="Ancestry1880">"1880 United States Federal Census</ref></bibl>
                </person>
                <person xml:id="EvansReece">
                   <persName>Rowland "Reece" Evans</persName><persName>Rowland "Roll" Evans</persName>
                   <note type="biographical">Census records indicate that there were two Rowland Evans residing in Albany in the 1860s, possibly a nephew and uncle duo.  Presumably one of them was referred to as “Reece” and the other as “Roll,” but it remains unclear which was which.</note>
-                  <bibl><ref target="AncestryEvansReece">"1860 United States Federal Census</ref></bibl>
-                  <bibl><ref target="AncestryEvansRoll">"1860 United States Federal Census</ref></bibl>
+                  <bibl><ref target="Ancestry1860">"1860 United States Federal Census</ref></bibl>
                </person>
             </listPerson>
             
@@ -374,6 +373,8 @@
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1596.htm&gt;.</bibl>
                <bibl xml:id="RootsWeb1635" n="Roots1635">"Daniel Bennet" [Jr.]. <title level="m">RootsWeb.com</title>. 2012. Web. 16 October 2012.
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1635.htm&gt;.</bibl>
+               <bibl xml:id="Ancestry1880" n="1880">"1880 United States Federal Census". <title level="m">Ancestry.com</title>. 1999.  Web.  20 October 2012.</bibl>
+               <bibl xml:id="Ancestry1860" n="1860">"1860 United States Federal Census". <title level="m">Ancestry.com</title>. 2009. Web. 20 October 2012.</bibl>
             </listBibl>           
             
          </sourceDesc>
