@@ -239,21 +239,23 @@
                  <death when="1903">
                     <placeName>Galena, Delaware County, OH</placeName>
                  </death>
-                  <bibl><ref target="#Ancestry1900">"George A Goodrich"</ref>; <ref target="#FindaGrave73411433"></ref></bibl>
+                  <bibl><ref target="#Ancestry1900">"1900 United States Federal Census"</ref>; <ref target="#FindaGrave73411433">"George Asbury Goodrich"</ref></bibl>
                </person>
                <person xml:id="WilsonG">
                   <persName>George Wilson</persName>
-                  <note type="biographical"> In the entry dated 24th August, Lucius Smith mentions that George Wilson is one of the few people 
+                  <note type="biographical"> In the entry dated 24th August 1862, Lucius Smith mentions that George Wilson is one of the few people 
                      who have been discharged from the army. Smith also mentions visiting Wilson's house quite a few times in August and 
                      December. Wilson helps Smith with grinding and looking after the "little boyes" who work at the mill. </note>
                     <death notBefore="1890"></death>
+                  <bibl><ref target="#VeteransSchedule1890">"1890 Veterans Schedules"</ref></bibl>
                </person>
                <person xml:id="WellsT">
-                  <persName>Thornton E B Wells</persName>
+                  <persName ref="#WellsT">Thornton E B Wells</persName>
+                  <birth notAfter="1843"></birth>
                   <note type="biographical">Lucius Smith's cousin. Son of Eliza Wells (nee Beach), Lucius Smith's mother's sister. He stops by 
                      Smith's house in Albany while traveling to and from Columbus. He often helps Smith with cutting and hawling of wood.</note>
-               <birth notAfter="1843"></birth>
-                  <death when="1869"></death>
+                                 <death when="1869"><placeName>Concord, Licking County, OH</placeName></death>
+                  <bibl><ref target="#Ancestry1860">"1860 United States Federal Census"</ref>; <ref target="#FindaGrave74277136">"Thornton E B Wells"</ref></bibl>
                </person>
                <person xml:id="WellsE">
                   <persName>Eliza Wells (nee Beach)</persName>
@@ -380,8 +382,10 @@
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1635.htm&gt;.</bibl>
                <bibl xml:id="FindaGrave73411433" n="FindaGrave">"George Asbury Goodrich". <title level="m">Findagrave.com</title>. 2011. Web. 24 October 2012.
                   </bibl>
+               <bibl xml:id="FindaGrave74277136" n="FindaGrave">"Thornton E B Wells". <title level="m">Findagrave.com</title>. 2011. Web. 25 October 2012.</bibl>
                <bibl xml:id="Ancestry1880" n="1880">"1880 United States Federal Census". <title level="m">Ancestry.com</title>. 1999.  Web.  20 October 2012.</bibl>
                <bibl xml:id="Ancestry1860" n="1860">"1860 United States Federal Census". <title level="m">Ancestry.com</title>. 2009. Web. 20 October 2012.</bibl>
+               <bibl xml:id="VeteransSchedule1890" n="1890">"1890 Veterans Schedules". <title level="m">Ancestry.com</title>. 2005. Web. 25 October 2012.</bibl>
                <bibl xml:id="Ancestry1900" n="1900">"1900 United States Federal Census". <title level="m">Ancestry.com</title>. 2004. web. 24 October 2012</bibl>
             </listBibl>           
             
@@ -888,7 +892,7 @@
                <lb/>to day all
                <lb/>Went to Basket meeting
                <lb/>Expect <persName>John</persName> and <persName>Augustine</persName>. <persName>Homer</persName>
-               <lb/><persName>Rhoda</persName> and <persName>Thornton Wells</persName> were down
+               <lb/><persName>Rhoda</persName> and <persName ref="#WellsT">Thornton Wells</persName> were down
                <lb/><persName>Henry</persName> has enlisted Considerable feeling
                <lb/>seems to manifest itself among the
                <lb/><name type="organization">Democrats</name> of the Country because <persName>Dr
@@ -969,7 +973,7 @@
             <p>
                <lb/>
                <lb/>staid Home forenoon afternoon
-               <lb/>Went to see <persName>George Wilson</persName> Him and
+               <lb/>Went to see <persName ref="#WilsonG">George Wilson</persName> Him and
                <lb/>4 others Have Just got Home from
                <lb/>the army Having been Discharged
                <lb/><persName>Esau Rice</persName> came <choice><sic>Hear</sic><corr>here</corr></choice> He is one of
@@ -1153,7 +1157,7 @@
             <p>
                <lb/>the girls went up this week
                <lb/>and got <rs type="familial">gran pop</rs>. <persName>aunt Eliza</persName> and
-               <lb/><persName>Thornton</persName> stopped all night on Friday
+               <lb/><persName ref="#WellsT">Thornton</persName> stopped all night on Friday
                <lb/>on their way from <placeName>Columbus</placeName>.
             </p>
          </div>
@@ -1211,7 +1215,7 @@
             <dateline> <date when="1862-09-11">Thursday 11</date></dateline>
             <p><lb/>Morning Early went to <placeName>albany</placeName> and got <persName ref="#GoodrichG">George
             <lb/>Goodrich</persName> to do me some <unclear cert="high">turning</unclear> Father &amp;
-            <lb/>me worked at the works all day <persName>George</persName>
+            <lb/>me worked at the works all day <persName ref="#GoodrichG">George</persName>
             <lb/>Helped afternoon <!--Double check formation of "afternoon"--> <persName>Uncle Lewis</persName> was
             <lb/><choice><sic>Hear</sic><corr>Here</corr></choice> to dinner. <choice><sic>Eavning</sic><corr>Evening</corr></choice> had a nice
             <lb/>shower of rain.
@@ -1274,7 +1278,7 @@
             <lb/>sheet Iron top of 8 <choice><abbr>ft</abbr><expan>feet</expan></choice> to put on my
             <lb/>Chimney a tin pump &amp; some other things
             <lb/>and riveted my sheet Iron together
-            <lb/><rs type="familial">Father</rs> Helped me all the week <persName>George good<seg type="softhyphen">
+            <lb/><rs type="familial">Father</rs> Helped me all the week <persName ref="#GoodrichG">George good<seg type="softhyphen">
             <lb/>rich</seg></persName> three days <del><gap reason="overwritten" unit="words" extent="1"></gap></del> when He got sick
             <lb/>Him &amp; <rs type="familial">Father</rs> made <unclear cert="medium">boots</unclear> pans nearly
             <lb/><unclear cert="low">cor</unclear> to Hawl cane on and laid the
@@ -1309,7 +1313,7 @@
             <dateline> <date from="1862-09-22" to="1862-09-27">for the week ending
             <lb/>saturday
             <lb/>sept 27th 1862</date></dateline><p> this week <rs type="familial">Father</rs>
-            <lb/><persName>George</persName> and me worked all the week
+            <lb/><persName ref="#GoodrichG">George</persName> and me worked all the week
             <lb/>from day light <choice><orig><distinct type="archaic_orthography" time="17-17">untill</distinct></orig><reg source="OED">until</reg></choice> dark at the
             <lb/>Cane House and got It nearly ready to
             <lb/>Run finished the pans painted them
@@ -1402,7 +1406,7 @@
          <lb/>  <dateline> <date when="1862-10-04"> Saturday <lb/> 
                October 4th 1862</date> </dateline>
             <p><lb/> Morning as <choice><sic>soons</sic><corr>soon as</corr></choice> light all Hands to work
-               <lb/> putting up the mills <persName>george</persName> <persName>Dick</persName> <persName>Newton</persName> 
+               <lb/> putting up the mills <persName ref="#GoodrichG">george</persName> <persName>Dick</persName> <persName>Newton</persName> 
                <lb/> <rs type="familial">Father</rs> &amp; myself we put up <unclear cert="medium">boath</unclear> mills in the
             <lb/> Same House put sweeps on them. Put down
                <lb/> more piping so as to Run <unclear cert="medium">Boath</unclear> mills <del rend="overstrike">R</del> juice
@@ -1436,8 +1440,8 @@
                   <lb/> It through as Hard as we could all the 
                      <lb/> week and made <unclear cert="high">458</unclear> gallons average per
                      <lb/> day <unclear cert="high">46 &#8531;</unclear> last weeke we made 203 &#189;
-                     <lb/> average <unclear cert="high">58 1/7</unclear> this week <persName>George Goodrich</persName> &amp;
-                     <lb/> me done the Boiling. <persName>George</persName> tending the clensing 
+                     <lb/> average <unclear cert="high">58 1/7</unclear> this week <persName ref="#GoodrichG">George Goodrich</persName> &amp;
+                     <lb/> me done the Boiling. <persName ref="#GoodrichG">George</persName> tending the clensing 
                      <lb/> pans and I the finishing  pan. <persName>Homer</persName>
                      <lb/> and <persName>Thomas Longman</persName> feed the mills and
                      <lb/> <persName> Newton</persName> tends them. <persName>Corris</persName> Cane and Wheals 
@@ -1484,8 +1488,8 @@
                   <lb/> to Docter me. <rs type="familial">Father</rs> mashed His <choice><sic>Had</sic><corr>Hand</corr></choice> <choice><sic>verry</sic><corr>very</corr></choice> bad
                   <lb/> last week in putting down a cider Barrell in the
                   <lb/> Cellar. got some of my cane cut up in shock
-                  <lb/> this week. <persName>george Wilson</persName> and <persName>george Daily</persName> Helped 
-                  <lb/> <persName>george Wilson</persName> tending the mill Boyes Daily in 
+                  <lb/> this week. <persName ref="#WilsonG">george Wilson</persName> and <persName>george Daily</persName> Helped 
+                  <lb/> <persName ref="#WilsonG">george Wilson</persName> tending the mill Boyes Daily in 
                   <lb/> the cane <damage agent="Stain"></damage> patch. first frost of any account
                   <lb/> was friday morning. 
                </p>
@@ -1528,9 +1532,9 @@
                   <lb/> night It froze quite Hard and I <del rend="overstrike">am</del>
                   <lb/> fear my cane may spoil before I get to work it
                   <lb/> Yet I will risk It cane still comes I am 
-                  <lb/> not though taking any new jobs. <persName>george
+                  <lb/> not though taking any new jobs. <persName ref="#WilsonG">george
                   <lb/> Wilson</persName> Has been Helping me this week to grind
-                  <lb/> Him and <persName>Tomy Homer</persName> do the grinding <persName>george
+                  <lb/> Him and <persName>Tomy Homer</persName> do the grinding <persName ref="#GoodrichG">george
                      <lb/> Goodrich</persName> &amp; <persName>Newton</persName> &amp; me the Boiling  my time
                   <lb/> However is <choice><sic>Dividid</sic><corr>Divided</corr></choice> <choice><sic>arround</sic><corr>around</corr></choice> at all <hi rend="underline">works</hi>
                               
@@ -1575,9 +1579,9 @@
                                 <lb/> like mine and Borrowed the piece to match
                                 <lb/> my Broken one and wednesday we put it up
                                 <lb/> and went it along the old way Better
-                                <lb/> Believe I was glad. <persName>Thornton Wells</persName> helped
+                                <lb/> Believe I was glad. <persName ref="#WellsT">Thornton Wells</persName> helped
                                 <lb/> me this week. He cut and Hawled wood as
-                                <lb/> I will not Have enough. <persName>george Wilson</persName> &amp; the
+                                <lb/> I will not Have enough. <persName ref="#WilsonG">george Wilson</persName> &amp; the
                                 <lb/> little boyes done the grinding 
                </p>
             </div>
@@ -1607,7 +1611,7 @@
                <lb/>time each night and some of the time untill
                   <lb/>10 oclock. Hire <choice><sic>extry</sic><corr>extra</corr></choice> Hands to grind
                <lb/>Half of the night <unclear cert="low">cumevee</unclear> Bailing by day
-               <lb/>light. <persName>Thornton Wills</persName> Helped me this
+               <lb/>light. <persName ref="#WellsT">Thornton Wills</persName> Helped me this
                <lb/>week. some <unclear cert="low">slats</unclear> of cane that was froze
                <lb/><del rend="overstrike">a</del> before cutting soured this week
                <lb/>Had some very cold Blustry wether.
@@ -1631,8 +1635,8 @@
                <lb/>This week made some over 700 gallons
                <lb/>Had to get up some more wood I got
                <lb/>up a lot last week But Is not going
-               <lb/>to be enought. <persName>Thornton</persName> Had to quit
-               <lb/><persName>George Wison</persName> Helped me this week.
+               <lb/>to be enought. <persName ref="#WellsT">Thornton</persName> Had to quit
+               <lb/><persName ref="#WilsonG">George Wison</persName> Helped me this week.
             </p>
             <p>
                <lb/>Had considerable trouble in getting
@@ -1861,13 +1865,13 @@
          <div xml:id="LCS18621213" type="Entry">
             <dateline><date from="1862-12-07" to="1862-12-13"><lb/>For the Week Ending Saturday<lb/>Decem 13<hi rend="super">th</hi> 1862.</date></dateline>
             <p>
-               <date when="1862-12-08">Monday</date> <persName>George 
+               <date when="1862-12-08">Monday</date> <persName ref="#GoodrichG">George 
                <lb/>Goodrich</persName> and me went and to <persName>uncle
                
                <lb/>Lew<add place="above">i</add>ses</persName> and <choice><sic>staid</sic><corr>stayed</corr></choice> all night walked over
                <lb/>nice walking. Tuesday morning went over
                <lb/>to Worthington and then by the <unclear cert="low">cars</unclear> to
-               <lb/>Delaware George to <add place="above">a</add> <persName>Mr <unclear cert="high">Watterman</unclear></persName> abo<supplied reason="omitted" resp="ed">out</supplied>
+               <lb/>Delaware <persName ref="#GoodrichG">George</persName> to <add place="above">a</add> <persName>Mr <unclear cert="high">Watterman</unclear></persName> abo<supplied reason="omitted" resp="ed">out</supplied>
                <lb/>us working for Him at the fur mill Buis<seg type="softhyphen">
                <lb/></seg>ness I went to get a Job of collecting of Him
                <lb/>to Do But He Had got a Hand. Evening
@@ -1918,8 +1922,8 @@
             <p>
                <lb/><date when="1862-12-12">Friday</date> staid <unclear>arround</unclear> the House all Day
                <lb/><unclear>measly</unclear> sick. Father &amp; Mother went up to Robertses
-               <lb/>Boyes Husked corn. Eaving went to see Mr
-               <lb/>Wilson about getting Him to go with me tomor
+               <lb/>Boyes Husked corn. Eaving went to see <persName ref="#WilsonG">Mr
+                  <lb/>Wilson</persName> about getting Him to go with me tomor
                <lb/>ow to <gap/> that Dead Horse of Grovenberies
                <lb/>as He was Hear on Monday Before I went away
                <lb/>and we could not agree and we agreed to each
@@ -1967,7 +1971,7 @@
                <unclear cert="medium">Grovenberris</unclear> He
                <lb/>was not at Home Left word for Him to
                <lb/>come &amp; see me. most all the Week real
-               <lb/>Cold Weather. <persName>George Goodrich</persName> moved to
+               <lb/>Cold Weather. <persName ref="#GoodrichG">George Goodrich</persName> moved to
                <lb/><placeName>Delaware</placeName>.
             </p>
          </div>
@@ -1978,7 +1982,7 @@
             -->
             <dateline><date when="1862-12-21">Sunday <choice><abbr>Decem</abbr><expan>December</expan></choice> 21st 1862</date></dateline>
             <p>
-               <lb/>Went to <persName>Mr. Wilsons</persName> part of the Day and
+               <lb/>Went to <persName ref="#WilsonG">Mr. Wilsons</persName> part of the Day and
                <lb/>to Meeting to <placeName>Albany</placeName> at night
                <lb/>pleasent Day warmer
             </p>
@@ -2069,7 +2073,7 @@
                <subst><del rend="strikethrough"
                   hand="#LCSHand"><choice><abbr>Sept</abbr><expan>September</expan></choice></del><add place="above" hand="#LCSHand">December</add></subst>
                1862</date></dateline><p>Staid Home all day
-               <lb/>wrote a Letter <persName>George Goodrich</persName> <placeName>Delaware Ohio</placeName>
+               <lb/>wrote a Letter <persName ref="#GoodrichG">George Goodrich</persName> <placeName>Delaware Ohio</placeName>
                <lb/>Went to meeting to <placeName>Albany</placeName> at night.
             </p>
          </div>
@@ -2088,7 +2092,7 @@
                1862</date></dateline>
             <p>Rained and snowed all
                <lb/>Day and snowed all night a perfect storm from
-               <lb/>the North Eavning went up to <persName>Mr. Wilsons</persName> and <persName>Hite
+               <lb/>the North Eavning went up to <persName ref="#WilsonG">Mr. Wilsons</persName> and <persName>Hite
                <lb/><hi rend="underlined">smiths</hi></persName>
             </p>
          </div>
