@@ -227,14 +227,19 @@
                   <occupation>Plow maker</occupation><!--Is this the proper way to encode an occupation?-->
                </person>
                <person xml:id="GoodrichG">
-                  <persName>George Goodrich</persName>
+                  <persName>George Asbury Goodrich</persName>
+                  <birth when="1833"> 
+                     <placeName>Franklin County, OH</placeName>
+                  </birth>
                   <note type="biographical">George Goodrich is frequently mentioned in Smith's entries from August through December for helping
                      Archibald Smith and Lucius Smith at the Cane House. Goodrich seems to be involved in chores like boiling, making and 
                      cleaning pans at the Cane House. Lucius Smith and Goodrich, probably, also wanted to collaborate on a fur mill business 
                      with Mr. Watterman from Delaware. Goodrich reportedly moves to Delware between 14th and 20th December of 1862. In the last
                      week of December, Lucius Smith mentions writing to Goodrich in Delaware.  </note>
-                  <birth when="1833"></birth>
-                  <death when="1903"></death>
+                 <death when="1903">
+                    <placeName>Galena, Delaware County, OH</placeName>
+                 </death>
+                  <bibl><ref target="#Ancestry1900">"George A Goodrich"</ref>; <ref target="#FindaGrave73411433"></ref></bibl>
                </person>
                <person xml:id="WilsonG">
                   <persName>George Wilson</persName>
@@ -373,8 +378,11 @@
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1596.htm&gt;.</bibl>
                <bibl xml:id="RootsWeb1635" n="Roots1635">"Daniel Bennet" [Jr.]. <title level="m">RootsWeb.com</title>. 2012. Web. 16 October 2012.
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1635.htm&gt;.</bibl>
+               <bibl xml:id="FindaGrave73411433" n="FindaGrave">"George Asbury Goodrich". <title level="m">Findagrave.com</title>. 2011. Web. 24 October 2012.
+                  </bibl>
                <bibl xml:id="Ancestry1880" n="1880">"1880 United States Federal Census". <title level="m">Ancestry.com</title>. 1999.  Web.  20 October 2012.</bibl>
                <bibl xml:id="Ancestry1860" n="1860">"1860 United States Federal Census". <title level="m">Ancestry.com</title>. 2009. Web. 20 October 2012.</bibl>
+               <bibl xml:id="Ancestry1900" n="1900">"1900 United States Federal Census". <title level="m">Ancestry.com</title>. 2004. web. 24 October 2012</bibl>
             </listBibl>           
             
          </sourceDesc>
