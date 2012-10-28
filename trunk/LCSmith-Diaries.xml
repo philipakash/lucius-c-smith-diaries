@@ -181,6 +181,24 @@
                </person>
                <person xml:id="GCollins">
                   <persName>Gil Collins</persName>
+                  <note type="biographical">Lucius Smith mentions that Gill Collins went to speak at a war
+                     meeting in Albany on 2 August 1862. During his trips to Columbus Lucius sees Gilbert 
+                     Collins on at least two occassions seeking legal aid. On 9 August 1862 Lucius visits Collins
+                     to put his property in his father's name "so that if I am drafed he can take and them Patent Right
+                     men can stand off." In December Lucius notes that he found out he found out he was being sued by 
+                     "those Patent right men" when Gilbert Collins wrote to the Clerk of the U.S. Court at Cleveland.  
+                     It is the likely that Lucius is referred to the lawyer Gilbert G. Collins who was later elected
+                     mayor of Columbus from 1879-1880. Collins lived in Plains Township with his parents, Andrew and
+                     Mary Collins until their death. He relocated to Columbus to study law 1858 and was admitted to 
+                     practice in March 1861.<bibl><ref target="#BEO19thcentury">"Collins, Gilbert G"</ref>;
+                        <!---Also looked up census data for 1850 to confirm Gilbert was living in Plain Township;
+                           occupation was listed as laborer; 1860 confirms relocation to Columbus and occupation 
+                           changed to student; 1870 listed as head of house, married and occupation identified as lawyer).
+                           There is also an image available of Collins at the Columbus Metro library should we want to
+                           include it-->
+                        
+                     </bibl>                    
+                  </note>
                </person>
                <person xml:id="DBennetJr">
                   <persName>Daniel Bennet, Jr.</persName>
@@ -387,6 +405,9 @@
                <bibl xml:id="Ancestry1860" n="1860">"1860 United States Federal Census". <title level="m">Ancestry.com</title>. 2009. Web. 20 October 2012.</bibl>
                <bibl xml:id="VeteransSchedule1890" n="1890">"1890 Veterans Schedules". <title level="m">Ancestry.com</title>. 2005. Web. 25 October 2012.</bibl>
                <bibl xml:id="Ancestry1900" n="1900">"1900 United States Federal Census". <title level="m">Ancestry.com</title>. 2004. web. 24 October 2012</bibl>
+               <bibl xml:id="BEO19thcentury" n="BEO">"Collins, Gilbert G." <title level="m">The Biographical Encyclopedia of Ohio of the Nineteenth Century</title>
+                  Cincinnati and Philadelphia: Galaxy Publishing Company, 1876. <title level="s">Making of America</title> Web. 27 October 2012
+               </bibl>
             </listBibl>           
             
          </sourceDesc>
@@ -710,7 +731,7 @@
             </p>
             <p>
                <lb/>Went to <choice><sic>se</sic><corr>see</corr></choice><persName><unclear cert="low">Hiram</unclear> Smith</persName> as He
-               <!-- I originally transcribed these name as Heilan but I changed it to Hiram after reading John transcription-->
+               <!-- I originally transcribed these name as Heilan but I changed it to Hiram after reading John's transcription-->
                <lb/>is to start south <choice><sic>tomorow </sic><corr>tomorrow</corr></choice> Having got 
                <lb/>His pass. Still very warm.
             </p>
