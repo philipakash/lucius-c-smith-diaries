@@ -300,7 +300,7 @@
       <a name="PeopleMentioned"/>
       <h3>List of People Mentioned in the Letters</h3>
       <xsl:for-each select="tei:person">
-         <xsl:sort select="tei:persName"/>
+         <xsl:sort select="tei:persName[1]"/>
          <p>
             <strong><xsl:value-of select="tei:persName"/></strong>
          <xsl:if test="tei:birth">
