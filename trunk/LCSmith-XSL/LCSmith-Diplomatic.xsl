@@ -65,8 +65,8 @@
     <xsl:template match="tei:fileDesc/tei:titleStmt/tei:title/tei:lb">
         <br/><xsl:apply-templates/>
     </xsl:template>
-    <xsl:template match="tei:add[@place='above']"> &#x2193; <xsl:apply-templates/> &#x2191; </xsl:template>
-    <xsl:template match="tei:add[@place='below']"> &#x2191; <xsl:apply-templates/> &#x2193; </xsl:template>
+    <xsl:template match="tei:add[@place='above']"> &#x2191; <xsl:apply-templates/> &#x2193; </xsl:template>
+    <xsl:template match="tei:add[@place='below']"> &#x2193; <xsl:apply-templates/> &#x2191; </xsl:template>
     <xsl:template match="tei:seg[@type='softhyphen']">
         <xsl:apply-templates/>
     </xsl:template>    
