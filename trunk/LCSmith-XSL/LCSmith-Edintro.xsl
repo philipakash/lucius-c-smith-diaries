@@ -305,8 +305,8 @@
             <strong><xsl:value-of select="tei:persName"/></strong>
          <xsl:if test="tei:birth">
             <xsl:text> (b. </xsl:text><xsl:value-of
-            select="tei:birth/tei:date[@when]"/><xsl:if test="tei:death"> - d. <xsl:value-of
-               select="tei:death/tei:date[@when]"></xsl:value-of></xsl:if>)</xsl:if>.
+            select="tei:birth/@when"/><xsl:if test="tei:death"> - d. <xsl:value-of
+               select="tei:death/@when"></xsl:value-of></xsl:if>)</xsl:if>.
           <xsl:apply-templates select="tei:note[@type='biographical']"/>
          </p>
       </xsl:for-each>
