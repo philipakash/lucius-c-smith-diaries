@@ -1236,7 +1236,7 @@
             <dateline><lb/><date when="1862-09-12">Frid 12.</date></dateline>
             <p><lb/>Morning <rs type="familial" ref="SmithArch">Dad</rs> &amp; me and <persName>Eliza</persName> went to <placeName>Columbus</placeName>
             <lb/>I went after various things for my Cane works
-            <lb/>see cash List went past <persName>Grovenberies</persName>
+            <lb/>see cash List went past <persName ref="#GrovenberyG">Grovenberies</persName>
             <lb/>and got a Horse of Him to work my mill
             <lb/>got Home Late at night. I Borrowed $10.00
             <pb facs="/b/b13427cf-1e77-4217-9c0c-8095533b8b63"/>
@@ -1333,7 +1333,7 @@
             <lb/>put up a ten foot <choice><sic>steem</sic><corr>steam</corr></choice> <del rend="overstrike">p</del> spout
             <lb/>on the House and various things
             <lb/><persName>Newton</persName> Helped me one day and one
-            <lb/>day went to <persName>Grovenberies</persName> after a load
+            <lb/>day went to <persName ref="#GrovenberyG">Grovenberies</persName> after a load
             <lb/>of corn for me we now Have
             <lb/>things <choice><sic>riged</sic><corr>rigged</corr></choice> in good still lonely
             <lb/>they will work well and not break
