@@ -1424,7 +1424,7 @@
             <lb/>the mill It weighs 1100 lbs</p>
          </div>
         <div xml:id="LCS18621004a" type="Entry">
-         <lb/>  <dateline> <date when="1862-10-04"> Saturday <lb/> 
+           <dateline><lb/><date when="1862-10-04"> Saturday <lb/> 
                October 4th 1862</date> </dateline>
             <p><lb/> Morning as <choice><sic>soons</sic><corr>soon as</corr></choice> light all Hands to work
                <lb/> putting up the mills <persName ref="#GoodrichG">george</persName> <persName>Dick</persName> <persName>Newton</persName> 
@@ -1445,7 +1445,7 @@
          
          <pb facs="/8/8ac206a0-4b57-4c8d-ba24-62e14d0572ef"/> 
             <div xml:id="LCS18621005a" type="Entry">
-               <lb/><dateline> <date when="1862-10-05">Sunday <choice><abbr>Oct</abbr><expan>October</expan></choice> 5th 1862</date></dateline>
+               <dateline><lb/> <date when="1862-10-05">Sunday <choice><abbr>Oct</abbr><expan>October</expan></choice> 5th 1862</date></dateline>
                <p> <lb/>Staid around Home all
                   <lb/>day only to go down to See <persName>Sagers</persName> about
               <lb/>making me Some Barrels. Warm and pleasant</p>
@@ -1454,7 +1454,7 @@
                <lb/>Dust. I dont <choice><sic>mutch</sic><corr>much</corr></choice> look for rain this fall.
                   <lb/> <choice><sic>Scarsley</sic><corr>Scarcely</corr></choice> any Wheat is Sowed yet.</p> </div>
                <div xml:id="LCS18621012a" type="Entry">
-                  <lb/><dateline><date from="1862-10-06" to="1862-10-11">For the Week Ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 11 <unclear cert="low">of</unclear> 62
+                  <dateline><lb/><date from="1862-10-06" to="1862-10-11">For the Week Ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 11 <unclear cert="low">of</unclear> 62
                      <lb/> <unclear cert="low"> Sunday</unclear> morning</date></dateline>
                   <p><lb/> Early finished fixing the mills 
                   <lb/> and went to walk. they work well. we drove
@@ -1476,12 +1476,12 @@
                  <lb/>my places to put it are filled up.</p>
                 </div>
          <div xml:id="LCS18621012b" type="Entry">
-            <lb/><dateline><date when="1862-10-12">Sunday 12 <choice><abbr>Oct</abbr><expan>October</expan></choice> 1862 </date></dateline>
+            <dateline><lb/><date when="1862-10-12">Sunday 12 <choice><abbr>Oct</abbr><expan>October</expan></choice> 1862 </date></dateline>
             <p><lb/> Staid <choice><sic>arround</sic><corr>around</corr></choice>
             <lb/>Home all day plenty of visitors all day at the
             <lb/> Cane House.</p> </div>
             <div xml:id="LCS18621019a" type="Entry">
-               <lb/><dateline> <date from="1862-10-13" to="1862-10-18"> For the Week ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 18th 
+               <dateline><lb/> <date from="1862-10-13" to="1862-10-18"> For the Week ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 18th 
                   <add place="below">1862</add> </date></dateline>
                <p>  <lb/>This week we first Drove <choice><sic>Buisness</sic><corr>Business</corr></choice> right
                   <lb/> through all the week we made 550 &#188; gallons
@@ -1516,7 +1516,7 @@
                </p>
             </div>
             <div xml:id="LCS18621019b" type="Entry">
-            <lb/><dateline><date when="1862-10-19"> Sunday 19.</date></dateline>
+            <dateline><lb/><date when="1862-10-19"> Sunday 19.</date></dateline>
             <p> <lb/> Staid all around
                <lb/> Cane House all <choice><sic>Eavning</sic><corr>Evening</corr></choice> quite cold
                <lb/> Expect a freeze. 
@@ -1525,7 +1525,7 @@
             
             <pb facs="/6/65c3a7d6-5fa0-4ec5-9511-66d5efe59d02"/>
             <div xml:id="LCS18621025a" type="Entry">
-               <lb/><dateline><date from="1862-10-20" to="1862-10-25">For the week Ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 25 1862</date></dateline>
+               <dateline><lb/><date from="1862-10-20" to="1862-10-25">For the week Ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 25 1862</date></dateline>
                <p> <lb/>This week Drove
                   <lb/>the Business as fast as we could move
                   <lb/>579 gallons. we Had some considerable bad
@@ -1578,7 +1578,7 @@
             
             <pb facs="/6/6eb377d6-8792-4ae9-9f67-b8250d6fe5ec"/>
             <div xml:id="LCS18621026" type="Entry">
-               <lb/><dateline> <date when="1862-10-26"> Sunday <choice><abbr>Oct</abbr><expan>October</expan></choice> 26th 1862</date></dateline>
+               <dateline><lb/> <date when="1862-10-26"> Sunday <choice><abbr>Oct</abbr><expan>October</expan></choice> 26th 1862</date></dateline>
                <p><lb/> morning real winter snow
                   <lb/> from five to eight inches Deep and cold
                   <lb/> cleaned up the House carried in cane worked
@@ -1589,7 +1589,7 @@
                </p>
             </div>
             <div xml:id="LCS18621101" type="Entry">
-               <lb/><dateline> <date from="1862-10-27" to="1862-11-01"> For the Week ending 
+               <dateline><lb/> <date from="1862-10-27" to="1862-11-01"> For the Week ending 
                <lb/> November 1st 1862 Saturday </date></dateline>
                              <p>
                                 <lb/> This Week Had good luck made 636 &#189;
@@ -1608,7 +1608,7 @@
             </div>
             <pb facs="/b/b7cb4e7e-03e1-4fcd-8ae8-4e6aa0a2c8b9"/>
             <div xml:id="LCS18621102" type="Entry">
-            <lb/><dateline> <date when="1862-11-02"> Sunday 2nd November 1862 </date></dateline>
+            <dateline><lb/> <date when="1862-11-02"> Sunday 2nd November 1862 </date></dateline>
                <p> <lb/>Staid <choice><sic>arround</sic><corr>around</corr></choice> cane House <choice><sic>an</sic><corr>and</corr></choice> cleaned 
                   <lb/> up and put things to Rights <persName>John</persName> &amp; me
                                    
