@@ -182,6 +182,7 @@
                <person xml:id="GCollins">
                   <persName>Collins, Gilbert</persName>
                   <birth when="1831" precision="medium"><placeName evidence="external">Essex county, NJ</placeName></birth>
+                  <death when="1885-05-07" precision="medium" evidence="external"></death>
                   <note type="biographical">Lucius Smith mentions that Gill Collins went to speak at a war
                      meeting in Albany on 2 August 1862. During his trips to Columbus Lucius sees Gilbert 
                      Collins on at least two occassions seeking legal aid. On 9 August 1862 Lucius visits Collins
@@ -193,7 +194,8 @@
                      Mary Collins until their death. He relocated to Columbus to study law 1858 and was admitted to 
                      practice in March 1861.<bibl><ref target="#BEO19thcentury">"Collins, Gilbert G"</ref>;
                         <ref target="#Ancestry1850">"1850 United States Federal Census"</ref>;
-                        <ref target="Ancestry1860">"1860 United States Federal Census"</ref>
+                        <ref target="#Ancestry1860">"1860 United States Federal Census"</ref>;
+                        <ref target="#FindaGrave25957529">"Pvt Gilbert George Collins"</ref>
                         <!---Also looked up census data for 1850 to confirm Gilbert was living in Plain Township;
                            occupation was listed as laborer; 1860 confirms relocation to Columbus and occupation 
                            changed to student; 1870 listed as head of house, married and occupation identified as lawyer).
@@ -409,10 +411,10 @@
                <bibl xml:id="Ancestry1900" n="1900">"1900 United States Federal Census". <title level="m">Ancestry.com</title>. 2004. Web. 24 October 2012</bibl>
                <bibl xml:id="BEO19thcentury" n="BEO">"Collins, Gilbert G." <title level="m">The Biographical Encyclopedia of Ohio of the Nineteenth Century.</title>
                   Cincinnati and Philadelphia: Galaxy Publishing Company, 1876. <title level="s">Making of America.</title> Web. 27 October 2012
-               <bibl xml:id="Ancestry1850" n="1850">"1850 United States Federal Census". <title level="m">Ancestry.com</title>. 2009.  Web.  28 October 2012.</bibl>
+               <bibl xml:id="Ancestry1850" n="1850">"1850 United States Federal Census." <title level="m">Ancestry.com</title>. 2009.  Web.  28 October 2012.</bibl>
+               <bibl xml:id="FindaGrave25957529" n="FindaGrave">"Pvt Gilbert George Collins." <title level="m">Findagrave.com</title>. 2008. Web. 29 October 2012.</bibl>
                </bibl>
-            </listBibl>           
-            
+            </listBibl>              
          </sourceDesc>
 
       </fileDesc>
