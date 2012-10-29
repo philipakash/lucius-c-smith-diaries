@@ -247,6 +247,7 @@
                   <birth when="1838"><placeName>OH</placeName></birth>
                   <death><!--To be completed--></death>
                   <occupation>Plow maker</occupation><!--Is this the proper way to encode an occupation?-->
+                  <bibl><ref target="Ancestry1870">"1870 United States Federal Census"</ref></bibl>
                </person>
                <person xml:id="GoodrichG">
                   <persName>George Asbury Goodrich</persName>
@@ -407,6 +408,7 @@
                <bibl xml:id="FindaGrave74277136" n="FindaGrave">"Thornton E B Wells". <title level="m">Findagrave.com</title>. 2011. Web. 25 October 2012.</bibl>
                <bibl xml:id="Ancestry1880" n="1880">"1880 United States Federal Census". <title level="m">Ancestry.com</title>. 1999.  Web.  20 October 2012.</bibl>
                <bibl xml:id="Ancestry1860" n="1860">"1860 United States Federal Census". <title level="m">Ancestry.com</title>. 2009. Web. 20 October 2012.</bibl>
+               <bibl xml:id="Ancestry1870" n="1870">"1870 United States Federal Census." <title level="m">Ancestry.com</title>. 2009. Web. 22 October 2012.</bibl>
                <bibl xml:id="VeteransSchedule1890" n="1890">"1890 Veterans Schedules". <title level="m">Ancestry.com</title>. 2005. Web. 25 October 2012.</bibl>
                <bibl xml:id="Ancestry1900" n="1900">"1900 United States Federal Census". <title level="m">Ancestry.com</title>. 2004. Web. 24 October 2012</bibl>
                <bibl xml:id="BEO19thcentury" n="BEO">"Collins, Gilbert G." <title level="m">The Biographical Encyclopedia of Ohio of the Nineteenth Century.</title>
