@@ -235,7 +235,7 @@
                   <occupation>Attorney and Congressman</occupation>
                </person>
                <person xml:id="GrovenberyG">
-                  <persName>Garret Grovenbery</persName>
+                  <persName>Grovenbery, Garret</persName>
                   <note type="biographical"><!--To be completed--></note>
                   <birth when="1808"><placeName>OH</placeName></birth>
                   <death notBefore="1880"></death>
