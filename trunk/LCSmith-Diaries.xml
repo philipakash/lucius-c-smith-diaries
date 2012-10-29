@@ -1482,7 +1482,7 @@
             <lb/> Cane House.</p> </div>
             <div xml:id="LCS18621019a" type="Entry">
                <lb/><dateline> <date from="1862-10-13" to="1862-10-18"> For the Week ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 18th 
-                  <!-- The year has been written at the end of the next line. Unique case to consider in class. --> 1862</date></dateline>
+                  <add place="below">1862</add> </date></dateline>
                <p>  <lb/>This week we first Drove <choice><sic>Buisness</sic><corr>Business</corr></choice> right
                   <lb/> through all the week we made 550 &#188; gallons
                   <lb/> of molasses and of the Best Kind. <del rend="erased"><choice><sic> averag</sic> <corr> average</corr></choice></del>91 17/24
