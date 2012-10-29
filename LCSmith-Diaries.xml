@@ -632,7 +632,7 @@
             <p>
                <lb/>to day <persName>John</persName>
                <lb/>and me Hawled Hay all day &#xbd; day in
-               <lb/>the Barn &#xbd; on a stack <rs>dad</rs> and <persName>Newton</persName>
+               <lb/>the Barn &#xbd; on a stack <rs ref="SmithArch">dad</rs> and <persName>Newton</persName>
                <lb/>are mowing. <choice><sic>verry</sic><corr>very</corr></choice> warm and we need
                <lb/>rain the Ground is rapidly Drying up
                <lb/>after so <choice><sic>mutch</sic><corr>much</corr></choice> Hard <choice><sic><unclear
@@ -743,7 +743,7 @@
                <lb/>and <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice> 5th Aug 1862</date></dateline>
          <p>
                <lb/>Worked at my
-               <lb/>Buildings <persName>Newton</persName> &amp; <rs type="familial">Father finished</rs>
+            <lb/>Buildings <persName>Newton</persName> &amp; <rs type="familial" ref="SmithArch">Father finished</rs>
                <lb/>the Hay and <choice><sic>theashed</sic><corr>thrashed</corr></choice> out some wheat
                <lb/><time>night <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice></time> <persName>John</persName> come sick Having <del rend="overstrike">a</del>
                <lb/>Had a slight bowel complaint.
@@ -781,7 +781,7 @@
    <p>
       <lb/><persName>Newton</persName> &amp; me worked at my Building 
       <lb/>finished <choice><sic>cleeting</sic><corr>cleating</corr></choice> all of it and arranged
-      <lb/>things about the building <rs type ="familial">dad</rs> went
+      <lb/>things about the building <rs type ="familial" ref="SmithArch">dad</rs> went
       <lb/>to mill <rs type ="familial">Mother</rs> and girls went along
       <lb/>Black <unclear cert="low"><choice><sic>baring</sic><corr>berrying</corr></choice></unclear>
    </p>
@@ -840,12 +840,12 @@
                <lb/><persName>John</persName> Dug at the Well. <time>forenoon</time> <persName>Homer</persName>
                <lb/>and me Hawled stone out of the crick
                <lb/><time>Afternoon</time> Hawled a load of wood to 
-               <lb/><placeName>Albany</placeName> for <rs type="familial">Dad</rs> and Hawled up a 
+               <lb/><placeName>Albany</placeName> for <rs type="familial" ref="SmithArch">Dad</rs> and Hawled up a 
                <lb/>load of saw Dust and put it in my
                <lb/>new cane <choice><sic>Hous</sic><corr>House</corr></choice>for the party <choice><sic>tomorow</sic><expan>tomorrow</expan></choice>
                <!--John transcribed this as cane hans. Given the context and other references in the diary I stuck with my original reading of cane house-->
                <lb/>night fixed up seats and arranged things
-               <lb/><persName>Newton</persName> &amp; <rs type="familial">Dad</rs> made a <choice><orig><distinct type="archaic_orthography" time="15-16">sinck</distinct></orig><reg source="OED">sink</reg></choice> and spout
+               <lb/><persName>Newton</persName> &amp; <rs type="familial" ref="SmithArch">Dad</rs> made a <choice><orig><distinct type="archaic_orthography" time="15-16">sinck</distinct></orig><reg source="OED">sink</reg></choice> and spout
                <lb/>for the well to carry the water under the
                <lb/>ground down the Hill
             </p>
@@ -855,7 +855,7 @@
             <dateline><lb/><date when="1862-08-13"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> 13th Aug <unclear cert="medium">/</unclear>62</date></dateline>
             <p>
                <lb/>To day all went to the Celebration
-               <lb/>Sunday school expect <rs type="familial">Dad</rs> and <persName>Augustine</persName>
+               <lb/>Sunday school expect <rs type="familial" ref="SmithArch">Dad</rs> and <persName>Augustine</persName>
                <pb facs="/4/4facb41b-92da-4a51-8ecb-edb2012f4d43"/>
                <lb/><time>forenoon</time> <persName>Mr Taft</persName> gave the Sunday school a
                <!-- changed from Mr. Toft to Mr. Taft after reviewing John's transcription-->
@@ -893,10 +893,10 @@
                <lb/>get through I think we would have
                <lb/>got water in four or five feet more
                <lb/>By saturday night we got it walled
-               <lb/>up to within 8 ft of the top <rs type="familial">Father</rs> Has
+               <lb/>up to within 8 ft of the top <rs type="familial" ref="SmithArch">Father</rs> Has
                <lb/>Been at work rewoo<add place="above">d</add>ing my Horse power
                <lb/><persName>Newton</persName> Hawled some manure and helped 
-               <lb/><rs type="familial">Father</rs> some. quite cool nearly frost
+               <lb/><rs type="familial" ref="SmithArch">Father</rs> some. quite cool nearly frost
                <lb/>for several mornings
             </p>
          </div>
@@ -960,7 +960,7 @@
                <lb/>four or five others Have enlisted
                <lb/><persName>John</persName> Has some notion of Enlisting in the
                <lb/>company now raising But I guess He
-               <lb/>will Hardly go. <rs type="familial">Father</rs> finished the
+               <lb/>will Hardly go. <rs type="familial" ref="SmithArch">Father</rs> finished the
                <lb/>Wooding the horse power <rs type="familial">Mother</rs> and
                <lb/>Him went up to <persName>aunt Elizas</persName> <persName>Caroline</persName>
                <lb/>is yet sick. <persName>Newton</persName> &amp; <persName>John</persName> finished
@@ -1015,7 +1015,7 @@
                <lb/>Wood half day finished Hawling I now
                <lb/>Have over 40 fourty cords of good
                <lb/>Wood Enough I think to do me.
-               <lb/><rs type="familial">Father</rs> is putting up the Cellar Door
+               <lb/><rs type="familial" ref="SmithArch">Father</rs> is putting up the Cellar Door
                <lb/>He has had one made a <choice><sic>loung</sic><corr>long</corr></choice> time.
                <lb/>as <choice><sic>loung</sic><corr>long</corr></choice> as the House has been built we
                <lb/>Have had no <del rend="overstrike">dor</del> <choice><sic>doore</sic><corr>door</corr></choice> to the Cellar.
@@ -1107,10 +1107,10 @@
                <lb/><persName>Souders</persName> Helped me one day we put
                <lb/>up the <choice><sic>Doorers</sic><corr>Doors</corr></choice> Built a <unclear cert="medium">stream</unclear> spout
                <lb/>as far as the Lumber went put stalls in
-               <lb/>my stowing House &amp; <choice><sic>ect</sic><corr>etc</corr></choice> <rs type="familial">Father</rs> Helped
+               <lb/>my stowing House &amp; <choice><sic>ect</sic><corr>etc</corr></choice> <rs type="familial" ref="SmithArch">Father</rs> Helped
                <lb/>me one day made a pattern for a cast box
                <lb/><del rend="erased">s</del>to sit under the end of each pan across
-               <lb/>the furnace. Thursday <rs type="familial">Father</rs> &amp; me went
+               <lb/>the furnace. Thursday <rs type="familial" ref="SmithArch">Father</rs> &amp; me went
                <lb/>to <placeName>Columbus</placeName> after alot of things got my
                <lb/>cast cog <choice><sic>wheal</sic><corr>wheel</corr></choice> a cistern pump and various
                <lb/>other things caluclated to get my sheet iron
@@ -1185,7 +1185,7 @@
          </div>
          <div xml:id="LCS18620908" type="Entry">
             <dateline><lb/><date when="1862-09-08">Monday 8</date></dateline>
-            <p><lb/>To<add place="above">day</add> <rs type="familial">Father</rs> <persName>Newton</persName>
+            <p><lb/>To<add place="above">day</add> <rs type="familial" ref="SmithArch">Father</rs> <persName>Newton</persName>
             <lb/>and me put down the Horse power and
             <lb/>partly rigged it to the mill.
             </p>
@@ -1214,7 +1214,7 @@
             <p><lb/>morning came on Home got the Log Wagon
             <lb/>and in the afternoon Hawled two logs and
             <lb/>got them sawed and Hawled the lumber
-            <lb/>Home. <rs type="familial">Father</rs> is at work for me and was
+            <lb/>Home. <rs type="familial" ref="SmithArch">Father</rs> is at work for me and was
             <lb/>yesterday. very Hot and so Dry It
             <lb/><choice><sic>seams</sic><corr>seems</corr></choice> as if <choice><sic>evry</sic><corr>every</corr></choice> thing would Dry up.
             </p>
@@ -1223,7 +1223,7 @@
          <div xml:id="LCS18620911" type="Entry">
             <dateline><lb/><date when="1862-09-11">Thursday 11</date></dateline>
             <p><lb/>Morning Early went to <placeName>albany</placeName> and got <persName ref="#GoodrichG">George
-            <lb/>Goodrich</persName> to do me some turning Father &amp;
+               <lb/>Goodrich</persName> to do me some turning <rs type="familial" ref="SmithArch">Father</rs> &amp;
             <lb/>me worked at the works all day <persName ref="#GoodrichG">George</persName>
             <lb/>Helped afternoon <!--Double check formation of "afternoon"--> <persName>Uncle Lewis</persName> was
             <lb/><choice><sic>Hear</sic><corr>Here</corr></choice> to dinner. <choice><sic>Eavning</sic><corr>Evening</corr></choice> had a nice
@@ -1232,7 +1232,7 @@
          </div>
          <div xml:id="LCS18620912" type="Entry">
             <dateline><lb/><date when="1862-09-12">Frid 12.</date></dateline>
-            <p><lb/>Morning <rs type="familial">Dad</rs> &amp; me and <persName>Eliza</persName> went to <placeName>Columbus</placeName>
+            <p><lb/>Morning <rs type="familial" ref="SmithArch">Dad</rs> &amp; me and <persName>Eliza</persName> went to <placeName>Columbus</placeName>
             <lb/>I went after various things for my Cane works
             <lb/>see cash List went past <persName>Grovenberies</persName>
             <lb/>and got a Horse of Him to work my mill
@@ -1248,7 +1248,7 @@
          </div>
          <div xml:id="LCS18620913" type="Entry">
             <dateline><lb/><date when="1862-09-13"></date>Sept <choice><sic>18th</sic><corr>13th</corr></choice> 1862</dateline>
-            <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> sheet and <rs type="familial">Father</rs>
+            <p><lb/>finished my <choice><sic>steem</sic><corr>steam</corr></choice> sheet and <rs type="familial" ref="SmithArch">Father</rs>
             <lb/>and me got the Horse power and mill in
             <lb/>as we Hope running order it <choice><sic>seams</sic><corr>seems</corr></choice> at
             <lb/>least to move quite well But not quite
@@ -1283,9 +1283,9 @@
             <lb/>sheet Iron top of 8 <choice><abbr>ft</abbr><expan>feet</expan></choice> to put on my
             <lb/>Chimney a tin pump &amp; some other things
             <lb/>and riveted my sheet Iron together
-            <lb/><rs type="familial">Father</rs> Helped me all the week <persName ref="#GoodrichG">George good<seg type="softhyphen">
+            <lb/><rs type="familial" ref="SmithArch">Father</rs> Helped me all the week <persName ref="#GoodrichG">George good<seg type="softhyphen">
             <lb/>rich</seg></persName> three days <del><gap reason="overwritten" unit="words" extent="1"></gap></del> when He got sick
-            <lb/>Him &amp; <rs type="familial">Father</rs> made boots pans nearly
+            <lb/>Him &amp; <rs type="familial" ref="SmithArch">Father</rs> made boots pans nearly
             <lb/><unclear cert="low">cor</unclear> to Hawl cane on and laid the
             <lb/>track made feed table <choice><sic>riged</sic><corr>rigged</corr></choice> a pumice
             <lb/>carrier to the mill and various things
@@ -1315,7 +1315,7 @@
          <div xml:id="LCS18620927" type="Entry">
             <dateline><lb/><date from="1862-09-22" to="1862-09-27">for the week ending
             <lb/>saturday
-            <lb/>sept 27th 1862</date></dateline><p> this week <rs type="familial">Father</rs>
+            <lb/>sept 27th 1862</date></dateline><p> this week <rs type="familial" ref="SmithArch">Father</rs>
             <lb/><persName ref="#GoodrichG">George</persName> and me worked all the week
             <lb/>from day light <choice><orig><distinct type="archaic_orthography" time="17-17">untill</distinct></orig><reg source="OED">until</reg></choice> dark at the
             <lb/>Cane House and got It nearly ready to
@@ -1385,7 +1385,7 @@
          </div>
          <div xml:id="LCS18621003" type="Entry">
             <dateline><lb/><date when="1862-10-03">Friday 3 Oct 1862</date></dateline>
-            <lb/><p>4 oclock <rs type="familial">Father</rs> &amp; I started for town
+            <lb/><p>4 oclock <rs type="familial" ref="SmithArch">Father</rs> &amp; I started for town
             <lb/>for the purpose of getting a new shaft at a
             <lb/>new mill we concluded a new shaft would
             <lb/>stand a good chance of <choice><sic>braking</sic><corr>breaking</corr></choice> again and
@@ -1407,7 +1407,7 @@
                October 4th 1862</date> </dateline>
             <p><lb/> Morning as <choice><sic>soons</sic><corr>soon as</corr></choice> light all Hands to work
                <lb/> putting up the mills <persName ref="#GoodrichG">george</persName> <persName>Dick</persName> <persName>Newton</persName> 
-               <lb/> <rs type="familial">Father</rs> &amp; myself we put up <unclear cert="medium">boath</unclear> mills in the
+               <lb/> <rs type="familial" ref="SmithArch">Father</rs> &amp; myself we put up <unclear cert="medium">boath</unclear> mills in the
             <lb/> Same House put sweeps on them. Put down
                <lb/> more piping so as to Run <unclear cert="medium">Boath</unclear> mills <del rend="overstrike">R</del> juice
             <lb/>into the cistern  the old mill we saved all
@@ -1485,7 +1485,7 @@
                   <lb/> Dip thrice all the week and quite Bad so
                   <lb/> as to be very unable at times to Keep up still I
                   <lb/> made out to Keep <choice><sic>Buisness</sic><corr>Business</corr></choice> agoing. Had Dr <persName>Rainy</persName>
-                  <lb/> to Docter me. <rs type="familial">Father</rs> mashed His <choice><sic>Had</sic><corr>Hand</corr></choice> <choice><sic>verry</sic><corr>very</corr></choice> bad
+                  <lb/> to Docter me. <rs type="familial" ref="SmithArch">Father</rs> mashed His <choice><sic>Had</sic><corr>Hand</corr></choice> <choice><sic>verry</sic><corr>very</corr></choice> bad
                   <lb/> last week in putting down a cider Barrell in the
                   <lb/> Cellar. got some of my cane cut up in shock
                   <lb/> this week. <persName ref="#WilsonG">george Wilson</persName> and <persName>george Daily</persName> Helped 
@@ -1574,7 +1574,7 @@
                                 <lb/> This Week Had good luck made 636 &#189;
                   <lb/> gallons of <unclear cert="low"><choice><abbr>Exty</abbr><expan>Extremely</expan></choice></unclear> good molasses. <choice><abbr>Mon</abbr><expan>Monday</expan></choice> I went to
                                 <lb/> Hunt a mill but could not find any <del rend="overstrike">wednesday</del>
-                                <lb/> <del>I got F</del> Tuesday I got <rs type="familial">Father</rs> to go down
+                                <lb/> <del>I got F</del> Tuesday I got <rs type="familial" ref="SmithArch">Father</rs> to go down
                                 <lb/> to <persName>shafers</persName> as He has <choice><sic>throwen</sic><corr>thrown</corr></choice> out His mill
                                 <lb/> like mine and Borrowed the piece to match
                                 <lb/> my Broken one and wednesday we put it up
@@ -2080,7 +2080,7 @@
          <div xml:id="LCS18621229a" type="Entry">
             <lb/><dateline><date when="1862-12-29">Monday 29</date></dateline>
             <p>prepared some things towards digging
-               <lb/>my well Deeper went to mill Boyes &amp; <rs type="familial">Dad</rs>
+               <lb/>my well Deeper went to mill Boyes &amp; <rs type="familial" ref="SmithArch">Dad</rs>
                are sawing Wood with the sawing <hi
                   rend="underlined"><choice><sic>machean</sic><corr>machine</corr></choice></hi>
             </p>
