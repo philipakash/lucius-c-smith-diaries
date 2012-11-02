@@ -174,10 +174,19 @@
                   <persName>Smith, Lucius Clark</persName>
                   <note type="biographical">Archibald Smith's oldest son</note>
                   <birth when="1834-11-24"><placeName ref="#NewAlbany">New Albany, OH</placeName></birth>
-                  <death></death>
                </person>
                <person xml:id="John">
-                  <persName>John</persName>
+                  <persName>Smith, Johnathan Wesley</persName>
+                  <birth when="1838-08-16"></birth>
+                  <death></death>
+                  <note type="bibliographic">
+                     Lucius's second younger brother. Lucius Smith refers to "John" throughout the journal, commonly in reference to labor shared by
+                     the brothers on family farm. John was particularly noted as helping Lucius with the labor on 
+                     his well and his Mill. In the week of August 23rd 1862, Lucius also mentions that John was
+                     considering enlisting in the company that was presently raising, but expressed doubt that he would
+                     actually commit. However, Lucius's prediction proved wrong within a year, as John and his brother 
+                     Newton both enlisted in June of 1863.
+                  </note>
                </person>
                <person xml:id="GCollins">
                   <persName>Collins, Gilbert</persName>
