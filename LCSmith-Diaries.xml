@@ -203,7 +203,48 @@
                      return trip.
                   </note>
                </person>
-               
+               <person xml:id="JDague">
+                  <persName>Dague, John</persName>
+                  <note type="biographical">
+                  On the 10th of August, 1862, Lucius went to visit John Dague to call in a promise Dague
+                     made to help Smith dig his well. However, it seems that Dague's promise came to little. While
+                     several later entries mention "John" helping Lucius with the well, the familiar usage of the
+                     name makes it much more likely that this "John"  was Smith's brother, <persName>Johnathan Wesley 
+                     Smith.</persName>
+                     <ref target="#Ancestry1850">"1850 United States Federal Census"</ref>;
+                     <ref target="#DraftRecord1863">"US Civil War Draft Registrations Record, 1863-1865"</ref>;
+                  </note>
+                  <!-- I think I can get more on John Dague... it's just a matter of figuring out exactly which one he is. -->
+               </person>
+               <person xml:id="JEvans">
+                  <persName>Evans, John W.</persName>
+                  <birth when="1839"></birth>
+                  <death atLeast="1870"></death>
+                  <note>
+                     On 30th November, 1862, Lucius mentions that John Evans "and wife" are visiting. This is likely
+                     a reference to John W. Evans, another farmer of Plain of Lucius's generation, and his wife Maria.
+                     John Evans enlisted in the Union Army in June of 1863, alongside the Lucius's brothers, 
+                     <persName>John Wesley Smith</persName> and <persName>Isaac Newton Smith</persName>.
+                     <!-- If this is the right John Evans (and I'm fairly sure it is), it is likely that this is a honeymoon visit 
+                        by Mr. and Mrs. Evans. The 1860 census shows John W. Evans, age 20, in the household of Susan Evans. 
+                        The 1870 census shows John W. Evans and his wife Maria with an 8 year old child. Is that something to 
+                        add here? -->
+                  </note>
+               </person>
+               <!-- I'm encoding John L. Gill inside this comment for now, but I think the "John L. Gill" in the text should be encoded
+               as an organization for "John L. Gill and Sons," especially as I've found that it seems to be a mis-referece to the Franklin
+               Foundry. 
+               <person xml:id="JLGill">
+                  <persName>Gill, John L.</persName>
+                  <note type="biographical">
+                     John L. Gill was a "Tinner," living in Ward 2 of Columbus in 1860. However humble his occupation might
+                     sound, however, Gill's net worth was in excess of $163,000 at the time of the 1863 census. He was one
+                     of the founders of the Franklin Foundry and took over sole operation in 1852, associating the business
+                     with his son, John L. Gill, Jr., in 1857. The 
+                  [ALSO need to put in Biblio note for both 1860 census for Ward 2 Columbus AND History of Franklin County. Also, look up relation to dude in Cleveland.]   
+                  </note>
+               </person>
+               -->
                <person xml:id="GCollins">
                   <persName>Collins, Gilbert</persName>
                   <birth when="1831" precision="medium"><placeName evidence="external">Essex county, NJ</placeName></birth>
@@ -1421,7 +1462,7 @@
             <lb/>new mill we concluded a new shaft would
             <lb/>stand a good chance of <choice><sic>braking</sic><corr>breaking</corr></choice> again and
             <lb/>conclude to get a new mill Bought one of
-            <lb/><persName>John L. Gill</persName> and son for 88 dollars a <choice><sic>verticle</sic><corr>vertical</corr></choice>
+            <lb/><persName>John L. Gill</persName> and son <!-- I think this reference might be more appropriate as an organization than as a persName. --> for 88 dollars a <choice><sic>verticle</sic><corr>vertical</corr></choice>
             <lb/>mill of 14 inch <choice><sic>loung</sic><corr>long</corr></choice> Rolls Large Roll 12 in<seg type="softhyphen">
             <lb/></seg>ches in Diameter It <choice><sic>seams</sic><corr>seems</corr></choice> like a <choice><sic>verry</sic><corr>very</corr></choice>
             <lb/>stout stanch mill I Had to pay 8 Dollars more
