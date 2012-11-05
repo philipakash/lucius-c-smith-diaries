@@ -1218,7 +1218,7 @@
                <lb/>But could not <choice><sic>finde</sic><corr>find</corr></choice> any to suit me
                <lb/>&amp; <del rend="overstrike">colu</del> concluded to wait untill <!-- I think two ls was an acceptable spelling; double check -->next
                <lb/>week. Sat or latter Friday night <persName>Homer</persName>
-               <lb/>and me went over to <persName>uncle Lewises</persName> and staid
+               <lb/>and me went over to <persName ref="BeachL">uncle Lewises</persName> and staid
                <lb/>all night and sat morning went to <placeName>westerville</placeName>
                <lb/>to get my castings went North of town <del rend="overstrike">a</del>
                <lb/>some distance and got my counter shaft
@@ -1326,7 +1326,7 @@
             <p><lb/>Morning Early went to <placeName>albany</placeName> and got <persName ref="#GoodrichG">George
                <lb/>Goodrich</persName> to do me some turning <rs type="familial" ref="SmithArch">Father</rs> &amp;
             <lb/>me worked at the works all day <persName ref="#GoodrichG">George</persName>
-            <lb/>Helped afternoon <!--Double check formation of "afternoon"--> <persName>Uncle Lewis</persName> was
+               <lb/>Helped afternoon <!--Double check formation of "afternoon"--> <persName ref="BeachL">Uncle Lewis</persName> was
             <lb/><choice><sic>Hear</sic><corr>Here</corr></choice> to dinner. <choice><sic>Eavning</sic><corr>Evening</corr></choice> had a nice
             <lb/>shower of rain.
             </p>
@@ -2058,7 +2058,7 @@
             <p>
                <lb/><choice><abbr>Mon</abbr><expan>Monday</expan></choice> &amp;
                <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice> rain &amp; Snow
-               <persName>uncle Lewis Beach</persName>
+               <persName ref="BeachL">uncle Lewis Beach</persName>
                <lb/>Staid all night us Boyes caught a coon with our
                <lb/>Dog. Mad our Hunting arrangements <persName>Reese
                <lb/>Eavens</persName> &amp; I we are the captains we Have 39
