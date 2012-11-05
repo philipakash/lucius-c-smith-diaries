@@ -270,6 +270,25 @@
                      </bibl>                    
                   </note>
                </person>
+               <person xml:id="SmithIN"><persName>Smith, Isaac Newton</persName>
+                  <birth when="1824-02-16" precision="medium"><placeName evidence="external">Plain Township, Franklin, OH</placeName></birth>
+                  <death when="1912-06-27" precision="medium"><placeName>Westerville, OH</placeName></death>
+                  <note type="biographical">Lucuis Smith's brother, Isaac Newton, is frequently referered to as Newton in 
+                  Lucuis' diary. Most of the references to Newton in Lucius Smith's entries note the labor that Newton
+                  performs from "hawling" materials to digging the well and thrashing wheat. Census records indicate that
+                  Isaac Newton Smith married and relocated to Blendon, Ohio by 1900 and identified his occupation as a 
+                  physician. <bibl><ref target="#Ancestry1900">"1900 United States Federal Census"</ref></bibl>
+               </note>
+               </person>
+               <person xml:id="SmithCA"><persName>Smith, Charles Augustine</persName>
+                  <birth when="1836"/>
+                  <note type="biographical">Charles "Augustine" Smith is Lucuis Smith's brother. On Sunday, August 31st 1862
+                  Lucius Smith states that Augustine "last week had a tower of fits getting Better." The other two references
+                  to Augustine report that he was not attendance at the Celebration Sunday School on August 13 or a basket 
+                  meeting on August 17.
+                  <bibl><ref target="Ancestry1860">"1860 United States Federal Census"</ref></bibl>
+               </note>
+            </person>
                <person xml:id="DBennetJr">
                   <persName>Daniel Bennet, Jr.</persName>
                   <birth when="1828" precision="medium"><placeName evidence="conjecture">Delaware County, OH</placeName></birth>
@@ -848,7 +867,7 @@
                <lb/>the Hay and <choice><sic>theashed</sic><corr>thrashed</corr></choice> out some wheat
                <lb/><time>night <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice></time> <persName>John</persName> come sick Having <del rend="overstrike">a</del>
                <lb/>Had a slight bowel complaint.
-               <lb/><choice><sic>Todayes</sic><corr>Today's</corr></choice><unclear cert="medium">paper</unclear> Tuesday Brings an<del rend="overstrike">d</del>
+               <lb/><choice><sic>Todayes</sic><corr>Today's</corr></choice> paper Tuesday Brings an<del rend="overstrike">d</del>
                <lb/>order from the Secretary of War 
                <lb/>calling for an unconditional Draft of
                <lb/>three hundred thousand more men
@@ -884,7 +903,7 @@
       <lb/>finished <choice><sic>cleeting</sic><corr>cleating</corr></choice> all of it and arranged
       <lb/>things about the building <rs type ="familial" ref="SmithArch">dad</rs> went
       <lb/>to mill <rs type ="familial">Mother</rs> and girls went along
-      <lb/>Black <unclear cert="low"><choice><sic>baring</sic><corr>berrying</corr></choice></unclear>
+      <lb/>Black <choice><sic>baring</sic><corr>berrying</corr></choice>
    </p>
 </div>
 <div xml:id="LCS18620808" type="Entry">
