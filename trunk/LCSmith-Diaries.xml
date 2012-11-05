@@ -1306,9 +1306,9 @@
          <pb facs="/9/987dbf76-ef52-4db3-8882-8612c596d823"/>
          <div xml:id="LCS18620907" type="Entry">
             <dateline><lb/><date when="1862-09-07">Sunday Sept 7th <hi rend="underline">1862</hi></date></dateline>
-            <p><lb/>Staid <choice><orig><distinct type="archaic_orthography" time="16-16">arround</distinct></orig><reg source="OED">around</reg></choice>
+            <p><lb/>staid <choice><orig><distinct type="archaic_orthography" time="16-16">arround</distinct></orig><reg source="OED">around</reg></choice>
             <lb/>Home all day rather Lonesome Wrote a
-               <lb/>Letter to <persName ref="#SmithS">Samual Smith</persName>. <placeName>Columbus Ohio.</placeName>
+               <lb/>Letter to <persName ref="#SmithS">samual Smith</persName>. <placeName>Columbus Ohio.</placeName>
             </p>
          </div>
          <div xml:id="LCS18620908" type="Entry">
@@ -1320,7 +1320,7 @@
             </div>
          <div xml:id="LCS18620909" type="Entry">
             <dateline><lb/><date when="1862-09-09">Tues 9</date></dateline>
-            <p><lb/>Morning <persName>Homer</persName> &amp; me went to <placeName>Delaware</placeName>
+            <p><lb/>morning <persName>Homer</persName> &amp; me went to <placeName>Delaware</placeName>
             <lb/>after sheet Iron they manufacture pans
             <lb/>up <choice><sic>thare</sic><corr>there</corr></choice> <!--John usually transcribes what I see as "thare" as "there"; double check here and elsewhere--> and as I could not get
             <lb/><choice><sic>suitabble</sic><corr>suitable</corr></choice> Iron in <placeName>Columbus</placeName> I con<seg type="softhyphen">
