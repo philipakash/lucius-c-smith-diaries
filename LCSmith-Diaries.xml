@@ -699,8 +699,10 @@
          <!-- HLU section begins here -->
          <pb facs="/d/d64bea81-daaf-41cc-975b-88bdfe839567"/>
          <div xml:id="LCS18620730a" type="Entry">
-            <lb/>
-            <dateline><date when="1862-07-30"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> July 30th <hi rend="underline">1862</hi></date></dateline>
+            <dateline><lb/><date when="1862-07-30"><choice>
+                     <sic>Wednsday</sic>
+                     <corr>Wednesday</corr>
+                  </choice> July 30th <hi rend="underline">1862</hi></date></dateline>
             <p>
                <lb/>to day <persName>John</persName>
                <lb/>and me Hawled Hay all day &#xbd; day in
@@ -722,8 +724,7 @@
             </p>
          </div>
          <div type="Entry" xml:id="LCS18620801a">
-            <lb/>
-            <dateline><date when="1862-08-01">Friday August 1st 1862</date></dateline>
+            <dateline><lb/><date when="1862-08-01">Friday August 1st 1862</date></dateline>
             <p>
                <lb/>Helped in the 
                <lb/>Hay and oats all day the oats are 
@@ -741,7 +742,7 @@
          -->
          <pb facs="/2/2de3fd78-ec73-4f0a-bde0-471ace9fab47"/>
          <div type="Entry" xml:id="LCS18620802a">
-             <lb/><dateline><date when="1862-08-02">Saturday August 2nd 
+             <dateline><lb/><date when="1862-08-02">Saturday August 2nd 
                 <hi rend="underline">1862</hi></date></dateline>
             <!--
                Note about checking perpetual calendar. The @when attribute should reflect your
@@ -783,8 +784,8 @@
                <!-- See entry in list of people mentioned for "Gill Collins." -->
                <lb/>was out to Speak I was told. I went to
                <lb/>see <persName>Mr. Bennit</persName> who has a horse power
-               <lb/><choice><sic>witch</sic><corr>winch</corr></choice> He
-               <choice><sic>sayes</sic><corr>says</corr></choice> I can <unclear>Halve</unclear>.
+               <lb/><choice><sic>witch</sic><corr>which</corr></choice> He
+               <choice><sic>sayes</sic><corr>says</corr></choice> I can <choice><sic><unclear>Halve</unclear></sic><corr>have</corr></choice>.
             </p>
             <p>
                <lb/>very Hot and
@@ -1786,7 +1787,7 @@
             </p>
          </div>
          <div xml:id="LCS18621123" type="Entry">
-            <lb/><dateline><date when="1862-11-23">Sunday 23 Nov 1862</date></dateline>
+            <dateline><lb/><date when="1862-11-23">Sunday 23 Nov 1862</date></dateline>
             <p>
                <lb/>Morning went up and seen <persName>Savage</persName> a
                <lb/>Horse Doctor about the old mare He
@@ -2024,7 +2025,7 @@
             </p>
          </div>         
          <div xml:id="LCS18621220a" type="Entry">
-            <lb/><dateline><date from="1862-12-14" to="1862-12-20">For the Week Ending
+            <dateline><lb/><date from="1862-12-14" to="1862-12-20">For the Week Ending
                <choice><abbr>Sat</abbr><expan>Saturday</expan></choice> 20th 1862</date></dateline>
             <p>
                <lb/><choice><abbr>Mon</abbr><expan>Monday</expan></choice> &amp;
@@ -2061,7 +2062,7 @@
          </div>
          <pb facs="/9/9b702e6f-e027-4287-8d9c-2f8fbb67766d"/>
          <div xml:id="LCS18621227a" type="Entry">
-            <lb/><dateline><date from="1862-12-21" to="1862-12-27">For the Week Ending
+            <dateline><lb/><date from="1862-12-21" to="1862-12-27">For the Week Ending
                <choice><abbr>Sat</abbr><expan>Saturday</expan></choice>
                <choice><abbr>Decem</abbr><expan>December</expan></choice> 27th
                <add place="above"><hi rend="underline">1862</hi></add></date></dateline>
@@ -2141,7 +2142,7 @@
          </div>
          <div xml:id="LCS18621228a" type="Entry">
             <!-- HLU: Check whether the addition in the dateline is in Smith's hand. -->
-            <lb/><dateline><date when="1862-12-28">Sunday 28
+            <dateline><lb/><date when="1862-12-28">Sunday 28
                <subst><del rend="strikethrough"
                   hand="#LCSHand"><choice><abbr>Sept</abbr><expan>September</expan></choice></del><add place="above" hand="#LCSHand">December</add></subst>
                1862</date></dateline><p>Staid Home all day
@@ -2150,7 +2151,7 @@
             </p>
          </div>
          <div xml:id="LCS18621229a" type="Entry">
-            <lb/><dateline><date when="1862-12-29">Monday 29</date></dateline>
+            <dateline><lb/><date when="1862-12-29">Monday 29</date></dateline>
             <p>prepared some things towards digging
                <lb/>my well Deeper went to mill Boyes &amp; <rs type="familial" ref="SmithArch">Dad</rs>
                are sawing Wood with the sawing <hi
@@ -2158,7 +2159,7 @@
             </p>
          </div>
          <div xml:id="LCS18621230a" type="Entry">
-            <lb/><dateline><date
+            <dateline><lb/><date
                when="1862-12-30"><choice><sic>Tueasday</sic><corr>Tuesday</corr></choice> 30
                <choice><abbr>Decem</abbr><expan>December</expan></choice>
                1862</date></dateline>
@@ -2169,7 +2170,7 @@
             </p>
          </div>
          <div xml:id="LCS18621231a" type="Entry">
-            <lb/><dateline><date
+            <dateline><lb/><date
                when="1862-12-31"><choice><sic>Wednsday</sic><corr>Wednesday</corr></choice> 31st
                1862</date> morning</dateline>
             <p>snow some
