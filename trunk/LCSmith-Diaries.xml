@@ -531,6 +531,9 @@
                <bibl xml:id="FindaGrave25957529" n="FindaGrave">"Pvt Gilbert George Collins." <title level="m">Findagrave.com</title>. 2008. Web. 29 October 2012.</bibl>
               </bibl>
                <bibl xml:id="DraftRecord1863" n="DR63">"US Civil War Draft Registrations Record, 1863-1865". <title level="m">Ancestry.com</title>. 2010. Web. 4 November 2012.</bibl>
+               <bibl xml:id="evangelist" n="evangelist"><title level="j">"The Boy who Had 'Fits'."</title> New York Evangelist 21 June 1855: 100.</bibl>
+               <bibl xml:id="medical" n="Wilks">Dr. Wilks <title level="j">"Cases of Epilepsy with Clinical Remarks on the Use of Bromide and Iodide of Potassium in that Disease."</title> Medical News February 1862: 25.</bibl>
+               <bibl xml:id="OhioMedical" n="Ohio"> <title level="j">"Westminster Hospital.--Epilepsy for thirty-two years..."</title>The Ohio Medical and Surgical Journal 1 May 1859: 392.</bibl>
             </listBibl>              
          </sourceDesc>
 
@@ -1212,7 +1215,13 @@
                <lb/>Rain corn and cane and grass is as
                <lb/>near dead as need be and the Dust on the
                <lb/>Road is almost unsupportable. <persName>Augustine</persName>
-               <lb/>last week Had a tower of fits getting Better
+               <lb/>last week Had a tower of fits<ptr type="noteAnchor" target="Fits"/>
+               <note resp="ed" xml:id="Fits">In the mid to late nineteenth century, fits could refer to any number of 
+                  mental, physical, or moral problems.  Essays on morality frequently referred to “fits of passion,” 
+                  where the fits represented inappropriate, even sinful, behavior.  It is more likely, however, that 
+                  Lucius was alluding to a physical or mental condition of “falling fits” or “nervous diseases” such 
+                  as epilepsy.  A medical understanding of epilepsy existed by this time, though its causes and 
+                  treatment remained open to much speculation. <bibl><ref target="evangelist"></ref><ref target="medical"><ref target="Ohio medical"></ref></ref></bibl></note> getting Better
                <lb/><hi rend="underline">now</hi>         
             </p>
          </div>
