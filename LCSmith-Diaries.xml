@@ -783,6 +783,7 @@
                <lb/>Have nearly Destroyed It we left part
                <lb/>of It in the field
                <lb/>as not being worth cutting.
+               
             </p>
          </div>
          <!-- 
@@ -1105,7 +1106,7 @@
          </div>      
          <div xml:id="LCS18620824" type="Entry">
             <lb/> 
-               <dateline><date when="1862-08-24">Sunday Aug 24th<hi rend="underline">1862</hi></date></dateline>
+               <dateline><date when="1862-08-24">Sunday Aug 24<hi rend="superscript"></hi>th<hi rend="underline">1862</hi></date></dateline>
             <p>
                <lb/>
                <lb/>staid Home forenoon afternoon
@@ -1131,7 +1132,7 @@
             <p>
                <lb/>Went to see <persName>Mr Souders</persName> to get Him
                <lb/>to come and Help me make my
-               <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> and to <placeName>Jersey</placeName> tomorrow <!-- is his way of writing tomorrow, with a little gap between the o and the m a single word, or two? --> to
+               <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> and to <placeName>Jersey</placeName> to <unclear cert="high">morrow</unclear> to
                <lb/>get a pair of Boots made.  afternoon
                <lb/>worked at my Building <persName>Newton</persName> hawled
                <lb/>Wood half day finished Hawling I now
