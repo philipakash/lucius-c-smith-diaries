@@ -295,23 +295,39 @@
                </person>
                <person xml:id="CoxS">
                   <persName>Cox, Samuel Sullivan</persName>
-                  <note type="biographical"><!--To be completed--></note>
+                  <note type="biographical"><!--Check with Louie about the likelihood of this being the same Samuel Cox whose journal he edited-->
+                     Smith mentions Samuel Cox giving a war speech, along with <persName>Cancey Olds</persName> and <persName ref="GalawayS">Sam Galaway</persName> at
+                  a large gathering on August 13th.</note>
                   <birth when="1824-09-30"><placeName>Zanesville, OH</placeName></birth>
                   <death when="1889-09-10"><placeName>New York City, NY</placeName></death>
                   <occupation>Attorney and Congressman</occupation>
+                  <bibl><ref target="Ancestry1860">"1860 United States Federal Census"</ref></bibl>
+               </person>
+               <person xml:id="BeachL">
+                  <persName>Beach, Lewis</persName>
+                  <note type="biographical"><!--To be completed--></note>
                </person>
                <person xml:id="GrovenberyG">
                   <persName>Grovenbery, Garret</persName>
                   <note type="biographical">Garret Grovenbery is mentioned several times throughout Smith's diary. Smith mentions spending the night
-                  at Grovenbery's on the night of August 9th and getting "a load of corn" from him in late September. Most notably, Smith borrows a horse
-                  from Grovenbery on September 12th to work his mill. On November 24th, he discovers that the horse has broken a bone in its back and it 
+                  at Grovenbery's on the night of August 9th and obtaining "a load of corn" from him in late September. Most notably, Smith borrows a horse
+                  from Grovenbery on September 12th to work his mill. On November 24th, he discovers that the horse has broken a bone in its back and  
                   has to be put down. Near the end of December, Smith trades a two-year-old colt to Grovenbery in exchange for the dead horse and an
                   additional $3.00.</note>
-                  <birth when="1808"><placeName>OH</placeName></birth>
+                  <birth when="1808"><placeName>NY</placeName></birth>
                   <death notBefore="1880"></death>
                   <occupation>Farmer</occupation>
                   <bibl><ref target="Ancestry1860">"1860 United States Federal Census"</ref>;
                   <ref target="Ancestry1880">"1880 United States Federal Census"</ref></bibl>
+               </person>
+               <person xml:id="GalawayS">
+                  <persName>Galaway, Samuel</persName>
+                  <note type="biographical">Smith mentions Samuel Galaway as giving a war speech, along with <persName>Cancey Olds</persName> and
+                  <persName>Samuel Cox</persName> at a large gathering on August 13th.</note>
+                  <birth when="1836"><placeName>OH</placeName></birth>
+                  <occupation>Farmer</occupation>
+                  <bibl><ref target="Ancestry1850">"1850 United States Federal Census"</ref>;
+                  <ref target="Ancestry1870">"1870 United States Federal Census"</ref></bibl>
                </person>
                <person xml:id="SmithS">
                   <persName>Smith, Samuel</persName>
@@ -941,7 +957,7 @@
                <lb/><time>forenoon</time> <persName>Mr Taft</persName> gave the Sunday school a
                <!-- changed from Mr. Toft to Mr. Taft after reviewing John's transcription-->
                <lb/>Lecture after Dinner <del rend="overstrike">we</del><persName>Mr Cancey Olds</persName>
-               <lb/><persName ref="CoxS">Sam Cox</persName> <persName>Sam Galaway</persName> made War
+               <lb/><persName ref="CoxS">Sam Cox</persName> <persName ref="GalawayS">Sam Galaway</persName> made War
                <lb/><choice><sic>speaches</sic><corr>speeches</corr></choice> there was a large turnout of
                <lb/>people several thousand <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> <choice><sic>riged</sic><corr>rigged</corr></choice>
                <lb/>up the cane House with lights I put up 
