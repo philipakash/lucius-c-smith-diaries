@@ -296,7 +296,7 @@
                <person xml:id="CoxS">
                   <persName>Cox, Samuel Sullivan</persName>
                   <note type="biographical"><!--Check with Louie about the likelihood of this being the same Samuel Cox whose journal he edited-->
-                     Smith mentions Samuel Cox giving a war speech, along with <persName>Cancey Olds</persName> and <persName ref="GalawayS">Sam Galaway</persName> at
+                  Smith mentions Samuel Cox giving a war speech, along with <persName>Cancey Olds</persName> and <persName ref="GalawayS">Sam Galaway</persName> at
                   a large gathering on August 13th.</note>
                   <birth when="1824-09-30"><placeName>Zanesville, OH</placeName></birth>
                   <death when="1889-09-10"><placeName>New York City, NY</placeName></death>
@@ -306,6 +306,9 @@
                <person xml:id="BeachL">
                   <persName>Beach, Lewis</persName>
                   <note type="biographical"><!--To be completed--></note>
+                  <birth when="1818"><placeName>OH</placeName></birth>
+                  <bibl><ref target="Ancestry1840">"1840 United States Federal Census"</ref>;
+                  <ref target="Ancestry1850">"1850 United States Federal Census"</ref></bibl>
                </person>
                <person xml:id="GrovenberyG">
                   <persName>Grovenbery, Garret</persName>
@@ -505,6 +508,7 @@
                <bibl xml:id="BEO19thcentury" n="BEO">"Collins, Gilbert G." <title level="m">The Biographical Encyclopedia of Ohio of the Nineteenth Century.</title>
                   Cincinnati and Philadelphia: Galaxy Publishing Company, 1876. <title level="s">Making of America.</title> Web. 27 October 2012
                <bibl xml:id="Ancestry1850" n="1850">"1850 United States Federal Census." <title level="m">Ancestry.com</title>. 2009.  Web.  28 October 2012.</bibl>
+               <bibl xml:id="Ancestry1840" n="1840">"1840 United States Federal Census." <title level="m">Ancestry.com</title>. 2009. Web. 29 October 2012.</bibl>
                <bibl xml:id="FindaGrave25957529" n="FindaGrave">"Pvt Gilbert George Collins." <title level="m">Findagrave.com</title>. 2008. Web. 29 October 2012.</bibl>
               </bibl>
                <bibl xml:id="DraftRecord1863" n="DR63">"US Civil War Draft Registrations Record, 1863-1865". <title level="m">Ancestry.com</title>. 2010. Web. 4 November 2012.</bibl>
