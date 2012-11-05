@@ -302,17 +302,25 @@
                </person>
                <person xml:id="GrovenberyG">
                   <persName>Grovenbery, Garret</persName>
-                  <note type="biographical"><!--To be completed--></note>
+                  <note type="biographical">Garret Grovenbery is mentioned several times throughout Smith's diary. Smith mentions spending the night
+                  at Grovenbery's on the night of August 9th and getting "a load of corn" from him in late September. Most notably, Smith borrows a horse
+                  from Grovenbery on September 12th to work his mill. On November 24th, he discovers that the horse has broken a bone in its back and it 
+                  has to be put down. Near the end of December, Smith trades a two-year-old colt to Grovenbery in exchange for the dead horse and an
+                  additional $3.00.</note>
                   <birth when="1808"><placeName>OH</placeName></birth>
                   <death notBefore="1880"></death>
                   <occupation>Farmer</occupation>
+                  <bibl><ref target="Ancestry1860">"1860 United States Federal Census"</ref>;
+                  <ref target="Ancestry1880">"1880 United States Federal Census"</ref></bibl>
                </person>
                <person xml:id="SmithS">
                   <persName>Smith, Samuel</persName>
-                  <note type="biographical"><!--To be completed--></note>
+                  <note type="biographical">Lucius Smith mentions Samuel Smith twice in his diary: first, in reference to a visit he makes with his
+                  (Samuel's) mother on August 27th and second, in reference to a letter that Lucius writes to him on September 7th. There isn't any 
+                  evidence that Samuel is a direct relation, but his occupation as a plow maker may explain Lucius's connection to him.</note>
                   <birth when="1838"><placeName>OH</placeName></birth>
                   <death><!--To be completed--></death>
-                  <occupation>Plow maker</occupation><!--Is this the proper way to encode an occupation?-->
+                  <occupation>Plow maker</occupation>
                   <bibl><ref target="Ancestry1870">"1870 United States Federal Census"</ref></bibl>
                </person>
                <person xml:id="GoodrichG">
