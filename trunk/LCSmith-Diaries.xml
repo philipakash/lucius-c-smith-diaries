@@ -851,14 +851,13 @@
             <dateline><lb/><date when="1862-08-03">Sunday August 3<choice><abbr>d</abbr><expan>rd</expan></choice> <hi rend="underline">1862</hi></date></dateline>
             <p>
                <lb/>Wrote a
-               <lb/>letter to <abbr>Sam Smith</abbr> and done my diary
-               <lb/>writing went over to <persName><unclear cert="low">Millers</unclear></persName> <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> 
+               <lb/>letter to <abbr>sam Smith</abbr> and done my diary
+               <lb/>writing went over to <persName>millers</persName> <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> 
             </p>
             <p>
                <lb/>Went to <choice><sic>se</sic><corr>see</corr></choice><persName><unclear cert="low">Hiram</unclear> Smith</persName> as He
-               <!-- I originally transcribed these name as Heilan but I changed it to Hiram after reading John's transcription-->
                <lb/>is to start south <choice><sic>tomorow </sic><corr>tomorrow</corr></choice> Having got 
-               <lb/>His pass. Still very warm.
+               <lb/>His pass. still <choice><sic>verry</sic><corr>very</corr></choice> warm.
             </p>
          </div> 
          <div xml:id="LCS18620804" type="Entry">      
@@ -866,18 +865,18 @@
                <lb/>and <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice> 5th Aug 1862</date></dateline>
          <p>
                <lb/>Worked at my
-            <lb/>Buildings <persName>Newton</persName> &amp; <rs type="familial" ref="SmithArch">Father finished</rs>
-               <lb/>the Hay and <choice><sic>theashed</sic><corr>thrashed</corr></choice> out some wheat
+               <lb/>Buildings <persName>Newton</persName> &amp; <rs type="familial" ref="SmithArch">Father finished</rs>
+               <lb/>the Hay and thrashed out some wheat
                <lb/><time>night <choice><abbr>Tues</abbr><expan>Tuesday</expan></choice></time> <persName>John</persName> come sick Having <del rend="overstrike">a</del>
-               <lb/>Had a slight bowel complaint.
+               <lb/>Had a slight touch of bowel complaint.
                <lb/><choice><sic>Todayes</sic><corr>Today's</corr></choice> paper Tuesday Brings an<del rend="overstrike">d</del>
                <lb/>order from the Secretary of War 
                <lb/>calling for an unconditional Draft of
                <lb/>three hundred thousand more men
                <lb/>in addition to the same amount of 
                <lb/>volunteers previously called for
-               <lb/>some time ago. This order was issued yester<seg type="softhyphen">
-               <lb/></seg>day morning. That amount of men will tell
+               <lb/>some time ago. the order was <choice><sic>isued</sic><corr>issued</corr></choice> yester<seg type="softhyphen">
+               <lb/></seg>day morning. that amount of men will Tell
                <lb/>Hard on the people
          </p>
          </div>
