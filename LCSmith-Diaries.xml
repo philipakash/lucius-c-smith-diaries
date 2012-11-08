@@ -160,8 +160,32 @@
                      We will use this note to contain an historical/critical introduction to the
                      text of the Smith diary.
                      -->
-                     <p><hi rend="bold">Run-in Head</hi></p>
-                     <p>Text of Intro</p>
+                     <p>INTRODUCTION</p>
+                     <p rend="h3">
+                        Mid-nineteenth-century Family Dynamics   
+                     </p>
+                     <p><hi rend="bold">RUN-IN HEADER</hi>PARAGRAPH WITH RUN-IN HEADER</p>
+                     <p>PARAGRAPH</p>
+                     <p rend="h3">
+                        Milling and Mill Operations   
+                     </p>
+                     <p><hi rend="bold">RUN-IN HEADER</hi>PARAGRAPH WITH RUN-IN HEADER</p>
+                     <p>PARAGRAPH</p>
+                     <p rend="h3">
+                        Molasses and Sorghum Production   
+                     </p>
+                     <p><hi rend="bold">RUN-IN HEADER</hi>PARAGRAPH WITH RUN-IN HEADER</p>
+                     <p>PARAGRAPH</p>
+                     <p rend="h3">
+                        The Civil War and Civic Life   
+                     </p>
+                     <p><hi rend="bold">RUN-IN HEADER</hi>PARAGRAPH WITH RUN-IN HEADER</p>
+                     <p>PARAGRAPH</p>
+                     <p rend="h3">
+                        Borderlands and Hinterlands: Columbus, Cincinnati and the Ohio River During the Civil War  
+                     </p>
+                     <p><hi rend="bold">RUN-IN HEADER</hi>PARAGRAPH WITH RUN-IN HEADER</p>
+                     <p>PARAGRAPH</p>
                   </note>
 
                </notesStmt>
