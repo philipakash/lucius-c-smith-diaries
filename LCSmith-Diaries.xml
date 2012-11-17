@@ -193,7 +193,7 @@
             </biblFull>
             
             <listPerson type="mentioned">
-               <head>People Mentioned in the Smith Journal</head>
+               <head>People Mentioned in Lucius Smith's Diary</head>
                <person xml:id="SmithLC">
                   <persName>Smith, Lucius Clark</persName>
                   <note type="biographical">Archibald Smith's oldest son</note>
@@ -455,7 +455,7 @@
             </listPerson>
             
             <listPlace>
-               <head>Places Mentioned in the Smith Journal</head>
+               <head>Places Mentioned in Lucius Smith's Diary</head>
                <place type="city" xml:id="NewAlbany" source="#TGN">
                   <placeName>New Albany</placeName>
                   <country>United States</country>
@@ -479,7 +479,7 @@
             
             
             <listOrg>
-               <head>List of Organizations Mentioned in the Smith Journal</head>
+               <head>List of Organizations Mentioned in Lucius Smith's Diary</head>
                <!-- 
                   The listing for Fosters and Nickerson serves only as an example of what you can
                   encode in an <org> element. I have not yet run across a organization in the Smith
