@@ -151,9 +151,9 @@
                <div class="mastheadr"> 
                   <p>
                      <a href="#PeopleMentioned" 
-                        title="List of people mentioned in the letters.">People Mentioned</a><br/>
+                        title="List of people mentioned in the diary.">People Mentioned</a><br/>
                      <a href="#PlacesMentioned"
-                        title="List of places mentioned in the letters.">Places Mentioned</a><br/>
+                        title="List of places mentioned in the diary.">Places Mentioned</a><br/>
                      <a href="#WorksCited" 
                         title="List of works cited in explanatory annotations and editorial introduction.">Works Cited
                      </a><br/>
@@ -298,7 +298,7 @@
    
    <xsl:template match="tei:listPerson[@type='mentioned']">
       <a name="PeopleMentioned"/>
-      <h3>List of People Mentioned in the Letters</h3>
+      <h3>List of People Mentioned in Lucius Smith's Diary</h3>
       <xsl:for-each select="tei:person">
          <xsl:sort select="tei:persName[1]"/>
          <p>
@@ -316,7 +316,7 @@
    
    <xsl:template match="tei:listPlace">
       <a name="PlacesMentioned"/>
-      <h3>List of Places Mentioned in the Letters</h3>
+      <h3>List of Places Mentioned in Lucius Smith's Diary</h3>
       <xsl:for-each select="tei:place">
          <xsl:sort select="tei:geogName"/>
          <xsl:sort select="tei:placeName[1]"/>
