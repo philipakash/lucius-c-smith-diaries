@@ -1630,13 +1630,14 @@
                <dateline><lb/> <date from="1862-10-13" to="1862-10-18"> For the Week ending <choice><abbr>Oct</abbr><expan>October</expan></choice> 18th 
                   <add place="below">1862</add> </date>
                 </dateline>
-               <p>  <figure rend="link">
+               <p>  <figure rend="embed">
                   <head>Dateline Breaks</head>
-                  <graphic url="https://images.asc.ohio-state.edu/is/image/englishdocsr?layer=0&amp;size=540,180&amp;layer=1&amp;src=is{mediamanager/f/fc956be0-a581-4b3a-99ba-ff9f6f077270.jpg?scale=0.3&amp;rgn=300,360,540,120&amp;fmt=png}&amp;posN=0,-.25&amp;layer=2&amp;size=540,120&amp;text=\vertalt\cf1\qc\fs22\%20Dateline Breaks&amp;posN=0,.5"/>
+                  <graphic url="https://images.asc.ohio-state.edu/is/image/englishdocs/f/fc956be0-a581-4b3a-99ba-ff9f6f077270.jpg?scale=0.3&amp;rgn=300,360,540,120&amp;fmt=png"/>
                   <figDesc>
                      Manuscript detail
                   </figDesc>
                </figure>
+                  
                   
                   <lb/>This week we first Drove <choice><sic>Buisness</sic><corr>Business</corr></choice> right
                   <lb/> through all the week we made 550 &#188; gallons
