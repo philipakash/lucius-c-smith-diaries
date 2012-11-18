@@ -1803,7 +1803,7 @@
                      <expan>November</expan>
                   </choice> 16 1862</date></dateline>
             <p>
-               Today did not clean up as useal
+               <lb/>Today did not clean up as useal
             </p>
             <p>
                <lb/>Lai<del rend="overstrike">e</del>d arround Butifull Day
@@ -1814,6 +1814,10 @@
                <lb/>all the wells in the county are out 
                <lb/>or low. Old <persName>aunt Peggy Smith</persName>
                <lb/>Wednesday night. <hi rend="underlined">Died</hi>
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>
             </p>
          </div>
          <pb facs="/f/f8c02e2c-7581-4dbf-94d7-a8a13c0790a4"/>
@@ -1968,6 +1972,7 @@
                <lb/>an this year we will be more <unclear cert="medium">caucious</unclear>
                <lb/>and perhaps with the tax Law.
                <lb/>and Be better prepaired to meet It.
+               <lb/>
             </p>
             <pb facs="/6/609682d8-a61d-41e8-b645-985780a41a50"/>
          </div>
@@ -1978,13 +1983,13 @@
                <lb/>Montgomery</persName> came to stay over Sunday
                <lb/>withe us on Her Road Home
                <lb/><persName>John Evans</persName> and <persName>Wife</persName> are Hear.
-               <lb/>nice <choice><sic>prety</sic><corr>pretty</corr></choice> day staid Home all day.
+               <lb/>nice <choice><sic>prety</sic><corr>pretty</corr></choice> day staid Home all
+               <lb/>day.
             </p>
          </div>
          <div xml:id="LCS18621206" type="Entry">
-            <dateline><date from="1862-11-30" to="1862-12-06"><lb/>For the Week Ending<lb/>Sat Novem 6<hi rend="super">th</hi> 1862</date></dateline>
-            <p>
-               <lb/>Monday morning went to 
+            <dateline><date from="1862-11-30" to="1862-12-06"><lb/>For the Week Ending<lb/>Sat Novem
+               <lb/>6<hi rend="super">th</hi> 1862</date></dateline><p> Monday morning went to 
                <lb/>Columbus with <persName>Dennis Strait</persName> and
                <lb/>Back the same Day. Done nothing
                <lb/><choice><sic>mutch</sic><corr>much</corr></choice> all the week <choice><sic>setled</sic><corr>settled</corr></choice> up with
@@ -2000,7 +2005,7 @@
                <lb/>of coarse Boots of <unclear cert="low">monide</unclear> cleaned up
                <pb facs="/d/dab08f76-d3b6-41ef-a3fe-eddbf5175cce"/>
                <lb/>A Lot of Cane seed I Have a nice
-               <lb/>Lot of It and <hi rend="underline">good</hi>. <unclear cert="high">Boys</unclear>
+               <lb/>Lot of It and <hi rend="underline">good</hi>. <unclear cert="high">Boys</unclear> Husked
                <lb/>some corn most to cold and dry.
                <lb/>nice Weathe<supplied reason="omitted" resp="ed">r</supplied> all week first part
                <lb/>clear and quite warm Last part cold 
