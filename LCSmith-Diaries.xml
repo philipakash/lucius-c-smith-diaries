@@ -75,7 +75,7 @@
                   Library of The Ohio State University Libraries. Any use of the material should
                   acknowledge such ownership.</p>
                <p xml:id="CreativeCommons">
-                  <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0  License</a>.<br/>
+                  <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons./images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0  License</a>.<br/>
                   This license does not transfer any rights regarding material used in the edition by permission of a third party.]]>
                </p>
             </availability>
@@ -255,20 +255,6 @@
                         add here? -->
                   </note>
                </person>
-               <!-- I'm encoding John L. Gill inside this comment for now, but I think the "John L. Gill" in the text should be encoded
-               as an organization for "John L. Gill and Sons," especially as I've found that it seems to be a mis-referece to the Franklin
-               Foundry. 
-               <person xml:id="JLGill">
-                  <persName>Gill, John L.</persName>
-                  <note type="biographical">
-                     John L. Gill was a "Tinner," living in Ward 2 of Columbus in 1860. However humble his occupation might
-                     sound, however, Gill's net worth was in excess of $163,000 at the time of the 1863 census. He was one
-                     of the founders of the Franklin Foundry and took over sole operation in 1852, associating the business
-                     with his son, John L. Gill, Jr., in 1857. The 
-                  [ALSO need to put in Biblio note for both 1860 census for Ward 2 Columbus AND History of Franklin County. Also, look up relation to dude in Cleveland.]   
-                  </note>
-               </person>
-               -->
                <person xml:id="GCollins">
                   <persName>Collins, Gilbert</persName>
                   <birth when="1831" precision="medium"><placeName evidence="external">Essex county, NJ</placeName></birth>
@@ -480,6 +466,32 @@
             
             <listOrg>
                <head>List of Organizations Mentioned in Lucius Smith's Diary</head>
+              <org xml:id="JLGS">
+                 <orgName>John L. Gill and Son</orgName>
+                 <state type="company">
+                    <desc>
+                       <!--- Not sure what goes here... will check with Louis on Monday -->
+                    </desc>
+                 </state>
+                 <!-- Does this region thingie need a placeName tag? -->
+                 <region>Columbus, OH</region>
+                 <desc>Smith's mention of purchasing a cane mill from "John L. Gill and son" carries
+                 a double valence in the context of this work. On the one hand, John L. Gill was a founding
+                 member of the Franklin Foundry and, by 1852, was it's sole owner-operator. In 1857, he
+                 associated his son - John L. Gill, Jr. - with the business and it took the name by which
+                 Smith refers to it. However, while the Foundry was a major supplier of cast metal for the
+                 surrounding farmland, John L. Gill was also known as a sorghum producer, being mentioned as
+                 a producer of sugar in the first "Report of the Commissioner of Agriculture" to Congress in 1862.
+                 Further, "John L. Gill" is cited with authority by both the Ohio State Department of Agriculture
+                 and by Quaker scientist John L. Gould on the topic of sorghum production. Nor is it likely that
+                 John L. Gill, Senior or Junior, were slow to capitalize on their joint endevour of metal founding
+                 and sorghum production. A diagram of "Gill's Vertical Mill (for 2 Horses)" - likely a similar model
+                 to the one Smith purchases - appears in Gould's "Report on Sorghum and Sugar Beet Culture." Meanwhile,
+                 John L. Gill, Jr., in his role as Secretary of the State Sorghum Convention, felt the need to personally
+                 respond to criticisms "that most of the time of the convention was occupied by the inventors, manufacturers
+                 and agents of Mills &amp; Evaporators, and was made an advertising medium [for them]."</desc>
+                 <!-- I probably need some bibliographic info here for those cites, don't I? -->
+              </org>
                <!-- 
                   The listing for Fosters and Nickerson serves only as an example of what you can
                   encode in an <org> element. I have not yet run across a organization in the Smith
