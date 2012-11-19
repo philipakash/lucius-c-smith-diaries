@@ -203,8 +203,10 @@
             <h2>Appendices</h2>            
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPerson"/>
+            <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listOrg"></xsl:apply-templates>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPlace"/>
+            <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listEvent"></xsl:apply-templates>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:revisionDesc"/>
             <hr/>
             <p>
@@ -321,6 +323,18 @@
       </xsl:for-each>
    </xsl:template>
    
+   <xsl:template match="tei:listOrg">
+      <a name="OrganizationsMentioned"/>
+      <h3>List of Organizations Mentioned in Lucius Smith's Diary</h3>
+      <xsl:for-each select="tei:org">
+         <xsl:sort select="tei:orgName[1]"/>
+         <p>
+            <strong><xsl:value-of select="tei:orgName"/></strong>:
+            <xsl:apply-templates select="tei:desc"/>
+         </p>
+      </xsl:for-each>
+   </xsl:template>
+   
    <xsl:template match="tei:listPerson[@type='editors']"/>
    
    <xsl:template match="tei:listPlace">
@@ -339,6 +353,18 @@
             <xsl:if test="tei:location/tei:geo"> (Lat/Long: 
                <xsl:value-of select="tei:location/tei:geo"/>)</xsl:if>. 
             <xsl:value-of select="tei:desc"/>
+         </p>
+      </xsl:for-each>
+   </xsl:template>
+
+   <xsl:template match="tei:listEvent">
+      <a name="OrganizationsMentioned"/>
+      <h3>List of Notable Events Mentioned in Lucius Smith's Diary</h3>
+      <xsl:for-each select="tei:event">
+         <xsl:sort select="tei:event[1]/@when"/>
+         <p>
+            <strong><xsl:value-of select="tei:label"/></strong>:
+            <xsl:apply-templates select="tei:desc"/>
          </p>
       </xsl:for-each>
    </xsl:template>
