@@ -404,21 +404,21 @@
                   <bibl><ref target="#Ancestry1860">"1860 United States Federal Census"</ref>; <ref target="#FindaGrave74277136">"Thornton E B Wells"</ref></bibl>
                </person>
                <person xml:id="WellsE">
-                  <persName>Eliza Wells (nee Beach)</persName>
+                  <persName>Wells, Eliza (nee Beach)</persName>
                   <note type="biographical">Lucius Clark Smith's aunt, the sister of his mother, married to Thornton Wells, mother to son of the same name.  A frequent visitor the Smith household in Albany, particularly on her way to and from Columbus.  She also hosted Lucius at her home in Liberty (Licking County) on numerous occassions.</note>
                   <birth when="1804"></birth>
                   <death notBefore="1880"></death>
                   <bibl><ref target="Ancestry1880">"1880 United States Federal Census"</ref></bibl>
                </person>
                <person xml:id="SmithHom">
-                  <persName>Archibald Homer Smith</persName>
+                  <persName>Smith, Archibald Homer</persName>
                   <note type="biographical">Referred to as "Homer," Archibald Homer Smith is Lucius Clark Smith's brother.  Homer helped Lucius in setting up the mill and doing work around the property.  Lucius also mentions engaging in social activities, such as hunting, with Homer.</note>
                   <birth when="1851"></birth>
                   <death notBefore="1880"></death>
                   <bibl><ref target="Ancestry1880">"1880 United States Federal Census</ref></bibl>
                </person>
                <person xml:id="EvansReece">
-                  <persName>Rowland "Reece" Evans</persName><persName>Rowland "Roll" Evans</persName>
+                  <persName>Evans, Rowland "Reece"</persName><persName>Rowland "Roll" Evans</persName>
                   <note type="biographical">Census records indicate that there were two Rowland Evans residing in Albany in the 1860s, possibly a nephew and uncle duo.  Presumably one of them was referred to as “Reece” and the other as “Roll,” but it remains unclear which was which.</note>
                   <bibl><ref target="Ancestry1860">"1860 United States Federal Census</ref></bibl>
                </person>
@@ -438,6 +438,13 @@
                   <occupation>College Professor</occupation>
                   <nationality>U.S.A.</nationality>
                   <note type="biographical">Biographical note about H. Lewis Ulman</note>
+               </person>
+               <person xml:id="EJA">
+                  <persName>Arendt, Emily J.</persName>
+                  <education>BA, University of Wyoming (2007)</education>
+                  <education>MA, University of Wyoming (2009)</education>
+                  <education>PhD Candidate, The Ohio State University (expected 2014)</education>
+                  <note type="biographical">Emily J. Arendt is currently a PhD Candidate in history at The Ohio State University specializing in Early America and gender history.  Her dissertation, tentatively titled “Affairs of State, Affairs of Home: Paternalism in Empire, Republic, and Family,” examines the relationship between political and family governance from roughly the American Revolution through the American Civil War.  She also serves as an editorial assistant for <title>Frontiers: A Journal of Women Studies</title>.</note>
                </person>
             </listPerson>
             
@@ -559,9 +566,9 @@
                <bibl xml:id="Ancestry1840" n="1840">"1840 United States Federal Census." <title level="m">Ancestry.com</title>. 2009. Web. 29 October 2012.</bibl>
                <bibl xml:id="FindaGrave25957529" n="Pvt">"Pvt Gilbert George Collins." <title level="m">Findagrave.com</title>. 2008. Web. 29 October 2012.</bibl>
                <bibl xml:id="DraftRecord1863" n="DR63">"US Civil War Draft Registrations Record, 1863-1865". <title level="m">Ancestry.com</title>. 2010. Web. 4 November 2012.</bibl>
-               <bibl xml:id="evangelist" n="evangelist"><title level="j">"The Boy who Had 'Fits'."</title> New York Evangelist 21 June 1855: 100.</bibl>
+               <bibl xml:id="evangelist" n="boy"><title level="j">"The Boy who Had 'Fits'."</title> New York Evangelist 21 June 1855: 100.</bibl>
                <bibl xml:id="medical" n="Wilks">Dr. Wilks <title level="j">"Cases of Epilepsy with Clinical Remarks on the Use of Bromide and Iodide of Potassium in that Disease."</title> Medical News February 1862: 25.</bibl>
-               <bibl xml:id="OhioMedical" n="Ohio"> <title level="j">"Westminster Hospital.--Epilepsy for thirty-two years..."</title>The Ohio Medical and Surgical Journal 1 May 1859: 392.</bibl>
+               <bibl xml:id="OhioMedical" n="Westminster"> <title level="j">"Westminster Hospital.--Epilepsy for thirty-two years..."</title>The Ohio Medical and Surgical Journal 1 May 1859: 392.</bibl>
             </listBibl>              
          </sourceDesc>
 
