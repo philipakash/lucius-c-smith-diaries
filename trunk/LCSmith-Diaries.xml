@@ -1955,7 +1955,7 @@
             </p>
          </div>
          <div xml:id="LCS18621125" type="Entry">
-            <dateline><date when="1862-11-25">Tues 25 Nov 1862</date></dateline>
+            <lb/><dateline><date when="1862-11-25">Tues 25 Nov 1862</date></dateline>
             <p>
                <lb/>To day got my gun a double Barreled
                <lb/>shot gun and fixed for the Hunt
@@ -1964,7 +1964,7 @@
             <pb facs="/6/69be51f2-7c17-42f5-91f2-c6a064475731"/>
          </div>
          <div xml:id="LCS18621126" type="Entry">
-            <dateline><date when="1862-11-26">Wednsday 26<hi rend="super">th</hi> November 1862</date></dateline>
+            <lb/><dateline><date when="1862-11-26">Wednsday 26<hi rend="super">th</hi> November 1862</date></dateline>
             <p>
                <lb/>Snowed most all day and cold the
                <lb/>Meanest Kind of a Day. Our Hunt went
@@ -2020,7 +2020,7 @@
             <pb facs="/6/609682d8-a61d-41e8-b645-985780a41a50"/>
          </div>
          <div xml:id="LCS18621130" type="Entry">
-            <dateline><date when="1862-11-30">Sunday 30 November 1862</date></dateline>
+            <lb/><dateline><date when="1862-11-30">Sunday 30 November 1862</date></dateline>
             <p>
                <lb/>Yesterday <persName>Misses
                <lb/>Montgomery</persName> came to stay over Sunday
@@ -2031,13 +2031,30 @@
             </p>
          </div>
          <div xml:id="LCS18621206" type="Entry">
-            <dateline><date from="1862-11-30" to="1862-12-06"><lb/>For the Week Ending<lb/>Sat Novem
+            <dateline><date from="1862-11-30" to="1862-12-06"><lb/>For the Week Ending<lb/>Sat 
+               <!-- Lewis, this  SHOULD be valid, as choice does allow self-nesting, but oXygen is
+                  choking on it.... Is there a problem with our .odd file?
+               <choice>
+                     <sic>
+                        <choice>
+                           <abbr>Novem</abbr>
+                           <expand>November</expand>
+                        </choice>
+                     </sic>
+                     <corr>
+                        <choice>
+                           <abbr>Decem</abbr>
+                           <expand>December</expand>
+                        </choice>
+                     </corr>
+                  </choice>
+                  -->
                <lb/>6<hi rend="super">th</hi> 1862</date></dateline><p> Monday morning went to 
-               <lb/>Columbus with <persName>Dennis Strait</persName> and
+               <lb/><placeName>Columbus</placeName> with <persName>Dennis Strait</persName> and
                <lb/>Back the same Day. Done nothing
                <lb/><choice><sic>mutch</sic><corr>much</corr></choice> all the week <choice><sic>setled</sic><corr>settled</corr></choice> up with
-               <lb/>all that I could <choice><sic>Farther</sic><corr>Father</corr></choice> &amp; Mother and 
-               <lb/>Newton went to Columbus I sent in the
+                  <lb/>all that I could <rs type="familial" ref="SmithArch"><choice><sic>Farther</sic><corr>Father</corr></choice></rs> &amp; <rs type="familial">Mother</rs> and 
+               <lb/><persName>Newton</persName> went to Columbus I sent in the
                <lb/>pay for my new mill $88<hi rend="underline">00</hi> I Have
                <lb/>Squared up with most all my Debts
                <lb/>and Have some $80.00 left yet.
@@ -2080,10 +2097,7 @@
                <lb/>went to see some old Friends of when I use<supplied reason="omitted" resp="ed">d</supplied>
                <lb/>to go to school <hi rend="underline">there</hi>
             </p>
-         
-         <!-- Questions for class:
-            - What about a flourish under the date? Does it even matter?
-         -->
+    
          <!-- End the Section Misha is working on here.
          -->
          <!-- 
