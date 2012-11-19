@@ -554,11 +554,10 @@
                <bibl xml:id="VeteransSchedule1890" n="1890">"1890 Veterans Schedules". <title level="m">Ancestry.com</title>. 2005. Web. 25 October 2012.</bibl>
                <bibl xml:id="Ancestry1900" n="1900">"1900 United States Federal Census". <title level="m">Ancestry.com</title>. 2004. Web. 24 October 2012</bibl>
                <bibl xml:id="BEO19thcentury" n="BEO">"Collins, Gilbert G." <title level="m">The Biographical Encyclopedia of Ohio of the Nineteenth Century.</title>
-                  Cincinnati and Philadelphia: Galaxy Publishing Company, 1876. <title level="s">Making of America.</title> Web. 27 October 2012
+                  Cincinnati and Philadelphia: Galaxy Publishing Company, 1876. <title level="s">Making of America.</title> Web. 27 October 2012. </bibl>
                <bibl xml:id="Ancestry1850" n="1850">"1850 United States Federal Census." <title level="m">Ancestry.com</title>. 2009.  Web.  28 October 2012.</bibl>
                <bibl xml:id="Ancestry1840" n="1840">"1840 United States Federal Census." <title level="m">Ancestry.com</title>. 2009. Web. 29 October 2012.</bibl>
                <bibl xml:id="FindaGrave25957529" n="FindaGrave">"Pvt Gilbert George Collins." <title level="m">Findagrave.com</title>. 2008. Web. 29 October 2012.</bibl>
-              </bibl>
                <bibl xml:id="DraftRecord1863" n="DR63">"US Civil War Draft Registrations Record, 1863-1865". <title level="m">Ancestry.com</title>. 2010. Web. 4 November 2012.</bibl>
                <bibl xml:id="evangelist" n="evangelist"><title level="j">"The Boy who Had 'Fits'."</title> New York Evangelist 21 June 1855: 100.</bibl>
                <bibl xml:id="medical" n="Wilks">Dr. Wilks <title level="j">"Cases of Epilepsy with Clinical Remarks on the Use of Bromide and Iodide of Potassium in that Disease."</title> Medical News February 1862: 25.</bibl>
@@ -969,8 +968,8 @@
       <lb/>We Have Had a nice rain went over
       <lb/>to see <persName>John Dague</persName> about Digging my
       <lb/>well as He promised to do it But
-      <lb/>the cite to get Him to do it is very
-      <lb/>slim very pleasant day
+         <lb/>the cite to get Him to do it is <choice><sic>verry</sic><corr>very</corr></choice>
+         <lb/>slim <choice><sic>verry</sic><corr>very</corr></choice> pleasant day
       <lb/> But <choice><sic>awfull</sic><corr>awful</corr></choice> Lonesome
    </p>
 </div>         
@@ -994,7 +993,7 @@
                <lb/><time>Afternoon</time> Hawled a load of wood to 
                <lb/><placeName>Albany</placeName> for <rs type="familial" ref="SmithArch">Dad</rs> and Hawled up a 
                <lb/>load of saw Dust and put it in my
-               <lb/>new cane <choice><sic>Hous</sic><corr>House</corr></choice>for the party <choice><sic>tomorow</sic><expan>tomorrow</expan></choice>
+               <lb/>new cane <choice><sic>Hous</sic><corr>House</corr></choice>for the party <choice><sic>tomorow</sic><corr>tomorrow</corr></choice>
                <!--John transcribed this as cane hans. Given the context and other references in the diary I stuck with my original reading of cane house-->
                <lb/>night fixed up seats and arranged things
                <lb/><persName>Newton</persName> &amp; <rs type="familial" ref="SmithArch">Dad</rs> made a <choice><orig><distinct type="archaic_orthography" time="15-16">sinck</distinct></orig><reg source="OED">sink</reg></choice> and spout
@@ -1017,7 +1016,7 @@
                <lb/>people several thousand <time><choice><sic>Eavning</sic><corr>Evening</corr></choice></time> <choice><sic>riged</sic><corr>rigged</corr></choice>
                <lb/>up the cane House with lights I put up 
                <lb/>three Coal oil Lamp on the Beams and 
-               <lb/>It made it very light and nice there was a 
+               <lb/>It made it <choice><sic>verry</sic><corr>very</corr></choice> light and nice there was a 
                <lb/>large turnout over a Hundred and we
                <lb/>Had a right good party as to the place <choice><orig><distinct type="archaic_orthography" time="16-16">arround</distinct></orig><reg source="OED">around</reg></choice>
                <lb/>It was a perfect love of a place for a 
@@ -1086,7 +1085,7 @@
                <lb/>up my well made a platform
                <lb/>got out a pump stick Helped <persName>Bill
                <lb/>More</persName> make the pump and put it in
-               <lb/>It works very well and looks very well
+               <lb/>It works <choice><sic>verry</sic><corr>very</corr></choice> well and looks <choice><sic>verry</sic><corr>very</corr></choice> well
                <lb/>It cost me $6.7<unclear cert="low">8</unclear> as follows 28 ft at 20 cts
                <lb/>per foot = 5.60 <unclear cert="low">Irons</unclear>60 <persName>John</persName> to Help
                <lb/>bore 3<del rend="overstrike">6</del>1 &#xbc; work <del rend="overstrike">I done and it back</del>Leather
