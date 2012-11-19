@@ -451,6 +451,21 @@
                   <location><geo>40.0667 -82.8000</geo></location>
                </place>
                
+               <place type="city" xml:id="Cincinnati" source="#TGN">
+                  <placeName>Cincinnati</placeName>
+                  <country>United States</country>
+                  <region type="state">Ohio</region>
+                  <desc>Several times throughout September, Smith mentions Cincinnati in reference to the events transpiring
+                  there. On the week ending September 6th, Smith mentions that the Rebels under General Smith are advancing 
+                  onto the city and that it has been put under martial law, along with neighboring towns. On the 12th, he
+                  writes that thousands of people are going to Cincinnati to defend it, taking theirs guns, etc., and that 
+                  the governor is already refusing people. Finally, on the week ending September 20th, Smith writes that
+                  Cincinnati has been saved after "some of the severest fiting of the war." The trajectory of these events 
+                  describe what has come to be known as the Defense of Cincinnati, about which the Editorial Introduction 
+                  includes additional information.</desc>
+                  <location><geo>39.1500 -84.4500</geo></location>
+               </place>
+               
                <place type="city" xml:id="Columbus" source="#TGN">
                   <placeName>Columbus</placeName>
                   <country>United States</country>
