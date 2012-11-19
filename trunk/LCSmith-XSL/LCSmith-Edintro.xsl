@@ -38,7 +38,7 @@
             </title>
             <style>
                body {
-                   font-family: Verdana, Arial, Helvetica, sans-serif;
+                   font-family: 'Fanwood Text',georgia, serif;
                    font-size: 1em;
                    margin: 25px;
                    width: 800px;
@@ -88,10 +88,6 @@
                    font-size: 1.25em;
                    font-style: italic;                    
                }
-               p {
-                   font-family:
-                   Verdana, Arial, Helvetica, sans-serif;                    
-               }
                hr {
                    clear: right;
                }
@@ -135,32 +131,45 @@
                     
                }
             </style>
+            
+            <!--FONTS-->
+            <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>
+            <link href='http://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'/>
+            
          </head>
          <body>
             <div class="masthead">
                <div class="mastheadl">
                   <p>
-                     <a href="LCSmithReading.html"
-                        title="Link to the reading text of the letters.">Reading Text</a> &#xa4;<br/>
-                     <a href="#source">The Source Document</a><br/>
-                     <a href="#edition">The Electronic Edition</a><br/>
-                     <a href="#revision">Revision History</a><br/>
+                     <a href="LCSmithReading.html" title="Reading Text of the
+                        Smith Diaries">Reading Text</a><br/>
+                     <a href="LCSmithDiplomatic.html" title="Diplomatic View of the
+                        Smith Diaries">Diplomatic View</a><br/>
+                     <a href="LCSmithCombined.html" title="Side-by-side view of
+                        page images and diplomatic transcription">Facsimile/Text View</a><br/>
+                     <a
+                        href="http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/default.cfm"
+                        title="Background information about the project.">Project Web Site</a><br/>
+                     <a href="#view">About this Page</a>
                   </p>
                </div>
-               <div class="mastheadc"><img src="https://images.asc.ohio-state.edu/is/image/englishdocs/1/1d1e448a-6a1f-4096-9acb-bf07c5b6cc50.jpg?scale=0.2&amp;rgn=60,60,100,100&amp;fmt=png" alt="Stationery Logo for Alaska Steamship Company" name="Logo" height="90" id="Logo" />&#xA0;&#xA0;<img src="https://images.asc.ohio-state.edu/is/image/englishdocs/5/55a80091-d3ab-4cd6-a24b-75684d1f6a71.jpg?scale=0.2&amp;rgn=340,40,220,90&amp;fmt=png" alt="Postage cancel from Seattle World's Fair" name="Cancel" id="Cancel" /><img src="https://images.asc.ohio-state.edu/is/image/englishdocs/9/93100908-de33-4b45-b71f-5899daaae7cc.jpg?scale=0.2&amp;rgn=220,44,190,100&amp;fmt=png" alt="Image of cancellation on envelope" name="Cancel2" height="90" id="Cancel2" /> </div>
+               <div class="mastheadc">
+                  <img src="https://images.asc.ohio-state.edu/is/image/englishdocs/1/1b4c862c-36e6-4189-8825-d5972bedfc1e.jpg?scale=0.2&amp;rgn=0,0,120,146&amp;fmt=png" height="100" alt="Portrait of Lucius C. Clark"/>&#xA0;&#xA0;<img
+                     src="https://images.asc.ohio-state.edu/is/image/englishdocs/d/d64bea81-daaf-41cc-975b-88bdfe839567.jpg?scale=0.2&amp;rgn=200,380,250,100&amp;fmt=png"
+                     alt="Manuscript detail" name="MSDetail" id="MSDetail"/>&#xA0;&#xA0;<img src="https://images.asc.ohio-state.edu/is/image/englishdocs/0/0ca173b2-3165-4fdf-babc-895c20be69f9.jpg?scale=0.1&amp;rgn=0,0,210,150&amp;fmt=png" width="150" alt="Open book"/>
+               </div>
                <div class="mastheadr"> 
                   <p>
-                     <a href="#PeopleMentioned" 
-                        title="List of people mentioned in the diary.">People Mentioned</a><br/>
-                     <a href="#PlacesMentioned"
-                        title="List of places mentioned in the diary.">Places Mentioned</a><br/>
-                     <a href="#WorksCited" 
-                        title="List of works cited in explanatory annotations and editorial introduction.">Works Cited
-                     </a><br/>
-                     <a href="#view">About this page</a><br/>
+                     <a href="LCSmithEdIntro.html" title="Editorial Introduction
+                        to the Lucius Clark Smith Diaries">Editorial Intro</a><br/>
                      <a
-                        href="http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/default.cfm">Project
-                     Home Page</a>
+                        href="LCSmithEdIntro.html#PeopleMentioned" 
+                        title="List of people mentioned in the diaries."
+                        target="_blank">People Mentioned</a><br />
+                     <a href="LCSmithEdIntro.html#PlacesMentioned"
+                        title="List of places mentioned in the diaries.">Places Mentioned</a><br />
+                     <a href="LCSmithEdIntro.html#WorksCited" 
+                        title="List of works cited in explanatory annotations and editorial introduction.">Works Cited</a>
                   </p>
                </div>
             </div>
