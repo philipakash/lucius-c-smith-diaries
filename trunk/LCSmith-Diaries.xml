@@ -1807,15 +1807,15 @@
                <lb/>785 gallans molofses. we Boil untill Bed
                <lb/>time each night and some of the time untill
                   <lb/>10 oclock. Hire <choice><sic>extry</sic><corr>extra</corr></choice> Hands to grind
-               <lb/>Half of the night <unclear cert="low">cumevee</unclear> Bailing by day
-               <lb/>light. <persName ref="#WellsT">Thornton Wills</persName> Helped me this
-               <lb/>week. some <unclear cert="low">slats</unclear> of cane that was froze
+               <lb/>Half of the night <choice><sic>comence</sic><corr>commence</corr></choice> Boiling by day
+               <lb/>light. <persName ref="#WellsT">Thornton Wells</persName> Helped me this
+               <lb/>week. some lots of cane that was froze
                <lb/><del rend="overstrike">a</del> before cutting soured this week
-               <lb/>Had some very cold Blustry wether.
+               <lb/>Had some very cold <choice><sic>Blustry</sic><corr>blustery</corr></choice> <choice><sic>wether</sic><corr>weather</corr></choice>.
             </p>
             <p>
                <lb/>. Made one day from morning untill
-               <lb/>15 minutes to ten oclock <unclear cert="medium">152</unclear> gallons
+               <lb/>15 minutes to ten oclock 152 gallons
                <lb/>and we was on no Race worked 
                <lb/>as usual.
                <lb/>
@@ -1898,20 +1898,29 @@
             <pb facs="/6/653e197a-b646-4d42-b981-c2f435919dc0"/>
             <p>
                <lb/>Went to pass from one stall to the other
-               <lb/>the dividing stick &amp; scantling Being about 
+               <lb/>the dividing stick or scantling Being about 
                <lb/>four feet High or Higher perhaps a <choice><sic>litle</sic><corr>little</corr></choice>
                <lb/>she got part way and tried to Raise up
-               <lb/>and I suppose Has <unclear cert="high">sprained</unclear> Her Back
+               <lb/>and I suppose Has sprained Her Back
                <lb/>as she cannot get up by all the Help
                <lb/>we can raise Hind parts <choice><sic>Halpless</sic></choice>,
-               <lb/>John saw her go under and took Her and
-               <lb/>By loos<supplied reason="omitted" resp="ed">e</supplied>ning the stick. sad night some
+               <lb/>John saw her go under and took Her out
+               <lb/>By loos<supplied reason="omitted" resp="ed">e</supplied>ning the stick. sat night <choice><sic>sone</sic><corr>some</corr></choice>
+               <!-- HLU, it looks like the XSL is inserting a space along with the "supplied" bits... -->
                <lb/>15 or 20 of us met at the Cane House and
                <lb/>chose up for a Squirel Hunt myself and
                <lb/><persName>Reese Eavens</persName> Chose up the side failing
                <lb/>to produce as many scalps as the othe<supplied reason="omitted" resp="ed">r</supplied> are to
-               <lb/>treat to cigars ap<supplied reason="omitted" resp="ed">p</supplied>les &amp; cider Next
-               <lb/>Wednsday is the day set.
+               <lb/>treat to cigars 
+                  <choice>
+                     <sic>aples &amp;</sic>
+                     <corr>&amp; apple</corr>
+                  </choice> cider Next
+               <lb/>
+               <choice>
+                  <sic>Wednsday</sic>
+                  <corr>Wednesday</corr>
+               </choice> is the day set.
             </p>
          </div>
          <div xml:id="LCS18621123" type="Entry">
@@ -1921,7 +1930,7 @@
                <lb/>Horse Doctor about the old mare He
                <lb/>said I might Just well Kill Her first
                <lb/>as last so I came Home and
-               <lb/>shot Her. <persName><unclear cert="medium">Hirum</unclear> Smith</persName> came
+               <lb/>shot Her. <persName>Hiram Smith</persName> came
                <lb/>Home last night pleasant Day
             </p>
             <pb facs="/b/bcd05101-939c-497d-822b-dd7bb5a12b96"/>
@@ -1929,14 +1938,23 @@
          <div xml:id="LCS18621124" type="Entry">
             <lb/><dateline><date when="1862-11-24">Monday 24 November 1862</date></dateline>
             <p>
-               <lb/>Morning <choice><sic>Hawled</sic><corr>hauled</corr></choice>
-               <lb/><unclear cert="low">the</unclear> old mare away and cut Her open on
+               <lb/>Morning 
+                  <choice>
+                     <sic>Hawled</sic>
+                     <corr>hauled</corr>
+                  </choice>
+               <lb/>the old mare away and cut Her open on
                <lb/>the Back and found Her Back Broken the
-               <lb/>small Ridge Bone Just inside the skin,fir
-               <lb/>It was Brok<supplied reason="omitted" resp="ed">e</supplied> about two inches from
+               <lb/>small Ridge Bone Just inside the skin the
+               <lb/>It was 
+                  <choice>
+                     <sic>Brok</sic>
+                     <corr>broken</corr>
+                  </choice> 
+                  about two inches from   
                <lb/>the End at the Hips toward the Head.
                <lb/>I am very sorry for the old mare as I have 
-               <lb/>taken <choice><sic>extry</sic><corr>extra</corr></choice> care of Her Because <persName ref="#GrovenberyG"><unclear cert="low">Garret</unclear></persName>
+               <lb/>taken <choice><sic>extry</sic><corr>extra</corr></choice> care of Her Because <persName ref="#GrovenberyG">Garret</persName>
                <lb/>thought a great deal of Her. she was in
                <lb/>first rate order <choice><sic>ni</sic><corr>in</corr></choice> fact fat. But
                <lb/>so it is. fixed <choice><sic>arround</sic><corr>around</corr></choice> at my cane
@@ -1947,8 +1965,8 @@
             </p>
             <p>
                <lb/><persName>Aunt Eliza</persName> and <persName>Thorton</persName> came down with
-               <lb/>a <persName>Misses Montgomery</persName> a sister of <persName>uncle <unclear cert="high">Dave
-               <lb/>Beaches</unclear></persName> Wife. and a young man on their
+               <lb/>a <persName>Misses Montgomery</persName> a sister of <persName>uncle Dave
+               <lb/>Beaches</persName> Wife. and a young man on their
                <lb/>way to Robertses. Hawled down our <choice><sic>Bead</sic><corr>bed</corr></choice>
                <lb/>from the cane
                <lb/>House
@@ -2053,7 +2071,11 @@
                <lb/><placeName>Columbus</placeName> with <persName>Dennis Strait</persName> and
                <lb/>Back the same Day. Done nothing
                <lb/><choice><sic>mutch</sic><corr>much</corr></choice> all the week <choice><sic>setled</sic><corr>settled</corr></choice> up with
-                  <lb/>all that I could <rs type="familial" ref="SmithArch"><choice><sic>Farther</sic><corr>Father</corr></choice></rs> &amp; <rs type="familial">Mother</rs> and 
+                  <lb/>all that I could <rs type="familial" ref="SmithArch">
+                     <choice>
+                        <sic>Farther</sic>
+                        <corr>Father</corr>
+                     </choice></rs> &amp; <rs type="familial">Mother</rs> and 
                <lb/><persName>Newton</persName> went to Columbus I sent in the
                <lb/>pay for my new mill $88<hi rend="underline">00</hi> I Have
                <lb/>Squared up with most all my Debts
@@ -2321,8 +2343,8 @@
                <lb/>saw wood part of the Day Eavning turned quite
                <lb/>cold Went to <placeName>albany</placeName> and Bought a Sack of flour
                <lb/>as we are out and did not Raise Wheat enough
-               <lb/>for our own use <hi rend="underlined">poor</hi>
-               <choice><sic><hi rend="underlined">arraingment</hi></sic><corr><hi rend="underlined">arrangement</hi></corr></choice>. Dance
+               <lb/>for our own use <hi rend="underline">poor
+                  <choice><sic>arraingment</sic><corr>arrangement</corr></choice></hi>. Dance
                <lb/>to <persName>Wilkinses</persName> to night.
             </p>
          </div>
