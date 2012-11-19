@@ -513,40 +513,12 @@
                  </desc>
                  <!-- I probably need some bibliographic info here for those cites, don't I? -->
               </org>
-               <!-- 
-                  The listing for Fosters and Nickerson serves only as an example of what you can
-                  encode in an <org> element. I have not yet run across a organization in the Smith
-                  journal
-               -->
-               <org xml:id="FN">
-                  <orgName>Fosters and Nickerson</orgName>
-                  <state type="partners">
-                     <desc><persName ref="FrederickNickerson">Frederick Nickerson</persName>
-                        <persName ref="WHF">W.H. Foster</persName></desc>
-                  </state>
-                  <region>Boston, MA</region>
-                  <desc>Most likely, Louisa is referring to the parternship between the 
-                     shipbuilding company Foster and Co. and merchant company Nickerson and Co.</desc>
-               </org>
-               <org xml:id="HowAsp" source="#ANB-WHA">
-                  <orgName> Howland and Aspinwall</orgName>
-                  <state type="Owners">
-                     <desc>
-                        <persName ref="WHA" notBefore="1834" notAfter="1856">William Henry Aspinwall</persName>
-                        <persName ref="JLA" notBefore="1850">John Lloyd Aspinwall</persName>
-                        <persName ref="WEH" notBefore="1834">William Edgar Howland</persName>
-                     </desc>
-                  </state>
-               </org>
             </listOrg>
             
             <listEvent>
                <event when="1862-08-02">
+                  <label>War Meeting</label>
                   <desc>War meeting referred to in letter of 2 August 1862.</desc>
-                  <!-- 
-                  Even if we can't identify this particular meeting, we might want to find out what
-                  happened at such "war meetings."
-                  -->
                </event>
             </listEvent>
             
