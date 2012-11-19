@@ -26,4 +26,7 @@
         <xsl:value-of select="tei:orig | tei:sic"/>
     </xsl:template>
     
+    <!-- Omit canceled text. -->
+    <xsl:template match="tei:del"/>
+    
 </xsl:stylesheet>
