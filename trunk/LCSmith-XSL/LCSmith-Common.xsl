@@ -218,7 +218,7 @@
                         
             <!-- Insert, count, encode by cardinal position, and link the explanatory annotations. -->
             <hr/>
-            <h1>Explanatory Annotations</h1>
+            <h2>Explanatory Annotations</h2>
             <xsl:for-each select="//tei:body//tei:note[@resp='ed']">
                <xsl:choose>
                   <xsl:when test="position()>=100">
@@ -264,10 +264,13 @@
             </xsl:for-each>
             
             <hr/>
+            <a name="WorksCited"/>
+            <h2>List of Works Cited</h2>
+            <xsl:apply-templates
+               select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl"/>
+            <hr/>
             <!-- Describe this view of the journal. -->
-            <p>
-               <strong>About this View of the Journal</strong>
-            </p>
+            <h2>About this View of the Journal</h2>
             <p><a name="view"/><xsl:value-of select="$aboutView"/></p>
             <hr/>
             <!-- Insert link to home page, creation date, and licensing statement.-->
