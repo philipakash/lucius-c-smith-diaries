@@ -225,7 +225,7 @@
                      <p class="hang35"><a>
                         <xsl:attribute name="name">n<xsl:value-of select="@xml:id"/></xsl:attribute>
                         </a>
-                        <xsl:number count="//tei:TEI//tei:note[@resp='ed']" level="any"
+                        <xsl:number count="//tei:body//tei:note[@resp='ed']" level="any"
                         />.&#xA0;<xsl:apply-templates/>
                         <a>
                            <xsl:attribute name="href">#p<xsl:value-of select="@xml:id"/></xsl:attribute>
@@ -238,7 +238,7 @@
                      <p class="hang25"><a>
                         <xsl:attribute name="name">n<xsl:value-of select="@xml:id"/></xsl:attribute>
                         </a>
-                        <xsl:number count="//tei:TEI//tei:note[@resp='ed']" level="any"
+                        <xsl:number count="//tei:body//tei:note[@resp='ed']" level="any"
                         />.&#xA0;<xsl:apply-templates/>
                         <a>
                            <xsl:attribute name="href">#p<xsl:value-of select="@xml:id"/></xsl:attribute>
@@ -251,7 +251,7 @@
                      <p class="hang15"><a>
                            <xsl:attribute name="name">n<xsl:value-of select="@xml:id"/></xsl:attribute>
                         </a>
-                        <xsl:number count="//tei:TEI//tei:note[@resp='ed']" level="any"/>.&#xA0;<xsl:apply-templates/>
+                        <xsl:number count="//tei:body//tei:note[@resp='ed']" level="any"/>.&#xA0;<xsl:apply-templates/>
                         <a>
                            <xsl:attribute name="href">#p<xsl:value-of select="@xml:id"/></xsl:attribute>
                            <xsl:attribute name="class">annotation</xsl:attribute>
@@ -352,6 +352,7 @@
    </xsl:template>
    <xsl:template match="tei:note[@type='introductory']//tei:bibl">(<xsl:apply-templates/>)</xsl:template>
    <xsl:template match="tei:note[@resp='ed']//tei:bibl">(<xsl:apply-templates/>)</xsl:template>
+   <xsl:template match="tei:ref"><xsl:apply-templates/></xsl:template>
    <xsl:template match="tei:title[@level='a']">"<xsl:apply-templates/>"</xsl:template>
    <xsl:template match="tei:title[@level='m']">
       <cite>
@@ -505,18 +506,4 @@
          <xsl:value-of select="tei:head"/>
       </a>]. </xsl:template>
 
-   <xsl:template match="tei:figure[@rend='embed']">
-      <div class="fl_img_right">
-         <img>
-            <xsl:attribute name="src">
-               <xsl:value-of select="tei:graphic/@url"/>
-            </xsl:attribute>
-            <xsl:attribute name="alt">
-               <xsl:value-of select="tei:figDesc"/>
-            </xsl:attribute>
-         </img>
-         <br/>
-         <xsl:value-of select="tei:head"/>
-      </div>
-   </xsl:template>
 </xsl:stylesheet>
