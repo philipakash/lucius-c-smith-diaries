@@ -2022,23 +2022,20 @@
          </div>
          <div xml:id="LCS18621206" type="Entry">
             <dateline><date from="1862-11-30" to="1862-12-06"><lb/>For the Week Ending<lb/>Sat 
-               <!-- Lewis, this  SHOULD be valid, as choice does allow self-nesting, but oXygen is
-                  choking on it.... Is there a problem with our .odd file?
                <choice>
                      <sic>
                         <choice>
                            <abbr>Novem</abbr>
-                           <expand>November</expand>
+                           <expan>November</expan>
                         </choice>
                      </sic>
                      <corr>
                         <choice>
                            <abbr>Decem</abbr>
-                           <expand>December</expand>
+                           <expan>December</expan>
                         </choice>
                      </corr>
                   </choice>
-                  -->
                <lb/>6<hi rend="super">th</hi> 1862</date></dateline><p> Monday morning went to 
                <lb/><placeName>Columbus</placeName> with <persName>Dennis Strait</persName> and
                <lb/>Back the same Day. Done nothing
@@ -2114,7 +2111,6 @@
                <lb/>Have to altered before I would want It
                <lb/>came down in the afternoon to <placeName>Columbus</placeName>.
                <lb/>cars full of Soldiers Yesterday we Road up
-               <lb/>with <persName><addName type="nickname">Parson</addName> Brownlow</persName> of <choice><abbr><hi rend="underlined">Tenn</hi></abbr><expan>Tennessee</expan></choice>
                <lb/>Heard Him talk &amp; ect.
             </p>
             <p>
