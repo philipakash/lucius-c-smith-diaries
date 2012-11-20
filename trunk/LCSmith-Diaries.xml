@@ -164,8 +164,51 @@
                      <p rend="h3">
                         Mid-nineteenth-century Family Dynamics   
                      </p>
-                     <p><hi rend="bold">RUN-IN HEADER</hi>PARAGRAPH WITH RUN-IN HEADER</p>
-                     <p>PARAGRAPH</p>
+                     <p>In 1862, when Lucius Clark Smith penned this diary, he would have been a young man roughly 27 years of age.  Modern observers are 
+                        apt to question the normalcy of a man this age residing at home with his father, mother, and seven younger siblings.  
+                        Yet, in the context of mid-nineteenth century agricultural life, there is little abnormal about this living situation.
+                     </p>
+                     <p>Demographic historians provide ample data suggesting that the household configuration of the Smiths in the early 1860s was not unheard of.  
+                        The Smith household, numbering nine individuals as of the 1860 Federal Census, was somewhat larger than the national average of six <bibl><ref target="Ancestry1860">1860 Census</ref></bibl>.  Rural 
+                        families, however, were more likely to experience higher rates of fertility than those in more urban areas.  Moreover, five of these children
+                        would have been under the age of 18 at the time of the census, so their residence at home is unsurprising <bibl><ref target="Easterlin">Easterlin, Alter, and Condran</ref></bibl>.
+                     </p>
+                     <p>To explain the continued residence of the three eldest sons well into their twenties requires an examination of contemporary understandings
+                        of adulthood and familial relationships in agricultural settings.  Our modern understandings of the teenage years and young adulthood are 
+                        largely by-products of the twentieth century and would have been unknown to those living in the 1860s.  Adulthood was vested not in a specific 
+                        age-bracket, but in an understanding of status based on dependence or independence.  The nature of parent-child relationships on farms led to 
+                        what we would think of as a protracted period of dependence, resting on the mutual obligations that existed between fathers and sons.  Fathers 
+                        were obligated to provide a practical education for sons to ensure that they had prospects as they moved into adulthood; children were in turn 
+                        bound to provide labor and obedience as long as necessary.  Quite often, sons labored on the family farm till at least the age of 21 or beyond, 
+                        at which point, they would ideally establish themselves on nearby farms.  By the last quarter of the nineteenth century, however, increasing 
+                        land scarcity had some sons staying on the family farm for longer periods of time.
+                     </p>
+                     <p>The alternative to establishing an independent farm near to home was often to escape agriculture altogether and take up an urban occupation.  
+                        As industrialization and urbanization increased in the second half of the 1800s, farmers feared that their sons would leave the farm never to 
+                        return.  Articles in magazines and newspapers gave voice to that fear.  One specifically provided advice to young men thinking of abandoning 
+                        the family farm: 
+                        <quote type="block">“Again, it is your duty to ‘Stick to the Farm;’ your father has already reached the meridian of life, and has commenced to 
+                        descend the ‘western declivity.’  He has long looked forward to the day when he could relinquish the active labors of the farm to his son.  
+                        To this end he has taken special pains to instruct you in all things connected with good husbandry, and now, when he needs you most, when 
+                        he feels the infirmities of age creeping on, when he needs your aid, will you leave him to struggle on?” <bibl><ref target="BoysStick">"Boys, Stick to the 
+                        Farm"</ref></bibl></quote>
+                        Thus, by the end of the nineteenth century, more farmers focused on keeping at least one of their adult sons on the farm rather than seeing 
+                        them flee the area when unable to become settled on a nearby farm of their own <bibl><ref target="Frank">Frank, 147</ref></bibl>.
+                     </p>
+                     <p>The period of dependency for young farming males most frequently ended upon one of the hallmark ritual passages into adulthood: marriage.  
+                        As historian Stephen Frank notes, “Until a son came of age, married, and established an independent household, he labored primarily for his 
+                        father rather than for himself” <bibl><ref target="Frank">Frank, 142</ref></bibl>. Again, demographic historians illustrate that the bachelorhood (and its 
+                        corresponding state of home-residence) of Lucius Clark Smith was not anomalous for the time.  During the period of 1850 through the Civil 
+                        War, the median age for native-born white men to marry was 26.6 for men (22.9 for women) <bibl><ref target="FitchAndRuggles">Fitch and Ruggles, 63</ref></bibl>.  At 27 in 1862, 
+                        Lucius Clark Smith, as well as the rest of his twenty-something brothers, were well within the normal range to be unmarried and thus dwelling at home.  
+                     </p>
+                     <p>Perhaps the only thing abnormal about the Smith household was the degree to which Lucius was able to engage in his own economic operations.  
+                        The establishment of his own mill on his father’s land indicates a degree of autonomy that places Lucius well on the way to independent adulthood.  
+                        Without examining the will of Archibald Smith, it is difficult to precisely determine what the status of this land grant was, but likely it 
+                        represented Archibald’s patrimony to Lucius: the father’s obligation to see the child set-up with some means of economic self-sufficiency during 
+                        a time of declining land availability.  Whatever the case, it is clear that work done both on the farm and on Lucius’ mill operations were both 
+                        family affairs.  
+                     </p>
                      <p rend="h3">
                         Milling and Mill Operations   
                      </p>
@@ -567,10 +610,14 @@
                <bibl xml:id="Ancestry1840" n="1840">"1840 United States Federal Census." <title level="m">Ancestry.com</title>. 2009. Web. 29 October 2012.</bibl>
                <bibl xml:id="FindaGrave25957529" n="Pvt">"Pvt Gilbert George Collins." <title level="m">Findagrave.com</title>. 2008. Web. 29 October 2012.</bibl>
                <bibl xml:id="DraftRecord1863" n="DR63">"US Civil War Draft Registrations Record, 1863-1865". <title level="m">Ancestry.com</title>. 2010. Web. 4 November 2012.</bibl>
-               <bibl xml:id="evangelist" n="boy"><title level="j">"The Boy who Had 'Fits'."</title> New York Evangelist 21 June 1855: 100.</bibl>
-               <bibl xml:id="medical" n="Wilks">Dr. Wilks <title level="j">"Cases of Epilepsy with Clinical Remarks on the Use of Bromide and Iodide of Potassium in that Disease."</title> Medical News February 1862: 25.</bibl>
-               <bibl xml:id="OhioMedical" n="Westminster"> <title level="j">"Westminster Hospital.--Epilepsy for thirty-two years..."</title>The Ohio Medical and Surgical Journal 1 May 1859: 392.</bibl>
-            </listBibl>              
+               <bibl xml:id="evangelist" n="boy"><title level="a">"The Boy who Had 'Fits'."</title> <title>New York Evangelist</title> 21 June 1855: 100.</bibl>
+               <bibl xml:id="medical" n="Wilks">Dr. Wilks <title level="a">"Cases of Epilepsy with Clinical Remarks on the Use of Bromide and Iodide of Potassium in that Disease."</title> <title>Medical News</title> February 1862: 25. Web.</bibl>
+               <bibl xml:id="OhioMedical" n="Westminster"> <title level="a">"Westminster Hospital.--Epilepsy for thirty-two years..."</title><title level="j">The Ohio Medical and Surgical Journal</title> 1 May 1859: 392. Web.</bibl>
+               <bibl xml:id="BoysStick" n="Boys"><title level="a">"Boys, Stick to the Farm"</title><title level="j">The New England Farmer; a Monthly Journal</title>October 1863. Web.</bibl>
+               <bibl xml:id="FitchAndRuggles" n="Fitch">Fitch, Catherine A. and Steven Ruggles <title level="a">"Historical Trends in Marriage Formation: The United States 1850-1990"</title> in <title level="m">The Ties that Bind: Perspectives on Marriage and Cohabitation.</title> New York, NY: Walter de Gruyter Inc., 2000. Print.</bibl>
+               <bibl xml:id="Frank" n="Frank">Frank, Stephen M. <title level="m">Life with Father: Parenthood and Masculinity in the Nineteenth Century</title>Baltimore: The Johns Hopkins University Press, 1998. Print.</bibl>
+               <bibl xml:id="Easterlin" n="Easterlin">Easterlin, Richard A., George Alter, and Gretchen A. Condran <title level="a">Farms and Farm Families in Old and New Areas: The Northern States in 1860.</title> <title level="m">Family and Population in Nineteenth-Century America.</title> Princeton:Priceton University Press, 1978. Print.</bibl>
+         </listBibl>              
          </sourceDesc>
 
       </fileDesc>
@@ -1151,7 +1198,7 @@
                <lb/>the army Having been Discharged
                <lb/><persName>Esau Rice</persName> came <choice><sic>Hear</sic><corr>here</corr></choice> He is one of
                <lb/>the Discharged ones Him and I
-               <lb/>went to <placeName>Albany</placeName> to meeting at night
+               <lb/>went to <placeName ref="NewAlbany">Albany</placeName> to meeting at night
                <lb/>
                <lb/>
                <lb/>
@@ -1170,7 +1217,7 @@
                <lb/>to come and Help me make my
                <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> and to <placeName>Jersey</placeName> to <unclear cert="high">morrow</unclear> to
                <lb/>get a pair of Boots made.  afternoon
-               <lb/>worked at my Building <persName>Newton</persName> hawled
+               <lb/>worked at my Building <persName ref="SmithIN">Newton</persName> hawled
                <lb/>Wood half day finished Hawling I now
                <lb/>Have over 40 fourty cords of good
                <lb/>Wood Enough I think to do me.
@@ -1221,7 +1268,7 @@
             <dateline><lb/><date when="1862-08-28">Thursday 28</date></dateline>
             <p>
                <lb/>To day spent the day
-               <lb/>with the folks went awhile to <persName>Roll Eavenes</persName>
+               <lb/>with the folks went awhile to <persName ref="EvansReece">Roll Eavenes</persName>
                <lb/><persName>Ben Souders</persName> came on and worked at the
                <lb/><choice><sic>Doores</sic><corr>doors</corr></choice> of my Buildings.  quite cool.
          <pb facs="/f/f4cc9305-1e08-4664-b4dc-dcdcbacc96ad"/>
@@ -1243,21 +1290,21 @@
                <lb/>all day Had a swad of
                <lb/>girls <choice><sic>Hear</sic><corr>here</corr></choice> all they like the side saddle 
                <lb/>a little well.  night went to meeting to 
-               <lb/><placeName>Albany</placeName> Heard <persName><choice><sic>Hurlocker</sic><corr>Horlocker</corr></choice></persName> preach.  seen
+               <lb/><placeName ref="NewAlbany">Albany</placeName> Heard <persName><choice><sic>Hurlocker</sic><corr>Horlocker</corr></choice></persName> preach.  seen
                <lb/><persName>sam</persName> and <persName>Frank <del rend="overstrike">L</del> Lane</persName> they did not go
                <lb/>Home yesterday as <persName>aunt Hariet</persName> was <del rend="overstrike">u</del> sick
                <lb/>will tomorrow.  To day it seems as if 
                <lb/><choice><sic>evry</sic><corr>every</corr></choice> thing would die for want of
                <lb/>Rain corn and cane and grass is as
                <lb/>near dead as need be and the Dust on the
-               <lb/>Road is almost unsupportable. <persName>Augustine</persName>
+               <lb/>Road is almost unsupportable. <persName ref="SmithCA">Augustine</persName>
                <lb/>last week Had a tower of fits<ptr type="noteAnchor" target="Fits"/>
                <note resp="ed" xml:id="Fits">In the mid to late nineteenth century, fits could refer to any number of 
                   mental, physical, or moral problems.  Essays on morality frequently referred to “fits of passion,” 
                   where the fits represented inappropriate, even sinful, behavior.  It is more likely, however, that 
                   Lucius was alluding to a physical or mental condition of “falling fits” or “nervous diseases” such 
                   as epilepsy.  A medical understanding of epilepsy existed by this time, though its causes and 
-                  treatment remained open to much speculation. <bibl><ref target="evangelist"></ref><ref target="medical"><ref target="Ohio medical"></ref></ref></bibl></note> getting Better
+                  treatment remained open to much speculation. <bibl><ref target="evangelist">"The Boy who had 'Fits'"</ref><ref target="medical">"Westminster Hospital"<ref target="Ohio medical"></ref></ref></bibl></note> getting Better
                <lb/><hi rend="underline">now</hi>         
             </p>
          </div>
@@ -1276,17 +1323,17 @@
                <lb/>me one day made a pattern for a cast box
                <lb/><del rend="erased">s</del>to sit under the end of each pan across
                <lb/>the furnace. Thursday <rs type="familial" ref="SmithArch">Father</rs> &amp; me went
-               <lb/>to <placeName>Columbus</placeName> after alot of things got my
+               <lb/>to <placeName ref="Columbus">Columbus</placeName> after alot of things got my
                <lb/>cast cog <choice><sic>wheal</sic><corr>wheel</corr></choice> a cistern pump and various
                <lb/>other things caluclated to get my sheet iron
                <lb/>But could not <choice><sic>finde</sic><corr>find</corr></choice> any to suit me
                <lb/>&amp; <del rend="overstrike">colu</del> concluded to wait untill <!-- I think two ls was an acceptable spelling; double check -->next
-               <lb/>week. Sat or latter Friday night <persName>Homer</persName>
+               <lb/>week. Sat or latter Friday night <persName ref="SmithHom">Homer</persName>
                <lb/>and me went over to <persName ref="BeachL">uncle Lewises</persName> and staid
                <lb/>all night and sat morning went to <placeName>westerville</placeName>
                <lb/>to get my castings went North of town <del rend="overstrike">a</del>
                <lb/>some distance and got my counter shaft
-               <lb/>turned and <persName>Charley</persName> was <choice><sic>prety</sic><corr>pretty</corr></choice> new today to
+               <lb/>turned and <persName>Charley</persName> was <choice><sic>prety</sic><corr>pretty</corr></choice> near ready to
          <pb facs="/4/473fd313-d08a-4b7a-b4c9-e8cc387f76db"/>
                <lb/>melt I got my paterne in just in time to
                <lb/>get it done that day. got Home sometime
@@ -1317,12 +1364,12 @@
                <lb/>fights at <name type="event"><choice><sic>Manasses</sic><corr>Manassas</corr></choice></name> and there abouts Have 
                <lb/>fallen back on the fortification at or
                <lb/>near <placeName>Washington</placeName>. at <name type="event">Richmond K.Y.</name> <del><gap reason="overwritten" unit="words" extent="1"></gap></del>
-               <lb/>we met with a perfect <!-- the c in perfect was added above, should this be coded as an inerlinear additon? --> rout our forces
+               <lb/>we met with a perfect rout our forces
                <lb/>being seven thousand <unclear cert="low">strong</unclear> all being
                <lb/>raw undrilled troops the <orgName>95 Ohio</orgName> was
                <lb/>Badly cut up taken <choice><sic>prisners</sic><corr>prisoners</corr></choice> and then Paroled
                <lb/>and sent Home The Rebels under <persName>Gen Smith</persName>
-               <lb/>are <del rend="erased">ad</del>advancing <del rend="overstrike">under</del> on to <placeName>Cincinnatii</placeName>
+               <lb/>are <del rend="erased">ad</del>advancing <del rend="overstrike">under</del> on to <placeName ref="Cincinnati">Cincinnatii</placeName>
                <lb/>the city is put under martial Law also the
                <lb/>Neighboring <choice><sic>twowns</sic><corr>towns</corr></choice> all the state is making
                <lb/>a big effort to save the city. the Rebels have
@@ -1335,9 +1382,9 @@
             </p>   
             <p>
                <lb/>the girls went up this week
-               <lb/>and got green pass. <persName>aunt Eliza</persName> and
+               <lb/>and got green pass. <persName ref="WellsE">aunt Eliza</persName> and
                <lb/><persName ref="#WellsT">Thornton</persName> stopped all night on Friday
-               <lb/>on their way from <placeName>Columbus</placeName>.
+               <lb/>on their way from <placeName ref="Columbus">Columbus</placeName>.
             </p>
          </div>
          <pb facs="/9/987dbf76-ef52-4db3-8882-8612c596d823"/>
