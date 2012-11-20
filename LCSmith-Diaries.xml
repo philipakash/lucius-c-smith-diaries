@@ -242,6 +242,7 @@
                   <!-- I think I can get more on John Dague... it's just a matter of figuring out exactly which one he is. -->
                </person>
                <person xml:id="JEvans">
+                  <!-- Change this to reflect John Coons, changed from JS transcript -->
                   <persName>Evans, John W.</persName>
                   <birth when="1839"></birth>
                   <death atLeast="1870"></death>
@@ -1955,7 +1956,7 @@
             <p>
                <lb/>To day got my gun a double Barreled
                <lb/>shot gun and fixed for the Hunt
-               <lb/>nice prety day only cool
+               <lb/>nice <choice><sic>prety</sic><corr>pretty</corr></choice> day only cool
             </p>
             <pb facs="/6/69be51f2-7c17-42f5-91f2-c6a064475731"/>
          </div>
@@ -1970,45 +1971,45 @@
                <lb/>My Side However came out Best Having
                <lb/>23 wild Scalps and the other side 18. as
                <lb/>game was <choice><sic>Scarse</sic><corr>scarce</corr></choice> several <subst><del rend="strike">Wild</del> <add place="above" hand="LSCHand">Tame</add></subst> Turkeys
-               <lb/>was Killed. one Wild one was Killed by
-               <lb/><persName><unclear cert="low">W<hi rend="underline">m</hi></unclear> Strait</persName>. night we Had <unclear cert="high">our</unclear> Great
+               <lb/>were Killed. one Wild one was Killed by
+               <lb/><persName><choice><abbr>Wm</abbr><expan>William</expan></choice> Strait</persName>. night we Had our Great
                <lb/><choice><sic>aples</sic><corr>apples</corr></choice> Cider and cigars the Beaten Side
                <lb/>pa<supplied reason="omitted" resp="ed">y</supplied>ing for It we was some 14 on a side
-               <lb/>shot at candles and <unclear cert="medium">cet</unclear> until Late.
+               <lb/>shot at candles and <choice><sic>ect</sic><corr>etc.</corr></choice> until Late.
                <lb/>for the Rest of the Week to <date when="1862-11-29">Sat 29<hi rend="super">th</hi></date>
-               <lb/>Done but Litle <choice><sic>setled</sic><corr>settled</corr></choice> some accounts went
-               <lb/>to Jersey after a pair of Boots and <unclear cert="low">E<hi rend="underline">es</hi></unclear>
-               <lb/>cold &amp; Blustry all week most.
+               <lb/>Done but <choice><sic>Litle</sic><corr>little</corr></choice> <choice><sic>setled</sic><corr>settled</corr></choice> some accounts went
+               <lb/>to Jersey after a pair of Boots and <choice><sic>Ect</sic><corr>etc.</corr></choice>
+               <lb/>cold &amp; <choice><sic>Blustry</sic><corr>blustery</corr></choice> all week most.
                <lb/>Made my Returns the U.S. asessor on my
-               <lb/>molosses <choice><sic>Buisness</sic><corr>business</corr></choice> sum total of all
+               <lb/>molasses <choice><sic>Buisness</sic><corr>business</corr></choice> sum total of all
                <lb/>Manufactured was Wagon
-               <lb/>Loads 3583 No of Gallans 4402 &#190;
+               <lb/>Loads 358 &#189;  No of Gallons 4402 &#190;
                <lb/>four thousand four Hundred and two
-               <lb/>and &#190; galluns molosses
+               <lb/>and &#190; gallons molasses
             </p>
             <pb facs="/a/a5a6e622-2ff4-4b7c-b963-c7b3e8d826dc"/>
             <p>
                <lb/>Total valuation $987.00
-               <lb/>counting that made at 20 cts value 20 cts
-               <lb/>and that made on the Half. my Half at 50 cts
+               <lb/>counting that made at 20 <choice><abbr>cts</abbr><expan>cents</expan></choice> value 20 <choice><abbr>cts</abbr><expan>cents</expan></choice>
+               <lb/>and that made on the Half. my Half at 50 <choice><abbr>cts</abbr><expan>cents</expan></choice>
                <lb/><choice><sic>pur</sic><corr>per</corr></choice> gallon <hi rend="underline">about</hi> Half I made was on
                <lb/>the Halves I have sold to the Best of
-               <lb/>my accounts 281 <sic>galluns</sic>.
+               <lb/>my accounts 281 gallons.
             </p>
             <p>
                <lb/>I Have now on
                <lb/>Hand some over <subst><del rend="overwrite">5</del></subst>7.00 <subst><del rend="strike">seven</del><add place="above" hand="LCSHand">seven</add></subst> Hundred gallons
-               <lb/>to sell. I <choice><sic>finde</sic><corr>find</corr></choice> <del rend="strike">some</del> a very Large Loss by
-               <lb/>shrinkage and other wages. we Have at
+               <lb/>to sell. I find <del rend="strike">some</del> a very Large Loss by
+               <lb/>shrinkage and other <choice><sic>wayes</sic><corr>ways</corr></choice>. we Have at
                <lb/>several times lost <choice><sic>cunsidurable</sic><corr>considerable</corr></choice> by forgetting
                <lb/>Barrells, Lending out and making customers
                <lb/>good, It is a new <choice><sic>Buissness</sic><corr>business</corr></choice> to most people
                <lb/>and we Have to cheat ourselves to Keep on
-               <lb/>athe right side of customs. I Have sold
-               <lb/>perhaps over the abovve amount
+               <lb/>the right side of customs. I Have sold
+               <lb/>perhaps over the <choice><sic>abovve</sic><corr>above</corr></choice> amount
                <lb/>considerable But that is all I could
-               <lb/><choice><sic>finde</sic><corr>find</corr></choice> <del rend="strike">on</del> when making up my <choice><sic>riturns</sic><corr>returns</corr></choice>
-               <lb/>an this year we will be more <unclear cert="medium">caucious</unclear>
+               <lb/>find <del rend="strike">on</del> when making up my <choice><sic>riturns</sic><corr>returns</corr></choice>
+               <lb/>an this year we will be more <choice><sic><unclear reason="ink blot" cert="medium">caucious</unclear></sic><corr>cautious</corr></choice>
                <lb/>and perhaps with the tax Law.
                <lb/>and Be better prepaired to meet It.
                <lb/>
@@ -2021,8 +2022,8 @@
                <lb/>Yesterday <persName>Misses
                <lb/>Montgomery</persName> came to stay over Sunday
                <lb/>withe us on Her Road Home
-               <lb/><persName>John Evans</persName> and <persName>Wife</persName> are Hear.
-               <lb/>nice <choice><sic>prety</sic><corr>pretty</corr></choice> day staid Home all
+               <lb/><persName>John Coons</persName> and <persName>Wife</persName> are <choice><sic>Hear</sic><corr>here</corr></choice>.
+               <lb/>nice <choice><sic>prety</sic><corr>pretty</corr></choice> day <choice><sic>staid</sic><corr>stayed</corr></choice> Home all
                <lb/>day.
             </p>
          </div>
@@ -2059,14 +2060,14 @@
             <p>
                <lb/>got me some new things monday also.
                <lb/>got my Horse shod got me a pair
-               <lb/>of coarse Boots of <unclear cert="low">monide</unclear> cleaned up
+               <lb/>of coarse Boots of <unclear cert="medium">manure</unclear> cleaned up
                <pb facs="/d/dab08f76-d3b6-41ef-a3fe-eddbf5175cce"/>
                <lb/>A Lot of Cane seed I Have a nice
-               <lb/>Lot of It and <hi rend="underline">good</hi>. <unclear cert="high">Boys</unclear> Husked
-               <lb/>some corn most to cold and dry.
+               <lb/>Lot of It and <hi rend="underline">good</hi>. <choice><sic>Boyes</sic><corr>Boys</corr></choice> Husked
+               <lb/>some corn most <choice><sic>to</sic><corr>too</corr></choice> cold and dry.
                <lb/>nice Weathe<supplied reason="omitted" resp="ed">r</supplied> all week first part
                <lb/>clear and quite warm Last part cold 
-               <lb/>and Blustry snow. Saturday real cold
+               <lb/>and <choice><sic>Blustry</sic><corr>blustery</corr></choice> snow. Saturday real cold
                <lb/><choice><sic>murcury</sic><corr>mercury</corr></choice> nearly to zero.
                <lb/>
             </p>
@@ -2086,9 +2087,9 @@
                
                <lb/>Lew<add place="above">i</add>ses</persName> and <choice><sic>staid</sic><corr>stayed</corr></choice> all night walked over
                <lb/>nice walking. Tuesday morning went over
-               <lb/>to Worthington and then by the <unclear cert="low">cars</unclear> to
-               <lb/>Delaware <persName ref="#GoodrichG">George</persName> to <add place="above">a</add> <persName>Mr <unclear cert="high">Watterman</unclear></persName> abo<supplied reason="omitted" resp="ed">out</supplied>
-               <lb/>us working for Him at the fur mill Buis<seg type="softhyphen">
+               <lb/>to <placeName>Worthington</placeName> and then by the cars to
+               <lb/><placeName>Delaware</placeName> <persName ref="#GoodrichG">George</persName> to <add place="above">a</add> <persName>Mr Watterman</persName> abo<supplied reason="omitted" resp="ed"><seg type="soft-hyphen"> 
+               <lb/></seg>ut working for Him at the fan mill Buis<seg type="softhyphen">
                <lb/></seg>ness I went to get a Job of collecting of Him
                <lb/>to Do But He Had got a Hand. Evening
                <lb/>went to see some old Friends of when I use<supplied reason="omitted" resp="ed">d</supplied>
@@ -2106,21 +2107,22 @@
          -->
          <pb facs="/c/c08bc8a3-3bf3-44e3-ad3c-9e57e3d36bff"/>
             <p>
-               <lb/><date when="1862-12-10">Wedns</date> forenoon went to see a large
+               <lb/><date when="1862-12-10"><choice><abbr>Wedns</abbr><expan>Wednesday</expan></choice></date> forenoon went to see a large
                <lb/>cane mill at the foundry Made some two
                <lb/>years ago for the South But <choice><sic>witch</sic><corr>which</corr></choice> never
                <lb/>got Down. It was a very large mill <choice><sic>wighing</sic><corr>weighing</corr></choice>
-               <lb/>some 88 Hundred lbs the Large roll being
-               <lb/>3 ft in Lenth and 2 ft in Diameter with
-               <lb/>five Small rolls under. But there was
+               <lb/>some 88 Hundred <choice><abbr>lbs</abbr><expan>pounds</expan></choice> the Large roll being
+               <lb/>3 <choice><abbr>ft</abbr><expan>feet</expan></choice> in Lenth and 2 <choice><abbr>ft</abbr><expan>feet</expan></choice> in Diameter with
+               <lb/>five Small rolls under. But there supwas
                <lb/>several Deficiencies about It witch would
-               <lb/>Have to altered before I would want It
+               <lb/>Have to <supplied reason="omitted" resp="ed">be</supplied> altered before I would want It
                <lb/>came down in the afternoon to <placeName>Columbus</placeName>.
                <lb/>cars full of Soldiers Yesterday we Road up
+               <!-- Are we missing a line about Parson Brownlow? -->
                <lb/>Heard Him talk &amp; ect.
             </p>
             <p>
-               <lb/><date when="1862-12-11">Thurs</date> went and seen Gills the ones I
+               <lb/><date when="1862-12-11"><choice><abbr>Thurs</abbr><expan>Thursday</expan></choice></date> went and seen <orgName>Gills</orgName> the ones I
                <lb/>Bought my mill of they are getting anew
                <lb/>large mill they wanted Bad to <unclear cert="high">sell</unclear> me
                <lb/>one Had an offer of 48 cts <unclear>per</unclear> gallon
