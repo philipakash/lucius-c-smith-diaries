@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
    xmlns:tei="http://www.tei-c.org/ns/1.0" version="2.0">
    <xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" scope="stylesheet">
@@ -26,7 +27,7 @@
       places the entire contents enclosed within the text tags of your document into 
       the HTML of the Web page. 
    -->
-      <html>
+      <html xmlns="http://www.w3.org/1999/xhtml">
          <head>
             <!-- Creat the head of the HTML document -->
             <!-- First, populate meta element with keywords -->
@@ -48,6 +49,15 @@
                <xsl:value-of
                   select="/tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
             </title>
+            <script src="jquery.js"></script>
+            <script>
+               $(document).ready(function(){
+               $("button").click(function(){
+               $(".sic").toggleClass("sictoggle");
+               $(".corr").toggleClass("corrtoggle");
+               });
+               });
+            </script>
             <style type="text/css">
               <xsl:value-of select="$bodyRule"/>
                .masthead {
