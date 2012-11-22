@@ -249,9 +249,9 @@
                </person>
                <person xml:id="John">
                   <persName>Smith, Johnathan Wesley</persName>
-                  <birth when="1838-08-16"></birth>
+                  <birth when="1838-08-16"><placeName ref="#NewAlbany">New Albany, OH</placeName></birth>
                   <death></death>
-                  <note type="bibliographic">
+                  <note type="biographical">
                      John is Lucius Smith's second younger brother. Lucius refers to him throughout the journal, commonly 
                      in reference to labor shared by the brothers on family farm. John was particularly noted as helping 
                      Lucius with the labor on his well and his Mill. In the week of August 23rd 1862, Lucius also mentions 
@@ -628,6 +628,10 @@
                <bibl xml:id="FitchAndRuggles" n="Fitch">Fitch, Catherine A. and Steven Ruggles <title level="a">"Historical Trends in Marriage Formation: The United States 1850-1990"</title> in <title level="m">The Ties that Bind: Perspectives on Marriage and Cohabitation.</title> New York, NY: Walter de Gruyter Inc., 2000. Print.</bibl>
                <bibl xml:id="Frank" n="Frank">Frank, Stephen M. <title level="m">Life with Father: Parenthood and Masculinity in the Nineteenth Century</title>Baltimore: The Johns Hopkins University Press, 1998. Print.</bibl>
                <bibl xml:id="Easterlin" n="Easterlin">Easterlin, Richard A., George Alter, and Gretchen A. Condran <title level="a">Farms and Farm Families in Old and New Areas: The Northern States in 1860.</title> <title level="m">Family and Population in Nineteenth-Century America.</title> Princeton:Priceton University Press, 1978. Print.</bibl>
+               <bibl xml:id="OHRRGuide" n="RR">Mansfield, Edward Deering. <title>The Ohio Railroad Guide, Illustrated: Cincinnati to Erie via Columbus and Cleveland.</title>Columbus: Ohio State Journal Company, 1854. Print</bibl>
+               <bibl xml:id="ReportCulture" n="Culture">Gould, John Stanton. <title>Report of Hon. John Stanton Gould on Sorghum and Sugar Beet Culture</title>Albany: Van Benthuysen's Steam Printing House, 1865. Print.</bibl>
+               <bibl xml:id="Convention" n="Convention">Gill, John L., Jr.<title level="a">The State Sorghum Convetion.</title><title level="j">The Ohio Cultivator.</title>18.5 (1862): 158. Print.</bibl>
+               
          </listBibl>              
          </sourceDesc>
 
