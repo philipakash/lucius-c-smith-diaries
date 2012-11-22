@@ -1462,7 +1462,7 @@
             <lb/>got Home Late at night. I Borrowed $10.00
             <pb facs="/b/b13427cf-1e77-4217-9c0c-8095533b8b63"/>
             <lb/>of <persName>Gilbert Collins</persName>. <choice><sic>thare</sic><corr>there</corr></choice> is a great
-            <lb/>stir of people going to <placeName>Cincinnati</placeName> to
+               <lb/>stir of people going to <placeName ref="Cincinnati">Cincinnati</placeName> to
             <lb/>Defend the place people take <choice><sic>thir</sic><corr>their</corr></choice> own
             <lb/>Guns &amp; Rig and as they please thousands
             <lb/>are going. the <roleName><choice><sic>govener</sic><corr>governor</corr></choice></roleName> is already refusing
@@ -1521,7 +1521,7 @@
             <lb/><p><persName><unclear cert="low">Mclean</unclear></persName> <!--Question about letter overwritten--> Has succeed<supplied reason="omitted" resp="ed">ed</supplied> in driving
             <lb/>out the Rebels out of <placeName><choice><sic>meriland</sic><corr>Maryland</corr></choice></placeName>
             <lb/>after some of the severest <choice><sic>fiting</sic><corr>fighting</corr></choice> of 
-            <lb/>the war <placeName>Cincinnati</placeName> Has
+            <lb/>the war <placeName ref="Cincinnati">Cincinnati</placeName> Has
             <lb/>been saved from the Rebels and
             <lb/>things look better.</p>
             <lb/><p>still no rain
