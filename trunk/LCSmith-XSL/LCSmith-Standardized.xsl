@@ -62,9 +62,11 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
-    <xsl:template match="tei:choice/tei:sic"/>
+    <xsl:template match="tei:choice/tei:sic">
+        <span class="sic"><xsl:apply-templates/>[sic]</span>
+    </xsl:template>
     <xsl:template match="tei:choice/tei:corr">
-        <xsl:apply-templates/>
+        <span class="corr corrtoggle"><xsl:apply-templates/></span>
     </xsl:template>
     
 </xsl:stylesheet>
