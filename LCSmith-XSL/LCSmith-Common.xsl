@@ -154,7 +154,14 @@
                }
                table {
                    text-align : right;
-               }</style>
+               }
+               .sictoggle {
+               display:none;
+               }
+               .corrtoggle {
+               display:none;
+               }
+            </style>
             <!--FONTS-->
             <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>
             <link href='http://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'/>
