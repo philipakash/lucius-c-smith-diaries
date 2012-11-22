@@ -495,8 +495,8 @@
                </person>
                         <person xml:id="TG">
                <persName>Ghosal, Torsa</persName>
-                           <education>BA, St. Xavier's College, Calcutta, India</education>
-                           <education>MA, Jadavpur University, Calcutta, India</education>
+                           <education>BA, St. Xavier's College, Calcutta, India (2009)</education>
+                           <education>MA, Jadavpur University, Calcutta, India (2011)</education>
                            <education>MA/PhD Student, The Ohio State University (expected 2016)</education>
                            <note type="biographical">Torsa Ghosal is a graduate student in the department of English at The Ohio State University. Her areas of interest include postmodern literature, narrative theory and digital technology.</note>
                          </person>
@@ -606,9 +606,9 @@
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1596.htm&gt;.</bibl>
                <bibl xml:id="RootsWeb1635" n="Roots1635">"Daniel Bennet" [Jr.]. <title level="m">RootsWeb.com</title>. 2012. Web. 16 October 2012.
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1635.htm&gt;.</bibl>
-               <bibl xml:id="FindaGrave73411433" n="FindaGrave">"George Asbury Goodrich". <title level="m">Findagrave.com</title>. 2011. Web. 24 October 2012.
+               <bibl xml:id="FindaGrave73411433" n="GG">"George Asbury Goodrich". <title level="m">Findagrave.com</title>. 2011. Web. 24 October 2012.
                   </bibl>
-               <bibl xml:id="FindaGrave74277136" n="FindaGrave">"Thornton E B Wells". <title level="m">Findagrave.com</title>. 2011. Web. 25 October 2012.</bibl>
+               <bibl xml:id="FindaGrave74277136" n="TW">"Thornton E B Wells". <title level="m">Findagrave.com</title>. 2011. Web. 25 October 2012.</bibl>
                <bibl xml:id="Ancestry1880" n="1880">"1880 United States Federal Census". <title level="m">Ancestry.com</title>. 1999.  Web.  20 October 2012.</bibl>
                <bibl xml:id="Ancestry1860" n="1860">"1860 United States Federal Census". <title level="m">Ancestry.com</title>. 2009. Web. 20 October 2012.</bibl>
                <bibl xml:id="Ancestry1870" n="1870">"1870 United States Federal Census." <title level="m">Ancestry.com</title>. 2009. Web. 22 October 2012.</bibl>
