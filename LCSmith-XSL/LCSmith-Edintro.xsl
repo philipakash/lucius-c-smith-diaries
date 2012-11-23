@@ -269,9 +269,9 @@
       <a name="edition"/>
       <h2>About the Electronic Edition</h2>
       <p>Title: <xsl:value-of select="tei:title"/></p>
-         <p>Editors: <xsl:for-each select="tei:editor/tei:persName">
+         <p>Editors: <xsl:for-each select="tei:editor">
             <xsl:choose>
-               <xsl:when test="current()=//tei:titleStmt/tei:editor[1]">
+               <xsl:when test="current()=//tei:editor[1]">
                   <xsl:apply-templates/>
                </xsl:when>
                <xsl:otherwise>, <xsl:apply-templates/></xsl:otherwise>
