@@ -64,9 +64,6 @@
     </xsl:template>
     <!-- Recoverable cancellations by the author or another hand -->
     <xsl:template match="tei:del"/>
-    <xsl:template match="tei:choice/tei:sic">
-        <xsl:apply-templates/> [sic] </xsl:template>
-    <xsl:template match="tei:choice/tei:corr"/>
     <xsl:template match="tei:figure[@rend='embed']">
         <div class="fl_img_right">
             <img>

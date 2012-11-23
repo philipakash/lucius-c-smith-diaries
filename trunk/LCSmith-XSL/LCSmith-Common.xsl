@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
    xmlns:tei="http://www.tei-c.org/ns/1.0" version="2.0">
    <xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" scope="stylesheet">
@@ -27,7 +26,7 @@
       places the entire contents enclosed within the text tags of your document into 
       the HTML of the Web page. 
    -->
-      <html xmlns="http://www.w3.org/1999/xhtml">
+      <html>
          <head>
             <!-- Creat the head of the HTML document -->
             <!-- First, populate meta element with keywords -->
@@ -49,7 +48,7 @@
                <xsl:value-of
                   select="/tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
             </title>
-            <script src="jquery.js"></script>
+            <script src="jquery-1.8.3.min.js"></script>
             <script>
                $(document).ready(function(){
                $("button").click(function(){
@@ -227,7 +226,9 @@
                </span>
             </p>
             <p align="center"><cite><strong>This edition is currently in progress. Please do
-               not cite this preview until this notice is removed.</strong></cite> </p>
+               not cite this preview until this notice is removed.</strong></cite><br/><br/>
+               <button>Toggle diplomatic and standardized orthography</button>
+            </p>
             <hr/>
             
             <!-- Apply templates to the tei:body. -->
@@ -472,11 +473,18 @@
       </p>
    </xsl:template>
 
-   <!-- Abbreviations -->
+   <!-- Choice Elements -->
    <xsl:template match="tei:choice/tei:abbr">
       <xsl:apply-templates/>
    </xsl:template>
    <xsl:template match="tei:choice/tei:expan"/>
+   <xsl:template match="tei:choice/tei:sic">
+      <span class="sic"><xsl:apply-templates/>[sic]</span>
+   </xsl:template>
+   <xsl:template match="tei:choice/tei:corr">
+      <span class="corr corrtoggle"><xsl:apply-templates/></span>
+   </xsl:template>
+   
 
    <!-- Passages in languages other than your document's base language. -->
    <xsl:template match="tei:foreign">
