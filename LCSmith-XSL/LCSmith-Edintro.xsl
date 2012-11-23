@@ -40,10 +40,10 @@
                body {
                    font-family: 'Fanwood Text',georgia, serif;
                    font-size: 1em;
-                   margin: 25px;
-                   width: 800px;
-                    
-               }
+                   margin-left: 50px;
+                   width: 850px;
+                   margin-right: 50px;
+                   }
                .masthead {
                    vertical-align : top;
                }
@@ -54,7 +54,7 @@
                    left : 50px;
                }
                .mastheadc {
-                   display : inline;
+                   display : inline-block;
                }
                .mastheadr {
                    float : right;
@@ -154,9 +154,11 @@
                   </p>
                </div>
                <div class="mastheadc">
-                  <img src="https://images.asc.ohio-state.edu/is/image/englishdocs/1/1b4c862c-36e6-4189-8825-d5972bedfc1e.jpg?scale=0.2&amp;rgn=0,0,120,146&amp;fmt=png" height="100" alt="Portrait of Lucius C. Clark"/>&#xA0;&#xA0;<img
+                  <p>
+                     <img src="https://images.asc.ohio-state.edu/is/image/englishdocs/1/1b4c862c-36e6-4189-8825-d5972bedfc1e.jpg?scale=0.2&amp;rgn=0,0,120,146&amp;fmt=png" height="100" alt="Portrait of Lucius C. Clark"/>&#xA0;&#xA0;<img
                      src="https://images.asc.ohio-state.edu/is/image/englishdocs/d/d64bea81-daaf-41cc-975b-88bdfe839567.jpg?scale=0.2&amp;rgn=200,380,250,100&amp;fmt=png"
-                     alt="Manuscript detail" name="MSDetail" id="MSDetail"/>&#xA0;&#xA0;<img src="https://images.asc.ohio-state.edu/is/image/englishdocs/0/0ca173b2-3165-4fdf-babc-895c20be69f9.jpg?scale=0.1&amp;rgn=0,0,210,150&amp;fmt=png" width="150" alt="Open book"/>
+                     alt="Manuscript detail" name="MSDetail" id="MSDetail"/>&#xA0;&#xA0;<img src="https://images.asc.ohio-state.edu/is/image/englishdocs/0/0ca173b2-3165-4fdf-babc-895c20be69f9.jpg?scale=0.1&amp;rgn=0,0,210,150&amp;fmt=png" height="100" alt="Open book"/>
+                  </p>
                </div>
                <div class="mastheadr"> 
                   <p>
