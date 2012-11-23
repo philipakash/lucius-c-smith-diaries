@@ -53,14 +53,8 @@
             <xsl:attribute name="target">top</xsl:attribute>click to open page image in a new window</a>)]</span>
         <br/>
     </xsl:template>    
-    <xsl:template match="tei:lb">
-        <br/>
-        <a>
-            <xsl:attribute name="name">
-                <xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>
-            </xsl:attribute>
-        </a>
-        <xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+    <xsl:template match="tei:lb"><br/><a><xsl:attribute name="name"><xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/></xsl:attribute>
+        </a><xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
     </xsl:template>
     <xsl:template match="tei:fileDesc/tei:titleStmt/tei:title/tei:lb">
         <br/><xsl:apply-templates/>
@@ -73,9 +67,6 @@
         <xsl:apply-templates/>
     </xsl:template>    
     <xsl:template match="tei:p"><xsl:apply-templates/></xsl:template>
-    <xsl:template match="tei:choice/tei:sic">
-        <xsl:apply-templates/> [sic] </xsl:template>
-    <xsl:template match="tei:choice/tei:corr"/>
     <xsl:template match="tei:figure[@rend='embed']"/>
     
     
