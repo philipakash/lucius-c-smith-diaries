@@ -26,6 +26,8 @@
             Here we list the editors of the edition, using the form of your name
             that you use for professional publications.
              -->
+            <editor>Emily J. Arendt</editor>
+            <editor>Torsa Ghosal</editor>
             <editor role="principal-editor"><persName ref="#HLU">H. Lewis Ulman</persName></editor>
             
             <!-- 
@@ -40,10 +42,14 @@
             </respStmt>
             <respStmt>
                <resp>Creation of initial machine-readable transcript: </resp>
+               <persName>Emily J. Arendt</persName>
+               <persName>Torsa Ghosal</persName>
                <persName ref="#HLU">H. Lewis Ulman</persName>
             </respStmt>
             <respStmt>
                <resp>Conversion to TEI.2-conformant markup: </resp>
+               <persName>Emily J. Arendt</persName>
+               <persName>Torsa Ghosal</persName>
                <persName ref="#HLU">H. Lewis Ulman</persName>
             </respStmt>
 
