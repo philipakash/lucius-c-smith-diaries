@@ -28,6 +28,7 @@
              -->
             <editor>Emily J. Arendt</editor>
             <editor>Torsa Ghosal</editor>
+            <editor>Matthew Poland</editor>
             <editor role="principal-editor"><persName ref="#HLU">H. Lewis Ulman</persName></editor>
             
             <!-- 
@@ -550,6 +551,13 @@
                   <education>MA, Case Western Reserve University (2012)</education>
                   <education>PhD Student, The Ohio State University (expected 2017)</education>
                   <note type="biographical">W. Michael "Misha" Broughton received his undergraduate degree in English Literature from Auburn University in 1998, before embarking on a 10-year technical career spanning PC and Network support, technology deployment project management, software development and online content development. Finally returning to the English Studies fold in 2010, he currently spends his time as a PhD student at the Ohio State University Department of English, studying 18th century British literature, Authorship, the history of print, and - more generally - how to do computers to books.</note>
+               </person>
+               <person xml:id="MP">
+                  <persName>Poland, Matthew</persName>
+                  <education>BA, Vassar College (2007)</education>
+                  <education>MA, The Ohio State University (2012)</education>
+                  <education>PhD Student, The Ohio State University (expected 2016)</education>
+                  <note type="biographical">Matthew Poland is a PhD student in the department of English at The Ohio State University. His research focuses primarily on rhetorical and ethical approaches to 20th-century Anglo-American fiction and film. He also serves as the editorial assistant for <title>Narrative</title>.</note>
                </person>
             </listPerson>
             
