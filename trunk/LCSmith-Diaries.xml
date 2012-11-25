@@ -504,6 +504,13 @@
                            <education>MA/PhD Student, The Ohio State University (expected 2016)</education>
                            <note type="biographical">Torsa Ghosal is a graduate student in the department of English at The Ohio State University. Her areas of interest include postmodern literature, narrative theory and digital technology.</note>
                          </person>
+               <person xml:id="WMB">
+                  <persName>Broughton, W. Michael</persName>
+                  <education>BA, Auburn University (1998)</education>
+                  <education>MA, Case Western Reserve University (2012)</education>
+                  <education>PhD Student, The Ohio State University (expected 2017)</education>
+                  <note type="biographical">W. Michael "Misha" Broughton received his undergraduate degree in English Literature from Auburn University in 1998, before embarking on a 10-year technical career spanning PC and Network support, technology deployment project management, software development and online content development. Finally returning to the English Studies fold in 2010, he currently spends his time as a PhD student at the Ohio State University Department of English, studying 18th century British literature, Authorship, the history of print, and - more generally - how to do computers to books.</note>
+               </person>
             </listPerson>
             
             <listPlace>
