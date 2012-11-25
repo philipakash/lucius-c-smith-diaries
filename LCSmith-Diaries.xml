@@ -287,18 +287,18 @@
                      <p>
                         Located just over 100 miles southwest of Lucius Clark Smith’s home, Cincinnati functioned as a notable source of supplies and soldiers for 
                         Union forces during the Civil War, a role largely consequent of its position on the Ohio River and its status as—in the words of one contemporary 
-                        newspaper—<quote>“the commercial emporium of the West”</quote> (Raleigh Register). These two facts are, of course, related: Cincinnati developed as a bustling city 
+                        newspaper—<quote>“the commercial emporium of the West”<bibl><ref target="RaleighRegister">"Field Operations"</ref></bibl></quote>. These two facts are, of course, related: Cincinnati developed as a bustling city 
                         for trade largely because of the emergence during the 19th century of the steamboat, which made river trade a substantially less burdensome 
                         undertaking in the region. Propelled by the development of railways (<quote>“By the eve of the Civil War, Ohio boasted some 3,000 miles of track, . . . 
-                        the most of any state in the entire nation”</quote> [Phillips]), Cincinnati became host to an influx of immigrants, particularly from Ireland and Germany. 
-                        By 1850 <quote>“47.2 percent of Cincinnatians were immigrants, and more than 70 percent came from either Ireland or Germany”</quote> (Phillips). 
+                        the most of any state in the entire nation”<bibl><ref target="Phillips">Phillips</ref></bibl></quote>), Cincinnati became host to an influx of immigrants, particularly from Ireland and Germany. 
+                        By 1850 <quote>“47.2 percent of Cincinnatians were immigrants, and more than 70 percent came from either Ireland or Germany”<bibl><ref target="Phillips">Phillips</ref></bibl></quote>. 
                      </p>
                      <p>
                         These immigrants tended to be Catholics, and, coupled with large swaths of transplanted southerners, they constituted a largely Democratic voting 
                         bloc—one frequently opposed to the War and to emancipation. Contemporary sources reveal that at the root of this opposition lay unease about their 
-                        own security in a post-emancipation world: as a touring foreign observer remarked, <quote>“The jealously of the low Germans and Irish against the free negro 
+                        own security in a post-emancipation world: as a foreign observer touring Cincinnati in 1863 remarked, <quote>“The jealousy of the low Germans and Irish against the free negro 
                         was sufficient to set them against the war which would have brought four million of their black rivals in competition for that hard and dirty work which 
-                        American freedom bestowed on them”</quote> (qtd. in Klement 100). Propagating this alarmist sentiment, Ohio Democratic Congressman Samuel Sullivan Cox, in a 
+                        American freedom bestowed on them”<bibl><ref target="Klement">qtd. in Klement 100</ref></bibl></quote>. Propagating this alarmist sentiment, Ohio Democratic Congressman Samuel Sullivan Cox, in a 
                         speech published in the September 9, 1862, edition of the Daily National Intelligencer, stated, <quote>“The right and power to exclude Africans from the States 
                         North, being compatible with our system of State sovereignty and Federal supremacy, I assert that it is impolitic, dangerous, degrading, and unjust to the 
                         white men of Ohio and of the North to allow such immigration.”</quote> These feelings of dissent largely undergirded the more visible role Cincinnati played in 
@@ -742,7 +742,10 @@
                <bibl xml:id="Proceedings" n="Proceedings"><title level="a">Proceedings of the Ohio Sorgo Convention.</title><title level="j">The Sorgo Journal and Farm Machinist.</title>3.1 (1865): 3. Print.</bibl>
                <bibl xml:id="Centennial" n="Centennial">Taylor, William Alexander. <title>Centennial History of Columbus and Franklin County, Ohio, Volume 1</title>Chicago: S. J. Clarke Publishing Company, 1909. Print.</bibl>
                <bibl xml:id="Centennial2" n="Centennial2">Taylor, William Alexander. <title>Centennial History of Columbus and Franklin County, Ohio, Volume 2</title>Chicago: S. J. Clarke Publishing Company, 1909. Print.</bibl>
-         </listBibl>              
+               <bibl xml:id="RaleighRegister" n="Field"><title level="a">“The Field of Operations in Kentucky.”</title> <title level="j">The Weekly Raleigh Register</title> (Raleigh, NC). 17 September 1862: Issue 37; col C. Web. 15 November 2012.</bibl>
+               <bibl xml:id="Phillips" n="Phillips">Phillips, Christopher. <title level="a">“The Ohio River Valley: The Breadbasket of the Union.”</title> <title level="j">New York Times.</title> 8 August 2012. Web. 15 November 2012.</bibl>
+               <bibl xml:id="Klement" n="Klement">Klement, Frank L. <title level="a">Sound and Fury: Civil War Dissent in the Cincinnati Area.</title> <title level="j">Cincinnati Historical Society Bulletin</title> 35.2 (Summer 1977): 98-114.</bibl>
+         </listBibl>
          </sourceDesc>
 
       </fileDesc>
