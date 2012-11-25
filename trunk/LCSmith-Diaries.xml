@@ -27,6 +27,7 @@
             that you use for professional publications.
              -->
             <editor>Emily J. Arendt</editor>
+            <editor>Michael W. Broughton</editor>
             <editor>Torsa Ghosal</editor>
             <editor>Matthew Poland</editor>
             <editor role="principal-editor"><persName ref="#HLU">H. Lewis Ulman</persName></editor>
@@ -44,13 +45,17 @@
             <respStmt>
                <resp>Creation of initial machine-readable transcript: </resp>
                <persName>Emily J. Arendt</persName>
+               <persName>Michael W. Broughton</persName>
                <persName>Torsa Ghosal</persName>
+               <persName>Matthew Poland</persName>
                <persName ref="#HLU">H. Lewis Ulman</persName>
             </respStmt>
             <respStmt>
                <resp>Conversion to TEI.2-conformant markup: </resp>
                <persName>Emily J. Arendt</persName>
+               <persName>Michael W. Broughton</persName>
                <persName>Torsa Ghosal</persName>
+               <persName>Matthew Poland</persName>
                <persName ref="#HLU">H. Lewis Ulman</persName>
             </respStmt>
 
@@ -437,7 +442,7 @@
                </note>
             </person>
                <person xml:id="DBennetJr">
-                  <persName>Daniel Bennet, Jr.</persName>
+                  <persName>Bennet, Daniel Jr.</persName>
                   <birth when="1828" precision="medium"><placeName evidence="conjecture">Delaware County, OH</placeName></birth>
                   <note type="biographical">On 2 August 1862, Smith writes that he "went to see Mr.
                      Bennit who has a horse power witch [sic] He sayes [sic] I can Halve[?]." Six days later, he reports that
@@ -705,9 +710,9 @@
                      Thesaurus of Geographic Names Online</title> N.d. Web. 3 August 2012.</bibl>
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
                   6 Jan. 2012. Web. 3 August 2012.</bibl>
-               <bibl xml:id="RootsWeb1596" n="Roots1596">"Daniel Bennet" [Sr.]. <title level="m">RootsWeb.com</title>. 2012. Web. 16 October 2012.
+               <bibl xml:id="RootsWeb1596" n="DanielSr">"Daniel Bennet" [Sr.]. <title level="m">RootsWeb.com</title>. 2012. Web. 16 October 2012.
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1596.htm&gt;.</bibl>
-               <bibl xml:id="RootsWeb1635" n="Roots1635">"Daniel Bennet" [Jr.]. <title level="m">RootsWeb.com</title>. 2012. Web. 16 October 2012.
+               <bibl xml:id="RootsWeb1635" n="DanielJr">"Daniel Bennet" [Jr.]. <title level="m">RootsWeb.com</title>. 2012. Web. 16 October 2012.
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1635.htm&gt;.</bibl>
                <bibl xml:id="FindaGrave73411433" n="GG">"George Asbury Goodrich". <title level="m">Findagrave.com</title>. 2011. Web. 24 October 2012.
                   </bibl>
