@@ -321,14 +321,14 @@
                      <p>
                         On September 3rd, Ohio governor David Tod announced—in a declaration printed in the city papers and telegraphed throughout the state—the need for men to 
                         defend Cincinnati, stating that <quote>“all such bodies of men who are armed, will be received. They will repair at once to Cincinnati and report to Gen. Lew 
-                        Wallace who will complete their further organization.”</quote> (reprinted in the Daily Cleveland Herald). The response was so overwhelming, however, that on 
-                        September 5th, Tod announced to the public that <quote>“no additional volunteers would be needed for the defense of Cincinnati.”</quote>
+                        Wallace who will complete their further organization”<bibl><ref target="ClevelandHerald">"Noble Response"</ref></bibl></quote>. The response was so overwhelming, however, that on 
+                        September 5th, Tod announced to the public that <quote>“no additional volunteers would be needed for the defense of Cincinnati”<bibl><ref target="ClevelandHerald">"Noble Response"</ref></bibl></quote>.
                      </p>
                      <p>
-                        An account of the events that followed, published in the Gazette, reports that <quote>“On the 10th, it was ascertained that the rebels were within five miles of 
+                        An account of the events that followed, published in the <title level="j">Cincinnati Gazette</title>, reports that <quote>“On the 10th, it was ascertained that the rebels were within five miles of 
                         the city, in force, under Gen. Heath [sic], and the Governor again called on the Minute Men to rally in defense of Cincinnati. On the 11th, they began to 
                         pour in again . . . .”</quote> However, the sheer number of men defending Cincinnati made it invulnerable to attack, and <quote>“On the 13th, Gen. Wright telegraphed Gen. 
-                        Tod that the enemy was retreating, and not to send any more troops.”</quote>
+                        Tod that the enemy was retreating, and not to send any more troops”<bibl><ref target="ClevelandHerald">reprinted in "Noble Response"</ref></bibl></quote>.
                      </p>
                   </note>
 
@@ -747,6 +747,7 @@
                <bibl xml:id="Klement" n="Klement">Klement, Frank L. <title level="a">Sound and Fury: Civil War Dissent in the Cincinnati Area.</title> <title level="j">Cincinnati Historical Society Bulletin</title> 35.2 (Summer 1977): 98-114.</bibl>
                <bibl xml:id="CoxSpeech" n="Speech"><title level="a">"Speech of Mr. Cox—Concluded.”</title> <title level="j">Daily National Intelligencer</title> (Washington D.C.). 9 September 1862: Issue 15; col A. Web. 15 November 2012.</bibl>
                <bibl xml:id="DailySentinel" n="Warin"><title level="a">"The War in Kentucky."</title> <title level="j">Milwaukee Daily Sentinel</title> (Milwaukee, WI). 4 September 1862: Issue 212; col B. Web. 17 November 2012.</bibl>
+               <bibl xml:id="ClevelandHerald" n="Noble"><title level="a">"Noble Response from the Country to Aid to Defend Cincinnati."</title> <title level="j">Daily Cleveland Herald</title> (Cleveland, OH). 25 September 1862: Issue 227; col A. Web. 16 November 2012.</bibl>
          </listBibl>
          </sourceDesc>
 
