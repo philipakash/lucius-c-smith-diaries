@@ -299,9 +299,9 @@
                         own security in a post-emancipation world: as a foreign observer touring Cincinnati in 1863 remarked, <quote>“The jealousy of the low Germans and Irish against the free negro 
                         was sufficient to set them against the war which would have brought four million of their black rivals in competition for that hard and dirty work which 
                         American freedom bestowed on them”<bibl><ref target="Klement">qtd. in Klement 100</ref></bibl></quote>. Propagating this alarmist sentiment, Ohio Democratic Congressman Samuel Sullivan Cox, in a 
-                        speech published in the September 9, 1862, edition of the Daily National Intelligencer, stated, <quote>“The right and power to exclude Africans from the States 
+                        speech published in the September 9, 1862, edition of the <title level="j">Daily National Intelligencer</title>, stated, <quote>“The right and power to exclude Africans from the States 
                         North, being compatible with our system of State sovereignty and Federal supremacy, I assert that it is impolitic, dangerous, degrading, and unjust to the 
-                        white men of Ohio and of the North to allow such immigration.”</quote> These feelings of dissent largely undergirded the more visible role Cincinnati played in 
+                        white men of Ohio and of the North to allow such immigration”<bibl><ref target="CoxSpeech"></ref></bibl></quote>. These feelings of dissent largely undergirded the more visible role Cincinnati played in 
                         providing supplies and combatants.  
                      </p>
                      <p><hi rend="bold">The Defense of Cincinnati</hi></p>
@@ -310,12 +310,12 @@
                         Defense of Cincinnati—whereby the city was threatened by Confederate forces. Contemporary sources paint a vivid portrait of the struggle. 
                      </p>
                      <p>
-                        The September 4, 1862, edition of the Milwaukee Daily Sentinel reports that, on September 1st, <quote>“[Confederate Major General] Kirby Smith’s army appeared 
-                        in the suburbs [of Lexington], and demanded the surrender of the city, which was complied with by the citizens.”</quote> With the Confederates having taken 
+                        The September 4, 1862, edition of the <title level="j">Milwaukee Daily Sentinel</title> reports that, on September 1st, <quote>“[Confederate Major General] Kirby Smith’s army appeared 
+                        in the suburbs [of Lexington], and demanded the surrender of the city, which was complied with by the citizens”<bibl><ref target="DailySentinel"></ref></bibl></quote>. With the Confederates having taken 
                         Lexington, they prepared to mount an attack on Cincinnati; consequently, Union Major General Lew Wallace declared martial law and seized sixteen 
                         steamboats to be armed. Wallace would organize residents of Cincinnati, Covington, and Newport for defense. The Sentinel reports that on September 2nd, 
                         <quote>“Citizens are enrolling themselves rapidly in the different wards” and that “[t]he Forty-fifth and Ninety ninth Ohio are falling back slowly to Covington. . . . 
-                        All steamboats are ordered to remain on the Ohio side of the river. . . . Some apprehension is felt for our safety.”</quote> Indicative of this apprehension, 
+                        All steamboats are ordered to remain on the Ohio side of the river. . . . Some apprehension is felt for our safety”<bibl><ref target="DailySentinel"></ref></bibl></quote>. Indicative of this apprehension, 
                         Cincinnati mayor George Hatch ordered all businesses closed.
                      </p>
                      <p>
@@ -745,6 +745,8 @@
                <bibl xml:id="RaleighRegister" n="Field"><title level="a">“The Field of Operations in Kentucky.”</title> <title level="j">The Weekly Raleigh Register</title> (Raleigh, NC). 17 September 1862: Issue 37; col C. Web. 15 November 2012.</bibl>
                <bibl xml:id="Phillips" n="Phillips">Phillips, Christopher. <title level="a">“The Ohio River Valley: The Breadbasket of the Union.”</title> <title level="j">New York Times.</title> 8 August 2012. Web. 15 November 2012.</bibl>
                <bibl xml:id="Klement" n="Klement">Klement, Frank L. <title level="a">Sound and Fury: Civil War Dissent in the Cincinnati Area.</title> <title level="j">Cincinnati Historical Society Bulletin</title> 35.2 (Summer 1977): 98-114.</bibl>
+               <bibl xml:id="CoxSpeech" n="Speech"><title level="a">"Speech of Mr. Cox—Concluded.”</title> <title level="j">Daily National Intelligencer</title> (Washington D.C.). 9 September 1862: Issue 15; col A. Web. 15 November 2012.</bibl>
+               <bibl xml:id="DailySentinel" n="Warin"><title level="a">"The War in Kentucky."</title> <title level="j">Milwaukee Daily Sentinel</title> (Milwaukee, WI). 4 September 1862: Issue 212; col B. Web. 17 November 2012.</bibl>
          </listBibl>
          </sourceDesc>
 
