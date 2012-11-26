@@ -321,8 +321,26 @@
                      <p rend="h3">
                         The Civil War and Civic Life   
                      </p>
-                     <p><hi rend="bold">RUN-IN HEADER</hi>PARAGRAPH WITH RUN-IN HEADER</p>
-                     <p>PARAGRAPH</p>
+                     <p><hi rend="bold">The Draft</hi></p>
+                     <p>
+                        Throughout the months of August and September Smith expresses anxiety over the uncertainty and refers to men enlisting from fear of being draft. On August 4th 1862 
+                        the Secretary of War, Edwin M. Stanton  issued an order to draft three hundred thousand men into the military to serve for nine months. Although each state was called
+                        to supply their required quota of men by the 15th of August, Ohio is granted repeated extensions due to the mounting pressure to provide regiments in the defense its 
+                        southern border. The draft is first postponed to September 16th <bibl><ref target="InRelation">"In Relation to the Draft"</ref></bibl> and then it is postponed again until October 1st 
+                        <bibl><ref target="DraftPostponed">"Drafting Postponed"</ref></bibl>. 
+                     </p>
+                     <p>
+                        During each postponement Ohio's Unionist governor, David Tod, encouraged both the commissioners
+                        responsible for organizing the draft in their district and the citizens at large to voluntarily enlist. During the first postponement Tod encourages the commissioners 
+                        of each district directly to use this time to recruit more regiments in order to fulfill Ohio's quota of 23,000 by voluntary enlistment <quote>"thereby sav[ing] the trouble,
+                        expense and vexation of resorting to drafting in Ohio"</quote> <bibl><ref target="InRelation">"In Relation to the Draft"</ref></bibl>. Two days before September 16th, Tod concludes the announcement
+                        of the postponement with an impassioned plea for men to answer the call to service: "The necessity for the force called for by the President is now apparent to all. Our very firesides are
+                        threatened in the desperate efforts of the rebels to destroy our glorious Government. Rally then, noble men of Ohio, and with the grand effort fill up the ranks" 
+                        <bibl><ref target="DraftPostponed">"Drafting Postponed"</ref></bibl>. However,  between September 15th and October 1st about 8,000 men voluntarily enlisted which left 
+                        some 12,000 to be drafted. Thus, in spite of the Governor's efforts to solicit voluntary enlistment since the announcement of the draft in August, three-fourth of the 
+                        counties in Ohio commenced drafting on the first of October in order to met their respective quotas <bibl><ref target="TheDraft">"The Draft in Ohio"</ref></bibl>. Part of the difficulty
+                        army recruitment was attributed to the requirement in Ohio that volunteers provide three years of service rather than the nine months required of draftees.
+                     </p>
                      <p rend="h3">
                         Borderlands and Hinterlands: Cincinnati and the Ohio River During the Civil War  
                      </p>
@@ -665,6 +683,13 @@
                   <education>PhD, The Ohio State University (expected 2016)</education>
                   <note type="biographical">Matthew Poland is a PhD student in the department of English at The Ohio State University. His research focuses primarily on rhetorical and ethical approaches to 20th-century Anglo-American fiction and film. He also serves as the editorial assistant for <title level="j">Narrative</title>.</note>
                </person>
+               <person xml:id="AC">
+                  <persName>Camus, Amber</persName>
+                  <education>BA, University of Colorado at Boulder (2009)</education>
+                  <education>MA, The Ohio State University (2011)</education>
+                  <education>PhD, The Ohio State University (expected 2016)</education>
+                  <note type="biographical">Amber Camus is a doctoral student in the department of English at The Ohio State University. She studies contemporary African American literature and trauma theory. </note>
+               </person>
             </listPerson>
             
             <listPlace>
@@ -808,6 +833,9 @@
                <bibl xml:id="CookeCatalog" n="CookeCatalog">Cooke &amp; Co.. <title>Illustrated Catalogue of General Machinery and Supplies for Machinists, Manufacturers, Mills, Mines, Railroads, Steamships, etc., etc.</title> New York: Standard Printing and Publishing Company, 1883. Web. 25 November 2012.</bibl>
                <bibl xml:id="Defences" n="Defences"><title level="a">"The Defences of Cincinnati."</title> <title level="j">Frank Leslie's Illustrated Newspaper</title> (New York, NY). 16 November 1861: Issue 312; col A. Web. 19 November 2012.</bibl>
                <bibl xml:id="Harper" n="Harper">Harper, Robert S. <title level="m">Ohio Handbook of the Civil War.</title> Columbus, OH: The Ohio Historical Society, 1961.</bibl>
+               <bibl xml:id="InRelation" n="InRelation"><title level="a">In Relation to the Draft</title> <title level="j">The Crisis</title> (Columbus,OH). 10 September 1862. Web. 24 November 2012.</bibl>
+               <bibl xml:id="DraftPostponed" n="DraftPostponed"><title level="a">Drafting Postponed until the First of October</title> <title level="j">The Crisis</title> (Columbus,OH). 17 September 1862. Web. 25 November 2012.</bibl>
+               <bibl xml:id="TheDraft" n="TheDraft"><title level="a">The Draft in Ohio</title> <title level="j">The Daily Cleveland Herald</title> (Cleveland, OH). 3 November 1862. Web 25 November 2012.</bibl>
                <bibl xml:id="Invasion" n="Rebel"><title level="a">"Rebel Invasion of Maryland."</title> <title level="j">Daily National Intelligencer</title> (Washington D.C.). 8 September 1862: Issue 15; col B. Web. 22 November 2012.</bibl>
                <bibl xml:id="Retreat" n="Retreat"><title level="a">"The Retreat of the Rebel Army."</title> <title level="j">Boston Daily Advertiser</title> (Boston, MA). 22 September 1862: Issue 72; col C. Web. 22 November 2012.</bibl>
          <bibl xml:id="HuntMorrow" n="Hunt">Hunt, Thomas F and George E. Morrow. <title level="m">Soils and Crops of the Farm.</title> Chicago: Howard and Wilson Publishing Company, 1892. Print.</bibl>
