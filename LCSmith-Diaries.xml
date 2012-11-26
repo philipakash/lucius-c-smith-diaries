@@ -503,15 +503,19 @@
                </person>
                <person xml:id="SmithArch" source="SmithA">
                   <persName>Smith, Archibald</persName>
-                  <note type="biographical">Lucius Clark Smith's father.</note>
+                  <note type="biographical">Lucius Clark Smith's father. L.C. Smith mentions him with great frequency throughout his diary, almost
+                  always in reference to the work the two are doing.</note>
                   <birth when="1803-09-15"><placeName>Bergen, NJ</placeName></birth>
                   <death when="1883-08"><placeName>New Albany, OH</placeName></death>
+                  <bibl><ref target="SmithA">Smith</ref>;
+                  <ref target="Ancestry1860">"1860 United States Federal Census"</ref></bibl>
                </person>
                <person xml:id="CoxS">
                   <persName>Cox, Samuel Sullivan</persName>
-                  <note type="biographical"><!--Check with Louie about the likelihood of this being the same Samuel Cox whose journal he edited-->
+                  <note type="biographical">
                   Smith mentions Samuel Cox giving a war speech, along with <persName>Cancey Olds</persName> and <persName ref="GalawayS">Sam Galaway</persName> at
-                  a large gathering on August 13th.</note>
+                  a large gathering on August 13th. It is likely that Smith is here referring to Ohio Democratic Congressman Samuel Sullivan Cox, who gave a number
+                  of speeches in central Ohio during this period.</note>
                   <birth when="1824-09-30"><placeName>Zanesville, OH</placeName></birth>
                   <death when="1889-09-10"><placeName>New York City, NY</placeName></death>
                   <occupation>Attorney and Congressman</occupation>
@@ -519,7 +523,9 @@
                </person>
                <person xml:id="BeachL">
                   <persName>Beach, Lewis</persName>
-                  <note type="biographical"><!--To be completed--></note>
+                  <note type="biographical">Smith mentions "Uncle" Lewis Beach sporadically throughout his diary, usually in reference to a visitation
+                  of some sort. For instance, Smith makes reference to spending the night at Lewis's, along with Homer, in early September. References
+                  like these indicate that Beach and Smith were close.</note>
                   <birth when="1818"><placeName>OH</placeName></birth>
                   <bibl><ref target="Ancestry1840">"1840 United States Federal Census"</ref>;
                   <ref target="Ancestry1850">"1850 United States Federal Census"</ref></bibl>
@@ -552,7 +558,7 @@
                   (Samuel's) mother on August 27th and second, in reference to a letter that Lucius writes to him on September 7th. There isn't any 
                   evidence that Samuel is a direct relation, but his occupation as a plow maker may explain Lucius's connection to him.</note>
                   <birth when="1838"><placeName>OH</placeName></birth>
-                  <death><!--To be completed--></death>
+                  <death notBefore="1870"></death>
                   <occupation>Plow maker</occupation>
                   <bibl><ref target="Ancestry1870">"1870 United States Federal Census"</ref></bibl>
                </person>
@@ -1612,9 +1618,9 @@
          <div xml:id="LCS18620911" type="Entry">
             <dateline><lb/><date when="1862-09-11">Thursday 11</date></dateline>
             <p><lb/>Morning Early went to <placeName>albany</placeName> and got <persName ref="#GoodrichG">George
-               <lb/>Goodrich</persName> to do me some turning <rs type="familial" ref="SmithArch">Father</rs> &amp;
+            <lb/>Goodrich</persName> to do me some turning <rs type="familial" ref="SmithArch">Father</rs> &amp;
             <lb/>me worked at the works all day <persName ref="#GoodrichG">George</persName>
-               <lb/>Helped afternoon <!--Double check formation of "afternoon"--> <persName ref="BeachL">Uncle Lewis</persName> was
+            <lb/>Helped afternoon <persName ref="BeachL">Uncle Lewis</persName> was
             <lb/><choice><sic>Hear</sic><corr>Here</corr></choice> to dinner. <choice><sic>Eavning</sic><corr>Evening</corr></choice> had a nice
             <lb/>shower of rain.
             </p>
@@ -1628,7 +1634,7 @@
             <lb/>got Home Late at night. I Borrowed $10.00
             <pb facs="/b/b13427cf-1e77-4217-9c0c-8095533b8b63"/>
             <lb/>of <persName>Gilbert Collins</persName>. <choice><sic>thare</sic><corr>there</corr></choice> is a great
-               <lb/>stir of people going to <placeName ref="Cincinnati">Cincinnati</placeName> to
+            <lb/>stir of people going to <placeName ref="Cincinnati">Cincinnati</placeName> to
             <lb/>Defend the place people take <choice><sic>thir</sic><corr>their</corr></choice> own
             <lb/>Guns &amp; Rig and as they please thousands
             <lb/>are going. the <roleName><choice><sic>govener</sic><corr>governor</corr></choice></roleName> is already refusing
