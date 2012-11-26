@@ -499,7 +499,7 @@
    <xsl:template match="tei:q">
       "<xsl:apply-templates/>"
    </xsl:template>
-   <xsl:template match="tei:note[@type='introductory']//tei:bibl">(<xsl:apply-templates/>)</xsl:template>
+   <xsl:template match="//tei:note[@type='introductory']//tei:bibl">(<xsl:apply-templates/>)</xsl:template>
    <xsl:template match="tei:title[@level='a']">"<xsl:apply-templates/>"</xsl:template>
    <xsl:template match="tei:title[@level='m']"><cite><xsl:apply-templates/></cite></xsl:template>
    <xsl:template match="tei:title[@level='j']">
