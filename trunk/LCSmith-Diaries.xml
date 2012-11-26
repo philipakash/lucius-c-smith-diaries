@@ -319,7 +319,7 @@
                         Borderlands and Hinterlands: Cincinnati and the Ohio River During the Civil War  
                      </p>
                      <p>
-                        Located just over 100 miles southwest of Lucius Clark Smith’s home, Cincinnati functioned as a notable source of supplies and soldiers for 
+                        Located just over 100 miles southwest of Lucius Clark Smith’s home, Cincinnati functioned as an important source of supplies and soldiers for 
                         Union forces during the Civil War, a role largely consequent of its position on the Ohio River and its status as—in the words of one contemporary 
                         newspaper—<quote>“the commercial emporium of the West”<bibl><ref target="RaleighRegister">"Field Operations"</ref></bibl></quote>. These two facts are, of course, related: Cincinnati developed as a bustling city 
                         for trade largely because of the emergence during the 19th century of the steamboat, which made river trade a substantially less burdensome 
@@ -364,6 +364,15 @@
                         pour in again . . . .”</quote> However, the sheer number of men defending Cincinnati made it invulnerable to attack, and <quote>“On the 13th, Gen. Wright telegraphed Gen. 
                         Tod that the enemy was retreating, and not to send any more troops”<bibl><ref target="ClevelandHerald">reprinted in "Noble Response"</ref></bibl></quote>.
                      </p>
+                     <p><hi rend="bold">The Ohio River as (Cultural, Political, Military) Border</hi></p>
+                     <p>
+                        It is difficult to overestimate the  Ohio River's importance during the Civil War. As the southern border of Illinois, Indiana, and Ohio, the river served as a border 
+                        between slave states and free states and functioned as an obstacle for Confederates attempting to cross over into the north. Contemporary sources reference gunboats 
+                        patrolling the river on a daily basis and also mention steamboats being used to transport Union troops throughout the region. Describing the fortifications being 
+                        erected in and around Cincinnati, one newspaper cites the river’s importance to the area’s defense: <quote>“The Ohio river, from Columbus to Sedamsville, forms the 
+                        segment of a circle, the length of the arc being nearly 12 miles, with a range of hills on the south of Covington and Newport for its base . . . completely commanding 
+                        all the river and road approaches from the South”<bibl><ref target="Defences">"Defences"</ref></bibl></quote>. 
+                     </p> <!--Still more information to squeeze in about the Ohio River as border-->
                   </note>
 
                </notesStmt>
@@ -640,7 +649,7 @@
                   <education>BA, Vassar College (2007)</education>
                   <education>MA, The Ohio State University (2012)</education>
                   <education>PhD, The Ohio State University (expected 2016)</education>
-                  <note type="biographical">Matthew Poland is a PhD student in the department of English at The Ohio State University. His research focuses primarily on rhetorical and ethical approaches to 20th-century Anglo-American fiction and film. He also serves as the editorial assistant for <title>Narrative</title>.</note>
+                  <note type="biographical">Matthew Poland is a PhD student in the department of English at The Ohio State University. His research focuses primarily on rhetorical and ethical approaches to 20th-century Anglo-American fiction and film. He also serves as the editorial assistant for <title level="j">Narrative</title>.</note>
                </person>
             </listPerson>
             
@@ -783,6 +792,8 @@
                <bibl xml:id="DailySentinel" n="Warin"><title level="a">"The War in Kentucky."</title> <title level="j">Milwaukee Daily Sentinel</title> (Milwaukee, WI). 4 September 1862: Issue 212; col B. Web. 17 November 2012.</bibl>
                <bibl xml:id="ClevelandHerald" n="Noble"><title level="a">"Noble Response from the Country to Aid to Defend Cincinnati."</title> <title level="j">Daily Cleveland Herald</title> (Cleveland, OH). 25 September 1862: Issue 227; col A. Web. 16 November 2012.</bibl>
                <bibl xml:id="CookeCatalog" n="CookeCatalog">Cooke &amp; Co.. <title>Illustrated Catalogue of General Machinery and Supplies for Machinists, Manufacturers, Mills, Mines, Railroads, Steamships, etc., etc.</title> New York: Standard Printing and Publishing Company, 1883. Web. 25 November 2012.</bibl>
+               <bibl xml:id="Defences" n="Defences"><title level="a">"The Defences of Cincinnati."</title> <title level="j">Frank Leslie's Illustrated Newspaper</title> (New York, NY). 16 November 1861: Issue 312; col A. Web. 19 November 2012.</bibl>
+               <bibl xml:id="Harper" n="Harper">Harper, Robert S. <title level="m">Ohio Handbook of the Civil War.</title> Columbus, OH: The Ohio Historical Society, 1961.</bibl>
          </listBibl>
          </sourceDesc>
 
