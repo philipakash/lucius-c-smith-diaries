@@ -800,6 +800,8 @@
                <bibl xml:id="CookeCatalog" n="CookeCatalog">Cooke &amp; Co.. <title>Illustrated Catalogue of General Machinery and Supplies for Machinists, Manufacturers, Mills, Mines, Railroads, Steamships, etc., etc.</title> New York: Standard Printing and Publishing Company, 1883. Web. 25 November 2012.</bibl>
                <bibl xml:id="Defences" n="Defences"><title level="a">"The Defences of Cincinnati."</title> <title level="j">Frank Leslie's Illustrated Newspaper</title> (New York, NY). 16 November 1861: Issue 312; col A. Web. 19 November 2012.</bibl>
                <bibl xml:id="Harper" n="Harper">Harper, Robert S. <title level="m">Ohio Handbook of the Civil War.</title> Columbus, OH: The Ohio Historical Society, 1961.</bibl>
+               <bibl xml:id="Invasion" n="Rebel"><title level="a">"Rebel Invasion of Maryland."</title> <title level="j">Daily National Intelligencer</title> (Washington D.C.). 8 September 1862: Issue 15; col B. Web. 22 November 2012.</bibl>
+               <bibl xml:id="Retreat" n="Retreat"><title level="a">"The Retreat of the Rebel Army."</title> <title level="j">Boston Daily Advertiser</title> (Boston, MA). 22 September 1862: Issue 72; col C. Web. 22 November 2012.</bibl>
          </listBibl>
          </sourceDesc>
 
@@ -1589,7 +1591,7 @@
             <dateline><lb/><date when="1862-09-09">Tues 9</date></dateline>
             <p><lb/>morning <persName>Homer</persName> &amp; me went to <placeName>Delaware</placeName>
             <lb/>after sheet Iron they manufacture pans
-            <lb/>up <choice><sic>thare</sic><corr>there</corr></choice> <!--John usually transcribes what I see as "thare" as "there"; double check here and elsewhere--> and as I could not get
+            <lb/>up <choice><sic>thare</sic><corr>there</corr></choice> and as I could not get
             <lb/><choice><sic>suitabble</sic><corr>suitable</corr></choice> Iron in <placeName>Columbus</placeName> I con<seg type="softhyphen">
             <lb/></seg>cluded to try up <choice><sic>thare</sic><corr>there</corr></choice> I got quite good
             <lb/>Iron 30 inches wide by 8 &amp; 9 <choice><abbr>ft</abbr><expan>feet</expan></choice> <choice><sic>loung</sic><corr>long</corr></choice> 
@@ -1690,8 +1692,16 @@
             <lb/>and no rain. we now have plenty of Peaches
             <lb/>and <unclear cert="low">diging</unclear> them </p> 
             <pb facs="/1/14bed02a-d84b-46f6-83d9-92cfe1a90d2c"/>
-            <lb/><p><persName><unclear cert="low">Mclean</unclear></persName> <!--Question about letter overwritten--> Has succeed<supplied reason="omitted" resp="ed">ed</supplied> in driving
-            <lb/>out the Rebels out of <placeName><choice><sic>meriland</sic><corr>Maryland</corr></choice></placeName>
+            <lb/><p><persName><unclear cert="low"><choice><sic>Mclean</sic><corr>McClellan</corr></choice></unclear></persName> Has succeed in driving
+            <lb/>out the Rebels out of <placeName><choice><sic>meriland</sic><corr>Maryland</corr></choice></placeName><ptr type="noteAnchor" target="Maryland"/>
+            <note resp="ed" xml:id="Maryland">Smith is here referring to the Maryland Campaign, wherein contemporary sources describe Confederates crossing the 
+               Potomac River, invading Maryland, and taking over the city of Frederick on September 7, 1862 <bibl><ref target="Invasion">"Invasion"</ref></bibl>. This led to the Battle of 
+               Antietam on September 17th, considered today to be one of the major turning points in the Civil War, wherein Maj. Gen. George B. McClellan led the Army of the 
+               Potomac to a decisive victory, forcing Gen. Robert E. Lee to order a withdrawl across the Potomac on September 18th. A September 20, 1862, dispatch from the Headquarters 
+               of the Army of the Potomac states, <quote>"The name given to this battle is the Antietam. After our forces occupied the whole field, 
+               the rebel loss was found to be far greater, particularly in killed, than was at first supposed. Fully two thousand five hundred were found lying on the field,
+               while a larger number had been buried the day before by their friends. Their loss in killed and wounded men will not come far from
+               eighteen thousand to twenty thousand" <bibl><ref target="Retreat">qtd. in "Retreat"</ref></bibl></quote>.</note>
             <lb/>after some of the severest <choice><sic>fiting</sic><corr>fighting</corr></choice> of 
             <lb/>the war <placeName ref="Cincinnati">Cincinnati</placeName> Has
             <lb/>been saved from the Rebels and
