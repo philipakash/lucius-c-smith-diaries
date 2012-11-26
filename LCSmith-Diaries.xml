@@ -271,15 +271,15 @@
                      <p>
                         Production of molasses from sorghum was a fairly new agricultural activity during the mid-nineteenth century. 
                         It had cultural and  economic implications. Several books published about farming during the nineteenth century 
-                        describe the process in some detail. In <title level="m">History of Ohio Agriculture</title>(1900) Charles William Burkett mentions that 
-                        sorghum was one of the crops introduced to Ohio by the early settlers in the nineteenth century. These early 
+                        describe the process in some detail. In <title level="m">History of Ohio Agriculture</title> (1900) Charles William Burkett 
+                        mentions that sorghum was one of the crops introduced to Ohio by the early settlers in the nineteenth century. These early 
                         settlers were interested in developing family farms at this point. In <title level="m">Soils and Crops of the Farm</title>, 
                         George Espy Morrow and Thomas Forsyth Hunt observe,<quote> “Sorghum is the only agriculturally important plant 
                            which has been introduced into the United States since the American Revolution...and was widely distributed 
-                           during the decade prior to the war between the states”</quote>(260).  
+                           during the decade prior to the war between the states”</quote> <bibl><ref target="HuntMorrow">260</ref></bibl>.  
                      </p>
                      <p><hi rend="bold">History and Technology</hi>
-                        The Sorghum cane, which is supposed to be native to China, came to United States via France in the 1850s. Before the 
+                        <lb/>The Sorghum cane, which is supposed to be native to China, came to United States via France in the 1850s. Before the 
                         introduction of sorghum, maple sap, juice from beet and Sugarcane were used to produce sugar. However, those posed 
                         specific difficulties to the country in which local industries were trying to find a national market: the sugar produced 
                         from the other kinds of canes dried up fast. In Ohio, sorghum was initially raised in small scales and molasses made from 
@@ -297,9 +297,10 @@
                         toward domestic rather than a large scale commercial enterprise for many mill owners. At the same time, the potential of 
                         the industry to grow rapidly was recognized by farmers and mill owners. 
                         
-                     </p><p><hi rend="bold">Commercialization</hi>
-                        
-                        On 7th January 1862 a State Sorghum Convention was held at Columbus, Ohio. The convention not only discussed the culture 
+                     </p>
+                     <p><hi rend="bold">Commercialization</hi>
+                     
+                        <lb/>On 7th January 1862 a State Sorghum Convention was held at Columbus, Ohio. The convention not only discussed the culture 
                         of growing sorghum and manufacturing molasses from it, but also promoted certain kinds of pans and mills as facilitators 
                         of more profitable and durable products than others. The Ohio Cultivator documents a debate between a sales agent of 
                         "Implements and Machinery," and the secretary of the convention on the subject of advertising at the 
@@ -843,6 +844,7 @@
             <bibl xml:id="DocsMsgs" n="DocumentsMessages"> <title level="s">Documents, Messages and other Communication made to the General Assembly and Governor of the State of Ohio. Part II.</title> Columbus: Richard Nevines State Printer, 1858. Print. </bibl>
             <bibl xml:id="Bateham" n="Bateham">Bateham, M.B. and Sullivan D. Harris. ed. <title level="s">The Ohio Cultivator.vol. 18.</title> Columbus: Harris and Hurd Proprieters, 1862. Print.</bibl>
             <bibl xml:id="Talcott" n="Talcott">Talcott, H. <title level="s">Annual Report of the Ohio State Board of Agriculture. Vol. 38.</title> Columbus: Myers Brothers State Printers, 1884. Print.</bibl>
+            <bibl xml:id="Burkett" n="Burkett">Burkett, Charles William. <title level="m"> History of Ohio Agriculture: A Treatise on the Development of the Various Lines and Phases of Farm Life in Ohio.</title> Concord: The Rumford Press, 1900.</bibl>
             </listBibl>
          </sourceDesc>
 
