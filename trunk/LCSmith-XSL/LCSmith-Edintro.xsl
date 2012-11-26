@@ -235,14 +235,20 @@
       <hr/>
       <a name="source"/>
       <h2>About the Source Documents</h2>
-      <p>Title: "<xsl:value-of select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:titleStmt/tei:title"/>" 
-         <br/>Extent: <xsl:value-of select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:extent"/>
+      <p>Title: "<xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:titleStmt/tei:title"/>" 
+         <br/>Extent: <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:extent"/>
       </p>
          <xsl:apply-templates/>
    </xsl:template>
+   
    <xsl:template match="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:refsDecl">
       <h3>Encoding Conventions</h3>
       <xsl:apply-templates/>
+      <p align="center">
+         <xsl:value-of
+            select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability/tei:p[@xml:id='CreativeCommons']"
+            disable-output-escaping="yes"/>
+      </p>      
    </xsl:template>
    
    <xsl:template match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability">
@@ -253,8 +259,8 @@
       </p>
       <p>
          <em>
-            <xsl:value-of select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:pubPlace"/>, <xsl:value-of
-               select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:date"/>
+            <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:pubPlace"/>, <xsl:value-of
+               select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:date"/>.
          </em>
       </p>
    </xsl:template>
@@ -293,6 +299,7 @@
          </p>
       </xsl:for-each>
    </xsl:template>
+   
    <xsl:template match="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:editorialDecl">
       <h3>Editorial Method</h3>
       <xsl:apply-templates/>
@@ -373,11 +380,6 @@
 
    <!-- Format information about the revision history of your document. -->
    <xsl:template match="tei:TEI/tei:teiHeader/tei:revisionDesc">
-         <p align="center">
-            <xsl:value-of
-               select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability/tei:p[@xml:id='CreativeCommons']"
-               disable-output-escaping="yes"/>
-         </p>
          <hr/>
          <a name="revision"/>
          <h2>Revision History</h2>
@@ -507,9 +509,7 @@
          <xsl:apply-templates/>
       </cite>
    </xsl:template>   
-   <xsl:template match="tei:date">
-      <xsl:apply-templates/>
-   </xsl:template>
+   <xsl:template match="tei:date"/>
 
    <!-- LINK OR EMBED IMAGES AND OTHER NON-TEXTUAL MATERIALS -->
    <xsl:template match="tei:figure[@rend='link']"> 
