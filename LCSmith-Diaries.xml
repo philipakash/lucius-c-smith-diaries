@@ -61,7 +61,7 @@
 
          </titleStmt>
          
-         <extent>approx. 000 kilobytes</extent>
+         <extent>approx. 200 kilobytes</extent>
 
          <publicationStmt>
 
@@ -87,12 +87,12 @@
                   Library of The Ohio State University Libraries. Any use of the material should
                   acknowledge such ownership.</p>
                <p xml:id="CreativeCommons">
-                  <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons./images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0  License</a>.<br/>
+                  <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0  License</a>.<br/>
                   This license does not transfer any rights regarding material used in the edition by permission of a third party.]]>
                </p>
             </availability>
 
-            <date>2012-08-27</date>
+            <date>2012-12-03</date>
 
          </publicationStmt>
 
@@ -105,9 +105,9 @@
                   The "level" attribute "indicates whether this is the title of an article, book, journal, 
                   series, or unpublished material, indicated as a, b, j, s, or u" (TEI P4X, ch. 5.2.1).
                   -->
-                  <title level="u">Book</title>
+                  <title level="u">[Untitled Diary]</title>
 
-                  <author>Lucius Clark Smith (1835 â€“ ?)</author>
+                  <author>Lucius Clark Smith (1835 - ?)</author>
 
                </titleStmt>
 
@@ -115,7 +115,7 @@
                     The <extent> element indicates the size of your source document, in whatever 
                     units are appropriate (usually pages; for example, 2 pp.) 
                 -->
-               <extent>000 pp.</extent>
+               <extent>188 pp.</extent>
 
                <publicationStmt>
                   <p>Pulbication statement from the library.</p>
@@ -159,12 +159,16 @@
                      <!-- 
                      We will use this note to describe the physical diary.
                      -->
-                     <p>SPEC.RARE.MS.AMER.69  v.2. Diaries, 1859â€“1862</p>
-                     <p>Collation: </p>
-                     <p>Paper: </p>
-                     <p>Binding: </p>
+                     <p>SPEC.RARE.MS.AMER.69  v.2. Diaries, 1859–1862</p>
+                     <p>Collation: 182 mm x 150 mm. 94 leaves.</p>
+                     <p>Unlined paste-down endpaper; [1-2] blank unlined
+                        leaf (r-v); [3-4] blank lined leaf; [5-25] entries from through 31 Dec.
+                        1861; [26] blank; [27-188] entries for 1862; unlined paste-down
+                        endpaper with final entry for 31 Dec. 1862</p>
+                     <p>Paper: Off-white paper with blue lines spaced 8 mm apart and a 2 cm unlined top margin. </p>
+                     <p>Binding: 15 cm x 19 cm leather cover with decorative marbling.</p>
                      <p>Unpublished manuscript.</p>
-                     <p>Other information about the physical document</p>
+                     <p>Page edges contain decorative marbling.</p>
                   </note>
 
                   <note type="introductory" resp="ed">
