@@ -1105,8 +1105,7 @@
             changes made during the development of the electronic text" (TEI P4X, ch. 5).
             Add additional changes at the top of the list.
          -->
-         <change when="2012-08-27" who="#HLU">Created the TEI file (Mention ODD file, schemas, XSL
-            files). </change>
+         <change when="2012-08-27" who="HLU">Created first drafts of TEI customization files, Relax NG schemas, and XSL stylesheets. </change>
 
       </revisionDesc>
 
