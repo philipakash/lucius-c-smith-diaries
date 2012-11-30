@@ -438,9 +438,7 @@
          <xsl:value-of select="@unit"/>)</em>] </xsl:template>
 
    <!-- Editorial emendations -->
-   <xsl:template match="tei:supplied"> [<i>
-         <xsl:apply-templates/>
-      </i>] </xsl:template>
+   <xsl:template match="tei:supplied">[<xsl:apply-templates/>] </xsl:template>
 
    <!-- Additions by the author or another hand. -->
    <xsl:template match="tei:add">
