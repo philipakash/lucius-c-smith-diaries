@@ -112,7 +112,7 @@
                }
                .revTable {
                    font-size: 1em;
-                   font-family: Verdana, Arial, Helvetica, sans-serif;
+                   font-family: 'Fanwood Text',georgia, serif;
                     
                }
                .links {
@@ -389,9 +389,6 @@
                <h3>Date</h3>
             </td>
             <td>
-               <h3>Role</h3>
-            </td>
-            <td>
                <h3>Name</h3>
             </td>
             <td>
@@ -399,15 +396,13 @@
             </td>
          </tr>
          <xsl:for-each select="tei:change">
+            <xsl:variable name="ID"><xsl:value-of select="@who"/></xsl:variable>
             <tr class="revTable" valign="top">
                <td nowrap="nowrap">
                   <xsl:value-of select="@when"/>
                </td>
                <td nowrap="nowrap">
-                  <xsl:value-of select="tei:roleName"/>
-               </td>
-               <td nowrap="nowrap">
-                  <a><xsl:attribute name="HREF"><xsl:value-of select="@who"/></xsl:attribute>HLU</a>
+                  <xsl:value-of select="//tei:listPerson[@type='editors']/tei:person[@xml:id=$ID]/tei:persName"></xsl:value-of>
                </td>
                <td>
                   <xsl:value-of select="text()"/>
