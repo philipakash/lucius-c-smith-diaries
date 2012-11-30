@@ -225,7 +225,7 @@
    
    <!-- Format the introductory notes. -->
    <xsl:template match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:notesStmt/tei:note[@type='introductory']">
-      <h2>Introduction:</h2>
+      <h2>Introduction</h2>
       <xsl:apply-templates/>
    </xsl:template>
    
