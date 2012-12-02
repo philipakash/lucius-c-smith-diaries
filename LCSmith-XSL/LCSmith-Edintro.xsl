@@ -170,6 +170,8 @@
                         target="_blank">People Mentioned</a><br />
                      <a href="LCSmithEdIntro.html#PlacesMentioned"
                         title="List of places mentioned in the diaries.">Places Mentioned</a><br />
+                     <a href="LCSmithEdIntro.html#OrganizationsMentioned"
+                        title="List of places mentioned in the diaries.">Organizations Mentioned</a><br />
                      <a href="LCSmithEdIntro.html#WorksCited" 
                         title="List of works cited in explanatory annotations and editorial introduction.">Works Cited</a>
                   </p>
