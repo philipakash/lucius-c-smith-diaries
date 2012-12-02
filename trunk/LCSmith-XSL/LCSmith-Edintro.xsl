@@ -143,10 +143,10 @@
                   <p>
                      <a href="LCSmithReading.html" title="Reading Text of the
                         Smith Diaries">Reading Text</a><br/>
-                     <a href="LCSmithDiplomatic.html" title="Diplomatic View of the
-                        Smith Diaries">Diplomatic View</a><br/>
-                     <a href="LCSmithCombined.html" title="Side-by-side view of
-                        page images and diplomatic transcription">Facsimile/Text View</a><br/>
+                     <a href="#source" title="Diplomatic View of the
+                        Smith Diaries">The Source Document</a><br/>
+                     <a href="#edition" title="Side-by-side view of
+                        page images and diplomatic transcription">The Electronic Edition</a><br/>
                      <a
                         href="http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/default.cfm"
                         title="Background information about the project.">Project Web Site</a><br/>
