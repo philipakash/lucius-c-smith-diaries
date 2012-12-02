@@ -955,7 +955,7 @@
                Hawthorne to her sister Elizabeth Palmer Peabody between ca. 1837 and 1868 (currently
                being revised); "Dear Wife," twenty-one letters written by riverboat captain William
                B. Anderson to his wife Louisa while he plied the Ohio river during the height of the
-               American Civil War, 1862â€“1864; "Journal of a Tour to Europe," by Samuel Sullivan Cox;
+               American Civil War, 1862&#x2013;1864; "Journal of a Tour to Europe," by Samuel Sullivan Cox;
                and "Louisa A. Doane's Journal of Two Ocean Voyages (1852-1853). These documentary
                editions are intended to provide wide exposure and access to manuscripts that might
                otherwise be difficult for scholars to discover and consult, and to provide users
@@ -965,7 +965,7 @@
                courses provide students with an opportunity to explore issues of textuality
                and mediation that arise when our cultural archives spread from page to screen and
                from library shelves to networked databases. Electronic textual editing serves as our
-               vehicle for examining what happensâ€”and envisioning what might happenâ€”when artifacts
+               vehicle for examining what happens—and envisioning what might happen—when artifacts
                in one medium are represented in another medium, especially with regard to the
                interpretive work of reading. Electronic textual editions also provide a contact zone
                that can help us reflect on what manuscript, print, and "born digital" artifacts can
@@ -1018,15 +1018,16 @@
                variant "views" of the edition, TEI ODD documents used to produce custom schemas
                based on the TEI markup language, and the resulting schemas are stored on a server
                hosted by College of Arts and Sciences at The Ohio State University and on a Google
-               SVN repository (CURRENT URL). High resolution scans of the manuscript pages, scans of
-               plates from contemporary sources, and photographs of the journal are stored in the
-               Media Manager application hosted by the College of Arts and Science at The Ohio State
-               University. The files constituting the project's Web site are stored on a Web server
-               hosted by the College (CURRENT URL).</p>
+               SVN repository. Readers may download copies of those source files via a link at the
+               top of this page. High resolution scans of the manuscript pages, scans of plates from
+               contemporary sources, and photographs of the journal are stored in the Media Manager
+               application hosted by the College of Arts and Science at The Ohio State University.
+               The files constituting the project's Web site are stored on a Web server hosted by
+               the College (http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/).</p>
             <p>
                <emph rend="bold">Archiving of Digital Assets</emph>. Once the edition is complete,
                its digital assets will be archived in The Ohio State University
-               Knowledge Bank (https://kb.osu.edu/dspace/index.jsp). 
+               Knowledge Bank (https://kb.osu.edu/dspace/). 
             </p>
 
          </editorialDecl>
@@ -1041,8 +1042,9 @@
                   rend="bold">Line breaks</emph> (i.e., lineation determined or influenced by the
                physical constraints of the page rather than compositional choices by the author) are
                encoded with the empty &lt;lb/&gt; element. No attributes are included in the
-               &lt;lb&gt; element. 
-            </p>
+               &lt;lb&gt; element. Because Smith wrote on lined paper, when he skips a line printed
+               on the paper for any reason, we encode a &lt;lb/&gt; that, in the view arranged by
+               manuscript pages and lines, will appear as an empty numbered line. </p>
             <p>
                <emph rend="bold">Markup of Textual Structure</emph>. The <emph rend="bold">diary
                   entry</emph>, encoded by a &lt;div&gt; element with the attribute-value pair
@@ -1076,8 +1078,9 @@
                nonstandard spellings and expansions of abbreviations. </p>
             <p>
                <!-- NOTE: Update to include informationa about TEI ODD files. -->
-               <emph rend="bold">Extensions to the TEI P5 Schema</emph>. Briefly describe and locate
-               the TEI ODD files, schemas, and so on.
+               <emph rend="bold">Customization of the TEI P5 Schema</emph>. Customization consisted primarily of restricting
+               encoding to certain modules and elements as well as enforcing some attribute values. See the ODD file for 
+               complete details.
             </p>
             
          </refsDecl>
@@ -1122,7 +1125,7 @@
             <keywords scheme="#LCSH">
                <term>Diaries</term>
                <term>Farm Mechanization</term>
-               <term>Columbus (Ohio)s</term>
+               <term>Columbus (Ohio)</term>
                <term>Sorghum Molasses</term>
                <term>Ohio--History--Civil War, 1861-1865</term>
             </keywords>
