@@ -856,12 +856,14 @@
               </org>
             </listOrg>
             
-            <listEvent>
+            <!--
+               <listEvent>
                <event when="1862-08-02">
                   <label>War Meeting</label>
                   <desc>War meeting referred to in letter of 2 August 1862.</desc>
                </event>
             </listEvent>
+            -->
             
             <listBibl>
                
