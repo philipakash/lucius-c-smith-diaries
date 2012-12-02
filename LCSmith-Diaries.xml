@@ -2067,7 +2067,17 @@
                   <lb/> the company Have moved away and I will 
                   <lb/>Have to get it fixed some time by the old price 
                   <lb/> or get a pattern made. put a sweep to the new 
-                  <lb/> mill as as to put on two Horses one at each end.
+                  <lb/> mill as as to put on two Horses<ptr type="noteAnchor" target="Horse"/>
+                  <note resp="ed" xml:id="Horse">Lucius Smith's use of the word "Horse," in the context of 
+                     his mill, usually refers to "horsepower." Horsepower, as it is understood today, 
+                     is a unit for measuring power. The engines that drove sugar mills in the 1860s 
+                     could have various range of horsepower: "an engine of 20 horse-power will drive 
+                     a sugar mill having rollers 5 feet long and 28 inches diameter...An engine of 18 horse-power 
+                     will work a mill 4 1/2 feet long and 26 inches diameter..." <bibl><ref target="Brande">Brande and Cox 643</ref></bibl>. Smith's truncation 
+                     of horsepower to "horse," which was a familiar usage in the nineteenth century <bibl><ref target="Bourne">see Bourne 501</ref></bibl>, 
+                     draws attention to the analogy of the output of steam engines with the power of horses that informed 
+                     the unit of measurement.</note>
+                      
                   <lb/> But they would not work well so we run
                   <lb/> one Horse awhile and then changed and run the 
                   <lb/>mill all night never <choice><sic>stoped</sic><corr>stopped</corr></choice> it for anything 
