@@ -235,8 +235,8 @@
       <hr/>
       <a name="source"/>
       <h2>About the Source Documents</h2>
-      <p>Title: "<xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:titleStmt/tei:title"/>" 
-         <br/>Extent: <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:extent"/>
+      <p><strong>Title</strong>: "<xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:titleStmt/tei:title"/>" 
+         <br/><strong>Extent</strong>: <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:extent"/>
       </p>
          <xsl:apply-templates/>
    </xsl:template>
@@ -276,8 +276,8 @@
       <hr/>
       <a name="edition"/>
       <h2>About the Electronic Edition</h2>
-      <p>Title: <xsl:value-of select="tei:title"/></p>
-         <p>Editors: <xsl:for-each select="tei:editor">
+      <p><strong>Title</strong>: <xsl:value-of select="tei:title"/></p>
+         <p><strong>Editors</strong>: <xsl:for-each select="tei:editor">
             <xsl:choose>
                <xsl:when test="current()=//tei:editor[1]">
                   <xsl:apply-templates/>
@@ -287,7 +287,7 @@
          </xsl:for-each>.</p>
       <xsl:for-each select="tei:respStmt">
          <p>
-      <xsl:value-of select="tei:resp"/>
+      <strong><xsl:value-of select="tei:resp"/></strong>
       <xsl:for-each select="tei:persName">
             <xsl:choose>
                <xsl:when test="current()=//tei:respStmt/tei:persName[1]">
