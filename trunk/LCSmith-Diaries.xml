@@ -887,9 +887,9 @@
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1596.htm&gt;.</bibl>
                <bibl xml:id="RootsWeb1635" n="DanielJr">"Daniel Bennet" [Jr.]. <title level="m">RootsWeb.com</title>. 2012. Web. 16 October 2012.
                   &lt;http://freepages.genealogy.rootsweb.ancestry.com/~rothlisberger/rothlisberger/1635.htm&gt;.</bibl>
-               <bibl xml:id="FindaGrave73411433" n="GG">"George Asbury Goodrich". <title level="m">Findagrave.com</title>. 2011. Web. 24 October 2012.
+               <bibl xml:id="FindaGrave73411433" n="GeorgeA">"George Asbury Goodrich". <title level="m">Findagrave.com</title>. 2011. Web. 24 October 2012.
                   </bibl>
-               <bibl xml:id="FindaGrave74277136" n="TW">"Thornton E B Wells". <title level="m">Findagrave.com</title>. 2011. Web. 25 October 2012.</bibl>
+               <bibl xml:id="FindaGrave74277136" n="Thornton">"Thornton E B Wells". <title level="m">Findagrave.com</title>. 2011. Web. 25 October 2012.</bibl>
                <bibl xml:id="Ancestry1880" n="1880">"1880 United States Federal Census". <title level="m">Ancestry.com</title>. 1999.  Web.  20 October 2012.</bibl>
                <bibl xml:id="Ancestry1860" n="1860">"1860 United States Federal Census". <title level="m">Ancestry.com</title>. 2009. Web. 20 October 2012.</bibl>
                <bibl xml:id="Ancestry1870" n="1870">"1870 United States Federal Census." <title level="m">Ancestry.com</title>. 2009. Web. 22 October 2012.</bibl>
@@ -900,21 +900,21 @@
                <bibl xml:id="Ancestry1850" n="1850">"1850 United States Federal Census." <title level="m">Ancestry.com</title>. 2009.  Web.  28 October 2012.</bibl>
                <bibl xml:id="Ancestry1840" n="1840">"1840 United States Federal Census." <title level="m">Ancestry.com</title>. 2009. Web. 29 October 2012.</bibl>
                <bibl xml:id="FindaGrave25957529" n="Pvt">"Pvt Gilbert George Collins." <title level="m">Findagrave.com</title>. 2008. Web. 29 October 2012.</bibl>
-               <bibl xml:id="DraftRecord1863" n="DR63">"US Civil War Draft Registrations Record, 1863-1865". <title level="m">Ancestry.com</title>. 2010. Web. 4 November 2012.</bibl>
+               <bibl xml:id="DraftRecord1863" n="USCivil">"US Civil War Draft Registrations Record, 1863-1865". <title level="m">Ancestry.com</title>. 2010. Web. 4 November 2012.</bibl>
                <bibl xml:id="evangelist" n="boy"><title level="a">"The Boy who Had 'Fits'."</title> <title>New York Evangelist</title> 21 June 1855: 100.</bibl>
-               <bibl xml:id="medical" n="Wilks">Dr. Wilks <title level="a">"Cases of Epilepsy with Clinical Remarks on the Use of Bromide and Iodide of Potassium in that Disease."</title> <title>Medical News</title> February 1862: 25. Web.</bibl>
+               <bibl xml:id="medical" n="DrWilks">Dr. Wilks <title level="a">"Cases of Epilepsy with Clinical Remarks on the Use of Bromide and Iodide of Potassium in that Disease."</title> <title>Medical News</title> February 1862: 25. Web.</bibl>
                <bibl xml:id="OhioMedical" n="Westminster"> <title level="a">"Westminster Hospital.--Epilepsy for thirty-two years..."</title><title level="j">The Ohio Medical and Surgical Journal</title> 1 May 1859: 392. Web.</bibl>
                <bibl xml:id="BoysStick" n="Boys"><title level="a">"Boys, Stick to the Farm"</title><title level="j">The New England Farmer; a Monthly Journal</title>October 1863. Web.</bibl>
                <bibl xml:id="FitchAndRuggles" n="Fitch">Fitch, Catherine A. and Steven Ruggles <title level="a">"Historical Trends in Marriage Formation: The United States 1850-1990"</title> in <title level="m">The Ties that Bind: Perspectives on Marriage and Cohabitation.</title> New York, NY: Walter de Gruyter Inc., 2000. Print.</bibl>
                <bibl xml:id="Frank" n="Frank">Frank, Stephen M. <title level="m">Life with Father: Parenthood and Masculinity in the Nineteenth Century</title>Baltimore: The Johns Hopkins University Press, 1998. Print.</bibl>
                <bibl xml:id="Easterlin" n="Easterlin">Easterlin, Richard A., George Alter, and Gretchen A. Condran <title level="a">Farms and Farm Families in Old and New Areas: The Northern States in 1860.</title> <title level="m">Family and Population in Nineteenth-Century America.</title> Princeton:Priceton University Press, 1978. Print.</bibl>
-               <bibl xml:id="OHRRGuide" n="RR">Mansfield, Edward Deering. <title>The Ohio Railroad Guide, Illustrated: Cincinnati to Erie via Columbus and Cleveland.</title>Columbus: Ohio State Journal Company, 1854. Print</bibl>
-               <bibl xml:id="ReportCulture" n="Culture">Gould, John Stanton. <title>Report of Hon. John Stanton Gould on Sorghum and Sugar Beet Culture</title>Albany: Van Benthuysen's Steam Printing House, 1865. Print.</bibl>
-               <bibl xml:id="Convention" n="Convention">Gill, John L., Jr.<title level="a">The State Sorghum Convetion.</title><title level="j">The Ohio Cultivator.</title>18.5 (1862): 158. Print.</bibl>
-               <bibl xml:id="Comissioner" n="Comissioner"><title>Report of the Comissioner of Agriculture for the Year 1862.</title>Washington: Government Printing Office, 1863. Print.</bibl>
+               <bibl xml:id="OHRRGuide" n="Mansfield">Mansfield, Edward Deering. <title>The Ohio Railroad Guide, Illustrated: Cincinnati to Erie via Columbus and Cleveland.</title>Columbus: Ohio State Journal Company, 1854. Print</bibl>
+               <bibl xml:id="ReportCulture" n="Gould">Gould, John Stanton. <title>Report of Hon. John Stanton Gould on Sorghum and Sugar Beet Culture</title>Albany: Van Benthuysen's Steam Printing House, 1865. Print.</bibl>
+               <bibl xml:id="Convention" n="GillJ">Gill, John L., Jr.<title level="a">The State Sorghum Convetion.</title><title level="j">The Ohio Cultivator.</title>18.5 (1862): 158. Print.</bibl>
+               <bibl xml:id="Comissioner" n="Report"><title>Report of the Comissioner of Agriculture for the Year 1862.</title>Washington: Government Printing Office, 1863. Print.</bibl>
                <bibl xml:id="Proceedings" n="Proceedings"><title level="a">Proceedings of the Ohio Sorgo Convention.</title><title level="j">The Sorgo Journal and Farm Machinist.</title>3.1 (1865): 3. Print.</bibl>
-               <bibl xml:id="Centennial" n="Centennial">Taylor, William Alexander. <title>Centennial History of Columbus and Franklin County, Ohio, Volume 1</title>Chicago: S. J. Clarke Publishing Company, 1909. Print.</bibl>
-               <bibl xml:id="Centennial2" n="Centennial2">Taylor, William Alexander. <title>Centennial History of Columbus and Franklin County, Ohio, Volume 2</title>Chicago: S. J. Clarke Publishing Company, 1909. Print.</bibl>
+               <bibl xml:id="Centennial" n="Taylor1">Taylor, William Alexander. <title>Centennial History of Columbus and Franklin County, Ohio, Volume 1</title>Chicago: S. J. Clarke Publishing Company, 1909. Print.</bibl>
+               <bibl xml:id="Centennial2" n="Taylor2">Taylor, William Alexander. <title>Centennial History of Columbus and Franklin County, Ohio, Volume 2</title>Chicago: S. J. Clarke Publishing Company, 1909. Print.</bibl>
                <bibl xml:id="RaleighRegister" n="Field"><title level="a">“The Field of Operations in Kentucky.”</title> <title level="j">The Weekly Raleigh Register</title> (Raleigh, NC). 17 September 1862: Issue 37; col C. Web. 15 November 2012.</bibl>
                <bibl xml:id="Phillips" n="Phillips">Phillips, Christopher. <title level="a">“The Ohio River Valley: The Breadbasket of the Union.”</title> <title level="j">New York Times.</title> 8 August 2012. Web. 15 November 2012.</bibl>
                <bibl xml:id="Klement" n="Klement">Klement, Frank L. <title level="a">Sound and Fury: Civil War Dissent in the Cincinnati Area.</title> <title level="j">Cincinnati Historical Society Bulletin</title> 35.2 (Summer 1977): 98-114.</bibl>
