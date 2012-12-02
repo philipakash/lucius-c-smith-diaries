@@ -1291,9 +1291,9 @@
          <pb facs="/6/60952512-463b-4c2d-abdb-c19569830ec6"/>
          <div xml:id="LCS18620805" type="Entry">
    <lb/>
-   <dateline><lb/><date when="1862-08-05">Wednsday 6th Aug <hi rend="underline">1862</hi><lb/>
-   <time>last night</time></date></dateline>
-         <p>
+   <dateline><lb/><date when="1862-08-05">Wednsday 6th Aug <hi rend="underline">1862</hi></date></dateline>
+            <p>
+            <time>last night</time>
             <lb/>Had a good rain to day <persName>Newton</persName>
             <lb/><persName>John</persName> &amp; me quarried and Hawled stone from
             <lb/><persName>Cambells</persName> Hawled five loads. They are for
@@ -1325,9 +1325,8 @@
 </div>
          <pb facs="/b/be203565-f232-4fc3-8086-a38e95fa3c6d"/> 
 <div xml:id="LCS18620809" type="Entry">
-   <dateline><lb/><date when="1862-08-09">Saturday 9th Aug <hi rend="underline">1862</hi><lb/>
-   <time>morning</time></date></dateline>
-   <p>
+   <dateline><lb/><date when="1862-08-09">Saturday 9th Aug <hi rend="underline">1862</hi></date></dateline>
+   <p><time>morning</time>
       <lb/>went to <placeName>Columbus</placeName> got <persName>Gilbert Collins</persName>
       <lb/>to put my property over in the old <rs type="familial"><choice><sic>mans</sic><corr>man's</corr></choice></rs>
       <lb/>Hands so that if I am drafted <del rend="overstrike">I</del> He
@@ -1341,8 +1340,8 @@
    </p>
 </div>       
 <div xml:id="LC18620810" type="Entry">
-   <dateline><lb/><date when="1862-08-10">Sunday 10th Aug <hi rend="underline">1862</hi><lb/>
-      <time>morning</time></date></dateline><p> came Home got Home at noon
+   <dateline><lb/><date when="1862-08-10">Sunday 10th Aug <hi rend="underline">1862</hi></date></dateline>
+      <p><time>morning</time> came Home got Home at noon
       <lb/>We Have Had a nice rain went over
       <lb/>to see <persName>John Dague</persName> about Digging my
       <lb/>well as He promised to do it But
@@ -1353,8 +1352,9 @@
 </div>         
          <pb facs="/5/5119fa8f-c14f-4251-af5b-c5e9b7b2ccee"/>
          <div xml:id="LCS18620811" type="Entry">
-            <dateline><lb/><date when="1862-08-11">Monday Aug 11th <hi rend="underline">1862</hi><lb/>
-               <time>morning</time></date></dateline> <p><persName>John</persName>
+            <dateline><lb/><date when="1862-08-11">Monday Aug 11th <hi rend="underline">1862</hi></date></dateline>
+            <p>
+               <time>morning</time> <persName>John</persName>
                   <lb/>and I went up near Center and got my 
                   <lb/>Horse power for my mill It has to <choice><sic>bee</sic><corr>be</corr></choice>
                   <lb/>Rewooded anew. <time>Afternoon</time> <persName>Newton</persName> commen<seg type="softhyphen">
