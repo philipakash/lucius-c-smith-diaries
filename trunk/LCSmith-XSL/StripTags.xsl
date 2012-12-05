@@ -19,11 +19,11 @@
     </xsl:template>
     
     <!--
-    In the case of <choice> elements, this template chooses the <orig> or <sic>
-    content. Substituting <reg> or <corr> would select those elements.
+    In the case of <choice> elements, this template chooses the <reg> or <corr>
+    content. Substituting <orig> or <sic> would select those elements.
     -->
     <xsl:template match="tei:choice">
-        <xsl:value-of select="tei:orig | tei:sic"/>
+        <xsl:value-of select="tei:reg | tei:corr"/>
     </xsl:template>
     
     <!-- Omit canceled text. -->
