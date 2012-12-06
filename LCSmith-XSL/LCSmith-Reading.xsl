@@ -42,7 +42,6 @@
         #maintext {
         position:relative;
         top:300px;
-        z-index:-1;
         width:450px;
         margin-left:200px;
         }

@@ -69,6 +69,7 @@
                position: fixed;
                background-color: rgba(255, 255, 255, 1);
                color: rgba(1, 1, 1, 0.8);
+               z-index:1;
                }
                .mastheadl {
                float : left;
@@ -312,7 +313,7 @@
             <!-- Insert link to home page, creation date, and licensing statement.-->
             <p align="left">
                <a href="http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/default.cfm"
-                  target="self">Home</a>
+                  target="_self">Home</a>
                <br/>
                <br/>
                <emph>Created: <xsl:apply-templates
@@ -541,13 +542,13 @@
    <!-- LINK OR EMBED IMAGES AND OTHER NON-TEXTUAL MATERIALS -->
 
    <xsl:template match="tei:figure[@rend='link']"> [<a>
-         <xsl:attribute name="HREF">
+         <xsl:attribute name="href">
             <xsl:value-of select="tei:graphic/@url"/>
          </xsl:attribute>
          <xsl:attribute name="alt">
             <xsl:value-of select="tei:figDesc"/>
          </xsl:attribute>
-         <xsl:attribute name="target">blank</xsl:attribute>
+         <xsl:attribute name="target">_blank</xsl:attribute>
          <xsl:value-of select="tei:head"/>
       </a>]. </xsl:template>
 

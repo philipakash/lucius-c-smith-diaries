@@ -52,6 +52,7 @@
                    position: fixed;
                    background-color: rgba(255, 255, 255, 1);
                    color: rgba(1, 1, 1, 0.8);
+                   z-index:1;
                    }
                    .mastheadl {
                    float : left;
@@ -80,7 +81,6 @@
                    #maintext {
                    position:relative;
                    top:320px;
-                   z-index:-1;
                    width:500px;
                    margin-left:175px;
                    }
