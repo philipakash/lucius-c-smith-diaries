@@ -46,7 +46,6 @@
         #maintext {
         position:relative;
         top:300px;
-        z-index:-1;
         width:850px;
         }
     </xsl:variable>
@@ -62,11 +61,11 @@
         <br/>
         <div class="pagebreak"> [Page&#xA0;-&#xA0;<xsl:number count="tei:pb" format="1"
             level="any"/>&#xA0; (<a><xsl:attribute
-                name="HREF">http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/LCSmithZoom.cfm?file=<xsl:value-of
+                name="href">http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/LCSmithZoom.cfm?file=<xsl:value-of
                     select="@facs"/>.jpg</xsl:attribute><xsl:attribute name="target">top</xsl:attribute>click to open page image in a new window</a>)]<br/>
             <a>
                 <xsl:attribute
-                    name="HREF">http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/LCSmithZoom.cfm?file=<xsl:value-of
+                    name="href">http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/LCSmithZoom.cfm?file=<xsl:value-of
                         select="@facs"/>.jpg</xsl:attribute>
                 <xsl:attribute name="target">top</xsl:attribute>
                 <img class="pageview">
