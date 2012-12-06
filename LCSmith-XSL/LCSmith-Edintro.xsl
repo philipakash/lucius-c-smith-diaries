@@ -198,14 +198,13 @@
                      <a href="LCSmithEdIntro.html" title="Editorial Introduction
                         to the Lucius Clark Smith Diaries">Editorial Intro</a><br/>
                      <a
-                        href="LCSmithEdIntro.html#PeopleMentioned" 
-                        title="List of people mentioned in the diaries."
-                        target="_blank">People Mentioned</a><br />
-                     <a href="LCSmithEdIntro.html#PlacesMentioned"
+                        href="#PeopleMentioned" 
+                        title="List of people mentioned in the diaries.">People Mentioned</a><br />
+                     <a href="#PlacesMentioned"
                         title="List of places mentioned in the diaries.">Places Mentioned</a><br />
-                     <a href="LCSmithEdIntro.html#OrganizationsMentioned"
+                     <a href="#OrganizationsMentioned"
                         title="List of places mentioned in the diaries.">Organizations Mentioned</a><br />
-                     <a href="LCSmithEdIntro.html#WorksCited" 
+                     <a href="#WorksCited" 
                         title="List of works cited in explanatory annotations and editorial introduction.">Works Cited</a>
                   </p>
                </div>
@@ -272,8 +271,7 @@
    <xsl:template
       match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:notesStmt/tei:note[@type='descriptive']">
       <hr/>
-      <a name="source"/>
-      <h2>About the Source Documents</h2>
+      <h2 id="source">About the Source Documents</h2>
       <p><strong>Title</strong>: "<xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:titleStmt/tei:title"/>" 
          <br/><strong>Extent</strong>: <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:extent"/>
       </p>
@@ -313,8 +311,7 @@
    </xsl:template>
    <xsl:template match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt">
       <hr/>
-      <a name="edition"/>
-      <h2>About the Electronic Edition</h2>
+      <h2 id="edition">About the Electronic Edition</h2>
       <p><strong>Title</strong>: <xsl:value-of select="tei:title"/></p>
          <p><strong>Editors</strong>: <xsl:for-each select="tei:editor">
             <xsl:choose>
@@ -356,8 +353,7 @@
    </xsl:template>
    
    <xsl:template match="tei:listPerson[@type='mentioned']">
-      <a name="PeopleMentioned"/>
-      <h3>List of People Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="PeopleMentioned">List of People Mentioned in Lucius Smith's Diary</h3>
       <xsl:for-each select="tei:person">
          <xsl:sort select="tei:persName[1]"/>
          <p>
@@ -372,8 +368,7 @@
    </xsl:template>
    
    <xsl:template match="tei:listOrg">
-      <a name="OrganizationsMentioned"/>
-      <h3>List of Organizations Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="OrganizationsMentioned">List of Organizations Mentioned in Lucius Smith's Diary</h3>
       <xsl:for-each select="tei:org">
          <xsl:sort select="tei:orgName[1]"/>
          <p>
@@ -386,8 +381,7 @@
    <xsl:template match="tei:listPerson[@type='editors']"/>
    
    <xsl:template match="tei:listPlace">
-      <a name="PlacesMentioned"/>
-      <h3>List of Places Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="PlacesMentioned">List of Places Mentioned in Lucius Smith's Diary</h3>
       <xsl:for-each select="tei:place">
          <xsl:sort select="tei:geogName"/>
          <xsl:sort select="tei:placeName[1]"/>
@@ -406,8 +400,7 @@
    </xsl:template>
 
    <xsl:template match="tei:listEvent">
-      <a name="OrganizationsMentioned"/>
-      <h3>List of Notable Events Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="OrganizationsMentioned">List of Notable Events Mentioned in Lucius Smith's Diary</h3>
       <xsl:for-each select="tei:event">
          <xsl:sort select="tei:event[1]/@when"/>
          <p>
@@ -420,8 +413,7 @@
    <!-- Format information about the revision history of your document. -->
    <xsl:template match="tei:TEI/tei:teiHeader/tei:revisionDesc">
          <hr/>
-         <a name="revision"/>
-         <h2>Revision History</h2>
+         <h2 id="revision">Revision History</h2>
       <table width="90%" cellpadding="5px">
          <tr>
             <td>
