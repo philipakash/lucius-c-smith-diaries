@@ -62,25 +62,39 @@
             <style type="text/css">
               <xsl:value-of select="$bodyRule"/>
                .masthead {
-                   vertical-align : top;
+               vertical-align: top;
+               width:850px;
+               top:0;
+               padding-top:15px;
+               position: fixed;
+               background-color: rgba(255, 255, 255, 1);
+               color: rgba(1, 1, 1, 0.8);
                }
                .mastheadl {
-                   float : left;
-                   width : 175px;
-                   text-align : left;
-                   left : 50px;
+               float : left;
+               width : 175px;
+               text-align : left;
+               left : 50px;
+               margin-top:0px;
+               padding-top:0px;
                }
                .mastheadc {
-                   display : inline;
+               float:left;
+               width:500px
+               margin-top:0px;
+               padding-top:0px;
                }
                .mastheadr {
-                   float : right;
-                   text-align : right;
-                   width : 225px;
-                   position : absolute;
-                   top : 15px;
-                   left : 700px;
+               float : left;
+               width : 175px;
+               text-align : right;
+               position : absolute;
+               top : 15px;
+               left : 700px;
+               margin-top:0px;
+               padding-top:0px;
                }
+               <xsl:value-of select="$maintextRule"/>
                a:link {
                text-decoration: none;
                }
@@ -218,24 +232,26 @@
                         title="List of works cited in explanatory annotations and editorial introduction.">Works Cited</a>
                   </p>
                </div>
+               <div style="clear:both;"/><br/>
+               <hr/>
+               <p align="center">
+                  <span class="ProjectTitle">
+                     <xsl:apply-templates
+                        select="/tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
+                  </span>
+               </p>
+               <p align="center"><cite><strong>This edition is currently in progress. Please do
+                  not cite this preview until this notice is removed.</strong></cite><br/><br/>
+                  <button>Click to toggle between Smith's spelling and standardized spelling.</button>
+               </p>
+               <hr/>
+               
             </div>
-            <div style="clear:both;"/><br/>
-            <hr/>
-            <p align="center">
-               <span class="ProjectTitle">
-                  <xsl:apply-templates
-                     select="/tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
-               </span>
-            </p>
-            <p align="center"><cite><strong>This edition is currently in progress. Please do
-               not cite this preview until this notice is removed.</strong></cite><br/><br/>
-               <button>Toggle diplomatic and standardized orthography</button>
-            </p>
-            <hr/>
             
             <!-- Apply templates to the tei:body. -->
-            <xsl:apply-templates select="/tei:TEI/tei:text/tei:body"/>
-                        
+            <xsl:element name="div">
+               <xsl:attribute name="id">maintext</xsl:attribute>
+               <xsl:apply-templates select="/tei:TEI/tei:text/tei:body"/>
             <!-- Insert, count, encode by cardinal position, and link the explanatory annotations. -->
             <hr/>
             <h2>Explanatory Annotations</h2>
@@ -308,6 +324,7 @@
                   select="//tei:teiCorpus/tei:teiHeader/tei:availability/tei:p[@id='CreativeCommons']"
                   disable-output-escaping="yes"/>
             </p>
+          </xsl:element>                      
          </body>
       </html>
    </xsl:template>
