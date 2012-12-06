@@ -87,7 +87,7 @@
                text-decoration: none;
                }
                a:hover {
-               font-weight: bold;
+               font-style: italic;
                    }
                a.annotation {
                text-decoration: none;
@@ -101,6 +101,13 @@
                    font-size: 1.5em;
                    font-weight: bold;
                     
+               }
+               h2:before {
+               display: block;
+               content: " ";
+               margin-top: -320px;
+               height: 320px;
+               visibility: hidden;
                }
                h3 {
                    margin-top: 2em;

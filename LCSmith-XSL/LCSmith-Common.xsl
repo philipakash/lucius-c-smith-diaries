@@ -100,7 +100,7 @@
                text-decoration: none;
                }
                a:hover {
-               font-weight: bold;
+               font-style: italic;
                    }
                a.annotation {
                text-decoration: none;
