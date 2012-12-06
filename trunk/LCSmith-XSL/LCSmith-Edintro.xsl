@@ -234,8 +234,7 @@
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:editorialDecl"/>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:refsDecl"/>
             <hr/>
-            <a name="WorksCited"/>
-            <h2>List of Works Cited</h2>
+            <h2 id="WorksCited">List of Works Cited</h2>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl"/>
             <hr/>
