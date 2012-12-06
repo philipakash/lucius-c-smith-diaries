@@ -40,8 +40,8 @@
                body {
                    font-family: 'Fanwood Text',georgia, serif;
                    font-size: 1em;
-                   margin-left: 250px;
-                   width: 600px;
+                   margin-left: 50px;
+                   width: 850px;
                    margin-right: 50px;
                    }
                    .masthead {
