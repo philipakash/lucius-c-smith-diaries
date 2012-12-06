@@ -72,8 +72,6 @@
                    float : left;
                    width : 175px;
                    text-align : right;
-                   position : absolute;
-                   top : 15px;
                    left : 700px;
                    margin-top:0px;
                    padding-top:0px;
@@ -108,6 +106,13 @@
                    margin-top: 2em;
                    font-size: 1.25em;
                    font-style: italic;                    
+               }
+               h3:before {
+               display: block;
+               content: " ";
+               margin-top: -320px;
+               height: 320px;
+               visibility: hidden;
                }
                hr {
                    clear: right;
