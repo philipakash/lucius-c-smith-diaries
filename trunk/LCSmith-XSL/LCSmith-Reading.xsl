@@ -33,9 +33,21 @@
         margin-left: 50px;
         width: 850px;
         margin-right: 50px;
+        margin-top:0px;
+        padding:0px;
         font-family: 'Fanwood Text',georgia, serif;
         }                                     
     </xsl:variable>
+    <xsl:variable name="maintextRule">
+        #maintext {
+        position:relative;
+        top:300px;
+        z-index:-1;
+        width:450px;
+        margin-left:200px;
+        }
+    </xsl:variable>
+    
 
     <!-- Include common style sheet for Stephens family letters. -->
     <xsl:include href="LCSmith-Common.xsl"/>

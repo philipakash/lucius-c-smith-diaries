@@ -42,6 +42,14 @@
         margin-bottom:100px;
         }
     </xsl:variable>
+    <xsl:variable name="maintextRule">
+        #maintext {
+        position:relative;
+        top:300px;
+        z-index:-1;
+        width:850px;
+        }
+    </xsl:variable>
     
     <!-- Include common style sheet for Lucius Clark Smith Diaries. -->
     
@@ -63,8 +71,8 @@
                 <xsl:attribute name="target">top</xsl:attribute>
                 <img class="pageview">
                     <xsl:attribute name="src">https://images.asc.ohio-state.edu/is/image/englishdocs<xsl:value-of
-                            select="@facs"/>.jpg?scale=0.2&amp;fmt=png</xsl:attribute>
-                    <xsl:attribute name="width">400</xsl:attribute>
+                            select="@facs"/>.jpg?scale=0.3&amp;fmt=png</xsl:attribute>
+                    <xsl:attribute name="width">475</xsl:attribute>
                 </img>
             </a>
         </div>
