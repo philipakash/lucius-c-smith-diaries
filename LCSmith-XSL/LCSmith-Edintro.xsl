@@ -40,31 +40,52 @@
                body {
                    font-family: 'Fanwood Text',georgia, serif;
                    font-size: 1em;
-                   margin-left: 50px;
-                   width: 850px;
+                   margin-left: 250px;
+                   width: 600px;
                    margin-right: 50px;
                    }
-               .masthead {
-                   vertical-align : top;
-               }
-               .mastheadl {
+                   .masthead {
+                   vertical-align: top;
+                   width:850px;
+                   top:0;
+                   padding-top:15px;
+                   position: fixed;
+                   background-color: rgba(255, 255, 255, 1);
+                   color: rgba(1, 1, 1, 0.8);
+                   }
+                   .mastheadl {
                    float : left;
                    width : 175px;
                    text-align : left;
                    left : 50px;
-               }
-               .mastheadc {
-                   display : inline-block;
-               }
-               .mastheadr {
-                   float : right;
+                   margin-top:0px;
+                   padding-top:0px;
+                   }
+                   .mastheadc {
+                   float:left;
+                   width:500px
+                   margin-top:0px;
+                   padding-top:0px;
+                   }
+                   .mastheadr {
+                   float : left;
+                   width : 175px;
                    text-align : right;
-                   width : 225px;
                    position : absolute;
                    top : 15px;
                    left : 700px;
+                   margin-top:0px;
+                   padding-top:0px;
                    }
-               a:link {
+                   #maintext {
+                   position:relative;
+                   top:320px;
+                   z-index:-1;
+                   width:500px;
+                   margin-left:175px;
+                   }
+                   
+                   a:link {
                text-decoration: none;
                }
                a:hover {
@@ -176,20 +197,23 @@
                         title="List of works cited in explanatory annotations and editorial introduction.">Works Cited</a>
                   </p>
                </div>
+               <div style="clear:both;"/><br/>
+               <hr/>
+               <p align="center">
+                  <span class="ProjectTitle">
+                     <xsl:apply-templates
+                        select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
+                  </span>
+               </p>
+               <p align="center"><cite><strong>This edition is currently in progress. Please do
+                  not cite this preview until this notice is removed.</strong></cite> </p>
+               <hr/>
+               <hr/>
+               
             </div>
-            <div style="clear:both;"/><br/>
-            <hr/>
-            <p align="center">
-               <span class="ProjectTitle">
-                  <xsl:apply-templates
-                     select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
-               </span>
-            </p>
-            <p align="center"><cite><strong>This edition is currently in progress. Please do
-               not cite this preview until this notice is removed.</strong></cite> </p>
-            <hr/>
-            <hr/>
-     <!-- Order and apply templates for the sections of the header you wish to include. -->
+<xsl:element name="div">
+   <xsl:attribute name="id">maintext</xsl:attribute>
+   <!-- Order and apply templates for the sections of the header you wish to include. -->
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:notesStmt/tei:note[@type='introductory']"/>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:notesStmt/tei:note[@type='descriptive']"/>
@@ -221,6 +245,7 @@
             <hr/>
             <p>&#x2192; <a href="LCSmithReading.html">Link to the text of the journal</a>.
             </p>
+</xsl:element>
          </body>
       </html>
    </xsl:template>
