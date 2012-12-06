@@ -415,7 +415,7 @@
          <hr/>
          <a name="revision"/>
          <h2>Revision History</h2>
-      <table width="90%">
+      <table width="90%" cellpadding="5px">
          <tr>
             <td>
                <h3>Date</h3>
