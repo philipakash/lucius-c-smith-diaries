@@ -1,22 +1,76 @@
-               
-               body {
-                   margin: 30px;
-                   background-color: #FFFFFF;
-                   font-family: Verdana, Arial, Helvetica, sans-serif;
-                   width: 40em;
-               }                             
+                .masthead {
+               vertical-align: top;
+               width:850px;
+               top:0;
+               padding-top:15px;
+               position: fixed;
+               background-color: rgba(255, 255, 255, 1);
+               color: rgba(1, 1, 1, 0.8);
+               z-index:1;
+               }
+               .mastheadl {
+               float : left;
+               width : 175px;
+               text-align : left;
+               left : 50px;
+               margin-top:0px;
+               padding-top:0px;
+               }
+               .mastheadc {
+               float:left;
+               width:500px;
+               margin-top:0px;
+               padding-top:0px;
+               }
+               .mastheadr {
+               float : left;
+               width : 175px;
+               text-align : right;
+               position : absolute;
+               top : 15px;
+               left : 700px;
+               margin-top:0px;
+               padding-top:0px;
+               }
+               a:link {
+               text-decoration: none;
+               }
+               a:hover {
+               font-style: italic;
+                   }
+               a.annotation {
+               text-decoration: none;               
+                   }
+               a[name] {
+               display: inline-block;
+               content: " ";
+               margin-top: -300px;
+               height: 300px;
+               visibility: hidden;	
+               }
                div.pagebreak {
                    margin-top : 25px;
                    margin-bottom : 0px;
                    text-align : center;
+               }
+               div.envelope {
+                   font-size : .85em;
+                   width: 50%;
+               }
+               .msDesc {
+                   font-size : .85em;
+                   width: 50%;
+               }
+               .half-width {
+                   width : 50%;
                }
                hr {
                    color : #888833;
                    clear : left;
                }
                div#letter {
-                   border : 3px groove #666666;
-                   padding : 5px;
+                   border: 3px groove #666666;
+                   padding: 5px;
                }
                h1 {
                    font-family : Verdana, Arial, Helvetica, sans-serif;
@@ -30,12 +84,11 @@
                sup {
                }
                img {
-                   float: left;
-                   padding: 5px;
-                   margin-top: 5px;
-                   margin-bottom: 5px;
+                   float : left;
+                   padding : 5px;
+                   margin-top : 5px;
+                   margin-bottom : 5px;
                }
-
                .nocancel {
                    text-decoration : none;
                    color : #000000;
@@ -44,7 +97,7 @@
                    text-decoration : line-through;
                    color : #FF0000;
                }
-                div.fl_img_right {
+               div.fl_img_right {
                    float : right;
                    text-align : center;
                    margin : 5px 5px 5px 5px;
@@ -53,7 +106,7 @@
                    font-family : Verdana, Arial, Helvetica, sans-serif;
                    font-size : 16pt;
                    font-style : normal;
-                   font-weight : bolder;
+                   font-weight : bold;
                    line-height : 18pt;
                }
                .hang15 {
@@ -70,4 +123,10 @@
                }
                table {
                    text-align : right;
+               }
+               .sictoggle {
+               display:none;
+               }
+               .corrtoggle {
+               display:none;
                }
