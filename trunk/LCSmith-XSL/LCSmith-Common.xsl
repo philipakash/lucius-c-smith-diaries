@@ -50,7 +50,7 @@
                <xsl:value-of
                   select="/tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
             </title>
-            <script src="jquery-1.8.3.min.js"></script>
+            <script src="../LCSmith-HTML-CSS/jquery-1.8.3.min.js"></script>
             <script>
                $(document).ready(function(){
                $("button").click(function(){
@@ -59,7 +59,7 @@
                });
                });
             </script>
-            <link rel="stylesheet" href="LCSmith-HTML-CSS/LCSmith-CommonCSS.css"/>
+            <link rel="stylesheet" href="../LCSmith-HTML-CSS/LCSmith-CommonCSS.css" type="text/css"/>
             <style type="text/css">
               <xsl:value-of select="$bodyRule"/>              
                <xsl:value-of select="$maintextRule"/>

@@ -29,21 +29,19 @@
     </xsl:variable>
     <xsl:variable name="bodyRule">
         body {
-        background-position: top;
+        font-family: 'Fanwood Text',georgia, serif;
+        font-size: 1em;
         margin-left: 50px;
         width: 850px;
         margin-right: 50px;
-        margin-top:0px;
-        padding:0px;
-        font-family: 'Fanwood Text',georgia, serif;
         }                                     
     </xsl:variable>
     <xsl:variable name="maintextRule">
         #maintext {
         position:relative;
-        top:300px;
-        width:450px;
-        margin-left:200px;
+        top:320px;
+        width:500px;
+        margin-left:175px;
         }
     </xsl:variable>
     

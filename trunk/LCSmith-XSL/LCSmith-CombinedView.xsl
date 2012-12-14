@@ -34,18 +34,22 @@
         body {
         background-position: top;
         margin-left: 50px;
-        width: 1000px;
+        width: 850px;
         margin-right: 50px;
         font-family: 'Fanwood Text',georgia, serif;
         }
         .pageview {
         margin-bottom:100px;
+        float:left;
+        }
+        #maintext hr {
+        clear:left;
         }
     </xsl:variable>
     <xsl:variable name="maintextRule">
         #maintext {
         position:relative;
-        top:300px;
+        top:320px;
         width:850px;
         }
     </xsl:variable>
@@ -84,7 +88,7 @@
                 <xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>
             </xsl:attribute>
         </a>
-        <xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+        &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
     </xsl:template>
     <xsl:template match="tei:fileDesc/tei:titleStmt/tei:title/tei:lb">
         <br/><xsl:apply-templates/>
