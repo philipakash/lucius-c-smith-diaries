@@ -103,8 +103,15 @@
                font-style: italic;
                    }
                a.annotation {
-               text-decoration: none;
+               text-decoration: none;               
                    }
+               a[name] {
+               display: inline-block;
+               content: " ";
+               margin-top: -300px;
+               height: 300px;
+               visibility: hidden;	
+               }
                div.pagebreak {
                    margin-top : 25px;
                    margin-bottom : 0px;
