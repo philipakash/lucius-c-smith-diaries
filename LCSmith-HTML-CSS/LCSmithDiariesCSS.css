@@ -1,3 +1,10 @@
+body {
+	   font-family: 'Fanwood Text',georgia, serif;
+	   font-size: 1em;
+	   width: 1000px;
+	   margin-left: 50px;
+	   margin-right: 50px;
+}
 .masthead {
 	   vertical-align: top;
 	   text-align:center;
@@ -41,7 +48,7 @@
 	position:fixed;
 	top:300px;
 	float : left;
-	width : 280 px;
+	width : 280px;
 	text-align : left;
 	left : 50px;
 	margin-top:0px;
