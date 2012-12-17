@@ -36,65 +36,38 @@
                <xsl:value-of
                   select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
             </title>
-            <link rel="stylesheet" href="../LCSmith-HTML-CSS/LCSmith-CommonCSS.css"/>
-            <!--FONTS-->
+            <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/>
+               <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+               <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+               
+               <style>
+                  .ui-menu {
+                  width: 200px;
+                  }
+               </style>
+               <link href="LCSmithDiaries.css" rel="stylesheet" type="text/css" />
+               <!--FONTS-->
             <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>
             <link href='http://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'/>
             
          </head>
          <body>
             <div class="masthead">
-               <div class="mastheadl">
-                  <p>
-                     <a href="LCSmithReading.html" title="Reading Text of the
-                        Smith Diaries">Reading Text</a><br/>
-                     <a href="#source" title="Diplomatic View of the
-                        Smith Diaries">The Source Document</a><br/>
-                     <a href="#edition" title="Side-by-side view of
-                        page images and diplomatic transcription">The Electronic Edition</a><br/>
-                     <a
-                        href="http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/default.cfm"
-                        title="Background information about the project.">Project Web Site</a><br/>
-                     <a href="#view">About this Page</a>
-                  </p>
-               </div>
-               <div class="mastheadc">
-                  <p>
-                     <img src="https://images.asc.ohio-state.edu/is/image/englishdocs/1/1b4c862c-36e6-4189-8825-d5972bedfc1e.jpg?scale=0.2&amp;rgn=0,0,120,146&amp;fmt=png" height="100" alt="Portrait of Lucius C. Clark"/>&#xA0;&#xA0;<img
-                     src="https://images.asc.ohio-state.edu/is/image/englishdocs/d/d64bea81-daaf-41cc-975b-88bdfe839567.jpg?scale=0.2&amp;rgn=200,380,250,100&amp;fmt=png"
-                     alt="Manuscript detail" name="MSDetail" id="MSDetail"/>&#xA0;&#xA0;<img src="https://images.asc.ohio-state.edu/is/image/englishdocs/0/0ca173b2-3165-4fdf-babc-895c20be69f9.jpg?scale=0.1&amp;rgn=0,0,210,150&amp;fmt=png" height="100" alt="Open book"/>
-                  </p>
-               </div>
-               <div class="mastheadr"> 
-                  <p>
-                     <a href="LCSmithEdIntro.html" title="Editorial Introduction
-                        to the Lucius Clark Smith Diaries">Editorial Intro</a><br/>
-                     <a
-                        href="#PeopleMentioned" 
-                        title="List of people mentioned in the diaries.">People Mentioned</a><br />
-                     <a href="#PlacesMentioned"
-                        title="List of places mentioned in the diaries.">Places Mentioned</a><br />
-                     <a href="#OrganizationsMentioned"
-                        title="List of places mentioned in the diaries.">Organizations Mentioned</a><br />
-                     <a href="#WorksCited" 
-                        title="List of works cited in explanatory annotations and editorial introduction.">Works Cited</a>
-                  </p>
-               </div>
-               <div style="clear:both;"/><br/>
-               <hr/>
-               <p align="center">
-                  <span class="ProjectTitle">
-                     <xsl:apply-templates
-                        select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
-                  </span>
-               </p>
-               <p align="center"><cite><strong>This edition is currently in progress. Please do
-                  not cite this preview until this notice is removed.</strong></cite> </p>
-               <hr/>
-               <hr/>
-               
+               <div id="display1"> <img src="images/LCSmith-Daguerreotype.jpg" height="120" title="Lucius Clark Smith, 1858 (Age 23)"/> </div>
+               <div id="display2"> <img src="images/ArchibaldSmithHouse.jpg" height="120" title="Smith Homestead"/> </div>
+               <div id="display3"> <img src="images/Archibald-MaryAnnSmith.jpg" height="120" title="Lucius Smith's parents, Archibald and MaryAnn"/> </div>
+               <div id="display4"> <img src="images/Horse-Power-CaneMill-1857.jpg" height="120" title="A sorghum mill"/> </div>
+               <div id="display5"><img src="images/WarMeeting-18620815.jpg" height="120" title="Newark Advocate, 15 August 1862"/> </div>
             </div>
-<xsl:element name="div">
+            <div id="titleBar">
+               <p align="center"><span class="projectTitle">Selected Entries from the Lucius Clark Smith Diaries,<br/>
+                  1 August 1862 to 31 December 1862</span></p>
+               <p align="center"><cite><strong>This edition is currently in progress. Please do
+                  not cite this preview until this notice is removed.</strong></cite></p>
+               <hr/>
+            </div>
+            
+   <xsl:element name="div">
    <xsl:attribute name="id">maintext</xsl:attribute>
    <!-- Order and apply templates for the sections of the header you wish to include. -->
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:notesStmt/tei:note[@type='introductory']"/>
