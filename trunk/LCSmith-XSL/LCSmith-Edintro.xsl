@@ -37,15 +37,15 @@
                   select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
             </title>
             <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/>
-               <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
-               <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+               <script src="http://code.jquery.com/jquery-1.8.3.js"/>
+               <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"/>
                
                <style>
                   .ui-menu {
                   width: 200px;
                   }
                </style>
-               <link href="LCSmithDiaries.css" rel="stylesheet" type="text/css" />
+               <link href="LCSmithDiariesCSS.css" rel="stylesheet" type="text/css" />
                <!--FONTS-->
             <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>
             <link href='http://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'/>
@@ -67,6 +67,55 @@
                <hr/>
             </div>
             
+            <div id="navBar">
+               <ul id="menu">
+                  <li><a href="#introduction">Editorial Introduction</a>
+                     <ul>
+                        <li><a href="#introduction">Introduction</a>
+                           <ul>
+                              <li><a href="#family">Family Dynamics</a></li>
+                              <li><a href="#milling">Mill Operations</a></li>
+                              <li><a href="#sorghum">Sorghum Farming</a></li>
+                              <li><a href="#civilWar">Civil War and Civic Life</a></li>
+                              <li><a href="#borders">Borderlands/Hinterlands</a></li>
+                           </ul>
+                        </li>
+                        <li><a href="#source" title="Diplomatic View of the Smith Diaries">The Source Document</a></li>
+                        <li><a href="#edition" title="Side-by-side view of page images and diplomatic transcription">The Electronic Edition</a></li>	
+                        <li><a href="#peopleMentioned">People Mentioned</a></li>
+                        <li><a href="#placesMentioned">Places Mentioned</a></li>
+                        <li><a href="#organizationsMentioned">Organizations Mentioned</a></li>
+                        <li><a href="#worksCited">Works Cited</a></li>
+                        <li><a href="#view">About the Introduction</a></li>
+                     </ul>
+                  </li>
+                  
+                  <li><a>Views of the Diary</a>
+                     <ul>
+                        <li><a>By Diary Entry</a></li>
+                        <li><a>By MS Page</a></li>
+                        <li><a>Facsimile/Text</a></li>
+                     </ul>
+                  </li>
+                  
+                  <li><a href="default.cfm">About the Edition</a>
+                     <ul>
+                        <li><a href="default.cfm">About the Edition</a></li>
+                        <li><a href="LCSmithMarkup.cfm">Markup Guidelines</a></li>
+                        <li><a href="LCSmithHands.cfm">Guide to Smith's Hand</a></li>
+                        <li><a href="LCSmithAcknowledgements.cfm">Acknowledgements</a></li>
+                        <li><a href="LCSmithAboutEditors.cfm">About the Editors</a></li>
+                        <li><a href="LCSmith-ODD-RNC-XML-XSL.zip">Download Source Files</a></li>
+                        <li><a href="LCSmith_ZoomIndex.cfm">Images of the MS Pages</a></li> 
+                        <li><a href="LCSmithMaps.cfm">Map</a></li>
+                     </ul>
+                  </li>
+               </ul>
+            </div>
+            <script>
+               $( "#menu" ).menu({ position: { my: "left top", at: "right-70 top+32" } });
+            </script>
+            
    <xsl:element name="div">
    <xsl:attribute name="id">maintext</xsl:attribute>
    <!-- Order and apply templates for the sections of the header you wish to include. -->
@@ -79,7 +128,7 @@
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:editorialDecl"/>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:encodingDesc/tei:refsDecl"/>
             <hr/>
-            <h2 id="WorksCited">List of Works Cited</h2>
+            <h2 id="worksCited">List of Works Cited</h2>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl"/>
             <hr/>
@@ -197,7 +246,7 @@
    </xsl:template>
    
    <xsl:template match="tei:listPerson[@type='mentioned']">
-      <h3 id="PeopleMentioned">List of People Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="peopleMentioned">List of People Mentioned in Lucius Smith's Diary</h3>
       <xsl:for-each select="tei:person">
          <xsl:sort select="tei:persName[1]"/>
          <p>
@@ -212,7 +261,7 @@
    </xsl:template>
    
    <xsl:template match="tei:listOrg">
-      <h3 id="OrganizationsMentioned">List of Organizations Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="organizationsMentioned">List of Organizations Mentioned in Lucius Smith's Diary</h3>
       <xsl:for-each select="tei:org">
          <xsl:sort select="tei:orgName[1]"/>
          <p>
@@ -225,7 +274,7 @@
    <xsl:template match="tei:listPerson[@type='editors']"/>
    
    <xsl:template match="tei:listPlace">
-      <h3 id="PlacesMentioned">List of Places Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="placesMentioned">List of Places Mentioned in Lucius Smith's Diary</h3>
       <xsl:for-each select="tei:place">
          <xsl:sort select="tei:geogName"/>
          <xsl:sort select="tei:placeName[1]"/>
