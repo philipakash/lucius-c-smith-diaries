@@ -73,20 +73,20 @@
                      <ul>
                         <li><a href="#introduction">Introduction</a>
                            <ul>
-                              <li><a href="#family">Family Dynamics</a></li>
-                              <li><a href="#milling">Mill Operations</a></li>
-                              <li><a href="#sorghum">Sorghum Farming</a></li>
-                              <li><a href="#civilWar">Civil War and Civic Life</a></li>
-                              <li><a href="#borders">Borderlands/Hinterlands</a></li>
+                              <li><a href="./LCSmithEdintro.html#family">Family Dynamics</a></li>
+                              <li><a href="./LCSmithEdintro.html#milling">Mill Operations</a></li>
+                              <li><a href="./LCSmithEdintro.html#sorghum">Sorghum Farming</a></li>
+                              <li><a href="./LCSmithEdintro.html#civilWar">Civil War and Civic Life</a></li>
+                              <li><a href="./LCSmithEdintro.html#borders">Borderlands/Hinterlands</a></li>
                            </ul>
                         </li>
-                        <li><a href="#source" title="Diplomatic View of the Smith Diaries">The Source Document</a></li>
-                        <li><a href="#edition" title="Side-by-side view of page images and diplomatic transcription">The Electronic Edition</a></li>	
-                        <li><a href="#peopleMentioned">People Mentioned</a></li>
-                        <li><a href="#placesMentioned">Places Mentioned</a></li>
-                        <li><a href="#organizationsMentioned">Organizations Mentioned</a></li>
-                        <li><a href="#worksCited">Works Cited</a></li>
-                        <li><a href="#view">About the Introduction</a></li>
+                        <li><a href="./LCSmithEdintro.html#source">The Source Document</a></li>
+                        <li><a href="./LCSmithEdintro.html#edition">The Electronic Edition</a></li>	
+                        <li><a href="./LCSmithEdintro.html#peopleMentioned">People Mentioned</a></li>
+                        <li><a href="./LCSmithEdintro.html#placesMentioned">Places Mentioned</a></li>
+                        <li><a href="./LCSmithEdintro.html#organizationsMentioned">Organizations Mentioned</a></li>
+                        <li><a href="./LCSmithEdintro.html#worksCited">Works Cited</a></li>
+                        <li><a href="./LCSmithEdintro.html#view">About the Introduction</a></li>
                      </ul>
                   </li>
                   
