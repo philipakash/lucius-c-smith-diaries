@@ -342,7 +342,10 @@
       <br/><xsl:apply-templates/>
    </xsl:template>   
    <xsl:template match="tei:p[@rend='h3']">
-      <h3><xsl:apply-templates/></h3>
+      <xsl:element name="h3">
+         <xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute>
+         <xsl:apply-templates/>
+      </xsl:element>
    </xsl:template>
    <xsl:template match="//tei:p[not(@xml:id='CreativeCommons') and not(@rend='h3')]">
       <p>

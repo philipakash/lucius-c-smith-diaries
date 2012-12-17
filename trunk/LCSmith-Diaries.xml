@@ -221,7 +221,7 @@
                         speeches and sermons. In sum, as we discuss in more detail below, Smith
                         provides an eye-level view of diverse aspects of rural life and work in Ohio
                         during the Civil War.</p>
-                     <p rend="h3">
+                     <p rend="h3" xml:id="family">
                         Mid-nineteenth-century Family Dynamics   
                      </p>
                      <p>In 1862, when Lucius Clark Smith penned this diary, he would have been a young man roughly 27 years of age.  Modern observers are 
@@ -269,7 +269,7 @@
                         a time of declining land availability.  Whatever the case, it is clear that work done both on the farm and on Lucius’ mill operations were both 
                         family affairs.  
                      </p>
-                     <p rend="h3">
+                     <p rend="h3" xml:id="milling">
                         Milling and Mill Operations   
                      </p>
                      <!-- I want to come back and revise this section, but I'm putting this draft in as a placeholder -->
@@ -308,7 +308,7 @@
                         It is worth noting, however, that even with this new, more advanced mill, Smith had enough Cane supply in the 
                         Autumn of 1862 that he continued using both mills simultaneously to keep up with the demand for his services.</p>
                         
-                     <p rend="h3">
+                     <p rend="h3" xml:id="sorghum">
                         Sorghum and the Production of Molasses in Nineteenth Century Ohio
                         <lb/>
                      </p>
@@ -368,7 +368,7 @@
                         publicity and sales campaigns around the sorghum molasses industry in 1860s Ohio. </p>
                      
                      
-                     <p rend="h3">
+                     <p rend="h3" xml:id="civilWar">
                         The Civil War and Civic Life   
                      </p>
                      <p><hi rend="bold">The State of the Draft in Ohio</hi></p>
@@ -440,7 +440,7 @@
                         Democratic citizens to mount a trenchant critique of Republican administration of the government.
                      </p>
                      
-                     <p rend="h3">
+                     <p rend="h3" xml:id="borders">
                         Borderlands and Hinterlands: Cincinnati and the Ohio River During the Civil War  
                      </p>
                      <p>
