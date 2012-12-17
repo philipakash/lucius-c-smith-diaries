@@ -37,15 +37,15 @@
                   select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
             </title>
             <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/>
-               <script src="http://code.jquery.com/jquery-1.8.3.js"/>
+            <link href="LCSmithDiariesCSS.css" rel="stylesheet" type="text/css" />
+            <script src="http://code.jquery.com/jquery-1.8.3.js"/>
                <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"/>
                
-               <style>
+               <style type="text/css">
                   .ui-menu {
                   width: 200px;
                   }
                </style>
-               <link href="LCSmithDiariesCSS.css" rel="stylesheet" type="text/css" />
                <!--FONTS-->
             <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>
             <link href='http://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'/>
