@@ -105,9 +105,9 @@
             
             <div id="navBar">
                <ul id="menu">
-                  <li><a href="#introduction">Editorial Introduction</a>
+                  <li><a href="./LCSMithEdintro.html">Editorial Introduction</a>
                      <ul>
-                        <li><a href="#introduction">Introduction</a>
+                        <li><a href="./LCSMithEdintro.html#introduction">Introduction</a>
                            <ul>
                               <li><a href="./LCSmithEdintro.html#family">Family Dynamics</a></li>
                               <li><a href="./LCSmithEdintro.html#milling">Mill Operations</a></li>
@@ -128,9 +128,9 @@
                   
                   <li><a>Views of the Diary</a>
                      <ul>
-                        <li><a>By Diary Entry</a></li>
-                        <li><a>By MS Page</a></li>
-                        <li><a>Facsimile/Text</a></li>
+                        <li><a href="./LCSmith-ByEntry.html">By Diary Entry</a></li>
+                        <li><a href="./LCSmith-ByMSPage.html">By MS Page</a></li>
+                        <li><a href="./LCSmith-Combined.html">Facsimile/Text</a></li>
                      </ul>
                   </li>
                   
@@ -191,7 +191,7 @@
    
    <!-- Format the introductory notes. -->
    <xsl:template match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:notesStmt/tei:note[@type='introductory']">
-      <h2>Introduction</h2>
+      <h2 id="introduction">Introduction</h2>
       <xsl:apply-templates/>
    </xsl:template>
    
