@@ -98,17 +98,16 @@
                      </ul>
                   </li>
                   
-                  <li><a href="default.cfm">About the Edition</a>
-                     <ul>
-                        <li><a href="default.cfm">About the Edition</a></li>
-                        <li><a href="LCSmithMarkup.cfm">Markup Guidelines</a></li>
-                        <li><a href="LCSmithHands.cfm">Guide to Smith's Hand</a></li>
-                        <li><a href="LCSmithAcknowledgements.cfm">Acknowledgements</a></li>
-                        <li><a href="LCSmithAboutEditors.cfm">About the Editors</a></li>
-                        <li><a href="LCSmith-ODD-RNC-XML-XSL.zip">Download Source Files</a></li>
-                        <li><a href="LCSmith_ZoomIndex.cfm">Images of the MS Pages</a></li> 
-                        <li><a href="LCSmithMaps.cfm">Map</a></li>
-                     </ul>
+                  <li><a href="default.cfm">About the Edition</a><ul>
+                     <li><a href="./default.cfm">About the Edition</a></li>
+                     <li><a href="./LCSmithMarkup.cfm">Markup Guidelines</a></li>
+                     <li><a href="./LCSmithHands.cfm">Guide to Smith's Hand</a></li>
+                     <li><a href="./LCSmithAcknowledgements.cfm">Acknowledgements</a></li>
+                     <li><a href="./LCSmithAboutEditors.cfm">About the Editors</a></li>
+                     <li><a href="./LCSmith-ODD-RNC-XML-XSL.zip">Download Source Files</a></li>
+                     <li><a href="./LCSmith_ZoomIndex.cfm">Images of the MS Pages</a></li>
+                     <li><a href="./LCSmithMaps.cfm">Map</a></li>
+                  </ul>
                   </li>
                </ul>
             </div>
