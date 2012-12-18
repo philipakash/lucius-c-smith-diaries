@@ -105,6 +105,18 @@ margin-top: -360px;
 height: 360px;
 visibility: hidden;	
 }
+a.notePointer:before {
+display: inline-block;
+content: " ";
+margin-top: -360px;
+height: 360px;
+visibility: hidden;	
+}
+sup.noteAnchor {
+  font-size:.85em;
+  font-weight: bold;
+  color:red
+}
 .TOCLine1 {
 	display: block;
 	margin-top: 10px;
