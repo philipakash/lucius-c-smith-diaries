@@ -98,7 +98,7 @@ a:link {
 a:hover {
   font-weight: bold;
 }
-p a:before {
+p.hang15 a:before {
 display: inline-block;
 content: " ";
 margin-top: -360px;
