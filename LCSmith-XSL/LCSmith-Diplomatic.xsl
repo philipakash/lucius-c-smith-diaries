@@ -29,22 +29,35 @@
         explanatory notes are indicated by superscript colored numbers.</xsl:variable>
     <xsl:variable name="bodyRule">
         body {
-        background-position: top;
-        margin-left: 50px;
-        width: 850px;
-        margin-right: 50px;
         font-family: 'Fanwood Text',georgia, serif;
-        }                                     
+        font-size: 1em;
+        width: 1000px;
+        margin-left: 50px;
+        margin-right: 50px;
+        }
     </xsl:variable>
     <xsl:variable name="maintextRule">
         #maintext {
         position:relative;
-        top:300px;
-        width:450px;
-        margin-left:200px;
+        top:320px;
+        width:620px;
+        margin-left:350px;
         }
     </xsl:variable>
-    
+    <xsl:variable name="navBarRule">
+        #navBar {
+        position:fixed;
+        top:360px;
+        float : left;
+        width : 280px;
+        text-align : left;
+        left : 50px;
+        margin-top:0px;
+        height:600px;
+        background-color: rgba(255, 255, 255, 1);
+        z-index:1;
+        }
+    </xsl:variable>    
     
     <!-- Include common style sheet for Smith diaries. -->
     
@@ -53,7 +66,6 @@
     <!-- Define templates required for the diplomatic view. -->
     
     <xsl:template match="tei:pb">
-        <hr/>
         <br/>
         <span class="pagebreak">[Page&#xA0;-&#xA0;<xsl:number count="tei:pb" format="1" level="any"/>
             &#xA0;(<a><xsl:attribute

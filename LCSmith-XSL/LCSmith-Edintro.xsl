@@ -8,6 +8,38 @@
          <xd:p></xd:p>
       </xd:desc>
    </xd:doc>
+   <xsl:variable name="bodyRule">
+      body {
+      font-family: 'Fanwood Text',georgia, serif;
+      font-size: 1em;
+      width: 1000px;
+      margin-left: 50px;
+      margin-right: 50px;
+      }
+   </xsl:variable>
+   <xsl:variable name="navBarRule">
+      #navBar {
+      position:fixed;
+      top:300px;
+      float : left;
+      width : 280px;
+      text-align : left;
+      left : 50px;
+      margin-top:0px;
+      height:600px;
+      background-color: rgba(255, 255, 255, 1);
+      z-index:1;
+      }
+   </xsl:variable>
+   <xsl:variable name="maintextRule">
+      #maintext {
+      position:relative;
+      top:280px;
+      width:620px;
+      margin-left:350px;
+      }
+   </xsl:variable>
+   
    <!-- 
    
    HTML WRAPPER: Note that this section (between the xsl:template tags) 
@@ -39,14 +71,18 @@
             <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/>
             <link href="LCSmithDiariesCSS.css" rel="stylesheet" type="text/css" />
             <script src="http://code.jquery.com/jquery-1.8.3.js"/>
-               <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"/>
+            <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"/>
                
-               <style type="text/css">
-                  .ui-menu {
-                  width: 200px;
-                  }
-               </style>
-               <!--FONTS-->
+            <style type="text/css">
+               <xsl:value-of select="$maintextRule"/>
+               <xsl:value-of select="$navBarRule"/>
+               <xsl:value-of select="$bodyRule"/>
+               .ui-menu {
+               width: 200px;
+               }
+            </style>
+            
+            <!--FONTS-->
             <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>
             <link href='http://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'/>
             
