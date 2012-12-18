@@ -326,12 +326,13 @@
       <a>
          <xsl:attribute name="name">p<xsl:value-of select="@target"></xsl:value-of>
          </xsl:attribute>
+         <xsl:attribute name="class">notePointer</xsl:attribute>
       </a>
       <a>
          <xsl:attribute name="href">#n<xsl:value-of select="@target"/></xsl:attribute>
          <xsl:attribute name="class">annotation</xsl:attribute>
          <xsl:attribute name="title"><xsl:value-of select="normalize-space(following::tei:note[1])"></xsl:value-of></xsl:attribute>
-         <sup>
+         <sup class="noteAnchor">
             <xsl:number level="any" count="tei:TEI//tei:ptr[@type='noteAnchor']"/>
             <xsl:apply-templates/>
          </sup>
