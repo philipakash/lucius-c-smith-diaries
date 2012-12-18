@@ -31,17 +31,31 @@
         body {
         font-family: 'Fanwood Text',georgia, serif;
         font-size: 1em;
+        width: 1000px;
         margin-left: 50px;
-        width: 850px;
         margin-right: 50px;
-        }                                     
+        }
+    </xsl:variable>
+    <xsl:variable name="navBarRule">
+        #navBar {
+        position:fixed;
+        top:340px;
+        float : left;
+        width : 280px;
+        text-align : left;
+        left : 50px;
+        margin-top:0px;
+        height:600px;
+        background-color: rgba(255, 255, 255, 1);
+        z-index:1;
+        }
     </xsl:variable>
     <xsl:variable name="maintextRule">
         #maintext {
         position:relative;
         top:320px;
-        width:500px;
-        margin-left:175px;
+        width:620px;
+        margin-left:350px;
         }
     </xsl:variable>
     

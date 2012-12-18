@@ -50,7 +50,10 @@
                <xsl:value-of
                   select="/tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
             </title>
-            <script src="../LCSmith-HTML-CSS/jquery-1.8.3.min.js"></script>
+            <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/>
+            <link href="LCSmithDiariesCSS.css" rel="stylesheet" type="text/css" />
+            <script src="http://code.jquery.com/jquery-1.8.3.js"/>
+            <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"/>
             <script>
                $(document).ready(function(){
                $("button").click(function(){
@@ -59,10 +62,13 @@
                });
                });
             </script>
-            <link rel="stylesheet" href="../LCSmith-HTML-CSS/LCSmith-CommonCSS.css" type="text/css"/>
             <style type="text/css">
-              <xsl:value-of select="$bodyRule"/>              
                <xsl:value-of select="$maintextRule"/>
+               <xsl:value-of select="$navBarRule"/>
+               <xsl:value-of select="$bodyRule"/>
+               .ui-menu {
+               width: 200px;
+               }
             </style>
             <!--FONTS-->
             <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>
@@ -76,54 +82,68 @@
          <body>
             <!-- Build the masthead and navigation links at the top of the page -->
             <div class="masthead">
-               <div class="mastheadl">
-                  <p>
-                     <a href="LCSmithReading.html" title="Reading Text of the
-                        Smith Diaries">Reading Text</a><br/>
-                     <a href="LCSmithDiplomatic.html" title="Diplomatic View of the
-                        Smith Diaries">Diplomatic View</a><br/>
-                     <a href="LCSmithCombined.html" title="Side-by-side view of
-                        page images and diplomatic transcription">Facsimile/Text View</a><br/>
-                     <a
-                        href="http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/default.cfm"
-                        title="Background information about the project.">Project Web Site</a><br/>
-                     <a href="#view">About this Page</a>
-                  </p>
-               </div>
-               <div class="mastheadc">
-                  <img src="https://images.asc.ohio-state.edu/is/image/englishdocs/1/1b4c862c-36e6-4189-8825-d5972bedfc1e.jpg?scale=0.2&amp;rgn=0,0,120,146&amp;fmt=png" height="100" alt="Portrait of Lucius C. Clark"/>&#xA0;&#xA0;<img
-                        src="https://images.asc.ohio-state.edu/is/image/englishdocs/d/d64bea81-daaf-41cc-975b-88bdfe839567.jpg?scale=0.2&amp;rgn=200,380,250,100&amp;fmt=png"
-                        alt="Manuscript detail" name="MSDetail" id="MSDetail"/>&#xA0;&#xA0;<img src="https://images.asc.ohio-state.edu/is/image/englishdocs/0/0ca173b2-3165-4fdf-babc-895c20be69f9.jpg?scale=0.1&amp;rgn=0,0,210,150&amp;fmt=png" width="150" alt="Open book"/>
-               </div>
-               <div class="mastheadr"> 
-                  <p>
-                     <a href="LCSmithEdIntro.html" title="Editorial Introduction
-                        to the Lucius Clark Smith Diaries">Editorial Intro</a><br/>
-                     <a
-                        href="LCSmithEdIntro.html#PeopleMentioned" 
-                        title="List of people mentioned in the diaries."
-                        target="_blank">People Mentioned</a><br />
-                     <a href="LCSmithEdIntro.html#PlacesMentioned"
-                        title="List of places mentioned in the diaries.">Places Mentioned</a><br />
-                     <a href="LCSmithEdIntro.html#WorksCited" 
-                        title="List of works cited in explanatory annotations and editorial introduction.">Works Cited</a>
-                  </p>
-               </div>
-               <div style="clear:both;"/><br/>
-               <hr/>
-               <p align="center">
-                  <span class="ProjectTitle">
-                     <xsl:apply-templates
-                        select="/tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
-                  </span>
-               </p>
+               <div id="display1"> <img src="images/LCSmith-Daguerreotype.jpg" height="120" title="Lucius Clark Smith, 1858 (Age 23)"/> </div>
+               <div id="display2"> <img src="images/ArchibaldSmithHouse.jpg" height="120" title="Smith Homestead"/> </div>
+               <div id="display3"> <img src="images/Archibald-MaryAnnSmith.jpg" height="120" title="Lucius Smith's parents, Archibald and MaryAnn"/> </div>
+               <div id="display4"> <img src="images/Horse-Power-CaneMill-1857.jpg" height="120" title="A sorghum mill"/> </div>
+               <div id="display5"><img src="images/WarMeeting-18620815.jpg" height="120" title="Newark Advocate, 15 August 1862"/> </div>
+            </div>
+            <div id="titleBar">
+               <p align="center"><span class="projectTitle">Selected Entries from the Lucius Clark Smith Diaries,<br/>
+                  1 August 1862 to 31 December 1862</span></p>
                <p align="center"><cite><strong>This edition is currently in progress. Please do
                   not cite this preview until this notice is removed.</strong></cite><br/><br/>
-                  <button>Click to toggle between Smith's spelling and standardized spelling.</button>
-               </p>
+                     <button>Click to toggle between Smith's spelling and standardized spelling.</button></p>
                <hr/>
-               
             </div>
+            
+            <div id="navBar">
+               <ul id="menu">
+                  <li><a href="#introduction">Editorial Introduction</a>
+                     <ul>
+                        <li><a href="#introduction">Introduction</a>
+                           <ul>
+                              <li><a href="./LCSmithEdintro.html#family">Family Dynamics</a></li>
+                              <li><a href="./LCSmithEdintro.html#milling">Mill Operations</a></li>
+                              <li><a href="./LCSmithEdintro.html#sorghum">Sorghum Farming</a></li>
+                              <li><a href="./LCSmithEdintro.html#civilWar">Civil War and Civic Life</a></li>
+                              <li><a href="./LCSmithEdintro.html#borders">Borderlands/Hinterlands</a></li>
+                           </ul>
+                        </li>
+                        <li><a href="./LCSmithEdintro.html#source">The Source Document</a></li>
+                        <li><a href="./LCSmithEdintro.html#edition">The Electronic Edition</a></li>	
+                        <li><a href="./LCSmithEdintro.html#peopleMentioned">People Mentioned</a></li>
+                        <li><a href="./LCSmithEdintro.html#placesMentioned">Places Mentioned</a></li>
+                        <li><a href="./LCSmithEdintro.html#organizationsMentioned">Organizations Mentioned</a></li>
+                        <li><a href="./LCSmithEdintro.html#worksCited">Works Cited</a></li>
+                        <li><a href="./LCSmithEdintro.html#view">About the Introduction</a></li>
+                     </ul>
+                  </li>
+                  
+                  <li><a>Views of the Diary</a>
+                     <ul>
+                        <li><a href="./LCSmith-ByEntry.html">By Diary Entry</a></li>
+                        <li><a href="./LCSmith-ByMSPage.html">By MS Page</a></li>
+                        <li><a href="./LCSmith-Combined.html">Facsimile/Text</a></li>
+                     </ul>
+                  </li>
+                  
+                  <li><a href="default.cfm">About the Edition</a><ul>
+                     <li><a href="./default.cfm">About the Edition</a></li>
+                     <li><a href="./LCSmithMarkup.cfm">Markup Guidelines</a></li>
+                     <li><a href="./LCSmithHands.cfm">Guide to Smith's Hand</a></li>
+                     <li><a href="./LCSmithAcknowledgements.cfm">Acknowledgements</a></li>
+                     <li><a href="./LCSmithAboutEditors.cfm">About the Editors</a></li>
+                     <li><a href="./LCSmith-ODD-RNC-XML-XSL.zip">Download Source Files</a></li>
+                     <li><a href="./LCSmith_ZoomIndex.cfm">Images of the MS Pages</a></li>
+                     <li><a href="./LCSmithMaps.cfm">Map</a></li>
+                  </ul>
+                  </li>
+               </ul>
+            </div>
+            <script>
+               $( "#menu" ).menu({ position: { my: "left top", at: "right-70 top+32" } });
+            </script>
             
             <!-- Apply templates to the tei:body. -->
             <xsl:element name="div">
