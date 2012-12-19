@@ -29,6 +29,11 @@
 	height: 150px;
 	text-align: center;
 }
+.masthead img {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10 px;
+  border-radius: 10px;	
+}
 #titleBar {
    vertical-align: top;
    width:1005px;
