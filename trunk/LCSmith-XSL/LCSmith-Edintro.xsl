@@ -105,7 +105,7 @@
             
             <div id="navBar">
                <ul id="menu">
-                  <li><a href="./LCSMithEdintro.html">Editorial Introduction</a>
+                  <li><a href="./LCSMithEdintro.html#introduction">Editorial Introduction</a>
                      <ul>
                         <li><a href="./LCSMithEdintro.html#introduction">Introduction</a>
                            <ul>
