@@ -43,7 +43,7 @@
         width:610px;
         margin-left:350px;
         padding:5px;
-        background-color: rgba(240,240,240, 0.5);
+        background-color: rgba(209,209,209, 0.5);
         -webkit-border-radius: 10px;
         -moz-border-radius: 10 px;
         border-radius: 10px;	
