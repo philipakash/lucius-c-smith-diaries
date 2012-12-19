@@ -99,9 +99,9 @@
             
             <div id="navBar">
                <ul id="menu">
-                  <li><a href="#introduction">Editorial Introduction</a>
+                  <li><a href="./LCSmithEdintro.html#introduction">Editorial Introduction</a>
                      <ul>
-                        <li><a href="#introduction">Introduction</a>
+                        <li><a href="./LCSmithEdintro.html#introduction">Introduction</a>
                            <ul>
                               <li><a href="./LCSmithEdintro.html#family">Family Dynamics</a></li>
                               <li><a href="./LCSmithEdintro.html#milling">Mill Operations</a></li>
