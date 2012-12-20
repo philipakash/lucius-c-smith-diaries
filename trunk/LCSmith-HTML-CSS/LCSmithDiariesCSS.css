@@ -187,6 +187,13 @@ sup.noteAnchor {
 
 p.listing { margin-top: 10px;  } 
                                         
+p.listing a:before {
+	display: inline-block;
+    content: " ";
+    margin-top: -300px;
+    height: 300px;
+    visibility: hidden;
+}
 hr { color: #888833; 
        clear: both;
 }                     
@@ -208,11 +215,13 @@ table {
 	line-height: normal;
 	border-width:1px;
 	border-style:solid;
+	border-color: #666; 
 	border-collapse:collapse;
 }
 td {
 	border-width:1px;
 	border-style:solid;
+	border-color: #666; 
 	padding:4px;
 }
 .smalltext {
