@@ -181,13 +181,11 @@
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listEvent"></xsl:apply-templates>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:revisionDesc"/>
             <hr/>
-            <p>
-               <strong>About this Editorial Introduction</strong>
-            </p>
+            <h2>About this Editorial Introduction</h2>
             <p><a name="view"/>Text on this page is derived from the
                edition's XML source document, LCSmith-Diaries.xml.</p>
             <hr/>
-            <p>&#x2192; <a href="LCSmithReading.html">Link to the text of the journal</a>.
+            <p>&#x2192; <a href="LCSmith-ByEntry.html">Link to the text of the journal</a>.
             </p>
 </xsl:element>
          </body>
